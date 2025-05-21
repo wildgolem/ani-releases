@@ -1,6 +1,6 @@
 const { api } = require('./api');
 const { load, save } = require('./logger');
-const { sleep, send } = require('./alerts');
+const { send } = require('./alerts');
 
 async function main() {
   const data = await api();
@@ -11,7 +11,7 @@ async function main() {
     if (!titles.has(anime.title)) {
       await send(anime);
       log.push(anime);
-      await sleep(500);
+      await new Promise(resolve => setTimeout(resolve, 500));
     }
   }
 

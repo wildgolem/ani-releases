@@ -2,13 +2,9 @@ const axios = require('axios');
 
 const WEBHOOK_URL = process.env.WEBHOOK_ANIME;
 
-function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
 async function send(anime) {
   const embed = {
-    title: anime.title,
+    title: `${anime.title} - ${anime.episode}`,
     url: anime.link,
     thumbnail: {
       url: anime.image,
@@ -25,4 +21,4 @@ async function send(anime) {
   }
 }
 
-module.exports = { sleep, send };
+module.exports = { send };

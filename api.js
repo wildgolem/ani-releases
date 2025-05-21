@@ -7,27 +7,38 @@ async function api() {
 
   const page = await browser.newPage();
 
-  await page.goto('https://hikari.gg/new-episodes', {
-    waitUntil: 'networkidle0',
+  const results = [];
+
+  page.on('response', async (response) => {
+    const url = response.url();
+    if (url.includes('/api?m=airing&page=1')) {
+      try {
+        const json = await response.json();
+        for (const item of json.data) {
+          results.push({
+            title: item.anime_title,
+            episode: item.episode,
+            image: item.snapshot,
+            link: `https://animepahe.ru/play/${item.anime_session}/${item.session}`,
+            disc: item.disc,
+            completed: item.completed,
+          });
+        }
+      } catch (e) {
+        console.error('Failed to parse JSON:', e);
+      }
+    }
   });
 
-  const animes = await page.evaluate(() => {
-    const container = document.querySelector(
-      '.grid.grid-cols-2.sm\\:grid-cols-3.md\\:grid-cols-4.lg\\:grid-cols-5.gap-4'
-    );
-    if (!container) return [];
-
-    return Array.from(container.querySelectorAll('a')).map((anime) => {
-      const img = anime.querySelector('img');
-      const title = img?.alt || 'Untitled';
-      const image = img?.src || '';
-      const link = anime.href;
-      return { title, link, image };
-    });
+  await page.goto('https://animepahe.ru', {
+    waitUntil: 'networkidle2',
   });
+
+  await new Promise(resolve => setTimeout(resolve, 2500));
 
   await browser.close();
-  return animes;
+
+  return results;
 }
 
 module.exports = { api };

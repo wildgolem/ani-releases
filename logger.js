@@ -14,7 +14,7 @@ function load() {
 
 function save(log) {
   if (log.length >= 50) {
-    log = log.slice(-15);
+    log = log.slice(-12);
   }
   fs.writeFileSync(FILE, JSON.stringify(log, null, 2));
 }
