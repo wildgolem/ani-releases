@@ -1,0 +1,26 @@
+name: run node.js
+
+on:
+  schedule:
+    - cron: '25 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout repo content
+        uses: actions/checkout@v3
+
+      - name: Set up Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Execute Javascript
+        env:
+          WEBHOOK_ANIME: ${{ secrets.WEBHOOK_ANIME }}
+        run: node index.js
