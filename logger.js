@@ -13,14 +13,10 @@ function load() {
 }
 
 function save(log) {
-  fs.writeFileSync(FILE, JSON.stringify(log, null, 2));
-}
-
-function del(log) {
   if (log.length >= 50) {
     log = log.slice(-15);
   }
-  return log;
+  fs.writeFileSync(FILE, JSON.stringify(log, null, 2));
 }
 
-module.exports = { load, save, del };
+module.exports = { load, save };
