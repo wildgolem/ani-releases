@@ -3,6 +3,7 @@ name: run node.js
 on:
   schedule:
     - cron: '25 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
