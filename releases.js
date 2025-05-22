@@ -73,7 +73,6 @@ async function send() {
     const id_path = path.resolve(__dirname, 'id.txt');
 
     if (!(await has_new_releases())) {
-      console.log('No new releases. Skipping update.');
       return;
     }
 
