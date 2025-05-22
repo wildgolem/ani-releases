@@ -2,8 +2,12 @@ name: run node.js
 
 on:
   schedule:
+<<<<<<< HEAD
     - cron: '25 * * * *'
   workflow_dispatch:
+=======
+    - cron: '*/30 * * * *'
+>>>>>>> bfc86afd2e15ea402e9449cf102c41c7658b0d5c
 
 jobs:
   build:
