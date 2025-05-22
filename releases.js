@@ -10,6 +10,23 @@ async function get_releases() {
   return releases.slice(0, 10).reverse();
 }
 
+async function has_new_releases() {
+  const filePath = path.resolve(__dirname, 'released.json');
+
+  const currentReleases = await get_releases();
+
+  let savedReleases;
+  try {
+    const fileData = await fs.readFile(filePath, 'utf-8');
+    savedReleases = JSON.parse(fileData);
+  } catch {
+    return true;
+  }
+
+  const isIdentical = JSON.stringify(currentReleases) === JSON.stringify(savedReleases);
+  return !isIdentical;
+}
+
 function create_embeds(animes) {
   return animes.map(anime => ({
     title: anime.title,
@@ -46,9 +63,19 @@ async function save_message_id(id_path, message_id) {
   await fs.writeFile(id_path, message_id, 'utf-8');
 }
 
+async function save_releases(releases) {
+  const filePath = path.resolve(__dirname, 'released.json');
+  await fs.writeFile(filePath, JSON.stringify(releases, null, 2), 'utf-8');
+}
+
 async function send() {
   try {
     const id_path = path.resolve(__dirname, 'id.txt');
+
+    if (!(await has_new_releases())) {
+      console.log('No new releases. Skipping update.');
+      return;
+    }
 
     const releases = await get_releases();
     const embeds = create_embeds(releases);
@@ -58,6 +85,7 @@ async function send() {
 
     const new_message_id = await send_new_message(embeds);
     await save_message_id(id_path, new_message_id);
+    await save_releases(releases);
   } catch (err) {
     console.error('Error updating embeds:', err.message);
   }
