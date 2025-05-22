@@ -20,7 +20,6 @@ async function api() {
             episode: item.episode,
             image: item.snapshot,
             link: `https://animepahe.ru/play/${item.anime_session}/${item.session}`,
-            disc: item.disc,
             completed: item.completed,
           });
         }

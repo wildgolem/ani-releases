@@ -58,8 +58,6 @@ async function send() {
 
     const new_message_id = await send_new_message(embeds);
     await save_message_id(id_path, new_message_id);
-
-    console.log('Embeds updated successfully');
   } catch (err) {
     console.error('Error updating embeds:', err.message);
   }
