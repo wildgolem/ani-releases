@@ -1,12 +1,5 @@
 [
   {
-    "title": "Me and the Alien MuMu",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/64e1d0548c3fe3fa9bc700e7a0f40e6635fe8834d8a4d106f0db23d468622b77.jpg",
-    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/fe80a684e01974f93b5a24f217737ad0f854493a9954b0fcfe432a6737a0bacd",
-    "completed": 0
-  },
-  {
     "title": "Our Last Crusade or the Rise of a New World Season 2",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/b707bc5ec6f2f1706eb168f4642e8ca150ec94e344ccd9486b47791fbbb97297.jpg",
@@ -67,6 +60,13 @@
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/7f42e5fe545305076c6c44c94ae123029bc14207ed69c9ceaf0684faa779a77d.jpg",
     "link": "https://animepahe.ru/play/c5ce80f2-1320-8a53-d6c6-c99b8ffc28aa/a4ffd3d57c40ed95231c6548e2981dda034b4d0c988b57ce21d448405a7340f0",
+    "completed": 0
+  },
+  {
+    "title": "Teogonia",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/78f4e191db210f60182c1553be1ea69d503c6d97d7deff84f5bf634b70f82b9e.jpg",
+    "link": "https://animepahe.ru/play/6520ee5f-5081-c81e-b2e5-53b20b81de62/08e231f7c88a24bcb2b4bd87718c027547fea4abdbfad6bc221ff9587eddb8ad",
     "completed": 0
   }
 ]
