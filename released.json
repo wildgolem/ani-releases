@@ -1,12 +1,5 @@
 [
   {
-    "title": "Your Forma",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d22434bb37f34eea4f4c717dfc60440627b91c1cf88da7b1d2277cab9ba9c52c.jpg",
-    "link": "https://animepahe.ru/play/0f4cc85c-bd29-67f6-a582-bc22a9882073/d0c60505ee23a14532e90e950e9fa952c62f910ee1007d73cfe4c64303ad3141",
-    "completed": 0
-  },
-  {
     "title": "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/b88dcf285c24700e4557ada7849191663bb9f85a62603c01ef40fb0468b948e2.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/8e672951aa810fe6f24893f084868047c667b36cee6eaf108c0470f23b93f5df.jpg",
     "link": "https://animepahe.ru/play/cbfc665c-fa2c-43b1-3827-84f9e7df10bd/0927b2eff919693cf90c7415a82563d88647dfed62c4f2bef3d2cd5870d57d91",
     "completed": 0
+  },
+  {
+    "title": "The Super Cube",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/21c2a3a74e96921f7fede491c967fe3f39f6d121d1b9e9174deaf852cfa7340e.jpg",
+    "link": "https://animepahe.ru/play/8e40534e-2aab-0f0c-f732-1201c81058f2/37aafdbd17416a832f5b25f46a665c4fade7582331bb2023fbaa032b988ac039",
+    "completed": 1
   }
 ]
