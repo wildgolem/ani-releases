@@ -1,12 +1,5 @@
 [
   {
-    "title": "A Ninja and an Assassin Under One Roof",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f61f9d09ba291c4418f4b73a39c30d43f2efbc54a989f4e78caf085074af4911.jpg",
-    "link": "https://animepahe.ru/play/020776df-97bf-ebc0-66e5-2398b96520bc/d6a70b08800a6e7722ea062eecca7e94675dcb883508822c67b572ea6a5abdae",
-    "completed": 0
-  },
-  {
     "title": "The Brilliant Healer's New Life in the Shadows",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/2f01e21a8497221c85435e52666d75423506047784e034417ac635970a4110ec.jpg",
@@ -67,6 +60,13 @@
     "episode": 43,
     "image": "https://i.animepahe.ru/uploads/snapshots/13aea5f8d38a1961a5874016f93349e65267053498b0f4492af8bfe760a505f6.jpg",
     "link": "https://animepahe.ru/play/44302c02-ac39-d56b-1bf4-a7e9628f9c8d/e0dad62b799c1240c6d0ebe658a4ae549ea98460dd8ac083535dffed06074ba9",
+    "completed": 0
+  },
+  {
+    "title": "Fire Force Season 3",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ccce27d727fd69b55bb12354a35b42a5bfd5613b9468235bbc89ab05b1557134.jpg",
+    "link": "https://animepahe.ru/play/ba8c192e-a01d-8fd1-91fa-5b862f95784d/f3818a6cedc002fe369d13505d72b51faf77acbedfe16a3ee47ca773da11b7f5",
     "completed": 0
   }
 ]
