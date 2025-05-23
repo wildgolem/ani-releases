@@ -1,12 +1,5 @@
 [
   {
-    "title": "Our Last Crusade or the Rise of a New World Season 2",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b707bc5ec6f2f1706eb168f4642e8ca150ec94e344ccd9486b47791fbbb97297.jpg",
-    "link": "https://animepahe.ru/play/e1a2aee9-2346-282c-d6c0-b85e7c5bb925/5319513d9ca90f90fa9dcd523c7a7d35d4dab40dbaed589481f3cbf1c91c498d",
-    "completed": 0
-  },
-  {
     "title": "A Ninja and an Assassin Under One Roof",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/f61f9d09ba291c4418f4b73a39c30d43f2efbc54a989f4e78caf085074af4911.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/78f4e191db210f60182c1553be1ea69d503c6d97d7deff84f5bf634b70f82b9e.jpg",
     "link": "https://animepahe.ru/play/6520ee5f-5081-c81e-b2e5-53b20b81de62/08e231f7c88a24bcb2b4bd87718c027547fea4abdbfad6bc221ff9587eddb8ad",
+    "completed": 0
+  },
+  {
+    "title": "The Apothecary Diaries Season 2",
+    "episode": 43,
+    "image": "https://i.animepahe.ru/uploads/snapshots/13aea5f8d38a1961a5874016f93349e65267053498b0f4492af8bfe760a505f6.jpg",
+    "link": "https://animepahe.ru/play/44302c02-ac39-d56b-1bf4-a7e9628f9c8d/e0dad62b799c1240c6d0ebe658a4ae549ea98460dd8ac083535dffed06074ba9",
     "completed": 0
   }
 ]
