@@ -1,19 +1,5 @@
 [
   {
-    "title": "The Super Cube",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/21c2a3a74e96921f7fede491c967fe3f39f6d121d1b9e9174deaf852cfa7340e.jpg",
-    "link": "https://animepahe.ru/play/8e40534e-2aab-0f0c-f732-1201c81058f2/37aafdbd17416a832f5b25f46a665c4fade7582331bb2023fbaa032b988ac039",
-    "completed": 1
-  },
-  {
-    "title": "Can a Boy-Girl Friendship Survive?",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a4d38729c211306a523ba1b6764dd7feac8b063169cbaa368b501a00291cb335.jpg",
-    "link": "https://animepahe.ru/play/aa5ffbb8-b35a-12d4-2e50-84a23f63eb02/2358935fbae99e434721be51ed966cac4e90ebde22dc6222093647b12488bb8b",
-    "completed": 0
-  },
-  {
     "title": "Bye Bye, Earth Season 2",
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/7f42e5fe545305076c6c44c94ae123029bc14207ed69c9ceaf0684faa779a77d.jpg",
@@ -67,6 +53,20 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/3ff7adb417d290667669c510e89e8c746364b12e1ea5e07bad2c15666571dd3a.jpg",
     "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/669ecdb9486b2131098108efca91fb2023e2eb1458fa2af353d67ceea6098c52",
+    "completed": 0
+  },
+  {
+    "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b67021bca166a5c87dd63835cc3ae34998a4a5555dac29c45947be60987dbe1a.jpg",
+    "link": "https://animepahe.ru/play/5f565bf2-d17e-07ee-fb2c-037e66a5c524/013fe9c7387aa69a828787766a36699e51b31dc5d28f13767b2f7d442f10e765",
+    "completed": 0
+  },
+  {
+    "title": "Anne Shirley",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e3144aa5419e324102327eec8334742f26b41e7a13893e63d0258688726a8fff.jpg",
+    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/27eda49114cd742f206727bdaf0a0a0bef291922ba7930c7dca415abe166b7ae",
     "completed": 0
   }
 ]
