@@ -1,12 +1,5 @@
 [
   {
-    "title": "Wind Breaker Season 2",
-    "episode": 21,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b2820e56cb846cbb892be629ddcd2aa2c2ee24007410b23b49c810a66025f97e.jpg",
-    "link": "https://animepahe.ru/play/515dd441-386a-2ba3-6f79-e6e1e9c09802/82ceb473a8e58d3eae3bd9264b58bbc1288ca8b140665d1ead32dab9751286f1",
-    "completed": 0
-  },
-  {
     "title": "Makina-san's a Love Bot?!",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/8e672951aa810fe6f24893f084868047c667b36cee6eaf108c0470f23b93f5df.jpg",
@@ -67,6 +60,13 @@
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/56f29bf13393e4b8e471988983cdae9ed9fac1e34fad5b4020dd971949dec7f7.jpg",
     "link": "https://animepahe.ru/play/8638b3f9-7333-55d7-11aa-ee4fe1d047a0/842a818cedf6280ec9e712907fa2050086e76e27083890e40b565c50ec8f6185",
+    "completed": 0
+  },
+  {
+    "title": "The Dinner Table Detective",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/30afa181ecf0c4087d83ff9c5f52f9f052a10f6067926288cc81970d4a76ddcb.jpg",
+    "link": "https://animepahe.ru/play/d893f96b-4396-8c95-bd66-32219070071f/c085bf674300172cb81c9dfdab708262da51e4b38c7a539db4b0b3c10ea997c3",
     "completed": 0
   }
 ]
