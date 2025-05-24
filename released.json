@@ -1,12 +1,5 @@
 [
   {
-    "title": "Makina-san's a Love Bot?!",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/8e672951aa810fe6f24893f084868047c667b36cee6eaf108c0470f23b93f5df.jpg",
-    "link": "https://animepahe.ru/play/cbfc665c-fa2c-43b1-3827-84f9e7df10bd/0927b2eff919693cf90c7415a82563d88647dfed62c4f2bef3d2cd5870d57d91",
-    "completed": 0
-  },
-  {
     "title": "The Super Cube",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/21c2a3a74e96921f7fede491c967fe3f39f6d121d1b9e9174deaf852cfa7340e.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/30afa181ecf0c4087d83ff9c5f52f9f052a10f6067926288cc81970d4a76ddcb.jpg",
     "link": "https://animepahe.ru/play/d893f96b-4396-8c95-bd66-32219070071f/c085bf674300172cb81c9dfdab708262da51e4b38c7a539db4b0b3c10ea997c3",
+    "completed": 0
+  },
+  {
+    "title": "Yaiba: Samurai Legend",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3ff7adb417d290667669c510e89e8c746364b12e1ea5e07bad2c15666571dd3a.jpg",
+    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/669ecdb9486b2131098108efca91fb2023e2eb1458fa2af353d67ceea6098c52",
     "completed": 0
   }
 ]
