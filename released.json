@@ -1,19 +1,5 @@
 [
   {
-    "title": "Guilty Gear Strive: Dual Rulers",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/486391338b3e43bf6eeb66122716b7d5a8cc2ba41068ea67201c00dc4bc54bad.jpg",
-    "link": "https://animepahe.ru/play/8d08adef-8615-35ca-99b7-a0d836f83c8d/97a164cf0dafdc5f7091d4737a9ab59f53bc8bf42519f8578f4ddf8801c6ec2e",
-    "completed": 1
-  },
-  {
-    "title": "From Old Country Bumpkin to Master Swordsman",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2a61f8ec2f55d8f59b3eb8c194d4b86cf631e43a85ef795c71060f4d48a5fa94.jpg",
-    "link": "https://animepahe.ru/play/43e7d8e6-89ee-d3f3-ff48-b1cd97829338/beb3dd61b6f77f93b07447543030cfeaceceb7b2b9156ba5fc80213e99488e46",
-    "completed": 0
-  },
-  {
     "title": "Kowloon Generic Romance",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/9a1d51320fbbfb95d70c3f910c7f8f806310b492572310edf378980cac564c99.jpg",
@@ -67,6 +53,20 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/2b53bf58e87e3f05a23a6d769afa2ef1dd2ac37f18363209b7123a71a914f12b.jpg",
     "link": "https://animepahe.ru/play/83837af5-73ae-503d-4362-f5389e634697/34b698c36e50c45d572e334c783e6142be8d56193c57dcc11858a2fb1f1d076d",
+    "completed": 0
+  },
+  {
+    "title": "To Be Hero X",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a91f11b75ffb8acd656db9675a534e5ca580568e2c5b701c2916807ff5842c03.jpg",
+    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/97453082d49a25458ab87f7757dad549f67bfca3a5c4960fc9997036d93beae3",
+    "completed": 0
+  },
+  {
+    "title": "You and Idol Precure♪",
+    "episode": 16,
+    "image": "https://i.animepahe.ru/uploads/snapshots/99943bc711b8a4469036b01cc782941527d4ae9b8d72cb2d190be135dfb713d7.jpg",
+    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/27716d104e48f7191207cf537593869150132f5286f15568899efe0a991288ab",
     "completed": 0
   }
 ]
