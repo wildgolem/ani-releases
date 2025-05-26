@@ -1,26 +1,5 @@
 [
   {
-    "title": "Uma Musume: Cinderella Gray",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e113579214ce04a28496ee7ec7a493a2b2aa7597d7866786b4691661e3c1306c.jpg",
-    "link": "https://animepahe.ru/play/b35e44f1-70cd-9362-593d-4b62705f3151/3656d50068e0c1ee03b98add6e5833636662dbd014b8505c43aff91aa289ec90",
-    "completed": 0
-  },
-  {
-    "title": "The Unaware Atelier Meister",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1f633a8a88c00d971ff2b339f4f7ffe79fa304cb63396ff6b68bbd8a41e965ec.jpg",
-    "link": "https://animepahe.ru/play/b212e276-d157-53ba-e5d6-f8b18bfe4ef4/9609603d22dc6795a1ed805c66507f8cadf44c937031e6df81b9d7113bf17c4f",
-    "completed": 0
-  },
-  {
-    "title": "The Gorilla God's Go-To Girl",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f9accdcb6bca6c44a360d650b6dd092a827f461acb1918ca658d2d4502e8b35c.jpg",
-    "link": "https://animepahe.ru/play/a89659be-3c75-1c88-c21f-9d6a2990734e/b5dd71bbd92b70760372943289c33c335c9c24730085e0b12e9f806d66994b36",
-    "completed": 0
-  },
-  {
     "title": "Go! Go! Loser Ranger! Season 2",
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/ed6769588976ad4459a85b0ff0ca4dcd4f1061e3c60e459fab4fc3fd261c815b.jpg",
@@ -67,6 +46,27 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/386598f81c1e0f5ff81ba306f3684b5322d227bc7b4462e26242791384fe6fc8.jpg",
     "link": "https://animepahe.ru/play/74a7b937-6d52-a599-4b6f-b74c8ff664ab/96b10cc206fbbaa5eda32ade0ef00a9db79237301c42e88b17493a97a548515b",
+    "completed": 0
+  },
+  {
+    "title": "Summer Pockets",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/928613a866ca7d0df0c99862bf78899e16f6aecc6f529045c9ddab02e148e059.jpg",
+    "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/ba7249408f2bcd836b341fa16433f3eb3f2c737082d9bf6730e99cf6eb100c0b",
+    "completed": 0
+  },
+  {
+    "title": "Sword of the Demon Hunter: Kijin Gentosho",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/cdb9d067e296922fbf8bbfbcf55e812eaa6f0df96b3437d295bc5d9c0543ca01.jpg",
+    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/3d26e0f632cb3c1f99406ef494ad10ce6ecbf7bac2ab6f86015db75ab687e128",
+    "completed": 0
+  },
+  {
+    "title": "My Hero Academia: Vigilantes",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/af96afff0b9961853b36e345780909b72412fbfc05b73dcfa7ecdef0f817e7ca.jpg",
+    "link": "https://animepahe.ru/play/8b11e7f8-1007-ba31-bd47-5ac966d549f6/2506bb202affe77aba88e3954ec7fcb0cf5e54877811fec0d633cd84b84c1b24",
     "completed": 0
   }
 ]
