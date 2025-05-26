@@ -1,12 +1,5 @@
 [
   {
-    "title": "Go! Go! Loser Ranger! Season 2",
-    "episode": 19,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ed6769588976ad4459a85b0ff0ca4dcd4f1061e3c60e459fab4fc3fd261c815b.jpg",
-    "link": "https://animepahe.ru/play/e0ed6ecb-5dbc-e5fd-c665-fb10fb6bca49/bc5dcd2a1b984f982056f9e8be280d3d80e336000341241663f342825d72f0ad",
-    "completed": 0
-  },
-  {
     "title": "Maebashi Witches",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/775b15d3fbe578ef06190115e04cf9eeeff8f6fb86271428041654e5876554c7.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/af96afff0b9961853b36e345780909b72412fbfc05b73dcfa7ecdef0f817e7ca.jpg",
     "link": "https://animepahe.ru/play/8b11e7f8-1007-ba31-bd47-5ac966d549f6/2506bb202affe77aba88e3954ec7fcb0cf5e54877811fec0d633cd84b84c1b24",
+    "completed": 0
+  },
+  {
+    "title": "#Compass2.0: Animation Project",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0b5d660c215c6f46cffea8e285c03318c350b478440cdca4eaf738a95ae579e8.jpg",
+    "link": "https://animepahe.ru/play/3f4e86ac-1a0a-3b30-2f93-d5210d1c455f/2fb083ee0242ccbed69e9600618fd42b5215a2e7506b55611af19d597976e36c",
     "completed": 0
   }
 ]
