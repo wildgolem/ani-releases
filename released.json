@@ -1,12 +1,5 @@
 [
   {
-    "title": "Witch Watch",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/0e4563e6ade3cb82478f2d446f18f3d7d2c793e4974ad5f75f0b001f8b1635b7.jpg",
-    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/dc8c8a1f6aabcd5c16cff99cc21575356df446bfaf208903a56d7900131324bb",
-    "completed": 0
-  },
-  {
     "title": "Shirohiyo - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/3123a4316deb80f9eb9f8527a613ae0dfc7507edb1e47a975c43af5487b9ab89.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/14ed9979464f41567081b0f011c0dc5db8c30406e6679cb36d3b6ce2a87007b7.jpg",
     "link": "https://animepahe.ru/play/0675f2a0-5d95-5998-5376-2e096bed54ce/fe7df474997e1532a6428e202bab1943900abf408d8aeb9ddc05d0d34a354a0a",
+    "completed": 0
+  },
+  {
+    "title": "Aharen-san wa Hakarenai Season 2",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4f0ad598fc6608f84190f4bd03e1851b81af49925fcf0b9b6b1e6a8342c737bf.jpg",
+    "link": "https://animepahe.ru/play/6ef5ed34-6366-534d-cd1c-65379c8bfa96/a3ea87e8abe0d35f90c3fae2bfd505a9ae64c36fb3098b2fcc6b0c6c9c70d9e3",
     "completed": 0
   }
 ]
