@@ -1,12 +1,5 @@
 [
   {
-    "title": "Maebashi Witches",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/775b15d3fbe578ef06190115e04cf9eeeff8f6fb86271428041654e5876554c7.jpg",
-    "link": "https://animepahe.ru/play/07f3bd91-9e72-94ce-8751-1f5fdbfdb8ea/6d05072a31083c38cdbefee146b18ea9bb448e5a7f902c8037157928c0f297bd",
-    "completed": 0
-  },
-  {
     "title": "One Piece",
     "episode": 1130,
     "image": "https://i.animepahe.ru/uploads/snapshots/9ccfb1cba35cc539482a9ffe5789bcaf609381decc4151894f76a7296bd6acd7.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/0b5d660c215c6f46cffea8e285c03318c350b478440cdca4eaf738a95ae579e8.jpg",
     "link": "https://animepahe.ru/play/3f4e86ac-1a0a-3b30-2f93-d5210d1c455f/2fb083ee0242ccbed69e9600618fd42b5215a2e7506b55611af19d597976e36c",
+    "completed": 0
+  },
+  {
+    "title": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5a92f3130d86048230ab1d66bb072176a358b1e625d9cb8b8bc9e7407a960993.jpg",
+    "link": "https://animepahe.ru/play/501f91f6-5ecf-920c-b735-df646375f827/07983f0f2d7df897defb993e0b020004621ab5303e67add7e767af83b710691a",
     "completed": 0
   }
 ]
