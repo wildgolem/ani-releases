@@ -1,12 +1,5 @@
 [
   {
-    "title": "Lazarus",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/14ed9979464f41567081b0f011c0dc5db8c30406e6679cb36d3b6ce2a87007b7.jpg",
-    "link": "https://animepahe.ru/play/0675f2a0-5d95-5998-5376-2e096bed54ce/fe7df474997e1532a6428e202bab1943900abf408d8aeb9ddc05d0d34a354a0a",
-    "completed": 0
-  },
-  {
     "title": "Aharen-san wa Hakarenai Season 2",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/4f0ad598fc6608f84190f4bd03e1851b81af49925fcf0b9b6b1e6a8342c737bf.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/d0b91519f5aa8f8b53dc39fe644ce89e3b0eb1703c6c7be6b78c1a1992340692.jpg",
     "link": "https://animepahe.ru/play/72a32719-7054-f3d9-447f-19ef80df327d/2cdcf601529288fc44053ce483c0648134fb081b1c74fd77690bac9b59864ffa",
+    "completed": 0
+  },
+  {
+    "title": "Mobile Suit Gundam: GQuuuuuuX",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f30c4385031c29d258526e288a5e8234ee5e14d68e69d81fcb8f7eb25844e51f.jpg",
+    "link": "https://animepahe.ru/play/f92a8c34-c4d1-29d4-275e-6786fdcf44c0/8bb6741e5a95bda09f09aeca2b30e9e243484a3b3706b39493f7cae53f0a7ebb",
     "completed": 0
   }
 ]
