@@ -1,12 +1,5 @@
 [
   {
-    "title": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c7e63a26b341ee8799c2bed4d91cc969f1ed0f581ebd0bfc9e92d7c491bb9f2d.jpg",
-    "link": "https://animepahe.ru/play/bb77d96f-d2ec-73ae-9af1-46898257aa0b/b2b56657651580b12f994c442502f550cedb35f1e83500509bba3a4543ba8e91",
-    "completed": 0
-  },
-  {
     "title": "Lazarus",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/14ed9979464f41567081b0f011c0dc5db8c30406e6679cb36d3b6ce2a87007b7.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/08699b2e3cf0184cacc4840fd13c76647f8df2073be50d9477f67530453cc979.jpg",
     "link": "https://animepahe.ru/play/80be9a0c-943d-e236-3fd1-bc2bcd628167/e1bdbab4840fe1a49a1a8e8cbe99f771fe110073b69f34fb3a35ce962a69b71d",
+    "completed": 0
+  },
+  {
+    "title": "Once Upon a Witch's Death",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d0b91519f5aa8f8b53dc39fe644ce89e3b0eb1703c6c7be6b78c1a1992340692.jpg",
+    "link": "https://animepahe.ru/play/72a32719-7054-f3d9-447f-19ef80df327d/2cdcf601529288fc44053ce483c0648134fb081b1c74fd77690bac9b59864ffa",
     "completed": 0
   }
 ]
