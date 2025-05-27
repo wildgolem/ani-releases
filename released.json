@@ -1,12 +1,5 @@
 [
   {
-    "title": "Zatsu Tabi: That's Journey",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/386598f81c1e0f5ff81ba306f3684b5322d227bc7b4462e26242791384fe6fc8.jpg",
-    "link": "https://animepahe.ru/play/74a7b937-6d52-a599-4b6f-b74c8ff664ab/96b10cc206fbbaa5eda32ade0ef00a9db79237301c42e88b17493a97a548515b",
-    "completed": 0
-  },
-  {
     "title": "Summer Pockets",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/928613a866ca7d0df0c99862bf78899e16f6aecc6f529045c9ddab02e148e059.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/7b96f19099a7eafa39119df3719db555aa679afc3df653ecd04a3317bba7d3f1.jpg",
     "link": "https://animepahe.ru/play/e69e2f9d-3027-7dba-1170-1b9c99c727f3/152a4830d9650b6c57f5ad47c9a113268864541eb5730666a2c291bdaf15b256",
+    "completed": 0
+  },
+  {
+    "title": "Apocalypse Hotel",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f07216bb2e486d4abd6323a33dd2990c97326e6081c1130d7fddfbf2be880c75.jpg",
+    "link": "https://animepahe.ru/play/71a95120-95dc-7512-10e5-156a393f0003/9528cfda69e52aa6642d911849cbb846eda40bdf40ecd51b619a7be47cee5134",
     "completed": 0
   }
 ]
