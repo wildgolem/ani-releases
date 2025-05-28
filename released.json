@@ -1,12 +1,5 @@
 [
   {
-    "title": "Summer Pockets",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/928613a866ca7d0df0c99862bf78899e16f6aecc6f529045c9ddab02e148e059.jpg",
-    "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/ba7249408f2bcd836b341fa16433f3eb3f2c737082d9bf6730e99cf6eb100c0b",
-    "completed": 0
-  },
-  {
     "title": "Sword of the Demon Hunter: Kijin Gentosho",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/cdb9d067e296922fbf8bbfbcf55e812eaa6f0df96b3437d295bc5d9c0543ca01.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/f07216bb2e486d4abd6323a33dd2990c97326e6081c1130d7fddfbf2be880c75.jpg",
     "link": "https://animepahe.ru/play/71a95120-95dc-7512-10e5-156a393f0003/9528cfda69e52aa6642d911849cbb846eda40bdf40ecd51b619a7be47cee5134",
+    "completed": 0
+  },
+  {
+    "title": "Beyblade X",
+    "episode": 82,
+    "image": "https://i.animepahe.ru/uploads/snapshots/51b06657f16d2df53c2438fc57d602db99a92bc4da5e2f4f750c58103606cb5c.jpg",
+    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/dc904095b00e434d48583b19d7db47eed67d9c292ceaf78dbcf30dd793c3b74c",
     "completed": 0
   }
 ]
