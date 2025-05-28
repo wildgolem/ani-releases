@@ -1,12 +1,5 @@
 [
   {
-    "title": "Sword of the Demon Hunter: Kijin Gentosho",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/cdb9d067e296922fbf8bbfbcf55e812eaa6f0df96b3437d295bc5d9c0543ca01.jpg",
-    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/3d26e0f632cb3c1f99406ef494ad10ce6ecbf7bac2ab6f86015db75ab687e128",
-    "completed": 0
-  },
-  {
     "title": "My Hero Academia: Vigilantes",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/af96afff0b9961853b36e345780909b72412fbfc05b73dcfa7ecdef0f817e7ca.jpg",
@@ -67,6 +60,13 @@
     "episode": 82,
     "image": "https://i.animepahe.ru/uploads/snapshots/51b06657f16d2df53c2438fc57d602db99a92bc4da5e2f4f750c58103606cb5c.jpg",
     "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/dc904095b00e434d48583b19d7db47eed67d9c292ceaf78dbcf30dd793c3b74c",
+    "completed": 0
+  },
+  {
+    "title": "Please Put Them On, Takamine-san",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/bd5410cd1cb982790484dad89691488c7740b5ea1d1be88e0053c76df24d779a.jpg",
+    "link": "https://animepahe.ru/play/725977f5-fd3b-e079-d26c-c74de6e8458a/e74a91b16205e66d728eb93884b899d8d7bb2d8999efeeaaadd0d0dd6c7aaac3",
     "completed": 0
   }
 ]
