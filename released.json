@@ -1,12 +1,5 @@
 [
   {
-    "title": "Mobile Suit Gundam: GQuuuuuuX",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f30c4385031c29d258526e288a5e8234ee5e14d68e69d81fcb8f7eb25844e51f.jpg",
-    "link": "https://animepahe.ru/play/f92a8c34-c4d1-29d4-275e-6786fdcf44c0/8bb6741e5a95bda09f09aeca2b30e9e243484a3b3706b39493f7cae53f0a7ebb",
-    "completed": 0
-  },
-  {
     "title": "Catch Me at the Ballpark!",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/7b96f19099a7eafa39119df3719db555aa679afc3df653ecd04a3317bba7d3f1.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/e10400d3ca52c0bc19bfcd94293b9c7c916b52bb9adf898cb496fc251714f815.jpg",
     "link": "https://animepahe.ru/play/e1a2aee9-2346-282c-d6c0-b85e7c5bb925/998d00fdd15cf75c41a7c6f565b84e531a7089e8d4c65f39b571ee4c2eba4cb1",
+    "completed": 0
+  },
+  {
+    "title": "A Ninja and an Assassin Under One Roof",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c3645d43468c6917db9e113d706cdadb979e268ed18d3f6a75cb94b94adec81c.jpg",
+    "link": "https://animepahe.ru/play/020776df-97bf-ebc0-66e5-2398b96520bc/1d6e265f818952041b72209317d5b20b3ca04200cb692bc4e3f6871fdd100d41",
     "completed": 0
   }
 ]
