@@ -1,12 +1,5 @@
 [
   {
-    "title": "Please Put Them On, Takamine-san",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/bd5410cd1cb982790484dad89691488c7740b5ea1d1be88e0053c76df24d779a.jpg",
-    "link": "https://animepahe.ru/play/725977f5-fd3b-e079-d26c-c74de6e8458a/e74a91b16205e66d728eb93884b899d8d7bb2d8999efeeaaadd0d0dd6c7aaac3",
-    "completed": 0
-  },
-  {
     "title": "Your Forma",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/b5cc1da2dfc424a85d3ce09b299a6280c132501c355ab942717d573cb2bb960a.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/8767874a5dc575dd89df590ef10f63bf89083869e1cb67480560372ba3a8be4b.jpg",
     "link": "https://animepahe.ru/play/06eaab74-0977-aebc-f50e-adc5d42bd574/cf14674271c7846b5d98c423bf6277e55c8fe749a54e9cab96a5493fe7298089",
+    "completed": 0
+  },
+  {
+    "title": "Wind Breaker Season 2",
+    "episode": 22,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a4c687933dd5b15453c3838873578cf207753804702dbffb3ebcf90440c184d4.jpg",
+    "link": "https://animepahe.ru/play/515dd441-386a-2ba3-6f79-e6e1e9c09802/f5d50cfbc09da70d89f1083284173bfc83d87002bc252c65b2a0de84b7d2b3a1",
     "completed": 0
   }
 ]
