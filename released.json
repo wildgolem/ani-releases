@@ -1,12 +1,5 @@
 [
   {
-    "title": "Apocalypse Hotel",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f07216bb2e486d4abd6323a33dd2990c97326e6081c1130d7fddfbf2be880c75.jpg",
-    "link": "https://animepahe.ru/play/71a95120-95dc-7512-10e5-156a393f0003/9528cfda69e52aa6642d911849cbb846eda40bdf40ecd51b619a7be47cee5134",
-    "completed": 0
-  },
-  {
     "title": "Beyblade X",
     "episode": 82,
     "image": "https://i.animepahe.ru/uploads/snapshots/51b06657f16d2df53c2438fc57d602db99a92bc4da5e2f4f750c58103606cb5c.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/09aa30e6785fdd29d418ca7e7db96b67f5559bdbe7d02cccb0f9f76fa80bf981.jpg",
     "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/e27484b9ad6282147a48a58ab625b20a620c617d25190f07c562f73d5ce34bf4",
+    "completed": 0
+  },
+  {
+    "title": "The Brilliant Healer's New Life in the Shadows",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/1e65b0aa7630a3ae78efefcfada15a08c25504a586b7c3d443cc8e8876b6b3ad.jpg",
+    "link": "https://animepahe.ru/play/c487ca7f-036c-fc0f-da9d-a6f670f7751c/589fcf8e02056ac344e7a49b17c6d228713ba82718914bc8a46fba279926fd9e",
     "completed": 0
   }
 ]
