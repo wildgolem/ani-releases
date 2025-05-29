@@ -1,12 +1,5 @@
 [
   {
-    "title": "Once Upon a Witch's Death",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d0b91519f5aa8f8b53dc39fe644ce89e3b0eb1703c6c7be6b78c1a1992340692.jpg",
-    "link": "https://animepahe.ru/play/72a32719-7054-f3d9-447f-19ef80df327d/2cdcf601529288fc44053ce483c0648134fb081b1c74fd77690bac9b59864ffa",
-    "completed": 0
-  },
-  {
     "title": "Mobile Suit Gundam: GQuuuuuuX",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/f30c4385031c29d258526e288a5e8234ee5e14d68e69d81fcb8f7eb25844e51f.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/b95982a5c83bf3df64567d21022088b503e6b2cab798f49a17b7165ff20f5089.jpg",
     "link": "https://animepahe.ru/play/6eeb16d1-b1b2-001a-24fd-61c150871d6f/60cd5f4688b565f30d284297bbdf9cb7c355ea98c15f48b761be31ec7fa41953",
+    "completed": 0
+  },
+  {
+    "title": "Our Last Crusade or the Rise of a New World Season 2",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e10400d3ca52c0bc19bfcd94293b9c7c916b52bb9adf898cb496fc251714f815.jpg",
+    "link": "https://animepahe.ru/play/e1a2aee9-2346-282c-d6c0-b85e7c5bb925/998d00fdd15cf75c41a7c6f565b84e531a7089e8d4c65f39b571ee4c2eba4cb1",
     "completed": 0
   }
 ]
