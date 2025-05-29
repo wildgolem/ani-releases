@@ -1,12 +1,5 @@
 [
   {
-    "title": "Beyblade X",
-    "episode": 82,
-    "image": "https://i.animepahe.ru/uploads/snapshots/51b06657f16d2df53c2438fc57d602db99a92bc4da5e2f4f750c58103606cb5c.jpg",
-    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/dc904095b00e434d48583b19d7db47eed67d9c292ceaf78dbcf30dd793c3b74c",
-    "completed": 0
-  },
-  {
     "title": "Please Put Them On, Takamine-san",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/bd5410cd1cb982790484dad89691488c7740b5ea1d1be88e0053c76df24d779a.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/1e65b0aa7630a3ae78efefcfada15a08c25504a586b7c3d443cc8e8876b6b3ad.jpg",
     "link": "https://animepahe.ru/play/c487ca7f-036c-fc0f-da9d-a6f670f7751c/589fcf8e02056ac344e7a49b17c6d228713ba82718914bc8a46fba279926fd9e",
+    "completed": 0
+  },
+  {
+    "title": "Rock Is a Lady's Modesty",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8767874a5dc575dd89df590ef10f63bf89083869e1cb67480560372ba3a8be4b.jpg",
+    "link": "https://animepahe.ru/play/06eaab74-0977-aebc-f50e-adc5d42bd574/cf14674271c7846b5d98c423bf6277e55c8fe749a54e9cab96a5493fe7298089",
     "completed": 0
   }
 ]
