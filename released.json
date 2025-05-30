@@ -1,12 +1,5 @@
 [
   {
-    "title": "Me and the Alien MuMu",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/09aa30e6785fdd29d418ca7e7db96b67f5559bdbe7d02cccb0f9f76fa80bf981.jpg",
-    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/e27484b9ad6282147a48a58ab625b20a620c617d25190f07c562f73d5ce34bf4",
-    "completed": 0
-  },
-  {
     "title": "The Brilliant Healer's New Life in the Shadows",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/1e65b0aa7630a3ae78efefcfada15a08c25504a586b7c3d443cc8e8876b6b3ad.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/d607e5e364047bfb2b208242d0e21aa50da45a5eb0948e9118c5f619056cb3ec.jpg",
     "link": "https://animepahe.ru/play/ba8c192e-a01d-8fd1-91fa-5b862f95784d/bee54a1ec4d590af6f26391ef4966faca978d3a477242574589f104f2a8d6fe0",
+    "completed": 0
+  },
+  {
+    "title": "Himitsu no AiPri: Ring-hen",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/16801fbaf6c56e43d03a5a2529803dc65e53bad69cfe4976abf8689284242c38.jpg",
+    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/053352f26ccd783bf784be7c298db61fbb6485227279d157dfaa37617635c3c1",
     "completed": 0
   }
 ]
