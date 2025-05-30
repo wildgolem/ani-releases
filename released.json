@@ -1,19 +1,5 @@
 [
   {
-    "title": "Princession Orchestra",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b95982a5c83bf3df64567d21022088b503e6b2cab798f49a17b7165ff20f5089.jpg",
-    "link": "https://animepahe.ru/play/6eeb16d1-b1b2-001a-24fd-61c150871d6f/60cd5f4688b565f30d284297bbdf9cb7c355ea98c15f48b761be31ec7fa41953",
-    "completed": 0
-  },
-  {
-    "title": "Our Last Crusade or the Rise of a New World Season 2",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e10400d3ca52c0bc19bfcd94293b9c7c916b52bb9adf898cb496fc251714f815.jpg",
-    "link": "https://animepahe.ru/play/e1a2aee9-2346-282c-d6c0-b85e7c5bb925/998d00fdd15cf75c41a7c6f565b84e531a7089e8d4c65f39b571ee4c2eba4cb1",
-    "completed": 0
-  },
-  {
     "title": "A Ninja and an Assassin Under One Roof",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/c3645d43468c6917db9e113d706cdadb979e268ed18d3f6a75cb94b94adec81c.jpg",
@@ -67,6 +53,20 @@
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/0242a3f413df00394071937bd7f54415e727bf9a1c8d577f970bfcdc0c1de507.jpg",
     "link": "https://animepahe.ru/play/c5ce80f2-1320-8a53-d6c6-c99b8ffc28aa/094f09f2362a372df77bbb5450da4102f4c5f9628903d3f330e91f5a400306c9",
+    "completed": 0
+  },
+  {
+    "title": "Teogonia",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e51f4ffe1abec1dc4fb829804edba1fc4e67a7806dca75cecb888a1347e22000.jpg",
+    "link": "https://animepahe.ru/play/6520ee5f-5081-c81e-b2e5-53b20b81de62/972d748c6525cc5ea5421bf081ff5bdba48cc836908be8e79e784d07a08d86de",
+    "completed": 0
+  },
+  {
+    "title": "The Apothecary Diaries Season 2",
+    "episode": 44,
+    "image": "https://i.animepahe.ru/uploads/snapshots/887f0f527d684d8bb7f802d91f2850ce76053980a3d960939a61f013f89115bd.jpg",
+    "link": "https://animepahe.ru/play/44302c02-ac39-d56b-1bf4-a7e9628f9c8d/465c90d962ceca08be1f6a8c4f927441eef66b22c6180414728a12e7bae8e05c",
     "completed": 0
   }
 ]
