@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Beginning After the End",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4a49ddb883510b555d68b5d8d54f02c723a136fd733db443dd8de10ec5b3c94d.jpg",
-    "link": "https://animepahe.ru/play/5e6bd405-6f6d-e47f-caa2-34ea579f2d64/9b8d8951e0959de97f99dc5802ff6e07d0d69b1b805f99f3014e17e6ac8ac343",
-    "completed": 0
-  },
-  {
     "title": "Princession Orchestra",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/b95982a5c83bf3df64567d21022088b503e6b2cab798f49a17b7165ff20f5089.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/affd4bde91ddb7648f06387befd7acce7a1226a29a34628e04baa99899ca39ea.jpg",
     "link": "https://animepahe.ru/play/aa5ffbb8-b35a-12d4-2e50-84a23f63eb02/15e80335d43ee746e533a3ac0b9c5e6853fb32455328ab3d1322687afa0c13d1",
+    "completed": 0
+  },
+  {
+    "title": "Bye Bye, Earth Season 2",
+    "episode": 19,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0242a3f413df00394071937bd7f54415e727bf9a1c8d577f970bfcdc0c1de507.jpg",
+    "link": "https://animepahe.ru/play/c5ce80f2-1320-8a53-d6c6-c99b8ffc28aa/094f09f2362a372df77bbb5450da4102f4c5f9628903d3f330e91f5a400306c9",
     "completed": 0
   }
 ]
