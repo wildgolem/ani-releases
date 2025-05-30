@@ -1,12 +1,5 @@
 [
   {
-    "title": "A Ninja and an Assassin Under One Roof",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c3645d43468c6917db9e113d706cdadb979e268ed18d3f6a75cb94b94adec81c.jpg",
-    "link": "https://animepahe.ru/play/020776df-97bf-ebc0-66e5-2398b96520bc/1d6e265f818952041b72209317d5b20b3ca04200cb692bc4e3f6871fdd100d41",
-    "completed": 0
-  },
-  {
     "title": "Me and the Alien MuMu",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/09aa30e6785fdd29d418ca7e7db96b67f5559bdbe7d02cccb0f9f76fa80bf981.jpg",
@@ -67,6 +60,13 @@
     "episode": 44,
     "image": "https://i.animepahe.ru/uploads/snapshots/887f0f527d684d8bb7f802d91f2850ce76053980a3d960939a61f013f89115bd.jpg",
     "link": "https://animepahe.ru/play/44302c02-ac39-d56b-1bf4-a7e9628f9c8d/465c90d962ceca08be1f6a8c4f927441eef66b22c6180414728a12e7bae8e05c",
+    "completed": 0
+  },
+  {
+    "title": "Fire Force Season 3",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d607e5e364047bfb2b208242d0e21aa50da45a5eb0948e9118c5f619056cb3ec.jpg",
+    "link": "https://animepahe.ru/play/ba8c192e-a01d-8fd1-91fa-5b862f95784d/bee54a1ec4d590af6f26391ef4966faca978d3a477242574589f104f2a8d6fe0",
     "completed": 0
   }
 ]
