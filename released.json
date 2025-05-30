@@ -1,12 +1,5 @@
 [
   {
-    "title": "Your Forma",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b5cc1da2dfc424a85d3ce09b299a6280c132501c355ab942717d573cb2bb960a.jpg",
-    "link": "https://animepahe.ru/play/0f4cc85c-bd29-67f6-a582-bc22a9882073/d81b614b54c8bcffec10e11a72ee7554fa9edc0b50e61d06fb54d3ac64056236",
-    "completed": 0
-  },
-  {
     "title": "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/14590b1934c523f3e76e450e8313deb9485cd68717b2475d6548eadbbb705a16.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/a4c687933dd5b15453c3838873578cf207753804702dbffb3ebcf90440c184d4.jpg",
     "link": "https://animepahe.ru/play/515dd441-386a-2ba3-6f79-e6e1e9c09802/f5d50cfbc09da70d89f1083284173bfc83d87002bc252c65b2a0de84b7d2b3a1",
     "completed": 0
+  },
+  {
+    "title": "Heart Cocktail Colorful: Natsu-hen",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7568af35826ef8fa13298f5e28b8bab321929f1297fc80e66a0d6afb390b13a5.jpg",
+    "link": "https://animepahe.ru/play/49568d67-613f-6279-278d-ead14da4a367/5af790b16f0233be1166cb787591126aa3d85b68af4d4dbd3df8a739bab11325",
+    "completed": 1
   }
 ]
