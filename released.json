@@ -1,12 +1,5 @@
 [
   {
-    "title": "Heart Cocktail Colorful: Natsu-hen",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7568af35826ef8fa13298f5e28b8bab321929f1297fc80e66a0d6afb390b13a5.jpg",
-    "link": "https://animepahe.ru/play/49568d67-613f-6279-278d-ead14da4a367/5af790b16f0233be1166cb787591126aa3d85b68af4d4dbd3df8a739bab11325",
-    "completed": 1
-  },
-  {
     "title": "Can a Boy-Girl Friendship Survive?",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/affd4bde91ddb7648f06387befd7acce7a1226a29a34628e04baa99899ca39ea.jpg",
@@ -67,6 +60,13 @@
     "episode": 97,
     "image": "https://i.animepahe.ru/uploads/snapshots/61563d1998ee141bddfcc98ffd24b838a8f0d45ddc3fd3466245d98423ca2a9d.jpg",
     "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/45d2a7f386a4cc68914b2313a21caca3287aa8d382d3bbb49026d5343dacb509",
+    "completed": 0
+  },
+  {
+    "title": "Yaiba: Samurai Legend",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fc92510fa5442997526b7d95769f99f408002a7cbd3cdc69fee5ccdb3728a9cd.jpg",
+    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/4d0a07f5724f0037bdd8ce20ce8131a32f070325089483ef144ac80cc9e97a61",
     "completed": 0
   }
 ]
