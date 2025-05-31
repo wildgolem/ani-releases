@@ -1,19 +1,5 @@
 [
   {
-    "title": "Can a Boy-Girl Friendship Survive?",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/affd4bde91ddb7648f06387befd7acce7a1226a29a34628e04baa99899ca39ea.jpg",
-    "link": "https://animepahe.ru/play/aa5ffbb8-b35a-12d4-2e50-84a23f63eb02/15e80335d43ee746e533a3ac0b9c5e6853fb32455328ab3d1322687afa0c13d1",
-    "completed": 0
-  },
-  {
-    "title": "Bye Bye, Earth Season 2",
-    "episode": 19,
-    "image": "https://i.animepahe.ru/uploads/snapshots/0242a3f413df00394071937bd7f54415e727bf9a1c8d577f970bfcdc0c1de507.jpg",
-    "link": "https://animepahe.ru/play/c5ce80f2-1320-8a53-d6c6-c99b8ffc28aa/094f09f2362a372df77bbb5450da4102f4c5f9628903d3f330e91f5a400306c9",
-    "completed": 0
-  },
-  {
     "title": "Teogonia",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/e51f4ffe1abec1dc4fb829804edba1fc4e67a7806dca75cecb888a1347e22000.jpg",
@@ -67,6 +53,20 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/fc92510fa5442997526b7d95769f99f408002a7cbd3cdc69fee5ccdb3728a9cd.jpg",
     "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/4d0a07f5724f0037bdd8ce20ce8131a32f070325089483ef144ac80cc9e97a61",
+    "completed": 0
+  },
+  {
+    "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9d65e2d58ce084c7ce8a833b50fa42b3d820f1abf4fce0808bcb4190561f7b42.jpg",
+    "link": "https://animepahe.ru/play/5f565bf2-d17e-07ee-fb2c-037e66a5c524/79301bb6201ae5b8b1fb8e570a315428e66724bcc87247e912179ec248525e8c",
+    "completed": 0
+  },
+  {
+    "title": "Anne Shirley",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/30e85a2407f931dc4fd94858ee8d3f18af53e65c5604f80868c264b6d5fb75ce.jpg",
+    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/e465a0eb06091c408b30e93291bfb0063f210c85ebf52f03f992821db8614321",
     "completed": 0
   }
 ]
