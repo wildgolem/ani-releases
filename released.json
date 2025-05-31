@@ -1,12 +1,5 @@
 [
   {
-    "title": "Wind Breaker Season 2",
-    "episode": 22,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a4c687933dd5b15453c3838873578cf207753804702dbffb3ebcf90440c184d4.jpg",
-    "link": "https://animepahe.ru/play/515dd441-386a-2ba3-6f79-e6e1e9c09802/f5d50cfbc09da70d89f1083284173bfc83d87002bc252c65b2a0de84b7d2b3a1",
-    "completed": 0
-  },
-  {
     "title": "Heart Cocktail Colorful: Natsu-hen",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/7568af35826ef8fa13298f5e28b8bab321929f1297fc80e66a0d6afb390b13a5.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/3b7c23cdc222cf8be301f1a261fd620c04667311ba1244b060d5e9d1e00b8b9f.jpg",
     "link": "https://animepahe.ru/play/8638b3f9-7333-55d7-11aa-ee4fe1d047a0/fbf5316c2fb9147e073be79a78811f599617f1d738ec2628fe8ad84250fd442b",
+    "completed": 0
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "episode": 97,
+    "image": "https://i.animepahe.ru/uploads/snapshots/61563d1998ee141bddfcc98ffd24b838a8f0d45ddc3fd3466245d98423ca2a9d.jpg",
+    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/45d2a7f386a4cc68914b2313a21caca3287aa8d382d3bbb49026d5343dacb509",
     "completed": 0
   }
 ]
