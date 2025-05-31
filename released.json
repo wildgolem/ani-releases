@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Brilliant Healer's New Life in the Shadows",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1e65b0aa7630a3ae78efefcfada15a08c25504a586b7c3d443cc8e8876b6b3ad.jpg",
-    "link": "https://animepahe.ru/play/c487ca7f-036c-fc0f-da9d-a6f670f7751c/589fcf8e02056ac344e7a49b17c6d228713ba82718914bc8a46fba279926fd9e",
-    "completed": 0
-  },
-  {
     "title": "Rock Is a Lady's Modesty",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/8767874a5dc575dd89df590ef10f63bf89083869e1cb67480560372ba3a8be4b.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/16801fbaf6c56e43d03a5a2529803dc65e53bad69cfe4976abf8689284242c38.jpg",
     "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/053352f26ccd783bf784be7c298db61fbb6485227279d157dfaa37617635c3c1",
+    "completed": 0
+  },
+  {
+    "title": "The Dinner Table Detective",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/98c629aaeca0d9bff8ff16f52ce9b01e376b85fc883a62b3f68997caaacb75fd.jpg",
+    "link": "https://animepahe.ru/play/d893f96b-4396-8c95-bd66-32219070071f/107d2ae6a9767d7b6753b83e00aacc229912a91bfd3cd8fe447fcf5a711dbb39",
     "completed": 0
   }
 ]
