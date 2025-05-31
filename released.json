@@ -1,12 +1,5 @@
 [
   {
-    "title": "Teogonia",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e51f4ffe1abec1dc4fb829804edba1fc4e67a7806dca75cecb888a1347e22000.jpg",
-    "link": "https://animepahe.ru/play/6520ee5f-5081-c81e-b2e5-53b20b81de62/972d748c6525cc5ea5421bf081ff5bdba48cc836908be8e79e784d07a08d86de",
-    "completed": 0
-  },
-  {
     "title": "The Apothecary Diaries Season 2",
     "episode": 44,
     "image": "https://i.animepahe.ru/uploads/snapshots/887f0f527d684d8bb7f802d91f2850ce76053980a3d960939a61f013f89115bd.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/30e85a2407f931dc4fd94858ee8d3f18af53e65c5604f80868c264b6d5fb75ce.jpg",
     "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/e465a0eb06091c408b30e93291bfb0063f210c85ebf52f03f992821db8614321",
+    "completed": 0
+  },
+  {
+    "title": "From Old Country Bumpkin to Master Swordsman",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/135644262f1a53d838872dabf210d3b40d8001744ebfd0bb7f9218aa772b8507.jpg",
+    "link": "https://animepahe.ru/play/43e7d8e6-89ee-d3f3-ff48-b1cd97829338/ff62e9b9b2a5ee6f43cdecc47675e4fed73fefb65c15e9cc4e04760ac76282c8",
     "completed": 0
   }
 ]
