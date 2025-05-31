@@ -1,19 +1,5 @@
 [
   {
-    "title": "The All-devouring Whale: Homecoming",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3b7c23cdc222cf8be301f1a261fd620c04667311ba1244b060d5e9d1e00b8b9f.jpg",
-    "link": "https://animepahe.ru/play/8638b3f9-7333-55d7-11aa-ee4fe1d047a0/fbf5316c2fb9147e073be79a78811f599617f1d738ec2628fe8ad84250fd442b",
-    "completed": 0
-  },
-  {
-    "title": "Pokémon Horizons: The Series",
-    "episode": 97,
-    "image": "https://i.animepahe.ru/uploads/snapshots/61563d1998ee141bddfcc98ffd24b838a8f0d45ddc3fd3466245d98423ca2a9d.jpg",
-    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/45d2a7f386a4cc68914b2313a21caca3287aa8d382d3bbb49026d5343dacb509",
-    "completed": 0
-  },
-  {
     "title": "Yaiba: Samurai Legend",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/fc92510fa5442997526b7d95769f99f408002a7cbd3cdc69fee5ccdb3728a9cd.jpg",
@@ -67,6 +53,20 @@
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/0c9dfeb3aae0f4e2bead2fab90f7a6f503330765f89d9200513c7697ab3f553a.jpg",
     "link": "https://animepahe.ru/play/29670402-de30-e595-802b-ced9c08857fa/5427bd98e0c279659dc3fe5cafada0ba8ff853254898469b1b4cbc42ca7e4b42",
+    "completed": 0
+  },
+  {
+    "title": "Food for the Soul",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2ae80c0513f6d409c0d9b590ba4c6cb0d2872ad02ac93db3d919448fa9ca493c.jpg",
+    "link": "https://animepahe.ru/play/b79ed814-ac4b-3649-17a9-d04a9e27ae56/e827d349bfedf1e2299a13a711ee26a7e7fc40384e4daa2c27a3989dc8c98e3c",
+    "completed": 0
+  },
+  {
+    "title": "Classic★Stars",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/29ccfe2214e8cf848dceb209e566363a3f01b0eb02a23ce74e44a71318fa022b.jpg",
+    "link": "https://animepahe.ru/play/2267c8b1-4b92-777f-7b06-a4564d79d202/a2dd13582afe7e1340d86f8f3cd2e6b544cc98e05e779cfacbd6d1add1933313",
     "completed": 0
   }
 ]
