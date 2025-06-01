@@ -1,12 +1,5 @@
 [
   {
-    "title": "To Be Hero X",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/013ea2d3917342334aca2b5034fda166b910ecf36ec0ff3cc94dbcbf48d7d6a1.jpg",
-    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/3671eb5bf10908195634346c5d6338ea4763b4eada3d5d118ac47ae32ab84238",
-    "completed": 0
-  },
-  {
     "title": "You and Idol Precure♪",
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/982de8793fbfc9baf06c73db14ebd179b559e2df66e86f90c947b702cf188897.jpg",
@@ -67,6 +60,13 @@
     "episode": 1131,
     "image": "https://i.animepahe.ru/uploads/snapshots/0a134708b946f07a92296976af567c4c4f91855fbb974f7cd1e31947dfb1624a.jpg",
     "link": "https://animepahe.ru/play/d58fc9f8-582e-fdf0-3618-112cd54ed5ab/3982846d6220fe139f789192d2e613bc7f21e367643174f2a4f131627416898a",
+    "completed": 0
+  },
+  {
+    "title": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2224b066f86dab08eab6e8a617f826c0ed236a6f87ab863681e51c044e903ebe.jpg",
+    "link": "https://animepahe.ru/play/bb77d96f-d2ec-73ae-9af1-46898257aa0b/cfd5998026ebb125c20bb823d2619048aa6c1f0899a36ba81d14311d359e7b39",
     "completed": 0
   }
 ]
