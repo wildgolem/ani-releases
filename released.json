@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kowloon Generic Romance",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a1d820b4e08a17a26fbfc1ee9ff6bf7d78f29c81de154a01eef277bdf237de24.jpg",
-    "link": "https://animepahe.ru/play/60dce763-1e23-9f3a-9291-7b3ef9bfaeda/1869a6c0509d5d0f01626bbfdccf2e30ef91ee99e964364e3deb789fa5ce5844",
-    "completed": 0
-  },
-  {
     "title": "Black Butler: Emerald Witch Arc",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/89e00ef5e2ed92d0ec9dac12b3754750dc317b0e02cf27baf29547322e982726.jpg",
@@ -67,6 +60,13 @@
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/982de8793fbfc9baf06c73db14ebd179b559e2df66e86f90c947b702cf188897.jpg",
     "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/32f39244c0ea0dfd31b877dcfb184efed686738841954d27625142af6909a0ec",
+    "completed": 0
+  },
+  {
+    "title": "Uma Musume: Cinderella Gray",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/62f1e87e94d8e8793f84bf6759e8b3793d354bf6002871de04a88e358e3ca600.jpg",
+    "link": "https://animepahe.ru/play/b35e44f1-70cd-9362-593d-4b62705f3151/26c282e305669b79acfaeb06a454261efee49b0b9b6f653fde0b9930442430c2",
     "completed": 0
   }
 ]
