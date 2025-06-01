@@ -1,26 +1,5 @@
 [
   {
-    "title": "Food for the Soul",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2ae80c0513f6d409c0d9b590ba4c6cb0d2872ad02ac93db3d919448fa9ca493c.jpg",
-    "link": "https://animepahe.ru/play/b79ed814-ac4b-3649-17a9-d04a9e27ae56/e827d349bfedf1e2299a13a711ee26a7e7fc40384e4daa2c27a3989dc8c98e3c",
-    "completed": 0
-  },
-  {
-    "title": "Classic★Stars",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/29ccfe2214e8cf848dceb209e566363a3f01b0eb02a23ce74e44a71318fa022b.jpg",
-    "link": "https://animepahe.ru/play/2267c8b1-4b92-777f-7b06-a4564d79d202/a2dd13582afe7e1340d86f8f3cd2e6b544cc98e05e779cfacbd6d1add1933313",
-    "completed": 0
-  },
-  {
-    "title": "Shoshimin: How to Become Ordinary Season 2",
-    "episode": 19,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b886f0c683be05c0b93ec71ba75bf6bf80bbcef6a45a92e678129d4f28156c71.jpg",
-    "link": "https://animepahe.ru/play/88ae6b0f-ee15-0707-1d80-98d8ec4425a9/b9e920acc1c198c4792501fa2ebb0cbd3524baf49d219ddd23b78f26ae09f636",
-    "completed": 0
-  },
-  {
     "title": "I'm the Evil Lord of an Intergalactic Empire!",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/d535a9277b55c708a66edd6bb3336d5c09a23e6a8ea69bb258560b53c013f732.jpg",
@@ -67,6 +46,27 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/93ca1d025e345ec8f9f90c8a4cb8fc13b4dcb0ce43a2bb9c365e96085aeee5bb.jpg",
     "link": "https://animepahe.ru/play/b212e276-d157-53ba-e5d6-f8b18bfe4ef4/c74df642ece02bd8e7f076250093613ce596855d3938ee42aeeeaf426da7d875",
+    "completed": 0
+  },
+  {
+    "title": "The Gorilla God's Go-To Girl",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ffeaf73c325815151b17cbae18893eef3784e2e6c1081b1a0e65620029c9ab88.jpg",
+    "link": "https://animepahe.ru/play/a89659be-3c75-1c88-c21f-9d6a2990734e/a0184f84996e46c43bf5478cd9b523db7ef25d20b301b8a348a61a8b3f75c7d1",
+    "completed": 0
+  },
+  {
+    "title": "Go! Go! Loser Ranger! Season 2",
+    "episode": 20,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2f9de2602ba2c6c85c1ccdc098c27b492f008bb8740f0ac6819c2dd547509851.jpg",
+    "link": "https://animepahe.ru/play/e0ed6ecb-5dbc-e5fd-c665-fb10fb6bca49/9d4c6fd49ff7a236fcaa0c4df0813ea2e7416eb439ff4fab7da484e2c0692fad",
+    "completed": 0
+  },
+  {
+    "title": "Maebashi Witches",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9a9a7379d31863c76a969ee22743c4f451718972f47523e852e9da8a0b2187bc.jpg",
+    "link": "https://animepahe.ru/play/07f3bd91-9e72-94ce-8751-1f5fdbfdb8ea/82d0ba1254f59a95158a4e1bc674ee27bd57a75d497c29618b7312f9ce3ec76f",
     "completed": 0
   }
 ]
