@@ -1,12 +1,5 @@
 [
   {
-    "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
-    "episode": 20,
-    "image": "https://i.animepahe.ru/uploads/snapshots/0c9dfeb3aae0f4e2bead2fab90f7a6f503330765f89d9200513c7697ab3f553a.jpg",
-    "link": "https://animepahe.ru/play/29670402-de30-e595-802b-ced9c08857fa/5427bd98e0c279659dc3fe5cafada0ba8ff853254898469b1b4cbc42ca7e4b42",
-    "completed": 0
-  },
-  {
     "title": "Food for the Soul",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/2ae80c0513f6d409c0d9b590ba4c6cb0d2872ad02ac93db3d919448fa9ca493c.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/f7280b2f4f50ae1c4508b0d71ee43d11ee9ae70c210f27418bf6a23e2453241f.jpg",
     "link": "https://animepahe.ru/play/cb49b9d1-2396-39e6-8f76-f23b3607aff0/a9be54b96950cb614b50413370556e0259cf5b3d88dd7cb36c63d9e000f12661",
+    "completed": 0
+  },
+  {
+    "title": "The Unaware Atelier Meister",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/93ca1d025e345ec8f9f90c8a4cb8fc13b4dcb0ce43a2bb9c365e96085aeee5bb.jpg",
+    "link": "https://animepahe.ru/play/b212e276-d157-53ba-e5d6-f8b18bfe4ef4/c74df642ece02bd8e7f076250093613ce596855d3938ee42aeeeaf426da7d875",
     "completed": 0
   }
 ]
