@@ -1,12 +1,5 @@
 [
   {
-    "title": "Mono",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/996ae56872a449e9f1551797a9e6db1b0e838aa60d5465f187ceae802462a570.jpg",
-    "link": "https://animepahe.ru/play/cdda01ba-50ca-a61b-f1ae-5e705c65994b/abeceaed41fd2107efe2be0e1eef5e90f8186f795e94dfbb214b62e2db8f58d7",
-    "completed": 0
-  },
-  {
     "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/0c9dfeb3aae0f4e2bead2fab90f7a6f503330765f89d9200513c7697ab3f553a.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/29459d3856269aac9dc1082e47bb5d8a0acde531e8ad5909b9c3ea2cd58e6d88.jpg",
     "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/c062145d70d6fd6685fc8a9bcfa9fb3d7ebcbcc7c0070d95600771649cd7558c",
+    "completed": 0
+  },
+  {
+    "title": "Shirohiyo - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f7280b2f4f50ae1c4508b0d71ee43d11ee9ae70c210f27418bf6a23e2453241f.jpg",
+    "link": "https://animepahe.ru/play/cb49b9d1-2396-39e6-8f76-f23b3607aff0/a9be54b96950cb614b50413370556e0259cf5b3d88dd7cb36c63d9e000f12661",
     "completed": 0
   }
 ]
