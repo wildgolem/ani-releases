@@ -1,19 +1,5 @@
 [
   {
-    "title": "Anne Shirley",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/30e85a2407f931dc4fd94858ee8d3f18af53e65c5604f80868c264b6d5fb75ce.jpg",
-    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/e465a0eb06091c408b30e93291bfb0063f210c85ebf52f03f992821db8614321",
-    "completed": 0
-  },
-  {
-    "title": "From Old Country Bumpkin to Master Swordsman",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/135644262f1a53d838872dabf210d3b40d8001744ebfd0bb7f9218aa772b8507.jpg",
-    "link": "https://animepahe.ru/play/43e7d8e6-89ee-d3f3-ff48-b1cd97829338/ff62e9b9b2a5ee6f43cdecc47675e4fed73fefb65c15e9cc4e04760ac76282c8",
-    "completed": 0
-  },
-  {
     "title": "Kowloon Generic Romance",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/a1d820b4e08a17a26fbfc1ee9ff6bf7d78f29c81de154a01eef277bdf237de24.jpg",
@@ -67,6 +53,20 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/d535a9277b55c708a66edd6bb3336d5c09a23e6a8ea69bb258560b53c013f732.jpg",
     "link": "https://animepahe.ru/play/83837af5-73ae-503d-4362-f5389e634697/04caec2be90ee32ce8abd04ffd68235a1a67fdd959009b730a04fa84144bf75c",
+    "completed": 0
+  },
+  {
+    "title": "To Be Hero X",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/013ea2d3917342334aca2b5034fda166b910ecf36ec0ff3cc94dbcbf48d7d6a1.jpg",
+    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/3671eb5bf10908195634346c5d6338ea4763b4eada3d5d118ac47ae32ab84238",
+    "completed": 0
+  },
+  {
+    "title": "You and Idol Precure♪",
+    "episode": 17,
+    "image": "https://i.animepahe.ru/uploads/snapshots/982de8793fbfc9baf06c73db14ebd179b559e2df66e86f90c947b702cf188897.jpg",
+    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/32f39244c0ea0dfd31b877dcfb184efed686738841954d27625142af6909a0ec",
     "completed": 0
   }
 ]
