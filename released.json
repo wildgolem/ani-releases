@@ -1,19 +1,5 @@
 [
   {
-    "title": "Witch Watch",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/29459d3856269aac9dc1082e47bb5d8a0acde531e8ad5909b9c3ea2cd58e6d88.jpg",
-    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/c062145d70d6fd6685fc8a9bcfa9fb3d7ebcbcc7c0070d95600771649cd7558c",
-    "completed": 0
-  },
-  {
-    "title": "Shirohiyo - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f7280b2f4f50ae1c4508b0d71ee43d11ee9ae70c210f27418bf6a23e2453241f.jpg",
-    "link": "https://animepahe.ru/play/cb49b9d1-2396-39e6-8f76-f23b3607aff0/a9be54b96950cb614b50413370556e0259cf5b3d88dd7cb36c63d9e000f12661",
-    "completed": 0
-  },
-  {
     "title": "The Unaware Atelier Meister",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/93ca1d025e345ec8f9f90c8a4cb8fc13b4dcb0ce43a2bb9c365e96085aeee5bb.jpg",
@@ -68,5 +54,19 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/600322dd7bfd39f844cfa5d5cbc7b471b0daded78471faefb0e7e7186b66488f.jpg",
     "link": "https://animepahe.ru/play/ed6993bf-c174-1286-6152-dbef527d1afb/34a7de486fe3d765fe3632c386a47b8d4ee53d96c71804b0650975337a4112c0",
     "completed": 1
+  },
+  {
+    "title": "Aharen-san wa Hakarenai Season 2",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8fe80dced510cb8f27244cc642356374f0befa42250a29e2daed9829202b6351.jpg",
+    "link": "https://animepahe.ru/play/6ef5ed34-6366-534d-cd1c-65379c8bfa96/f93ba4a9b63705c3ed6f08749fbb2bbb83ba60b5a97c78de3cde033c5e4e6a61",
+    "completed": 0
+  },
+  {
+    "title": "Zatsu Tabi: That's Journey",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/90c4e5d09e72d0081b672e20f722c72f6c00bc6485b03535dc53cf9df93bf60f.jpg",
+    "link": "https://animepahe.ru/play/74a7b937-6d52-a599-4b6f-b74c8ff664ab/78b247c8615fe28b5229a13982c95e8a6f7742b49909f0c4b19e4288e847f9dc",
+    "completed": 0
   }
 ]
