@@ -1,12 +1,5 @@
 [
   {
-    "title": "Uma Musume: Cinderella Gray",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/62f1e87e94d8e8793f84bf6759e8b3793d354bf6002871de04a88e358e3ca600.jpg",
-    "link": "https://animepahe.ru/play/b35e44f1-70cd-9362-593d-4b62705f3151/26c282e305669b79acfaeb06a454261efee49b0b9b6f653fde0b9930442430c2",
-    "completed": 0
-  },
-  {
     "title": "Witch Watch",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/29459d3856269aac9dc1082e47bb5d8a0acde531e8ad5909b9c3ea2cd58e6d88.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/7eb25bfdfb5e652e822cd3edceebc680941651c061c8e45c7b9f9e21aec0d417.jpg",
     "link": "https://animepahe.ru/play/0675f2a0-5d95-5998-5376-2e096bed54ce/7dd7a10b93171eb1ef72493f194a729b1edaee6104e6b11815c3ff347ba08434",
     "completed": 0
+  },
+  {
+    "title": "Heart Cocktail Colorful: Fuyu-hen",
+    "episode": 15,
+    "image": "https://i.animepahe.ru/uploads/snapshots/600322dd7bfd39f844cfa5d5cbc7b471b0daded78471faefb0e7e7186b66488f.jpg",
+    "link": "https://animepahe.ru/play/ed6993bf-c174-1286-6152-dbef527d1afb/34a7de486fe3d765fe3632c386a47b8d4ee53d96c71804b0650975337a4112c0",
+    "completed": 1
   }
 ]
