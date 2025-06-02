@@ -1,12 +1,5 @@
 [
   {
-    "title": "Maebashi Witches",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/9a9a7379d31863c76a969ee22743c4f451718972f47523e852e9da8a0b2187bc.jpg",
-    "link": "https://animepahe.ru/play/07f3bd91-9e72-94ce-8751-1f5fdbfdb8ea/82d0ba1254f59a95158a4e1bc674ee27bd57a75d497c29618b7312f9ce3ec76f",
-    "completed": 0
-  },
-  {
     "title": "One Piece",
     "episode": 1131,
     "image": "https://i.animepahe.ru/uploads/snapshots/0a134708b946f07a92296976af567c4c4f91855fbb974f7cd1e31947dfb1624a.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/b5d3eb30e5767ae00a38896c4311ecbd090f24899026ad9184ee4cc3ae718c80.jpg",
     "link": "https://animepahe.ru/play/8b11e7f8-1007-ba31-bd47-5ac966d549f6/65741b1382e16cb620b98edf0c58b6770d797e6b279f62836ea27bba40b24df8",
+    "completed": 0
+  },
+  {
+    "title": "#Compass2.0: Animation Project",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f3d235970a25e3dba715df9f04c30a3c47810abd9783bf853cffa3636e5be1d7.jpg",
+    "link": "https://animepahe.ru/play/3f4e86ac-1a0a-3b30-2f93-d5210d1c455f/12b81dd21954702a0be334fd2d54f613053bb29b4ded0eb1f0075eed000d6952",
     "completed": 0
   }
 ]
