@@ -1,12 +1,5 @@
 [
   {
-    "title": "Lazarus",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7eb25bfdfb5e652e822cd3edceebc680941651c061c8e45c7b9f9e21aec0d417.jpg",
-    "link": "https://animepahe.ru/play/0675f2a0-5d95-5998-5376-2e096bed54ce/7dd7a10b93171eb1ef72493f194a729b1edaee6104e6b11815c3ff347ba08434",
-    "completed": 0
-  },
-  {
     "title": "Heart Cocktail Colorful: Fuyu-hen",
     "episode": 15,
     "image": "https://i.animepahe.ru/uploads/snapshots/600322dd7bfd39f844cfa5d5cbc7b471b0daded78471faefb0e7e7186b66488f.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/5047a93942556f972d638cdaaa9a340d3f353417b14bd3e6fb3400a6b3c6c3ee.jpg",
     "link": "https://animepahe.ru/play/80be9a0c-943d-e236-3fd1-bc2bcd628167/5c8245ef68003f26e8fbc5627b9de7c7fe1a34224b0a914c4cb7585aad783c3d",
+    "completed": 0
+  },
+  {
+    "title": "Once Upon a Witch's Death",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/859d9ee580e540d9a0f517600bc663076b740ab6c69137fced855d8764ac31b8.jpg",
+    "link": "https://animepahe.ru/play/72a32719-7054-f3d9-447f-19ef80df327d/6e98705105ec8a110bd3edaff473b80401c1100a3bc1b7c62acbb3a27aec91e8",
     "completed": 0
   }
 ]
