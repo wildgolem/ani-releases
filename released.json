@@ -1,12 +1,5 @@
 [
   {
-    "title": "Heart Cocktail Colorful: Fuyu-hen",
-    "episode": 15,
-    "image": "https://i.animepahe.ru/uploads/snapshots/600322dd7bfd39f844cfa5d5cbc7b471b0daded78471faefb0e7e7186b66488f.jpg",
-    "link": "https://animepahe.ru/play/ed6993bf-c174-1286-6152-dbef527d1afb/34a7de486fe3d765fe3632c386a47b8d4ee53d96c71804b0650975337a4112c0",
-    "completed": 1
-  },
-  {
     "title": "Aharen-san wa Hakarenai Season 2",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/8fe80dced510cb8f27244cc642356374f0befa42250a29e2daed9829202b6351.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/859d9ee580e540d9a0f517600bc663076b740ab6c69137fced855d8764ac31b8.jpg",
     "link": "https://animepahe.ru/play/72a32719-7054-f3d9-447f-19ef80df327d/6e98705105ec8a110bd3edaff473b80401c1100a3bc1b7c62acbb3a27aec91e8",
+    "completed": 0
+  },
+  {
+    "title": "Mobile Suit Gundam: GQuuuuuuX",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/23ed402e5ed27f8a8a68c76ed41d6844ba24b97de84308276633f30915768d00.jpg",
+    "link": "https://animepahe.ru/play/f92a8c34-c4d1-29d4-275e-6786fdcf44c0/7f3647945a2d3aafcb3a4ec395b15da232e95dc71dcec4fbfa3de4a510253cab",
     "completed": 0
   }
 ]
