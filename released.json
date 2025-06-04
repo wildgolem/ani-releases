@@ -1,12 +1,5 @@
 [
   {
-    "title": "My Hero Academia: Vigilantes",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b5d3eb30e5767ae00a38896c4311ecbd090f24899026ad9184ee4cc3ae718c80.jpg",
-    "link": "https://animepahe.ru/play/8b11e7f8-1007-ba31-bd47-5ac966d549f6/65741b1382e16cb620b98edf0c58b6770d797e6b279f62836ea27bba40b24df8",
-    "completed": 0
-  },
-  {
     "title": "#Compass2.0: Animation Project",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/f3d235970a25e3dba715df9f04c30a3c47810abd9783bf853cffa3636e5be1d7.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/9b7ad788318d015b6923a465e5e7a22132e79b434f5495b8649c9d840c0c003e.jpg",
     "link": "https://animepahe.ru/play/35c39232-0133-ec5b-b3b9-0d6a7d7bf7b7/6bc1bd80905e15e81754bc591ce2c5b7c77229c1b1fc1c0f8888fae05c731f31",
+    "completed": 0
+  },
+  {
+    "title": "The Beginning After the End",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c8c8816ddc31a9cc2aa9ec0fa107be62e539da9b9a25bbba869ebe06340fb92c.jpg",
+    "link": "https://animepahe.ru/play/5e6bd405-6f6d-e47f-caa2-34ea579f2d64/f32f980d26ace93726295629be838461d2f59b8ade041507f1d80a50e7334173",
     "completed": 0
   }
 ]
