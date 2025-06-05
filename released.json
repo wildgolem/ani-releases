@@ -1,12 +1,5 @@
 [
   {
-    "title": "Catch Me at the Ballpark!",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ddeca967f99a84ddbd85bdb229d07ce97c66686ac4f874d494818c3ac674d0e5.jpg",
-    "link": "https://animepahe.ru/play/e69e2f9d-3027-7dba-1170-1b9c99c727f3/a9c1208a5d2691decaf6f9d0c72e9eb18afcc69b5dc2de745e7412daee5b8928",
-    "completed": 0
-  },
-  {
     "title": "Apocalypse Hotel",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/67213b109a862788102cc5ec315fff41dcc02dcbc9a01a878b112c352fc47249.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/c18ff3a999dc068f2e29c411abc0bbfdb63381d4a5926c5474e8c1b6c5ca8922.jpg",
     "link": "https://animepahe.ru/play/06eaab74-0977-aebc-f50e-adc5d42bd574/67b74d837d06683b5802751b4e9f75ccd6287d3832e16c97abf1fffdc4f564e8",
+    "completed": 0
+  },
+  {
+    "title": "Wind Breaker Season 2",
+    "episode": 23,
+    "image": "https://i.animepahe.ru/uploads/snapshots/1c72c9e436dafe454d18016418c8c25ce1ccfbb94196b39faab5f8d800c73af6.jpg",
+    "link": "https://animepahe.ru/play/515dd441-386a-2ba3-6f79-e6e1e9c09802/bf60ef81c8769ca8cc88fe2ba66344007611f04631083eb0af6ef0e64993a6f4",
     "completed": 0
   }
 ]
