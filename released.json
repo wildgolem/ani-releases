@@ -1,12 +1,5 @@
 [
   {
-    "title": "Mobile Suit Gundam: GQuuuuuuX",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/23ed402e5ed27f8a8a68c76ed41d6844ba24b97de84308276633f30915768d00.jpg",
-    "link": "https://animepahe.ru/play/f92a8c34-c4d1-29d4-275e-6786fdcf44c0/7f3647945a2d3aafcb3a4ec395b15da232e95dc71dcec4fbfa3de4a510253cab",
-    "completed": 0
-  },
-  {
     "title": "Catch Me at the Ballpark!",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/ddeca967f99a84ddbd85bdb229d07ce97c66686ac4f874d494818c3ac674d0e5.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/968e57dc06543f7d382013e6367dc00dd082b2c975ea2210e02152c40effd3dc.jpg",
     "link": "https://animepahe.ru/play/c487ca7f-036c-fc0f-da9d-a6f670f7751c/4dfc38e7081754ab42a633bb52d2279ab4ca27f95130e5d1566a83d96bf7efd3",
+    "completed": 0
+  },
+  {
+    "title": "Rock Is a Lady's Modesty",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c18ff3a999dc068f2e29c411abc0bbfdb63381d4a5926c5474e8c1b6c5ca8922.jpg",
+    "link": "https://animepahe.ru/play/06eaab74-0977-aebc-f50e-adc5d42bd574/67b74d837d06683b5802751b4e9f75ccd6287d3832e16c97abf1fffdc4f564e8",
     "completed": 0
   }
 ]
