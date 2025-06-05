@@ -1,12 +1,5 @@
 [
   {
-    "title": "Once Upon a Witch's Death",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/859d9ee580e540d9a0f517600bc663076b740ab6c69137fced855d8764ac31b8.jpg",
-    "link": "https://animepahe.ru/play/72a32719-7054-f3d9-447f-19ef80df327d/6e98705105ec8a110bd3edaff473b80401c1100a3bc1b7c62acbb3a27aec91e8",
-    "completed": 0
-  },
-  {
     "title": "Mobile Suit Gundam: GQuuuuuuX",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/23ed402e5ed27f8a8a68c76ed41d6844ba24b97de84308276633f30915768d00.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/8b0991b29b101683c45a3183f5da77cfdaef75c747f20b97b03eee088112a04e.jpg",
     "link": "https://animepahe.ru/play/020776df-97bf-ebc0-66e5-2398b96520bc/d14d7d1f9cac242f2603c5d54e65e16b205a2faa4e2c100acfcfcfc9d617ec61",
+    "completed": 0
+  },
+  {
+    "title": "The Brilliant Healer's New Life in the Shadows",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/968e57dc06543f7d382013e6367dc00dd082b2c975ea2210e02152c40effd3dc.jpg",
+    "link": "https://animepahe.ru/play/c487ca7f-036c-fc0f-da9d-a6f670f7751c/4dfc38e7081754ab42a633bb52d2279ab4ca27f95130e5d1566a83d96bf7efd3",
     "completed": 0
   }
 ]
