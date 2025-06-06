@@ -1,12 +1,5 @@
 [
   {
-    "title": "Our Last Crusade or the Rise of a New World Season 2",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/caca670626dc429105e5c30e6a66fcb7b49acaeda7510a76c1161e469da8bafd.jpg",
-    "link": "https://animepahe.ru/play/e1a2aee9-2346-282c-d6c0-b85e7c5bb925/195469be6c836958ac1c6f8926ccdad2403b383becce0385ce98c3568a0a913d",
-    "completed": 0
-  },
-  {
     "title": "A Ninja and an Assassin Under One Roof",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/8b0991b29b101683c45a3183f5da77cfdaef75c747f20b97b03eee088112a04e.jpg",
@@ -67,6 +60,13 @@
     "episode": 45,
     "image": "https://i.animepahe.ru/uploads/snapshots/ca3ccb88071cb0fd95832890cb0c6b4f18c4505dc3f0f22bd5f14fbd9b16557d.jpg",
     "link": "https://animepahe.ru/play/44302c02-ac39-d56b-1bf4-a7e9628f9c8d/6d8939017298df38bd8b7ce50d9aab72c8d6ac8e39b3b8cfc4475a1cae5a7797",
+    "completed": 0
+  },
+  {
+    "title": "Fire Force Season 3",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ef860ea17698f7161025ee59d60ea9631d7ff2929a04e333900db8a4c4ed855f.jpg",
+    "link": "https://animepahe.ru/play/ba8c192e-a01d-8fd1-91fa-5b862f95784d/fa82d8317a22a16882f310a0e4824569f395c7fac8e70d14be570e5cf8f388c0",
     "completed": 0
   }
 ]
