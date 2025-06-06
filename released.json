@@ -1,12 +1,5 @@
 [
   {
-    "title": "Apocalypse Hotel",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/67213b109a862788102cc5ec315fff41dcc02dcbc9a01a878b112c352fc47249.jpg",
-    "link": "https://animepahe.ru/play/71a95120-95dc-7512-10e5-156a393f0003/2a0758f298a64ef68f071ea71e2ff763cb1af970dca4decb58cb20212acac6dd",
-    "completed": 0
-  },
-  {
     "title": "Your Forma",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/a8c0c56567af5dde53cdd86977d34bd08fa2ee4b14f87c84bcf536628e0e97f3.jpg",
@@ -67,6 +60,13 @@
     "episode": 23,
     "image": "https://i.animepahe.ru/uploads/snapshots/1c72c9e436dafe454d18016418c8c25ce1ccfbb94196b39faab5f8d800c73af6.jpg",
     "link": "https://animepahe.ru/play/515dd441-386a-2ba3-6f79-e6e1e9c09802/bf60ef81c8769ca8cc88fe2ba66344007611f04631083eb0af6ef0e64993a6f4",
+    "completed": 0
+  },
+  {
+    "title": "Beyblade X",
+    "episode": 83,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b700f4ed68e441f4aad805544cb121fd434bd2391424c9110d94cfdedba538c7.jpg",
+    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/33244943af443128b2c4209d64fd8ad8860478b35085b7f237d81bada6d50384",
     "completed": 0
   }
 ]
