@@ -1,12 +1,5 @@
 [
   {
-    "title": "A Ninja and an Assassin Under One Roof",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/8b0991b29b101683c45a3183f5da77cfdaef75c747f20b97b03eee088112a04e.jpg",
-    "link": "https://animepahe.ru/play/020776df-97bf-ebc0-66e5-2398b96520bc/d14d7d1f9cac242f2603c5d54e65e16b205a2faa4e2c100acfcfcfc9d617ec61",
-    "completed": 0
-  },
-  {
     "title": "The Brilliant Healer's New Life in the Shadows",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/968e57dc06543f7d382013e6367dc00dd082b2c975ea2210e02152c40effd3dc.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/ef860ea17698f7161025ee59d60ea9631d7ff2929a04e333900db8a4c4ed855f.jpg",
     "link": "https://animepahe.ru/play/ba8c192e-a01d-8fd1-91fa-5b862f95784d/fa82d8317a22a16882f310a0e4824569f395c7fac8e70d14be570e5cf8f388c0",
+    "completed": 0
+  },
+  {
+    "title": "Himitsu no AiPri: Ring-hen",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4a5025f36b3324d18ca8a93cf00d62614908bd5a5caefef11a491c7afa641c8f.jpg",
+    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/249e82476bf7eb6e9c2b6eb2a4d84cd46290c0bb8f24373bcd29c2c3f5eaaaf0",
     "completed": 0
   }
 ]
