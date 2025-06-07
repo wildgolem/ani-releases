@@ -1,19 +1,5 @@
 [
   {
-    "title": "The Dinner Table Detective",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2344579007d30424e51a5bfc554733e5af6afe051f625378ec398689f7ca4ae7.jpg",
-    "link": "https://animepahe.ru/play/d893f96b-4396-8c95-bd66-32219070071f/7f9c23ecb5058623c576f9e3c63690b1fa60eb0472364ab6d4f16a8f5d488b81",
-    "completed": 0
-  },
-  {
-    "title": "Yaiba: Samurai Legend",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/725103105efa28c4faf444ff744e320d9dd4c4e26ed4a428919e35162287c9d3.jpg",
-    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/eccd6ae5d221846b19493792e6e4d873693f5f50bace5c37ce92cdc60feeec9b",
-    "completed": 0
-  },
-  {
     "title": "Meitantei Conan",
     "episode": 1164,
     "image": "https://i.animepahe.ru/uploads/snapshots/729b44b72264d01ff3d0aa52dc7e413b3671034f20d0bac68434a33c23f9eea4.jpg",
@@ -67,6 +53,20 @@
     "episode": 21,
     "image": "https://i.animepahe.ru/uploads/snapshots/08f31d058df3bebca0e943d3ee3e6e8372dfecd03ef3327296692e8683a873f0.jpg",
     "link": "https://animepahe.ru/play/29670402-de30-e595-802b-ced9c08857fa/7d4a1ac91b80ff6c33aff68a4448e670933783a4a11f1f44bcdebf02cdbb25d5",
+    "completed": 0
+  },
+  {
+    "title": "Food for the Soul",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5964cd4ec6ed9fc4c08ac50957af78b5eac9e0e130ca5efbf4ab7072d5204baa.jpg",
+    "link": "https://animepahe.ru/play/b79ed814-ac4b-3649-17a9-d04a9e27ae56/c012005e0d6d9f2e330a037e74d56f2141bbc80279755b17d47d5cefc2bb3c3e",
+    "completed": 0
+  },
+  {
+    "title": "Classic★Stars",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ae1e08db249d0b970616a3c041cf561f9076f8f85e4d031a30fa04028bac3a7f.jpg",
+    "link": "https://animepahe.ru/play/2267c8b1-4b92-777f-7b06-a4564d79d202/0b1a7277f644a4cdf98de01a1af77ffee13940087748c432a05eec38b43d05d3",
     "completed": 0
   }
 ]
