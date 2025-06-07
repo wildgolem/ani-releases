@@ -1,12 +1,5 @@
 [
   {
-    "title": "Wind Breaker Season 2",
-    "episode": 23,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1c72c9e436dafe454d18016418c8c25ce1ccfbb94196b39faab5f8d800c73af6.jpg",
-    "link": "https://animepahe.ru/play/515dd441-386a-2ba3-6f79-e6e1e9c09802/bf60ef81c8769ca8cc88fe2ba66344007611f04631083eb0af6ef0e64993a6f4",
-    "completed": 0
-  },
-  {
     "title": "Beyblade X",
     "episode": 83,
     "image": "https://i.animepahe.ru/uploads/snapshots/b700f4ed68e441f4aad805544cb121fd434bd2391424c9110d94cfdedba538c7.jpg",
@@ -67,6 +60,13 @@
     "episode": 98,
     "image": "https://i.animepahe.ru/uploads/snapshots/9c7227919525802180596d71c971d524337e3b65d1911a604290bca14875a797.jpg",
     "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/bc03a43709d1d806c489f2de0812cce64872931922f21fdf8920452cc1cfb1f9",
+    "completed": 0
+  },
+  {
+    "title": "The Dinner Table Detective",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2344579007d30424e51a5bfc554733e5af6afe051f625378ec398689f7ca4ae7.jpg",
+    "link": "https://animepahe.ru/play/d893f96b-4396-8c95-bd66-32219070071f/7f9c23ecb5058623c576f9e3c63690b1fa60eb0472364ab6d4f16a8f5d488b81",
     "completed": 0
   }
 ]
