@@ -1,12 +1,5 @@
 [
   {
-    "title": "Himitsu no AiPri: Ring-hen",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4a5025f36b3324d18ca8a93cf00d62614908bd5a5caefef11a491c7afa641c8f.jpg",
-    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/249e82476bf7eb6e9c2b6eb2a4d84cd46290c0bb8f24373bcd29c2c3f5eaaaf0",
-    "completed": 0
-  },
-  {
     "title": "The All-devouring Whale: Homecoming",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/379517c6aed4991426414864b4d73be8265f08c590ad3b2606996ffc3c060eb5.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/5d35a3bd9e42fc624a41929a7687b6d1d1487edf668fc37dbbc04ba4cdb91aac.jpg",
     "link": "https://animepahe.ru/play/60dce763-1e23-9f3a-9291-7b3ef9bfaeda/7671070019009d64917de694c82940a0810f323f5adc00dbff0d81b205856df6",
+    "completed": 0
+  },
+  {
+    "title": "Black Butler: Emerald Witch Arc",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b5dd304e8dc5f4d6443f9960999746540418e8627c2f47919e6a6109a3b0b9ce.jpg",
+    "link": "https://animepahe.ru/play/6b42b16b-13b1-7cfb-a19a-a9670bddc933/80bff01ec77d5b80a4a8e9c13f03182c2f925fc437da7bd7752d596b5fea63ac",
     "completed": 0
   }
 ]
