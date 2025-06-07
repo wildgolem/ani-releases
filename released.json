@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Apothecary Diaries Season 2",
-    "episode": 45,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ca3ccb88071cb0fd95832890cb0c6b4f18c4505dc3f0f22bd5f14fbd9b16557d.jpg",
-    "link": "https://animepahe.ru/play/44302c02-ac39-d56b-1bf4-a7e9628f9c8d/6d8939017298df38bd8b7ce50d9aab72c8d6ac8e39b3b8cfc4475a1cae5a7797",
-    "completed": 0
-  },
-  {
     "title": "Fire Force Season 3",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/ef860ea17698f7161025ee59d60ea9631d7ff2929a04e333900db8a4c4ed855f.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/51604a1b674280c411d88c1d7897bdabfee0216857a43fe429ac101bbcac727b.jpg",
     "link": "https://animepahe.ru/play/5f565bf2-d17e-07ee-fb2c-037e66a5c524/fa2a1bf3a51cdfe19884109f47a314294d61cb076541c02c0a78d57b0c14ab96",
+    "completed": 0
+  },
+  {
+    "title": "From Old Country Bumpkin to Master Swordsman",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c608e59be92015bd0f57002503f9043f51c4b34833ed8be3279964adca4863e7.jpg",
+    "link": "https://animepahe.ru/play/43e7d8e6-89ee-d3f3-ff48-b1cd97829338/c180bdaed00060a16570b8a6816d942a3644f5552a23fdfb16c6da5542e960f3",
     "completed": 0
   }
 ]
