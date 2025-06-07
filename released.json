@@ -1,19 +1,5 @@
 [
   {
-    "title": "Bye Bye, Earth Season 2",
-    "episode": 20,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a5fbb03f67da9227d5d02e08fbad8be6898f12645e41996116653e55d790db7a.jpg",
-    "link": "https://animepahe.ru/play/c5ce80f2-1320-8a53-d6c6-c99b8ffc28aa/d4e2f23c978ad128b3ae39b2f88235cfb2d4144d45b787d4f293306963448faf",
-    "completed": 1
-  },
-  {
-    "title": "Teogonia",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e7d90d44ce145483f6f1ceae06b5745624ff2099f4b58ba8a673286de9188b58.jpg",
-    "link": "https://animepahe.ru/play/6520ee5f-5081-c81e-b2e5-53b20b81de62/36c9d2e2e1ffee7d01e36af6d71b660bf2a20ff1aa4d9be792a8065841ac55ca",
-    "completed": 0
-  },
-  {
     "title": "The Apothecary Diaries Season 2",
     "episode": 45,
     "image": "https://i.animepahe.ru/uploads/snapshots/ca3ccb88071cb0fd95832890cb0c6b4f18c4505dc3f0f22bd5f14fbd9b16557d.jpg",
@@ -67,6 +53,20 @@
     "episode": 1164,
     "image": "https://i.animepahe.ru/uploads/snapshots/729b44b72264d01ff3d0aa52dc7e413b3671034f20d0bac68434a33c23f9eea4.jpg",
     "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/94af2e31b161f1a101a98f120934a8bfb4cf16e3da326abe3d20b2aba0df7147",
+    "completed": 0
+  },
+  {
+    "title": "Anne Shirley",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a9a99a8fa2a2f7f20681d3931468fac95ca70bc2317d03e28ee9f817c3a0da13.jpg",
+    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/bcd9dcb6dcf3309f49b3e37e71fb383eded57d9ed9e83cf69d6642ebb3ff517a",
+    "completed": 0
+  },
+  {
+    "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/51604a1b674280c411d88c1d7897bdabfee0216857a43fe429ac101bbcac727b.jpg",
+    "link": "https://animepahe.ru/play/5f565bf2-d17e-07ee-fb2c-037e66a5c524/fa2a1bf3a51cdfe19884109f47a314294d61cb076541c02c0a78d57b0c14ab96",
     "completed": 0
   }
 ]
