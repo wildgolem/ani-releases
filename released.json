@@ -1,19 +1,5 @@
 [
   {
-    "title": "Meitantei Conan",
-    "episode": 1164,
-    "image": "https://i.animepahe.ru/uploads/snapshots/729b44b72264d01ff3d0aa52dc7e413b3671034f20d0bac68434a33c23f9eea4.jpg",
-    "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/94af2e31b161f1a101a98f120934a8bfb4cf16e3da326abe3d20b2aba0df7147",
-    "completed": 0
-  },
-  {
-    "title": "Anne Shirley",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a9a99a8fa2a2f7f20681d3931468fac95ca70bc2317d03e28ee9f817c3a0da13.jpg",
-    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/bcd9dcb6dcf3309f49b3e37e71fb383eded57d9ed9e83cf69d6642ebb3ff517a",
-    "completed": 0
-  },
-  {
     "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/51604a1b674280c411d88c1d7897bdabfee0216857a43fe429ac101bbcac727b.jpg",
@@ -67,6 +53,20 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/ae1e08db249d0b970616a3c041cf561f9076f8f85e4d031a30fa04028bac3a7f.jpg",
     "link": "https://animepahe.ru/play/2267c8b1-4b92-777f-7b06-a4564d79d202/0b1a7277f644a4cdf98de01a1af77ffee13940087748c432a05eec38b43d05d3",
+    "completed": 0
+  },
+  {
+    "title": "Shoshimin: How to Become Ordinary Season 2",
+    "episode": 20,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f8d358adb9638bdd2f44ec5a20ed6f4df78f58691e769e893d3a75000c2ba09d.jpg",
+    "link": "https://animepahe.ru/play/88ae6b0f-ee15-0707-1d80-98d8ec4425a9/409f24ac2d57d7feb117fccf9725ff8fb52000c363146e5310724a412afe427a",
+    "completed": 0
+  },
+  {
+    "title": "I'm the Evil Lord of an Intergalactic Empire!",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/07ac82f5dac1a47eb805b2c7cac69f4a7f4d208fdad09dcd05e9e50b7ae8b348.jpg",
+    "link": "https://animepahe.ru/play/83837af5-73ae-503d-4362-f5389e634697/44619b6a7f2affda7cedb44135fbd4c2beaa105831213eddea0545d220f16c4b",
     "completed": 0
   }
 ]
