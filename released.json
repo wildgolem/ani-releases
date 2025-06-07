@@ -1,12 +1,5 @@
 [
   {
-    "title": "Beyblade X",
-    "episode": 83,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b700f4ed68e441f4aad805544cb121fd434bd2391424c9110d94cfdedba538c7.jpg",
-    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/33244943af443128b2c4209d64fd8ad8860478b35085b7f237d81bada6d50384",
-    "completed": 0
-  },
-  {
     "title": "Can a Boy-Girl Friendship Survive?",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/5e9e868305afa969e14b78dfbba1538e7e9590a7ede6be02540e6b7b708b0911.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/2344579007d30424e51a5bfc554733e5af6afe051f625378ec398689f7ca4ae7.jpg",
     "link": "https://animepahe.ru/play/d893f96b-4396-8c95-bd66-32219070071f/7f9c23ecb5058623c576f9e3c63690b1fa60eb0472364ab6d4f16a8f5d488b81",
+    "completed": 0
+  },
+  {
+    "title": "Yaiba: Samurai Legend",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/725103105efa28c4faf444ff744e320d9dd4c4e26ed4a428919e35162287c9d3.jpg",
+    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/eccd6ae5d221846b19493792e6e4d873693f5f50bace5c37ce92cdc60feeec9b",
     "completed": 0
   }
 ]
