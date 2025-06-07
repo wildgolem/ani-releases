@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Brilliant Healer's New Life in the Shadows",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/968e57dc06543f7d382013e6367dc00dd082b2c975ea2210e02152c40effd3dc.jpg",
-    "link": "https://animepahe.ru/play/c487ca7f-036c-fc0f-da9d-a6f670f7751c/4dfc38e7081754ab42a633bb52d2279ab4ca27f95130e5d1566a83d96bf7efd3",
-    "completed": 0
-  },
-  {
     "title": "Rock Is a Lady's Modesty",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/c18ff3a999dc068f2e29c411abc0bbfdb63381d4a5926c5474e8c1b6c5ca8922.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/4a5025f36b3324d18ca8a93cf00d62614908bd5a5caefef11a491c7afa641c8f.jpg",
     "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/249e82476bf7eb6e9c2b6eb2a4d84cd46290c0bb8f24373bcd29c2c3f5eaaaf0",
+    "completed": 0
+  },
+  {
+    "title": "The All-devouring Whale: Homecoming",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/379517c6aed4991426414864b4d73be8265f08c590ad3b2606996ffc3c060eb5.jpg",
+    "link": "https://animepahe.ru/play/8638b3f9-7333-55d7-11aa-ee4fe1d047a0/1f1fc6bd797de0fc0e9208cc004511e762d417f5bd9a35af0862f8c979779dd8",
     "completed": 0
   }
 ]
