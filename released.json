@@ -1,12 +1,5 @@
 [
   {
-    "title": "You and Idol Precure♪",
-    "episode": 18,
-    "image": "https://i.animepahe.ru/uploads/snapshots/932170ddb101353f706fe81dc66b8555bc6f340feb0aa0c27fad51220e4c6774.jpg",
-    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/ce4af18d1e6156713190489d8593809ca83812391df43d0e320ba7de5fe831de",
-    "completed": 0
-  },
-  {
     "title": "Witch Watch",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/d56ff125b6c0d038c9545016a21bc4897792930ba048134d930608b2fb3bbe97.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/ce37da675ba4c5f49c239ba4aad3a3e18b997e949786e3a3568b0849ea5a2c0f.jpg",
     "link": "https://animepahe.ru/play/bb77d96f-d2ec-73ae-9af1-46898257aa0b/6f6fc6e2b74863dca76be4c47295634941013422ba8d983e729c550d142c0e04",
+    "completed": 0
+  },
+  {
+    "title": "Lazarus",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b8ba3329e84d09eeb8ad2adb88a6fe7e939c4d08718853ad4f20b708c455e9ed.jpg",
+    "link": "https://animepahe.ru/play/0675f2a0-5d95-5998-5376-2e096bed54ce/bc9951f3638bf3d5a93b049ce2c793214a71d9db1742ab401ff52b73178564bd",
     "completed": 0
   }
 ]
