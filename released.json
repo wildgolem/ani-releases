@@ -1,19 +1,5 @@
 [
   {
-    "title": "Uma Musume: Cinderella Gray",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/41d487d7f89639813fe11349eb92f5a49bcfad22424d95700f8557c7c964af48.jpg",
-    "link": "https://animepahe.ru/play/b35e44f1-70cd-9362-593d-4b62705f3151/f22d16f88709affc16bcee14277c2b40d2927cfea04af75a6b3a00421977e46f",
-    "completed": 0
-  },
-  {
-    "title": "Shirohiyo - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d6dff9353dba2117e2bfe0b338f44d83e8ea99414c3a002822fbe6e18e50782e.jpg",
-    "link": "https://animepahe.ru/play/cb49b9d1-2396-39e6-8f76-f23b3607aff0/ef34501f005666903b88a0204f3136942c2d2744c6c8080a4ea968b077aceff8",
-    "completed": 0
-  },
-  {
     "title": "The Unaware Atelier Meister",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/f3b6f08c18747915491e1676f25c17095ad04f4e9193f7878e582e2b822c819c.jpg",
@@ -67,6 +53,20 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/6aca88f6aea5f3142ac4ac579b769b7dbfecf67644863c1f40b2d5959584d534.jpg",
     "link": "https://animepahe.ru/play/cbfc665c-fa2c-43b1-3827-84f9e7df10bd/1b9e579bed6e081f3c4083777849529b76d30216fb0c40794d0c4aa191793343",
+    "completed": 0
+  },
+  {
+    "title": "Aharen-san wa Hakarenai Season 2",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/22823e8a8b3b22f5ec7cf64ec0b6e068392e9352c631c00f838648901d2be8b6.jpg",
+    "link": "https://animepahe.ru/play/6ef5ed34-6366-534d-cd1c-65379c8bfa96/7deacf51d247265ec62bc116a8f2065429cffb0051b103558cfafad1f2d52855",
+    "completed": 0
+  },
+  {
+    "title": "Zatsu Tabi: That's Journey",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/1b72bbe545a7e3cd64128f7df77ef43dd68117e73e578ebac33d37d10df2e9bb.jpg",
+    "link": "https://animepahe.ru/play/74a7b937-6d52-a599-4b6f-b74c8ff664ab/d23967b2f8416f10b4a46e3c3926e80c8f8e68082ce7b4752f303d636e2b2b3f",
     "completed": 0
   }
 ]
