@@ -1,12 +1,5 @@
 [
   {
-    "title": "One Piece",
-    "episode": 1132,
-    "image": "https://i.animepahe.ru/uploads/snapshots/cab51aa46fea9ec30dac1b0ab1e85137678457801aad9db8ec55ccd1b242b7ad.jpg",
-    "link": "https://animepahe.ru/play/d58fc9f8-582e-fdf0-3618-112cd54ed5ab/e41eafcc0fc53f3baf483b6e330bb8ef13e00a1a949f215d2f37508ecbf5018f",
-    "completed": 0
-  },
-  {
     "title": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/ce37da675ba4c5f49c239ba4aad3a3e18b997e949786e3a3568b0849ea5a2c0f.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/4a9e8f9261e32a683153433e8f509a18738a63d1e9a22729163424a48f2b1a60.jpg",
     "link": "https://animepahe.ru/play/3f4e86ac-1a0a-3b30-2f93-d5210d1c455f/a3c60415401a12f3b297969bec8b5f68dfa3ad7dfb61b1a8add75312e8bd5496",
+    "completed": 0
+  },
+  {
+    "title": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/34dd5c61f7cfdb3fc1243003ca4797e2b193405cdbc4ca6f665a017f0c615b1b.jpg",
+    "link": "https://animepahe.ru/play/501f91f6-5ecf-920c-b735-df646375f827/3bc917c76171bd5867773246a682f2aede9f985d04ddeca6d7736399c106b427",
     "completed": 0
   }
 ]
