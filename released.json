@@ -1,12 +1,5 @@
 [
   {
-    "title": "Summer Pockets",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f52f18358882278bc13ffa2d2509c6d180f64921db2da92d436abb0d4ab162d1.jpg",
-    "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/b45babbe2327da3f24d7ee604dc8ff533d7b0065924c3459644fe54840c8ef02",
-    "completed": 0
-  },
-  {
     "title": "My Hero Academia: Vigilantes",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/a0af42558c87d9bb36ffeb78d81b7968afc42c7dab77ba6ca9ce6e64e36b3563.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/6e1e72475820a83e6e6ee09747e43cd17ff3d69b225b0117aa68bd68c4cd430a.jpg",
     "link": "https://animepahe.ru/play/72a32719-7054-f3d9-447f-19ef80df327d/fc27342ab150b3f39d58f007acf83790635d495af868e63cf8cd81e4a4d09ff3",
+    "completed": 0
+  },
+  {
+    "title": "Mobile Suit Gundam: GQuuuuuuX",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8e0633f7d7e3f78f67128dd7f519bd7f5c5037b43572726652899049d0e5c365.jpg",
+    "link": "https://animepahe.ru/play/f92a8c34-c4d1-29d4-275e-6786fdcf44c0/c8b9302e43c5149a9f2a91b5a05869ef87602220b005563a3d6aedd075bb0fdc",
     "completed": 0
   }
 ]
