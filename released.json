@@ -1,12 +1,5 @@
 [
   {
-    "title": "Sword of the Demon Hunter: Kijin Gentosho",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/44e7d7fbad357bb0bff6514440d9bb3a559a96b8df39200dc834fdf9d3613097.jpg",
-    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/475a68af4e547d687cda7114245463a29cfbc669b4c04dc769b4f6c670044cfb",
-    "completed": 0
-  },
-  {
     "title": "Summer Pockets",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/f52f18358882278bc13ffa2d2509c6d180f64921db2da92d436abb0d4ab162d1.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/becce8bc0a1ed78e224ded807732d86021e337c32a27fc898b866e94f35e934f.jpg",
     "link": "https://animepahe.ru/play/725977f5-fd3b-e079-d26c-c74de6e8458a/98d4d2de82f76be25a5bd36a3c39a4dab713ea856e9b81c5fd1f1b320d6b8d71",
+    "completed": 0
+  },
+  {
+    "title": "Once Upon a Witch's Death",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/6e1e72475820a83e6e6ee09747e43cd17ff3d69b225b0117aa68bd68c4cd430a.jpg",
+    "link": "https://animepahe.ru/play/72a32719-7054-f3d9-447f-19ef80df327d/fc27342ab150b3f39d58f007acf83790635d495af868e63cf8cd81e4a4d09ff3",
     "completed": 0
   }
 ]
