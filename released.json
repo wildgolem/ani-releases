@@ -1,12 +1,5 @@
 [
   {
-    "title": "Zatsu Tabi: That's Journey",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1b72bbe545a7e3cd64128f7df77ef43dd68117e73e578ebac33d37d10df2e9bb.jpg",
-    "link": "https://animepahe.ru/play/74a7b937-6d52-a599-4b6f-b74c8ff664ab/d23967b2f8416f10b4a46e3c3926e80c8f8e68082ce7b4752f303d636e2b2b3f",
-    "completed": 0
-  },
-  {
     "title": "Sword of the Demon Hunter: Kijin Gentosho",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/44e7d7fbad357bb0bff6514440d9bb3a559a96b8df39200dc834fdf9d3613097.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/dbf5b7b8b5b8b0bba9285d2868ae29baf8b021a90599fa478490927fe53269fa.jpg",
     "link": "https://animepahe.ru/play/80be9a0c-943d-e236-3fd1-bc2bcd628167/b1b41b9d82e82d697dbd6d8f1ddcfd3955fe0466ea6182c20587882c8943bd18",
+    "completed": 0
+  },
+  {
+    "title": "Please Put Them On, Takamine-san",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/becce8bc0a1ed78e224ded807732d86021e337c32a27fc898b866e94f35e934f.jpg",
+    "link": "https://animepahe.ru/play/725977f5-fd3b-e079-d26c-c74de6e8458a/98d4d2de82f76be25a5bd36a3c39a4dab713ea856e9b81c5fd1f1b320d6b8d71",
     "completed": 0
   }
 ]
