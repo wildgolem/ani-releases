@@ -1,26 +1,5 @@
 [
   {
-    "title": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ce37da675ba4c5f49c239ba4aad3a3e18b997e949786e3a3568b0849ea5a2c0f.jpg",
-    "link": "https://animepahe.ru/play/bb77d96f-d2ec-73ae-9af1-46898257aa0b/6f6fc6e2b74863dca76be4c47295634941013422ba8d983e729c550d142c0e04",
-    "completed": 0
-  },
-  {
-    "title": "Lazarus",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b8ba3329e84d09eeb8ad2adb88a6fe7e939c4d08718853ad4f20b708c455e9ed.jpg",
-    "link": "https://animepahe.ru/play/0675f2a0-5d95-5998-5376-2e096bed54ce/bc9951f3638bf3d5a93b049ce2c793214a71d9db1742ab401ff52b73178564bd",
-    "completed": 0
-  },
-  {
-    "title": "Makina-san's a Love Bot?!",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/6aca88f6aea5f3142ac4ac579b769b7dbfecf67644863c1f40b2d5959584d534.jpg",
-    "link": "https://animepahe.ru/play/cbfc665c-fa2c-43b1-3827-84f9e7df10bd/1b9e579bed6e081f3c4083777849529b76d30216fb0c40794d0c4aa191793343",
-    "completed": 0
-  },
-  {
     "title": "Aharen-san wa Hakarenai Season 2",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/22823e8a8b3b22f5ec7cf64ec0b6e068392e9352c631c00f838648901d2be8b6.jpg",
@@ -68,5 +47,26 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/34dd5c61f7cfdb3fc1243003ca4797e2b193405cdbc4ca6f665a017f0c615b1b.jpg",
     "link": "https://animepahe.ru/play/501f91f6-5ecf-920c-b735-df646375f827/3bc917c76171bd5867773246a682f2aede9f985d04ddeca6d7736399c106b427",
     "completed": 0
+  },
+  {
+    "title": "Fureru.",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8e0d9d2d673f9e6ba0379870421183bf40ad79bd58640621c399115e932a2bfa.jpg",
+    "link": "https://animepahe.ru/play/f2fe8495-c6f1-2e34-1da5-08d8a8614e53/2f38318b981b31259acd3ee21e0d4e365f48d05d067a03246b02d9369e8eb7e1",
+    "completed": 1
+  },
+  {
+    "title": "Nasu: Summer in Andalusia",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/69e87050d882ad250084de8ba3e8cbb1e537cb15ffefabc69ed1c091b32b1a93.jpg",
+    "link": "https://animepahe.ru/play/bda19407-9ef1-42ba-5ea3-16a54e7a5c7d/0b39a68e69303b9de7f1b12f15f42621171edfd26413ff139d2dee8ecda7001e",
+    "completed": 1
+  },
+  {
+    "title": "Bastard‼ Heavy Metal, Dark Fantasy Season 2",
+    "episode": 15,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4e8c7ab28ae8dfe142479e737dea6d470e87262f505b5bdf4f6585d123b7b7f6.jpg",
+    "link": "https://animepahe.ru/play/5e72c59b-0eaa-6c38-bf82-d3c7c29b0abe/5549ae8ddb1a55fff8f01404127065afb01fdd0bea948912570fb6d10dd33d21",
+    "completed": 1
   }
 ]
