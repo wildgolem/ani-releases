@@ -1,12 +1,5 @@
 [
   {
-    "title": "#Compass2.0: Animation Project",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4a9e8f9261e32a683153433e8f509a18738a63d1e9a22729163424a48f2b1a60.jpg",
-    "link": "https://animepahe.ru/play/3f4e86ac-1a0a-3b30-2f93-d5210d1c455f/a3c60415401a12f3b297969bec8b5f68dfa3ad7dfb61b1a8add75312e8bd5496",
-    "completed": 0
-  },
-  {
     "title": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/34dd5c61f7cfdb3fc1243003ca4797e2b193405cdbc4ca6f665a017f0c615b1b.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/925505c781045f03ccaa28ea95674f70add208974448db475db5ee1bffd7c989.jpg",
     "link": "https://animepahe.ru/play/e69e2f9d-3027-7dba-1170-1b9c99c727f3/e1ed1daa0ea542e67191ac519f53b7d0fc9c42b426bbb38119e9437b553f9fdf",
+    "completed": 0
+  },
+  {
+    "title": "Apocalypse Hotel",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8299840cbc3be8163b6b3cbf1380a4d5e746322054d5d920a3bfa5c4070b7798.jpg",
+    "link": "https://animepahe.ru/play/71a95120-95dc-7512-10e5-156a393f0003/f7366469293a6b449d4e99311f9ae66f81fe979ce09610cd8ac326933b767335",
     "completed": 0
   }
 ]
