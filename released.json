@@ -1,12 +1,5 @@
 [
   {
-    "title": "Nasu: Summer in Andalusia",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/69e87050d882ad250084de8ba3e8cbb1e537cb15ffefabc69ed1c091b32b1a93.jpg",
-    "link": "https://animepahe.ru/play/bda19407-9ef1-42ba-5ea3-16a54e7a5c7d/0b39a68e69303b9de7f1b12f15f42621171edfd26413ff139d2dee8ecda7001e",
-    "completed": 1
-  },
-  {
     "title": "Bastard‼ Heavy Metal, Dark Fantasy Season 2",
     "episode": 15,
     "image": "https://i.animepahe.ru/uploads/snapshots/4e8c7ab28ae8dfe142479e737dea6d470e87262f505b5bdf4f6585d123b7b7f6.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/fc1a366a34f52b8f1ec813856b601ed4452685d76385ca26b7a76ef8d5991d25.jpg",
     "link": "https://animepahe.ru/play/35c39232-0133-ec5b-b3b9-0d6a7d7bf7b7/4dc6480b0209c505826e4b7d25121da40071367a458de341677c2ead4b0231a6",
+    "completed": 0
+  },
+  {
+    "title": "The Beginning After the End",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/29dd5b99997921802be82809157739acc14fe252cc849cec4167bc6415f24ef7.jpg",
+    "link": "https://animepahe.ru/play/5e6bd405-6f6d-e47f-caa2-34ea579f2d64/668d5a128e70c666940b5d6a3e94c0944f83322a108628be8a67b480919ce67f",
     "completed": 0
   }
 ]
