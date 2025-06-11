@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/34dd5c61f7cfdb3fc1243003ca4797e2b193405cdbc4ca6f665a017f0c615b1b.jpg",
-    "link": "https://animepahe.ru/play/501f91f6-5ecf-920c-b735-df646375f827/3bc917c76171bd5867773246a682f2aede9f985d04ddeca6d7736399c106b427",
-    "completed": 0
-  },
-  {
     "title": "Fureru.",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/8e0d9d2d673f9e6ba0379870421183bf40ad79bd58640621c399115e932a2bfa.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/8299840cbc3be8163b6b3cbf1380a4d5e746322054d5d920a3bfa5c4070b7798.jpg",
     "link": "https://animepahe.ru/play/71a95120-95dc-7512-10e5-156a393f0003/f7366469293a6b449d4e99311f9ae66f81fe979ce09610cd8ac326933b767335",
+    "completed": 0
+  },
+  {
+    "title": "Your Forma",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/478d8aba77d9c621f5d88e6fa58b3963646f8abb70868002ad4df3dcf03bf6af.jpg",
+    "link": "https://animepahe.ru/play/0f4cc85c-bd29-67f6-a582-bc22a9882073/c4349fd56dca7294954e068d97133feda685011940e916c2cf372ae136db1c09",
     "completed": 0
   }
 ]
