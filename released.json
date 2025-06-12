@@ -1,12 +1,5 @@
 [
   {
-    "title": "Apocalypse Hotel",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/8299840cbc3be8163b6b3cbf1380a4d5e746322054d5d920a3bfa5c4070b7798.jpg",
-    "link": "https://animepahe.ru/play/71a95120-95dc-7512-10e5-156a393f0003/f7366469293a6b449d4e99311f9ae66f81fe979ce09610cd8ac326933b767335",
-    "completed": 0
-  },
-  {
     "title": "Your Forma",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/478d8aba77d9c621f5d88e6fa58b3963646f8abb70868002ad4df3dcf03bf6af.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/3b29e3c27f45734d304e6ef7dc7b584d95f4493a3901bef49ddbfc794c0bc2f1.jpg",
     "link": "https://animepahe.ru/play/06eaab74-0977-aebc-f50e-adc5d42bd574/3c2a9a76db2b3c729a3835dda0dc062f4f7a617c0318cc41750442254169b87d",
+    "completed": 0
+  },
+  {
+    "title": "Wind Breaker Season 2",
+    "episode": 24,
+    "image": "https://i.animepahe.ru/uploads/snapshots/965536fb326a435443067635c580492522496ddcf81079836e94920d30179f8f.jpg",
+    "link": "https://animepahe.ru/play/515dd441-386a-2ba3-6f79-e6e1e9c09802/a6399696d987035b4063a625d57266525fad3c3ee576a6606dba33ee8ac08367",
     "completed": 0
   }
 ]
