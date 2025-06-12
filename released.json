@@ -1,12 +1,5 @@
 [
   {
-    "title": "Bastard‼ Heavy Metal, Dark Fantasy Season 2",
-    "episode": 15,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4e8c7ab28ae8dfe142479e737dea6d470e87262f505b5bdf4f6585d123b7b7f6.jpg",
-    "link": "https://animepahe.ru/play/5e72c59b-0eaa-6c38-bf82-d3c7c29b0abe/5549ae8ddb1a55fff8f01404127065afb01fdd0bea948912570fb6d10dd33d21",
-    "completed": 1
-  },
-  {
     "title": "The Shiunji Family Children",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/dbf5b7b8b5b8b0bba9285d2868ae29baf8b021a90599fa478490927fe53269fa.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/29dd5b99997921802be82809157739acc14fe252cc849cec4167bc6415f24ef7.jpg",
     "link": "https://animepahe.ru/play/5e6bd405-6f6d-e47f-caa2-34ea579f2d64/668d5a128e70c666940b5d6a3e94c0944f83322a108628be8a67b480919ce67f",
+    "completed": 0
+  },
+  {
+    "title": "Beyblade X",
+    "episode": 84,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2ae3757c3554b67299ba98e77f400597eac877df5615e2ee50c11ea2fed2efc2.jpg",
+    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/cb79c8c007d255422685d835afc42d3e69e4e73d54fb7be957ef2b2922ae0ab0",
     "completed": 0
   }
 ]
