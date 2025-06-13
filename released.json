@@ -1,12 +1,5 @@
 [
   {
-    "title": "Beyblade X",
-    "episode": 84,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2ae3757c3554b67299ba98e77f400597eac877df5615e2ee50c11ea2fed2efc2.jpg",
-    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/cb79c8c007d255422685d835afc42d3e69e4e73d54fb7be957ef2b2922ae0ab0",
-    "completed": 0
-  },
-  {
     "title": "Me and the Alien MuMu",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/4dc623f23201ffa571ea64c33ff3beb4fb573dd6146ae06c9efd055d6ebebb22.jpg",
@@ -67,6 +60,13 @@
     "episode": 46,
     "image": "https://i.animepahe.ru/uploads/snapshots/26b4ae0c3d3979195bf2c907037c0eafead5ec2409a4c570c2daeeebc3a69eb3.jpg",
     "link": "https://animepahe.ru/play/44302c02-ac39-d56b-1bf4-a7e9628f9c8d/185b77a4c543ad92dabceedee778ac072b8af915ddfe92e02fb4b467603d5042",
+    "completed": 0
+  },
+  {
+    "title": "Fire Force Season 3",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7c6705be49ce842d978d38a60047495c8d1b0801f7d2770fe77f5be6da294b1b.jpg",
+    "link": "https://animepahe.ru/play/ba8c192e-a01d-8fd1-91fa-5b862f95784d/ccb80162477e1bc541f0d8c7b9418b438495220e481f4a98216b49ff823f8950",
     "completed": 0
   }
 ]
