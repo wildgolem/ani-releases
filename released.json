@@ -1,12 +1,5 @@
 [
   {
-    "title": "Anne Shirley",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/35881d1baca0b972c6d583c0973bf35da49ea95dc27805498530b51bae2f6443.jpg",
-    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/70a62f7145e49a93fd2496d88108682a7b22aff6ba84662c30c34b8845a711fb",
-    "completed": 0
-  },
-  {
     "title": "From Old Country Bumpkin to Master Swordsman",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/ee58d06b94272b443a0ef116c2d68ef75d1ecf09a8baf79e15e416e47fd18c11.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/05dadee808a161fee03cea87042532785f4e4986be4f0d9d7326e2776e3645a4.jpg",
     "link": "https://animepahe.ru/play/83837af5-73ae-503d-4362-f5389e634697/c53cfe45742621e9c4598cb5ee7caa2ed88b5a1ea314b2cd28743ed53c99496b",
     "completed": 0
+  },
+  {
+    "title": "Touhai: Ura Rate Mahjong Touhairoku",
+    "episode": 25,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b83a4e80acbf52e873d40d1cb96f999a4b660f34544440ed8aeed021c945ebe5.jpg",
+    "link": "https://animepahe.ru/play/6cd16896-ec99-323c-5608-2e30ce3a3d60/3d876fe1f0d83b27a66f86c71240c01237ecc68563c8c7a810ec0208d008a7a5",
+    "completed": 1
   }
 ]
