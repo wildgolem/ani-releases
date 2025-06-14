@@ -1,12 +1,5 @@
 [
   {
-    "title": "Rock Is a Lady's Modesty",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3b29e3c27f45734d304e6ef7dc7b584d95f4493a3901bef49ddbfc794c0bc2f1.jpg",
-    "link": "https://animepahe.ru/play/06eaab74-0977-aebc-f50e-adc5d42bd574/3c2a9a76db2b3c729a3835dda0dc062f4f7a617c0318cc41750442254169b87d",
-    "completed": 0
-  },
-  {
     "title": "Wind Breaker Season 2",
     "episode": 24,
     "image": "https://i.animepahe.ru/uploads/snapshots/965536fb326a435443067635c580492522496ddcf81079836e94920d30179f8f.jpg",
@@ -67,6 +60,13 @@
     "episode": 99,
     "image": "https://i.animepahe.ru/uploads/snapshots/19acbddc79546dd47cc9efa141af98f1a3b36048b984cb059b8d448357d14c48.jpg",
     "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/a9a076023de16713e8a5eab659cef2e5c0e30daf5258651075125a6f219d20f6",
+    "completed": 0
+  },
+  {
+    "title": "Yaiba: Samurai Legend",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/466b82288fdb66d47d8475ceefdd67b55429c91ba5510e5fb9a4077f572f098a.jpg",
+    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/6296fc4cda68864b93a873c36c3fce50f5f8b3b1a5fea73e047fd64b15481806",
     "completed": 0
   }
 ]
