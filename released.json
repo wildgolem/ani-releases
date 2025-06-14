@@ -1,12 +1,5 @@
 [
   {
-    "title": "Wind Breaker Season 2",
-    "episode": 24,
-    "image": "https://i.animepahe.ru/uploads/snapshots/965536fb326a435443067635c580492522496ddcf81079836e94920d30179f8f.jpg",
-    "link": "https://animepahe.ru/play/515dd441-386a-2ba3-6f79-e6e1e9c09802/a6399696d987035b4063a625d57266525fad3c3ee576a6606dba33ee8ac08367",
-    "completed": 0
-  },
-  {
     "title": "Can a Boy-Girl Friendship Survive?",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/f37da9d25ef0019775230558506b7c67cb438ac01277da5524ce0e66e1389c78.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/466b82288fdb66d47d8475ceefdd67b55429c91ba5510e5fb9a4077f572f098a.jpg",
     "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/6296fc4cda68864b93a873c36c3fce50f5f8b3b1a5fea73e047fd64b15481806",
+    "completed": 0
+  },
+  {
+    "title": "Meitantei Conan",
+    "episode": 1165,
+    "image": "https://i.animepahe.ru/uploads/snapshots/dd4cae286eeff900ddfcb3c45f809e09118991ace85e483a216633b27602f7a6.jpg",
+    "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/41e96ec4573151fa1863eb205757d60a7a7a90e56b58f86fb9cf48d61ef86e2d",
     "completed": 0
   }
 ]
