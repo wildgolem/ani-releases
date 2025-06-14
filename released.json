@@ -1,12 +1,5 @@
 [
   {
-    "title": "Our Last Crusade or the Rise of a New World Season 2",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c75a4450e13e8464c8a2e3012e5f887d0036bf5064b374dbefd2a1f1f5d4d367.jpg",
-    "link": "https://animepahe.ru/play/e1a2aee9-2346-282c-d6c0-b85e7c5bb925/c22541de890be37c0acc539eccf666cd695184389c21402ba5aa461f809d6846",
-    "completed": 0
-  },
-  {
     "title": "A Ninja and an Assassin Under One Roof",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/1d273a3bd2c74dce33083d4addbc5220bac8ae0da04011324dac9fe9327c1742.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/36f3c66aed4dedb5134185ea903f2984b7189691756b09649ae9b3ce840a4073.jpg",
     "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/b2dd4e692e56c0b5a995a8f7319c272349f3f7c6bce297a0c8ea8b74a13417ca",
+    "completed": 0
+  },
+  {
+    "title": "The Dinner Table Detective",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b15a57cb6acefa815845925dcc7583156c03ce2132e8e4b98147d52f36d3d3a5.jpg",
+    "link": "https://animepahe.ru/play/d893f96b-4396-8c95-bd66-32219070071f/fb7f240136beaaa365501dce1b8a4b2a2b2a1c8feeea59b500276e9fb307f40f",
     "completed": 0
   }
 ]
