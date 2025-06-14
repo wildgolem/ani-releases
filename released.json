@@ -1,26 +1,5 @@
 [
   {
-    "title": "The All-devouring Whale: Homecoming",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/6700feeb4116d6cd78a44744377bd7041d5878424128792bdfc0dc0f50bdbb09.jpg",
-    "link": "https://animepahe.ru/play/8638b3f9-7333-55d7-11aa-ee4fe1d047a0/3d9b4b6a93ace2abf1e8c12b51c08baf69810fedec4c5ffa8a43a3937f9ca05d",
-    "completed": 0
-  },
-  {
-    "title": "Pokémon Horizons: The Series",
-    "episode": 99,
-    "image": "https://i.animepahe.ru/uploads/snapshots/19acbddc79546dd47cc9efa141af98f1a3b36048b984cb059b8d448357d14c48.jpg",
-    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/a9a076023de16713e8a5eab659cef2e5c0e30daf5258651075125a6f219d20f6",
-    "completed": 0
-  },
-  {
-    "title": "Yaiba: Samurai Legend",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/466b82288fdb66d47d8475ceefdd67b55429c91ba5510e5fb9a4077f572f098a.jpg",
-    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/6296fc4cda68864b93a873c36c3fce50f5f8b3b1a5fea73e047fd64b15481806",
-    "completed": 0
-  },
-  {
     "title": "Meitantei Conan",
     "episode": 1165,
     "image": "https://i.animepahe.ru/uploads/snapshots/dd4cae286eeff900ddfcb3c45f809e09118991ace85e483a216633b27602f7a6.jpg",
@@ -67,6 +46,27 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/de685b5eb445deb8dbb86c2272c78bd06d7c0e0f5743d82658cfde15dd7fb2ec.jpg",
     "link": "https://animepahe.ru/play/cdda01ba-50ca-a61b-f1ae-5e705c65994b/b1b5d7af8b0dba6b98b2537c09c2830bc8b4620b451670eaf7cbf284b14b0383",
+    "completed": 0
+  },
+  {
+    "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+    "episode": 22,
+    "image": "https://i.animepahe.ru/uploads/snapshots/da27ac5a4b021166fc5687aa68098b0d9ca7e69ea37b2adadf5628ad643e472d.jpg",
+    "link": "https://animepahe.ru/play/29670402-de30-e595-802b-ced9c08857fa/ef79d34c10517b40ab2d3e92e256b49c0e3ad63523f8bca6f4d57ba55a86bbbe",
+    "completed": 0
+  },
+  {
+    "title": "Food for the Soul",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4a8dd96eeb5f0f2316f12e81add6460ac13ff88e8bbbb66115076bd9dd912d9a.jpg",
+    "link": "https://animepahe.ru/play/b79ed814-ac4b-3649-17a9-d04a9e27ae56/303f384864d1d587bde363be3645783f34a8168a0d5b175dff3a4fde3a0a9828",
+    "completed": 0
+  },
+  {
+    "title": "Classic★Stars",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9aa579920d169941696bef982cbde81d6892c84f3593a9b37ab50f99c138530c.jpg",
+    "link": "https://animepahe.ru/play/2267c8b1-4b92-777f-7b06-a4564d79d202/2dd15a607c82f6aeb16b67c3c99cac1f5ed1bc680a8ea559b30513c76390ca14",
     "completed": 0
   }
 ]
