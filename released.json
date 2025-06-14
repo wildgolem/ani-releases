@@ -1,12 +1,5 @@
 [
   {
-    "title": "Himitsu no AiPri: Ring-hen",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/36f3c66aed4dedb5134185ea903f2984b7189691756b09649ae9b3ce840a4073.jpg",
-    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/b2dd4e692e56c0b5a995a8f7319c272349f3f7c6bce297a0c8ea8b74a13417ca",
-    "completed": 0
-  },
-  {
     "title": "The Dinner Table Detective",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/b15a57cb6acefa815845925dcc7583156c03ce2132e8e4b98147d52f36d3d3a5.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/7e4ae6ab8e116c9640cb79baff96111456e2eab7cdbc47de27c054f862b11bba.jpg",
     "link": "https://animepahe.ru/play/60dce763-1e23-9f3a-9291-7b3ef9bfaeda/924991561b490113076837a36ce45b6c68bd541a149952be4ea8a1cd57206da9",
+    "completed": 0
+  },
+  {
+    "title": "Black Butler: Emerald Witch Arc",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4db5b2b4f0277fdc0369ea9335c8364b7fc50c39bd7d9a56b2fc966c90b336d5.jpg",
+    "link": "https://animepahe.ru/play/6b42b16b-13b1-7cfb-a19a-a9670bddc933/72cfd2874c1ff4094d0d6bc8804d10727a6037e1af406274b364e864ee015db9",
     "completed": 0
   }
 ]
