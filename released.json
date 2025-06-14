@@ -1,19 +1,5 @@
 [
   {
-    "title": "Can a Boy-Girl Friendship Survive?",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f37da9d25ef0019775230558506b7c67cb438ac01277da5524ce0e66e1389c78.jpg",
-    "link": "https://animepahe.ru/play/aa5ffbb8-b35a-12d4-2e50-84a23f63eb02/8dbda110205d690cf1f831738868f9024c9616e4f4013ee0a19be89b49647fe1",
-    "completed": 0
-  },
-  {
-    "title": "Teogonia",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/10d264022c98f849ee64899c76ee63ecca19692e98f298efee30ae6ddbd2549b.jpg",
-    "link": "https://animepahe.ru/play/6520ee5f-5081-c81e-b2e5-53b20b81de62/5817076e64d30e9a092078ea9f28572ab29bb3ad5aa50c186703a107b0f1bf6f",
-    "completed": 0
-  },
-  {
     "title": "The Apothecary Diaries Season 2",
     "episode": 46,
     "image": "https://i.animepahe.ru/uploads/snapshots/26b4ae0c3d3979195bf2c907037c0eafead5ec2409a4c570c2daeeebc3a69eb3.jpg",
@@ -67,6 +53,20 @@
     "episode": 1165,
     "image": "https://i.animepahe.ru/uploads/snapshots/dd4cae286eeff900ddfcb3c45f809e09118991ace85e483a216633b27602f7a6.jpg",
     "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/41e96ec4573151fa1863eb205757d60a7a7a90e56b58f86fb9cf48d61ef86e2d",
+    "completed": 0
+  },
+  {
+    "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/73b64e4f427ae2162c4663480a01a80c9b48b890fc6c615780a00a5fadc50557.jpg",
+    "link": "https://animepahe.ru/play/5f565bf2-d17e-07ee-fb2c-037e66a5c524/fc5ef1025c68dbe286ca6938ad4aac27915e80f48007cd8250b7a28c4b2f24a7",
+    "completed": 0
+  },
+  {
+    "title": "Anne Shirley",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/35881d1baca0b972c6d583c0973bf35da49ea95dc27805498530b51bae2f6443.jpg",
+    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/70a62f7145e49a93fd2496d88108682a7b22aff6ba84662c30c34b8845a711fb",
     "completed": 0
   }
 ]
