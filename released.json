@@ -1,12 +1,5 @@
 [
   {
-    "title": "You and Idol Precure♪",
-    "episode": 19,
-    "image": "https://i.animepahe.ru/uploads/snapshots/648cc33801523c1de233c6a4380f44de5b3a47364bee6e4bc27c6faee4772d48.jpg",
-    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/c24b99e82f778e15f9bc684066ceb0972c0d3d3223c1ed162ce74b3d0546c2e6",
-    "completed": 0
-  },
-  {
     "title": "Uma Musume: Cinderella Gray",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/1db79a91809a01311b768e33ce2235867e0ac82f579fbc16ceb4639d83aeb4f9.jpg",
@@ -67,6 +60,13 @@
     "episode": 22,
     "image": "https://i.animepahe.ru/uploads/snapshots/5204f9e44e33af79e309f7d6a7938197be71d82559265175bc69d4ea1ec69958.jpg",
     "link": "https://animepahe.ru/play/e0ed6ecb-5dbc-e5fd-c665-fb10fb6bca49/f0df1883424b55201811fce4ac372954e71496767b1d3d2873c93e31139028c6",
+    "completed": 0
+  },
+  {
+    "title": "Lazarus",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a437f547de43a0358117490e3d3bd4eefeaba1b8eeff6e1d643626b9004d2e7b.jpg",
+    "link": "https://animepahe.ru/play/0675f2a0-5d95-5998-5376-2e096bed54ce/f0440f41eefbc7ca378d6825d8beac35d56a256a042cdf45b166eea42d00a864",
     "completed": 0
   }
 ]
