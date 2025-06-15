@@ -1,19 +1,5 @@
 [
   {
-    "title": "From Old Country Bumpkin to Master Swordsman",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ee58d06b94272b443a0ef116c2d68ef75d1ecf09a8baf79e15e416e47fd18c11.jpg",
-    "link": "https://animepahe.ru/play/43e7d8e6-89ee-d3f3-ff48-b1cd97829338/d76e0d96c480942e46f89753236601777e3237f8cc1d6cc44811b0a343302ce3",
-    "completed": 0
-  },
-  {
-    "title": "Kowloon Generic Romance",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7e4ae6ab8e116c9640cb79baff96111456e2eab7cdbc47de27c054f862b11bba.jpg",
-    "link": "https://animepahe.ru/play/60dce763-1e23-9f3a-9291-7b3ef9bfaeda/924991561b490113076837a36ce45b6c68bd541a149952be4ea8a1cd57206da9",
-    "completed": 0
-  },
-  {
     "title": "Black Butler: Emerald Witch Arc",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/4db5b2b4f0277fdc0369ea9335c8364b7fc50c39bd7d9a56b2fc966c90b336d5.jpg",
@@ -68,5 +54,19 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/b83a4e80acbf52e873d40d1cb96f999a4b660f34544440ed8aeed021c945ebe5.jpg",
     "link": "https://animepahe.ru/play/6cd16896-ec99-323c-5608-2e30ce3a3d60/3d876fe1f0d83b27a66f86c71240c01237ecc68563c8c7a810ec0208d008a7a5",
     "completed": 1
+  },
+  {
+    "title": "To Be Hero X",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7e07a56d5fe24d7b8c22043766874d56e04d5758dff41f620d41c23f41301381.jpg",
+    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/b06a55779d98a5d91908fa5ddd5ba24d49c9a145277d6dc18db178432c657e34",
+    "completed": 0
+  },
+  {
+    "title": "You and Idol Precure♪",
+    "episode": 19,
+    "image": "https://i.animepahe.ru/uploads/snapshots/648cc33801523c1de233c6a4380f44de5b3a47364bee6e4bc27c6faee4772d48.jpg",
+    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/c24b99e82f778e15f9bc684066ceb0972c0d3d3223c1ed162ce74b3d0546c2e6",
+    "completed": 0
   }
 ]
