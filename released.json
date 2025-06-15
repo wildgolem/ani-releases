@@ -1,12 +1,5 @@
 [
   {
-    "title": "To Be Hero X",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7e07a56d5fe24d7b8c22043766874d56e04d5758dff41f620d41c23f41301381.jpg",
-    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/b06a55779d98a5d91908fa5ddd5ba24d49c9a145277d6dc18db178432c657e34",
-    "completed": 0
-  },
-  {
     "title": "You and Idol Precure♪",
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/648cc33801523c1de233c6a4380f44de5b3a47364bee6e4bc27c6faee4772d48.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/90f4726ab36e4c256d5dd672c9120d5834529b70bd8aa11a10495c17e71556f5.jpg",
     "link": "https://animepahe.ru/play/bb77d96f-d2ec-73ae-9af1-46898257aa0b/f1286f0b31f70dda429429f21dd443ddc72ddda58c7c549fc47ba4c1dc2936e4",
+    "completed": 0
+  },
+  {
+    "title": "Go! Go! Loser Ranger! Season 2",
+    "episode": 22,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5204f9e44e33af79e309f7d6a7938197be71d82559265175bc69d4ea1ec69958.jpg",
+    "link": "https://animepahe.ru/play/e0ed6ecb-5dbc-e5fd-c665-fb10fb6bca49/f0df1883424b55201811fce4ac372954e71496767b1d3d2873c93e31139028c6",
     "completed": 0
   }
 ]
