@@ -1,12 +1,5 @@
 [
   {
-    "title": "Food for the Soul",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4a8dd96eeb5f0f2316f12e81add6460ac13ff88e8bbbb66115076bd9dd912d9a.jpg",
-    "link": "https://animepahe.ru/play/b79ed814-ac4b-3649-17a9-d04a9e27ae56/303f384864d1d587bde363be3645783f34a8168a0d5b175dff3a4fde3a0a9828",
-    "completed": 0
-  },
-  {
     "title": "Classic★Stars",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/9aa579920d169941696bef982cbde81d6892c84f3593a9b37ab50f99c138530c.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/53cd733ba4a0560bfaa06404cc5b6aa7e42b7802ea7fb5032e5625de95c89a8e.jpg",
     "link": "https://animepahe.ru/play/cb49b9d1-2396-39e6-8f76-f23b3607aff0/d2324ccabdcd80bbdd0440de0f9cdc4c51559cc1d78bc7805331dc0c3a07a5b1",
     "completed": 0
+  },
+  {
+    "title": "The Unaware Atelier Meister",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fedc3d935e59a366b9e17bb5834d555f1427ac64bf0509b254a3fdb64cda244a.jpg",
+    "link": "https://animepahe.ru/play/b212e276-d157-53ba-e5d6-f8b18bfe4ef4/a3e8eca08b39f6309725906b66e4cc0c159c3065e65a0f35c902e90218eb1649",
+    "completed": 1
   }
 ]
