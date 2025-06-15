@@ -1,12 +1,5 @@
 [
   {
-    "title": "Touhai: Ura Rate Mahjong Touhairoku",
-    "episode": 25,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b83a4e80acbf52e873d40d1cb96f999a4b660f34544440ed8aeed021c945ebe5.jpg",
-    "link": "https://animepahe.ru/play/6cd16896-ec99-323c-5608-2e30ce3a3d60/3d876fe1f0d83b27a66f86c71240c01237ecc68563c8c7a810ec0208d008a7a5",
-    "completed": 1
-  },
-  {
     "title": "To Be Hero X",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/7e07a56d5fe24d7b8c22043766874d56e04d5758dff41f620d41c23f41301381.jpg",
@@ -67,6 +60,13 @@
     "episode": 1133,
     "image": "https://i.animepahe.ru/uploads/snapshots/352844a1ee2e8dc4080112abf144c34b34c1637a489949257fde949b165be43e.jpg",
     "link": "https://animepahe.ru/play/d58fc9f8-582e-fdf0-3618-112cd54ed5ab/29a0126cae6004998134f4caec2d4188bf7008f9c03addd86db29b07d75a2e62",
+    "completed": 0
+  },
+  {
+    "title": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/90f4726ab36e4c256d5dd672c9120d5834529b70bd8aa11a10495c17e71556f5.jpg",
+    "link": "https://animepahe.ru/play/bb77d96f-d2ec-73ae-9af1-46898257aa0b/f1286f0b31f70dda429429f21dd443ddc72ddda58c7c549fc47ba4c1dc2936e4",
     "completed": 0
   }
 ]
