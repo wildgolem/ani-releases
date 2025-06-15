@@ -1,12 +1,5 @@
 [
   {
-    "title": "Mono",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/de685b5eb445deb8dbb86c2272c78bd06d7c0e0f5743d82658cfde15dd7fb2ec.jpg",
-    "link": "https://animepahe.ru/play/cdda01ba-50ca-a61b-f1ae-5e705c65994b/b1b5d7af8b0dba6b98b2537c09c2830bc8b4620b451670eaf7cbf284b14b0383",
-    "completed": 0
-  },
-  {
     "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
     "episode": 22,
     "image": "https://i.animepahe.ru/uploads/snapshots/da27ac5a4b021166fc5687aa68098b0d9ca7e69ea37b2adadf5628ad643e472d.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/1db79a91809a01311b768e33ce2235867e0ac82f579fbc16ceb4639d83aeb4f9.jpg",
     "link": "https://animepahe.ru/play/b35e44f1-70cd-9362-593d-4b62705f3151/97666d59cd88d01818d4faf9654d73c73e341b343e6c7abf6a4717160d43924f",
+    "completed": 0
+  },
+  {
+    "title": "Witch Watch",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/966ad32d72cbbccd22c3fa9b04b01b6eaa0606bef26e859b8ca4d55773ca757b.jpg",
+    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/35b4ce0434adcb21a56e2d43e144ae08c421b8db7cf7fd0369affa5404436b5a",
     "completed": 0
   }
 ]
