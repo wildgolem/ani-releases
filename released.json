@@ -1,19 +1,5 @@
 [
   {
-    "title": "Classic★Stars",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/9aa579920d169941696bef982cbde81d6892c84f3593a9b37ab50f99c138530c.jpg",
-    "link": "https://animepahe.ru/play/2267c8b1-4b92-777f-7b06-a4564d79d202/2dd15a607c82f6aeb16b67c3c99cac1f5ed1bc680a8ea559b30513c76390ca14",
-    "completed": 0
-  },
-  {
-    "title": "Shoshimin: How to Become Ordinary Season 2",
-    "episode": 21,
-    "image": "https://i.animepahe.ru/uploads/snapshots/408d2ba4e0cf947b3188338943a018d6ae4cbd9f45fc48b25401345f620a3a52.jpg",
-    "link": "https://animepahe.ru/play/88ae6b0f-ee15-0707-1d80-98d8ec4425a9/b758bd8a2980826134d698484526ef5fd133cf1bfc7b293a02cb65e180da60b8",
-    "completed": 0
-  },
-  {
     "title": "I'm the Evil Lord of an Intergalactic Empire!",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/05dadee808a161fee03cea87042532785f4e4986be4f0d9d7326e2776e3645a4.jpg",
@@ -68,5 +54,19 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/fedc3d935e59a366b9e17bb5834d555f1427ac64bf0509b254a3fdb64cda244a.jpg",
     "link": "https://animepahe.ru/play/b212e276-d157-53ba-e5d6-f8b18bfe4ef4/a3e8eca08b39f6309725906b66e4cc0c159c3065e65a0f35c902e90218eb1649",
     "completed": 1
+  },
+  {
+    "title": "The Gorilla God's Go-To Girl",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/47aa4b094967b705a75e00268f013bce5fa6284b9e02c03b3e2728e21fa52f45.jpg",
+    "link": "https://animepahe.ru/play/a89659be-3c75-1c88-c21f-9d6a2990734e/e955c79c37cc0592eca19018f2809385abf5cd2ae168e39899faa1af5fbbb531",
+    "completed": 0
+  },
+  {
+    "title": "Maebashi Witches",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c43536c4be5a4b2cc82ec228168ce533a3291f5d9fdc05925f427bf26a55c9ca.jpg",
+    "link": "https://animepahe.ru/play/07f3bd91-9e72-94ce-8751-1f5fdbfdb8ea/3e7925dfd4cd4b320de3fbdb3e41e31443997e2214f0985daa0ffd3b94b5fc8b",
+    "completed": 0
   }
 ]
