@@ -1,19 +1,5 @@
 [
   {
-    "title": "Uma Musume: Cinderella Gray",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1db79a91809a01311b768e33ce2235867e0ac82f579fbc16ceb4639d83aeb4f9.jpg",
-    "link": "https://animepahe.ru/play/b35e44f1-70cd-9362-593d-4b62705f3151/97666d59cd88d01818d4faf9654d73c73e341b343e6c7abf6a4717160d43924f",
-    "completed": 0
-  },
-  {
-    "title": "Witch Watch",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/966ad32d72cbbccd22c3fa9b04b01b6eaa0606bef26e859b8ca4d55773ca757b.jpg",
-    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/35b4ce0434adcb21a56e2d43e144ae08c421b8db7cf7fd0369affa5404436b5a",
-    "completed": 0
-  },
-  {
     "title": "Shirohiyo - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/53cd733ba4a0560bfaa06404cc5b6aa7e42b7802ea7fb5032e5625de95c89a8e.jpg",
@@ -67,6 +53,20 @@
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/a437f547de43a0358117490e3d3bd4eefeaba1b8eeff6e1d643626b9004d2e7b.jpg",
     "link": "https://animepahe.ru/play/0675f2a0-5d95-5998-5376-2e096bed54ce/f0440f41eefbc7ca378d6825d8beac35d56a256a042cdf45b166eea42d00a864",
+    "completed": 0
+  },
+  {
+    "title": "Aharen-san wa Hakarenai Season 2",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/599ed9fd9758f1dee14dfef08c4f6073fc95c1fa604867fd9aed4eb7d29f730c.jpg",
+    "link": "https://animepahe.ru/play/6ef5ed34-6366-534d-cd1c-65379c8bfa96/a719ae8db3ca759054d8bad4a75961f735a99aafec8a40c9a800a833931eb2f5",
+    "completed": 0
+  },
+  {
+    "title": "Zatsu Tabi: That's Journey",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/66ab3b55b56c3f5d90ae95f08d982a55f94f3d2b4a7027a7923ec1b4872d6a56.jpg",
+    "link": "https://animepahe.ru/play/74a7b937-6d52-a599-4b6f-b74c8ff664ab/77ccf7c6c2e31121e437b7c362c06d19823c69005a58077b1adf2c244bc67a9e",
     "completed": 0
   }
 ]
