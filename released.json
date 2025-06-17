@@ -1,12 +1,5 @@
 [
   {
-    "title": "Sword of the Demon Hunter: Kijin Gentosho",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/8cae4e1137e0ee98bb5f27019553054629e9f649189828ecb0f0d9510cdd1913.jpg",
-    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/a4bc7580d712a58348972b001b58b615680ef98504c5d61e17634e9b747f5795",
-    "completed": 0
-  },
-  {
     "title": "Summer Pockets",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/9fd0983b021aa3949ecbe89bbe26bc6f8f4a1f04a222188c151d05127f11387f.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/9a3c600e541d357f20486a97fc0a17f7daa2eccaaf88187d0dfa99d147032d98.jpg",
     "link": "https://animepahe.ru/play/71a95120-95dc-7512-10e5-156a393f0003/b332ba6076b8a0850ebacade424c849f08e0a3372d1a2cce9a748b8dc49fd85a",
     "completed": 0
+  },
+  {
+    "title": "Earthian",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/cae23b7fc394f1d96a60b4079e0e8008c3b58c500e5de249bd26f4467e7e9184.jpg",
+    "link": "https://animepahe.ru/play/d3fb4904-465e-16f9-b54a-6fd5d7b1be16/a891a8cccea4bce8ef669c455886eed38a36ea79e715e8f0046830bf65742ca0",
+    "completed": 1
   }
 ]
