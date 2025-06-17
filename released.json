@@ -1,12 +1,5 @@
 [
   {
-    "title": "Go! Go! Loser Ranger! Season 2",
-    "episode": 22,
-    "image": "https://i.animepahe.ru/uploads/snapshots/5204f9e44e33af79e309f7d6a7938197be71d82559265175bc69d4ea1ec69958.jpg",
-    "link": "https://animepahe.ru/play/e0ed6ecb-5dbc-e5fd-c665-fb10fb6bca49/f0df1883424b55201811fce4ac372954e71496767b1d3d2873c93e31139028c6",
-    "completed": 0
-  },
-  {
     "title": "Lazarus",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/a437f547de43a0358117490e3d3bd4eefeaba1b8eeff6e1d643626b9004d2e7b.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/06617f63b52f322c46c5413bc7b46dd575c401335e70799c9931bd0a01f64bbc.jpg",
     "link": "https://animepahe.ru/play/725977f5-fd3b-e079-d26c-c74de6e8458a/dcbcdc1aa3930ed54c51abdbaee96395d2dae23b513bb37374cc130ce5e46490",
     "completed": 0
+  },
+  {
+    "title": "Once Upon a Witch's Death",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/33080a699710f942eb1b6e81833eb9869ad66b38ba27ba0e4eced30903adcaa0.jpg",
+    "link": "https://animepahe.ru/play/72a32719-7054-f3d9-447f-19ef80df327d/376cdc8f341e284cb2ef7612bba1dc1233ffb05bbe3d96a33421284b2f360af5",
+    "completed": 1
   }
 ]
