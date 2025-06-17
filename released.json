@@ -1,12 +1,5 @@
 [
   {
-    "title": "Aharen-san wa Hakarenai Season 2",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/599ed9fd9758f1dee14dfef08c4f6073fc95c1fa604867fd9aed4eb7d29f730c.jpg",
-    "link": "https://animepahe.ru/play/6ef5ed34-6366-534d-cd1c-65379c8bfa96/a719ae8db3ca759054d8bad4a75961f735a99aafec8a40c9a800a833931eb2f5",
-    "completed": 0
-  },
-  {
     "title": "Zatsu Tabi: That's Journey",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/66ab3b55b56c3f5d90ae95f08d982a55f94f3d2b4a7027a7923ec1b4872d6a56.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/c48e033c8517f9a2b84f68cd401a356af384238979d23a121859c71b29848748.jpg",
     "link": "https://animepahe.ru/play/f92a8c34-c4d1-29d4-275e-6786fdcf44c0/72cbd0ea97ebb8f1bd750ab367d04b8c3b080937eb55ce6208edaa6b6c0ca867",
     "completed": 0
+  },
+  {
+    "title": "Catch Me at the Ballpark!",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/afdd89cb872f19633e606c78e58882c0a57ea3d4b15e54bf527f8d72c269b647.jpg",
+    "link": "https://animepahe.ru/play/e69e2f9d-3027-7dba-1170-1b9c99c727f3/660a6f3c445df6619bec558b6b4dd2ba97d0bb9d8fbae83ebf1eb068c36de2ce",
+    "completed": 1
   }
 ]
