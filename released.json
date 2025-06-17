@@ -1,12 +1,5 @@
 [
   {
-    "title": "Zatsu Tabi: That's Journey",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/66ab3b55b56c3f5d90ae95f08d982a55f94f3d2b4a7027a7923ec1b4872d6a56.jpg",
-    "link": "https://animepahe.ru/play/74a7b937-6d52-a599-4b6f-b74c8ff664ab/77ccf7c6c2e31121e437b7c362c06d19823c69005a58077b1adf2c244bc67a9e",
-    "completed": 0
-  },
-  {
     "title": "Sword of the Demon Hunter: Kijin Gentosho",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/8cae4e1137e0ee98bb5f27019553054629e9f649189828ecb0f0d9510cdd1913.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/afdd89cb872f19633e606c78e58882c0a57ea3d4b15e54bf527f8d72c269b647.jpg",
     "link": "https://animepahe.ru/play/e69e2f9d-3027-7dba-1170-1b9c99c727f3/660a6f3c445df6619bec558b6b4dd2ba97d0bb9d8fbae83ebf1eb068c36de2ce",
     "completed": 1
+  },
+  {
+    "title": "Apocalypse Hotel",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9a3c600e541d357f20486a97fc0a17f7daa2eccaaf88187d0dfa99d147032d98.jpg",
+    "link": "https://animepahe.ru/play/71a95120-95dc-7512-10e5-156a393f0003/b332ba6076b8a0850ebacade424c849f08e0a3372d1a2cce9a748b8dc49fd85a",
+    "completed": 0
   }
 ]
