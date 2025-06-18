@@ -1,12 +1,5 @@
 [
   {
-    "title": "Once Upon a Witch's Death",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/33080a699710f942eb1b6e81833eb9869ad66b38ba27ba0e4eced30903adcaa0.jpg",
-    "link": "https://animepahe.ru/play/72a32719-7054-f3d9-447f-19ef80df327d/376cdc8f341e284cb2ef7612bba1dc1233ffb05bbe3d96a33421284b2f360af5",
-    "completed": 1
-  },
-  {
     "title": "Mobile Suit Gundam: GQuuuuuuX",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/c48e033c8517f9a2b84f68cd401a356af384238979d23a121859c71b29848748.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/2ea710e6b553d606714445784efe8806b96a9ebd2bdbd98cf741b7abe8dd4711.jpg",
     "link": "https://animepahe.ru/play/cbfc665c-fa2c-43b1-3827-84f9e7df10bd/704c2b7ac9f5f5f328b41309af873ad5862fd88419346ebd0424e781a21225b2",
     "completed": 0
+  },
+  {
+    "title": "The Beginning After the End",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/528575d447c4e5e108e1b802af828bca3a86f7dfc88cf2789cd87d7c46b9f372.jpg",
+    "link": "https://animepahe.ru/play/5e6bd405-6f6d-e47f-caa2-34ea579f2d64/0639b518af5dafea10b0ac78bdc99b6cdc5871bf64195d9e1da369911c66255b",
+    "completed": 1
   }
 ]
