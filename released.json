@@ -28,13 +28,6 @@
     "completed": 0
   },
   {
-    "title": "Please Put Them On, Takamine-san",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/06617f63b52f322c46c5413bc7b46dd575c401335e70799c9931bd0a01f64bbc.jpg",
-    "link": "https://animepahe.ru/play/725977f5-fd3b-e079-d26c-c74de6e8458a/dcbcdc1aa3930ed54c51abdbaee96395d2dae23b513bb37374cc130ce5e46490",
-    "completed": 0
-  },
-  {
     "title": "Once Upon a Witch's Death",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/33080a699710f942eb1b6e81833eb9869ad66b38ba27ba0e4eced30903adcaa0.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/cae23b7fc394f1d96a60b4079e0e8008c3b58c500e5de249bd26f4467e7e9184.jpg",
     "link": "https://animepahe.ru/play/d3fb4904-465e-16f9-b54a-6fd5d7b1be16/a891a8cccea4bce8ef669c455886eed38a36ea79e715e8f0046830bf65742ca0",
+    "completed": 1
+  },
+  {
+    "title": "Please Put Them On, Takamine-san",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3bfe62011a542f3718fa87492d806b9706c7f7d6ea5a1113fbccc68cfa3e26eb.jpg",
+    "link": "https://animepahe.ru/play/725977f5-fd3b-e079-d26c-c74de6e8458a/33e6449e5fc1c0675c30435f11a624083c2547fca805664f8f0bd00287d3ed5f",
     "completed": 1
   }
 ]
