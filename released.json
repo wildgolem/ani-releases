@@ -1,12 +1,5 @@
 [
   {
-    "title": "Earthian",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/cae23b7fc394f1d96a60b4079e0e8008c3b58c500e5de249bd26f4467e7e9184.jpg",
-    "link": "https://animepahe.ru/play/d3fb4904-465e-16f9-b54a-6fd5d7b1be16/a891a8cccea4bce8ef669c455886eed38a36ea79e715e8f0046830bf65742ca0",
-    "completed": 1
-  },
-  {
     "title": "Please Put Them On, Takamine-san",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/3bfe62011a542f3718fa87492d806b9706c7f7d6ea5a1113fbccc68cfa3e26eb.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/b2205ca13b5b44988f9e741e3f82203712004279724d4a2b5cc3b96a5031148c.jpg",
     "link": "https://animepahe.ru/play/020776df-97bf-ebc0-66e5-2398b96520bc/94e7ee56856bd252e0a14a07e93ef0ad0acd70526796096d687d06807a31f77f",
     "completed": 0
+  },
+  {
+    "title": "The Brilliant Healer's New Life in the Shadows",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c4ffd9130ca8d8e4707fa0ce5ad40dbae5f76cbe66a86ba6d7114b4ee78ffcea.jpg",
+    "link": "https://animepahe.ru/play/c487ca7f-036c-fc0f-da9d-a6f670f7751c/bc207f9ba425dfa17337bf5278f4c3bfde18a4835981179044d8bf3551f71397",
+    "completed": 1
   }
 ]
