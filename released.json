@@ -1,12 +1,5 @@
 [
   {
-    "title": "Please Put Them On, Takamine-san",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3bfe62011a542f3718fa87492d806b9706c7f7d6ea5a1113fbccc68cfa3e26eb.jpg",
-    "link": "https://animepahe.ru/play/725977f5-fd3b-e079-d26c-c74de6e8458a/33e6449e5fc1c0675c30435f11a624083c2547fca805664f8f0bd00287d3ed5f",
-    "completed": 1
-  },
-  {
     "title": "Your Forma",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/702bcb2a7ac98e1c98ca3424a1fc87cc4bd8f1afcbf4d666cf2e77cd823e0a63.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/c4ffd9130ca8d8e4707fa0ce5ad40dbae5f76cbe66a86ba6d7114b4ee78ffcea.jpg",
     "link": "https://animepahe.ru/play/c487ca7f-036c-fc0f-da9d-a6f670f7751c/bc207f9ba425dfa17337bf5278f4c3bfde18a4835981179044d8bf3551f71397",
     "completed": 1
+  },
+  {
+    "title": "Rock Is a Lady's Modesty",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a38bd0889ddcedc263f1299cd326d81030c3d07d99fb59d301e5502c59f4397d.jpg",
+    "link": "https://animepahe.ru/play/06eaab74-0977-aebc-f50e-adc5d42bd574/9ba2ee4ad23926eda148b06d7b26aebe3bede4c3b2b3723e00a532eb2665f236",
+    "completed": 0
   }
 ]
