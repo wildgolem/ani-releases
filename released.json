@@ -1,12 +1,5 @@
 [
   {
-    "title": "Mobile Suit Gundam: GQuuuuuuX",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c48e033c8517f9a2b84f68cd401a356af384238979d23a121859c71b29848748.jpg",
-    "link": "https://animepahe.ru/play/f92a8c34-c4d1-29d4-275e-6786fdcf44c0/72cbd0ea97ebb8f1bd750ab367d04b8c3b080937eb55ce6208edaa6b6c0ca867",
-    "completed": 0
-  },
-  {
     "title": "Catch Me at the Ballpark!",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/afdd89cb872f19633e606c78e58882c0a57ea3d4b15e54bf527f8d72c269b647.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/528575d447c4e5e108e1b802af828bca3a86f7dfc88cf2789cd87d7c46b9f372.jpg",
     "link": "https://animepahe.ru/play/5e6bd405-6f6d-e47f-caa2-34ea579f2d64/0639b518af5dafea10b0ac78bdc99b6cdc5871bf64195d9e1da369911c66255b",
     "completed": 1
+  },
+  {
+    "title": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f2494b2aa5788940df2f0fefd8e55a5cbff5afff6e66c1f141006795f0bbc407.jpg",
+    "link": "https://animepahe.ru/play/501f91f6-5ecf-920c-b735-df646375f827/9a0f54057d7623ceda7ab83958c13fee28abd67adef794f29c368b3d09cb409a",
+    "completed": 0
   }
 ]
