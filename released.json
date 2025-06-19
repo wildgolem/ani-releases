@@ -1,12 +1,5 @@
 [
   {
-    "title": "Your Forma",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/702bcb2a7ac98e1c98ca3424a1fc87cc4bd8f1afcbf4d666cf2e77cd823e0a63.jpg",
-    "link": "https://animepahe.ru/play/0f4cc85c-bd29-67f6-a582-bc22a9882073/9373c76dadbb5f0a4d1a30b74701ef8d1e4ab51ef619609d2a91bc03074fe101",
-    "completed": 0
-  },
-  {
     "title": "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/32039f0396be83894f42656df4542d77a5f39e084c5e227646b1df86ed9007f2.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/a38bd0889ddcedc263f1299cd326d81030c3d07d99fb59d301e5502c59f4397d.jpg",
     "link": "https://animepahe.ru/play/06eaab74-0977-aebc-f50e-adc5d42bd574/9ba2ee4ad23926eda148b06d7b26aebe3bede4c3b2b3723e00a532eb2665f236",
     "completed": 0
+  },
+  {
+    "title": "Wind Breaker Season 2",
+    "episode": 25,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f744ec766af3c73c2f8f1c29d4421f8b9c1db2b375543f52c8b568d321968f3c.jpg",
+    "link": "https://animepahe.ru/play/515dd441-386a-2ba3-6f79-e6e1e9c09802/d09d1052e93352d80af2f868f5ee42e082858a7fa10b9ddfccac8e0fac141cac",
+    "completed": 1
   }
 ]
