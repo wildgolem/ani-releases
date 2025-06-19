@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/32039f0396be83894f42656df4542d77a5f39e084c5e227646b1df86ed9007f2.jpg",
-    "link": "https://animepahe.ru/play/35c39232-0133-ec5b-b3b9-0d6a7d7bf7b7/88f8709f3eb4c41ddb35feb09bbd1fba0ab8c735dee6f19c2abf8ef9d202e2f5",
-    "completed": 1
-  },
-  {
     "title": "Me and the Alien MuMu",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/b28f78d1d1525dd6f2a97783a0212333a5fd866ec93d4c91f65eb58761fbc184.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/f744ec766af3c73c2f8f1c29d4421f8b9c1db2b375543f52c8b568d321968f3c.jpg",
     "link": "https://animepahe.ru/play/515dd441-386a-2ba3-6f79-e6e1e9c09802/d09d1052e93352d80af2f868f5ee42e082858a7fa10b9ddfccac8e0fac141cac",
     "completed": 1
+  },
+  {
+    "title": "Beyblade X",
+    "episode": 85,
+    "image": "https://i.animepahe.ru/uploads/snapshots/29d0ac493431e2943b2034fb7ce7f75255349749f5f26e6a660bcb25ad4489d4.jpg",
+    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/69982b383a8c4844f46b92165d2d3ca748aab0f74db2fae4a581bfc47e7195b0",
+    "completed": 0
   }
 ]
