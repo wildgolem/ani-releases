@@ -1,12 +1,5 @@
 [
   {
-    "title": "Makina-san's a Love Bot?!",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2ea710e6b553d606714445784efe8806b96a9ebd2bdbd98cf741b7abe8dd4711.jpg",
-    "link": "https://animepahe.ru/play/cbfc665c-fa2c-43b1-3827-84f9e7df10bd/704c2b7ac9f5f5f328b41309af873ad5862fd88419346ebd0424e781a21225b2",
-    "completed": 0
-  },
-  {
     "title": "The Beginning After the End",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/528575d447c4e5e108e1b802af828bca3a86f7dfc88cf2789cd87d7c46b9f372.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/8886dd37f5ecb44895c600b6808323b7bb8dbce9ff2bd4e9efe19d5b6a71808f.jpg",
     "link": "https://animepahe.ru/play/aa5ffbb8-b35a-12d4-2e50-84a23f63eb02/ccdd4e9d59d031672d167dac4168930eb73040bd6590f7cbf338ae0084545b54",
     "completed": 1
+  },
+  {
+    "title": "Teogonia",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d0757f4e79ea377e1d815e377c9a5165fdfb76066adfc1b62ae2277931115d84.jpg",
+    "link": "https://animepahe.ru/play/6520ee5f-5081-c81e-b2e5-53b20b81de62/4151dfb27b95f4414881f904ac80de732ed0e562c0b705c855b79e333e202f5b",
+    "completed": 0
   }
 ]
