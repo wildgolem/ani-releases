@@ -1,12 +1,5 @@
 [
   {
-    "title": "Me and the Alien MuMu",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b28f78d1d1525dd6f2a97783a0212333a5fd866ec93d4c91f65eb58761fbc184.jpg",
-    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/d827f5bdc468248ae9bcb243e88f9adb5d63e803b02af9a265927219d6bc935f",
-    "completed": 0
-  },
-  {
     "title": "Makina-san's a Love Bot?!",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/2ea710e6b553d606714445784efe8806b96a9ebd2bdbd98cf741b7abe8dd4711.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/29d0ac493431e2943b2034fb7ce7f75255349749f5f26e6a660bcb25ad4489d4.jpg",
     "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/69982b383a8c4844f46b92165d2d3ca748aab0f74db2fae4a581bfc47e7195b0",
     "completed": 0
+  },
+  {
+    "title": "Can a Boy-Girl Friendship Survive?",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8886dd37f5ecb44895c600b6808323b7bb8dbce9ff2bd4e9efe19d5b6a71808f.jpg",
+    "link": "https://animepahe.ru/play/aa5ffbb8-b35a-12d4-2e50-84a23f63eb02/ccdd4e9d59d031672d167dac4168930eb73040bd6590f7cbf338ae0084545b54",
+    "completed": 1
   }
 ]
