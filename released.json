@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Beginning After the End",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/528575d447c4e5e108e1b802af828bca3a86f7dfc88cf2789cd87d7c46b9f372.jpg",
-    "link": "https://animepahe.ru/play/5e6bd405-6f6d-e47f-caa2-34ea579f2d64/0639b518af5dafea10b0ac78bdc99b6cdc5871bf64195d9e1da369911c66255b",
-    "completed": 1
-  },
-  {
     "title": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/f2494b2aa5788940df2f0fefd8e55a5cbff5afff6e66c1f141006795f0bbc407.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/d0757f4e79ea377e1d815e377c9a5165fdfb76066adfc1b62ae2277931115d84.jpg",
     "link": "https://animepahe.ru/play/6520ee5f-5081-c81e-b2e5-53b20b81de62/4151dfb27b95f4414881f904ac80de732ed0e562c0b705c855b79e333e202f5b",
     "completed": 0
+  },
+  {
+    "title": "Fire Force Season 3",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/430cef0a71f41ddea43921ca84cf51c09c92fb3cfc7fadcb166e8f1bcdfd6cc3.jpg",
+    "link": "https://animepahe.ru/play/ba8c192e-a01d-8fd1-91fa-5b862f95784d/2bb776c8552347771b2fbd25428019926d21f633a9e15fcbca8fe7255a012d57",
+    "completed": 1
   }
 ]
