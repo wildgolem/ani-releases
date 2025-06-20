@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f2494b2aa5788940df2f0fefd8e55a5cbff5afff6e66c1f141006795f0bbc407.jpg",
-    "link": "https://animepahe.ru/play/501f91f6-5ecf-920c-b735-df646375f827/9a0f54057d7623ceda7ab83958c13fee28abd67adef794f29c368b3d09cb409a",
-    "completed": 0
-  },
-  {
     "title": "Our Last Crusade or the Rise of a New World Season 2",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/1d516367723a088142501ea120ef99781d28ae118a5f913427f60764cf6170fa.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/430cef0a71f41ddea43921ca84cf51c09c92fb3cfc7fadcb166e8f1bcdfd6cc3.jpg",
     "link": "https://animepahe.ru/play/ba8c192e-a01d-8fd1-91fa-5b862f95784d/2bb776c8552347771b2fbd25428019926d21f633a9e15fcbca8fe7255a012d57",
     "completed": 1
+  },
+  {
+    "title": "Himitsu no AiPri: Ring-hen",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4617b27bb8f169388792fac14f8eecb6a2bbf4fbeca7d7b980ffefc06500de5d.jpg",
+    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/a3e8da066b526fd59ccbfa203e06276bfabcfea0ab07226613a80a5feca404dc",
+    "completed": 0
   }
 ]
