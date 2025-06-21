@@ -1,19 +1,5 @@
 [
   {
-    "title": "The Dinner Table Detective",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/84de210df32987c7e06c768bec1c384362be781a2de38ee443c6f871046c4e94.jpg",
-    "link": "https://animepahe.ru/play/d893f96b-4396-8c95-bd66-32219070071f/ab1822745b1e0ae7d1cf521be016dbb302e52675ec4923c33fcf6c3e9a267b84",
-    "completed": 1
-  },
-  {
-    "title": "The All-devouring Whale: Homecoming",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d16756065fd2f346fbcfab595e57f0fd3d0030adf093e8c181ef2ac79cf227f3.jpg",
-    "link": "https://animepahe.ru/play/8638b3f9-7333-55d7-11aa-ee4fe1d047a0/4b3887eee3102705a3cee980dde1433fdb478ad69dd01229d6a478a1846ade85",
-    "completed": 0
-  },
-  {
     "title": "Pokémon Horizons: The Series",
     "episode": 100,
     "image": "https://i.animepahe.ru/uploads/snapshots/f87c3d50040f1135aeb9a553eaa9512123fc65c4d8f50d7f655a17982492aefd.jpg",
@@ -68,5 +54,19 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/a15ab8dbdfa2e0de8691d2c15c809956fd83b8a23cb46eae382cc38a21d8dc9b.jpg",
     "link": "https://animepahe.ru/play/43e7d8e6-89ee-d3f3-ff48-b1cd97829338/70f19058e7acc1d3901c0666d09d6f476de34192f47471cf8977c651848a8107",
     "completed": 1
+  },
+  {
+    "title": "Mono",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ac1979fcf827caa487dba840cb9e2b0c3368ca721caf30c90809645dee44b3f7.jpg",
+    "link": "https://animepahe.ru/play/cdda01ba-50ca-a61b-f1ae-5e705c65994b/207ed6dfcf338cdc039df5370de4d23ed469d8a74c2dbf5cd9c572d4726aa2a3",
+    "completed": 0
+  },
+  {
+    "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+    "episode": 23,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4d84c25fe6ff98fca34535e135e28e7c03caa5ab1de3d9a0cfa10f5326b60b62.jpg",
+    "link": "https://animepahe.ru/play/29670402-de30-e595-802b-ced9c08857fa/1aa456cfc7a145b57ca4a5df181b8d9cde8dfc0f9051359764b1259b49dc3c76",
+    "completed": 0
   }
 ]
