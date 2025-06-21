@@ -1,19 +1,5 @@
 [
   {
-    "title": "Pokémon Horizons: The Series",
-    "episode": 100,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f87c3d50040f1135aeb9a553eaa9512123fc65c4d8f50d7f655a17982492aefd.jpg",
-    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/60d1a09d011ad1139f88513cc9fca34f1d942fb8fd8d7331db9d71425a306947",
-    "completed": 0
-  },
-  {
-    "title": "Yaiba: Samurai Legend",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d3c91c593d8378f4ff7d0c5590fbb4cdf732f439f09a5eb5068fb853ea83ca7b.jpg",
-    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/b170b3d9414b76d464b3589e76a4c846fb1234292ede58a017a1a7a05295330d",
-    "completed": 0
-  },
-  {
     "title": "Meitantei Conan",
     "episode": 1166,
     "image": "https://i.animepahe.ru/uploads/snapshots/3db52b7ba95c97be96631ef4dfb75260d27bbe4d6c1f870e67a2958414d0bd16.jpg",
@@ -67,6 +53,20 @@
     "episode": 23,
     "image": "https://i.animepahe.ru/uploads/snapshots/4d84c25fe6ff98fca34535e135e28e7c03caa5ab1de3d9a0cfa10f5326b60b62.jpg",
     "link": "https://animepahe.ru/play/29670402-de30-e595-802b-ced9c08857fa/1aa456cfc7a145b57ca4a5df181b8d9cde8dfc0f9051359764b1259b49dc3c76",
+    "completed": 0
+  },
+  {
+    "title": "Food for the Soul",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f2fa86843860317f0f5c33bf5e4ab1becf59040f29a81aa2131340da3b2059a9.jpg",
+    "link": "https://animepahe.ru/play/b79ed814-ac4b-3649-17a9-d04a9e27ae56/956665b09df898ae33935ebe6ae09a7dfa40f4fc28a0883f3b5e3fb11852c9e0",
+    "completed": 0
+  },
+  {
+    "title": "Classic★Stars",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3d3b870117bba2901f3f319e9c570e2de875676d5e599cacc297a49dbce19436.jpg",
+    "link": "https://animepahe.ru/play/2267c8b1-4b92-777f-7b06-a4564d79d202/9866f7f932bd0b77f249d6b1438f5200bac408b3081f456e294232907ae47875",
     "completed": 0
   }
 ]
