@@ -1,12 +1,5 @@
 [
   {
-    "title": "Teogonia",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d0757f4e79ea377e1d815e377c9a5165fdfb76066adfc1b62ae2277931115d84.jpg",
-    "link": "https://animepahe.ru/play/6520ee5f-5081-c81e-b2e5-53b20b81de62/4151dfb27b95f4414881f904ac80de732ed0e562c0b705c855b79e333e202f5b",
-    "completed": 0
-  },
-  {
     "title": "Fire Force Season 3",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/430cef0a71f41ddea43921ca84cf51c09c92fb3cfc7fadcb166e8f1bcdfd6cc3.jpg",
@@ -67,6 +60,13 @@
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/2e3be58176d295f7cf322d6bf775e5fd21cf54cf2caec316180b547e8a920aba.jpg",
     "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/912e1dc184b2da9bb7511b6c63b715badcec8cb313e232b3ec7d8782bba0d9e2",
+    "completed": 0
+  },
+  {
+    "title": "Kowloon Generic Romance",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c3f356a59c2b59d5483ad46a343a9d84bccab435a6eec7dcac4c322781ef15ec.jpg",
+    "link": "https://animepahe.ru/play/60dce763-1e23-9f3a-9291-7b3ef9bfaeda/2b1359f6e78a0fbed1c20c2ea244958e6f48c9d47572a0d81853efbf146437fd",
     "completed": 0
   }
 ]
