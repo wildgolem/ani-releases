@@ -1,19 +1,5 @@
 [
   {
-    "title": "Meitantei Conan",
-    "episode": 1166,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3db52b7ba95c97be96631ef4dfb75260d27bbe4d6c1f870e67a2958414d0bd16.jpg",
-    "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/c489546dc060a04169b6bcdf9106afb4026951dd1f899d6a19ff263757247a41",
-    "completed": 0
-  },
-  {
-    "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/5f3a148f037e7ba2061b149ef84c53ca1c06eed7607bf90391e27e938d828d40.jpg",
-    "link": "https://animepahe.ru/play/5f565bf2-d17e-07ee-fb2c-037e66a5c524/153f776382a204aec97c6f5bbcefae4dd7459b9e44dbf4fe7df6499c4fc82d0e",
-    "completed": 1
-  },
-  {
     "title": "Anne Shirley",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/2e3be58176d295f7cf322d6bf775e5fd21cf54cf2caec316180b547e8a920aba.jpg",
@@ -68,5 +54,19 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/3d3b870117bba2901f3f319e9c570e2de875676d5e599cacc297a49dbce19436.jpg",
     "link": "https://animepahe.ru/play/2267c8b1-4b92-777f-7b06-a4564d79d202/9866f7f932bd0b77f249d6b1438f5200bac408b3081f456e294232907ae47875",
     "completed": 0
+  },
+  {
+    "title": "Shoshimin: How to Become Ordinary Season 2",
+    "episode": 22,
+    "image": "https://i.animepahe.ru/uploads/snapshots/47e0c6094739831aa204fb6dfbdacc15e49f3e4a10d20dcc3ebfa81d8f94cb2b.jpg",
+    "link": "https://animepahe.ru/play/88ae6b0f-ee15-0707-1d80-98d8ec4425a9/ae969a3c199c489527ddd000149353f700b1efaf2566ff23cce1e1125ebe2368",
+    "completed": 1
+  },
+  {
+    "title": "I'm the Evil Lord of an Intergalactic Empire!",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/6fb2e59a77b65a89802a56907bf817b4e0ea2fef8504141beb3b62fda142d379.jpg",
+    "link": "https://animepahe.ru/play/83837af5-73ae-503d-4362-f5389e634697/e931de8fb4b936cff557c9f60f7259da112784918dff4a0ac3c214e99460a037",
+    "completed": 1
   }
 ]
