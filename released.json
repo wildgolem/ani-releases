@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Brilliant Healer's New Life in the Shadows",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c4ffd9130ca8d8e4707fa0ce5ad40dbae5f76cbe66a86ba6d7114b4ee78ffcea.jpg",
-    "link": "https://animepahe.ru/play/c487ca7f-036c-fc0f-da9d-a6f670f7751c/bc207f9ba425dfa17337bf5278f4c3bfde18a4835981179044d8bf3551f71397",
-    "completed": 1
-  },
-  {
     "title": "Rock Is a Lady's Modesty",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/a38bd0889ddcedc263f1299cd326d81030c3d07d99fb59d301e5502c59f4397d.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/d16756065fd2f346fbcfab595e57f0fd3d0030adf093e8c181ef2ac79cf227f3.jpg",
     "link": "https://animepahe.ru/play/8638b3f9-7333-55d7-11aa-ee4fe1d047a0/4b3887eee3102705a3cee980dde1433fdb478ad69dd01229d6a478a1846ade85",
+    "completed": 0
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "episode": 100,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f87c3d50040f1135aeb9a553eaa9512123fc65c4d8f50d7f655a17982492aefd.jpg",
+    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/60d1a09d011ad1139f88513cc9fca34f1d942fb8fd8d7331db9d71425a306947",
     "completed": 0
   }
 ]
