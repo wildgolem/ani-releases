@@ -1,33 +1,5 @@
 [
   {
-    "title": "Rock Is a Lady's Modesty",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a38bd0889ddcedc263f1299cd326d81030c3d07d99fb59d301e5502c59f4397d.jpg",
-    "link": "https://animepahe.ru/play/06eaab74-0977-aebc-f50e-adc5d42bd574/9ba2ee4ad23926eda148b06d7b26aebe3bede4c3b2b3723e00a532eb2665f236",
-    "completed": 0
-  },
-  {
-    "title": "Wind Breaker Season 2",
-    "episode": 25,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f744ec766af3c73c2f8f1c29d4421f8b9c1db2b375543f52c8b568d321968f3c.jpg",
-    "link": "https://animepahe.ru/play/515dd441-386a-2ba3-6f79-e6e1e9c09802/d09d1052e93352d80af2f868f5ee42e082858a7fa10b9ddfccac8e0fac141cac",
-    "completed": 1
-  },
-  {
-    "title": "Beyblade X",
-    "episode": 85,
-    "image": "https://i.animepahe.ru/uploads/snapshots/29d0ac493431e2943b2034fb7ce7f75255349749f5f26e6a660bcb25ad4489d4.jpg",
-    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/69982b383a8c4844f46b92165d2d3ca748aab0f74db2fae4a581bfc47e7195b0",
-    "completed": 0
-  },
-  {
-    "title": "Can a Boy-Girl Friendship Survive?",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/8886dd37f5ecb44895c600b6808323b7bb8dbce9ff2bd4e9efe19d5b6a71808f.jpg",
-    "link": "https://animepahe.ru/play/aa5ffbb8-b35a-12d4-2e50-84a23f63eb02/ccdd4e9d59d031672d167dac4168930eb73040bd6590f7cbf338ae0084545b54",
-    "completed": 1
-  },
-  {
     "title": "Teogonia",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/d0757f4e79ea377e1d815e377c9a5165fdfb76066adfc1b62ae2277931115d84.jpg",
@@ -67,6 +39,34 @@
     "episode": 100,
     "image": "https://i.animepahe.ru/uploads/snapshots/f87c3d50040f1135aeb9a553eaa9512123fc65c4d8f50d7f655a17982492aefd.jpg",
     "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/60d1a09d011ad1139f88513cc9fca34f1d942fb8fd8d7331db9d71425a306947",
+    "completed": 0
+  },
+  {
+    "title": "Yaiba: Samurai Legend",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d3c91c593d8378f4ff7d0c5590fbb4cdf732f439f09a5eb5068fb853ea83ca7b.jpg",
+    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/b170b3d9414b76d464b3589e76a4c846fb1234292ede58a017a1a7a05295330d",
+    "completed": 0
+  },
+  {
+    "title": "Meitantei Conan",
+    "episode": 1166,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3db52b7ba95c97be96631ef4dfb75260d27bbe4d6c1f870e67a2958414d0bd16.jpg",
+    "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/c489546dc060a04169b6bcdf9106afb4026951dd1f899d6a19ff263757247a41",
+    "completed": 0
+  },
+  {
+    "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5f3a148f037e7ba2061b149ef84c53ca1c06eed7607bf90391e27e938d828d40.jpg",
+    "link": "https://animepahe.ru/play/5f565bf2-d17e-07ee-fb2c-037e66a5c524/153f776382a204aec97c6f5bbcefae4dd7459b9e44dbf4fe7df6499c4fc82d0e",
+    "completed": 1
+  },
+  {
+    "title": "Anne Shirley",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2e3be58176d295f7cf322d6bf775e5fd21cf54cf2caec316180b547e8a920aba.jpg",
+    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/912e1dc184b2da9bb7511b6c63b715badcec8cb313e232b3ec7d8782bba0d9e2",
     "completed": 0
   }
 ]
