@@ -1,19 +1,5 @@
 [
   {
-    "title": "Fire Force Season 3",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/430cef0a71f41ddea43921ca84cf51c09c92fb3cfc7fadcb166e8f1bcdfd6cc3.jpg",
-    "link": "https://animepahe.ru/play/ba8c192e-a01d-8fd1-91fa-5b862f95784d/2bb776c8552347771b2fbd25428019926d21f633a9e15fcbca8fe7255a012d57",
-    "completed": 1
-  },
-  {
-    "title": "Himitsu no AiPri: Ring-hen",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4617b27bb8f169388792fac14f8eecb6a2bbf4fbeca7d7b980ffefc06500de5d.jpg",
-    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/a3e8da066b526fd59ccbfa203e06276bfabcfea0ab07226613a80a5feca404dc",
-    "completed": 0
-  },
-  {
     "title": "The Dinner Table Detective",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/84de210df32987c7e06c768bec1c384362be781a2de38ee443c6f871046c4e94.jpg",
@@ -68,5 +54,19 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/c3f356a59c2b59d5483ad46a343a9d84bccab435a6eec7dcac4c322781ef15ec.jpg",
     "link": "https://animepahe.ru/play/60dce763-1e23-9f3a-9291-7b3ef9bfaeda/2b1359f6e78a0fbed1c20c2ea244958e6f48c9d47572a0d81853efbf146437fd",
     "completed": 0
+  },
+  {
+    "title": "Black Butler: Emerald Witch Arc",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/509e10376a4bb9fe1ce9fe22cb124514d9e47d8cb34da3e4048725d1dbc336ac.jpg",
+    "link": "https://animepahe.ru/play/6b42b16b-13b1-7cfb-a19a-a9670bddc933/53a979bcd10c6ac8439c7ad6dc66e279033c0eef2126336c5fc537f9ea9affe2",
+    "completed": 0
+  },
+  {
+    "title": "From Old Country Bumpkin to Master Swordsman",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a15ab8dbdfa2e0de8691d2c15c809956fd83b8a23cb46eae382cc38a21d8dc9b.jpg",
+    "link": "https://animepahe.ru/play/43e7d8e6-89ee-d3f3-ff48-b1cd97829338/70f19058e7acc1d3901c0666d09d6f476de34192f47471cf8977c651848a8107",
+    "completed": 1
   }
 ]
