@@ -1,26 +1,5 @@
 [
   {
-    "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
-    "episode": 23,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4d84c25fe6ff98fca34535e135e28e7c03caa5ab1de3d9a0cfa10f5326b60b62.jpg",
-    "link": "https://animepahe.ru/play/29670402-de30-e595-802b-ced9c08857fa/1aa456cfc7a145b57ca4a5df181b8d9cde8dfc0f9051359764b1259b49dc3c76",
-    "completed": 0
-  },
-  {
-    "title": "Food for the Soul",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f2fa86843860317f0f5c33bf5e4ab1becf59040f29a81aa2131340da3b2059a9.jpg",
-    "link": "https://animepahe.ru/play/b79ed814-ac4b-3649-17a9-d04a9e27ae56/956665b09df898ae33935ebe6ae09a7dfa40f4fc28a0883f3b5e3fb11852c9e0",
-    "completed": 0
-  },
-  {
-    "title": "Classic★Stars",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3d3b870117bba2901f3f319e9c570e2de875676d5e599cacc297a49dbce19436.jpg",
-    "link": "https://animepahe.ru/play/2267c8b1-4b92-777f-7b06-a4564d79d202/9866f7f932bd0b77f249d6b1438f5200bac408b3081f456e294232907ae47875",
-    "completed": 0
-  },
-  {
     "title": "Shoshimin: How to Become Ordinary Season 2",
     "episode": 22,
     "image": "https://i.animepahe.ru/uploads/snapshots/47e0c6094739831aa204fb6dfbdacc15e49f3e4a10d20dcc3ebfa81d8f94cb2b.jpg",
@@ -68,5 +47,26 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/6abcb2b32758b494f8e4f9e551bba4122db6dc3adffc0c9d2593c1f922e6541f.jpg",
     "link": "https://animepahe.ru/play/cb49b9d1-2396-39e6-8f76-f23b3607aff0/4d93c825f1735c121d24cc9f04ffeb24f8444e86e79936ae8662666e06e6f061",
     "completed": 0
+  },
+  {
+    "title": "The Gorilla God's Go-To Girl",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/cdaef190d7a40951e4cdb3c1f8da3d93120040d572f3e4e25dc01865d9d83ce9.jpg",
+    "link": "https://animepahe.ru/play/a89659be-3c75-1c88-c21f-9d6a2990734e/58bb214772bd04c9bb9f2355472aa4b4305b640d98c72363374b10fdbd61d5f4",
+    "completed": 1
+  },
+  {
+    "title": "Go! Go! Loser Ranger! Season 2",
+    "episode": 23,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8d1695311ecec1487718a0d3acdc127d29300bd0324141310bfd0d700c383fc6.jpg",
+    "link": "https://animepahe.ru/play/e0ed6ecb-5dbc-e5fd-c665-fb10fb6bca49/89c4e3b028d812d2edcf0bfb41b6662ba78e00225c74c7fe058e7193b06968b8",
+    "completed": 0
+  },
+  {
+    "title": "Maebashi Witches",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3bc52673fe52e22daeeac1d74c7bf180b0a1892360faa6b92b13ff0fcb650f8b.jpg",
+    "link": "https://animepahe.ru/play/07f3bd91-9e72-94ce-8751-1f5fdbfdb8ea/4d16b4ea827b279e2b9aeaca21ce05d6d6cd33151654b6a0e606b905294b2887",
+    "completed": 1
   }
 ]
