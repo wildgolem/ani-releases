@@ -1,12 +1,5 @@
 [
   {
-    "title": "From Old Country Bumpkin to Master Swordsman",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a15ab8dbdfa2e0de8691d2c15c809956fd83b8a23cb46eae382cc38a21d8dc9b.jpg",
-    "link": "https://animepahe.ru/play/43e7d8e6-89ee-d3f3-ff48-b1cd97829338/70f19058e7acc1d3901c0666d09d6f476de34192f47471cf8977c651848a8107",
-    "completed": 1
-  },
-  {
     "title": "Mono",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/ac1979fcf827caa487dba840cb9e2b0c3368ca721caf30c90809645dee44b3f7.jpg",
@@ -67,6 +60,13 @@
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/c791bc39ba45de886b7505c2e94dcdb1d73219bd3b105088148cf512252cebad.jpg",
     "link": "https://animepahe.ru/play/b35e44f1-70cd-9362-593d-4b62705f3151/3c2d62b7500ccd6d08bd6988d17415738c4248c00df1c3ada355e9d3cc6f9a26",
+    "completed": 0
+  },
+  {
+    "title": "Witch Watch",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/12fd386da747ace288363d8a2bedda74c7d509c2c32f089424f2f1066937223c.jpg",
+    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/af7c0f2f603b5eeda5bb9a9d3b0177dee86ce1550aa362c3dddd33a143a17ba6",
     "completed": 0
   }
 ]
