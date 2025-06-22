@@ -1,12 +1,5 @@
 [
   {
-    "title": "Shoshimin: How to Become Ordinary Season 2",
-    "episode": 22,
-    "image": "https://i.animepahe.ru/uploads/snapshots/47e0c6094739831aa204fb6dfbdacc15e49f3e4a10d20dcc3ebfa81d8f94cb2b.jpg",
-    "link": "https://animepahe.ru/play/88ae6b0f-ee15-0707-1d80-98d8ec4425a9/ae969a3c199c489527ddd000149353f700b1efaf2566ff23cce1e1125ebe2368",
-    "completed": 1
-  },
-  {
     "title": "I'm the Evil Lord of an Intergalactic Empire!",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/6fb2e59a77b65a89802a56907bf817b4e0ea2fef8504141beb3b62fda142d379.jpg",
@@ -67,6 +60,13 @@
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/3bc52673fe52e22daeeac1d74c7bf180b0a1892360faa6b92b13ff0fcb650f8b.jpg",
     "link": "https://animepahe.ru/play/07f3bd91-9e72-94ce-8751-1f5fdbfdb8ea/4d16b4ea827b279e2b9aeaca21ce05d6d6cd33151654b6a0e606b905294b2887",
+    "completed": 1
+  },
+  {
+    "title": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/83e03e58681d7285b4e97b3c28cc2f32e2bbc6374f4116be2d983a5b8f8aa65b.jpg",
+    "link": "https://animepahe.ru/play/bb77d96f-d2ec-73ae-9af1-46898257aa0b/dac26cbfa1990b94ead1c2cbf3cd483ed0cd9ec98b7d6fe550e5c006a4c9cd6d",
     "completed": 1
   }
 ]
