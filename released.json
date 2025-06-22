@@ -1,19 +1,5 @@
 [
   {
-    "title": "Anne Shirley",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2e3be58176d295f7cf322d6bf775e5fd21cf54cf2caec316180b547e8a920aba.jpg",
-    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/912e1dc184b2da9bb7511b6c63b715badcec8cb313e232b3ec7d8782bba0d9e2",
-    "completed": 0
-  },
-  {
-    "title": "Kowloon Generic Romance",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c3f356a59c2b59d5483ad46a343a9d84bccab435a6eec7dcac4c322781ef15ec.jpg",
-    "link": "https://animepahe.ru/play/60dce763-1e23-9f3a-9291-7b3ef9bfaeda/2b1359f6e78a0fbed1c20c2ea244958e6f48c9d47572a0d81853efbf146437fd",
-    "completed": 0
-  },
-  {
     "title": "Black Butler: Emerald Witch Arc",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/509e10376a4bb9fe1ce9fe22cb124514d9e47d8cb34da3e4048725d1dbc336ac.jpg",
@@ -68,5 +54,19 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/6fb2e59a77b65a89802a56907bf817b4e0ea2fef8504141beb3b62fda142d379.jpg",
     "link": "https://animepahe.ru/play/83837af5-73ae-503d-4362-f5389e634697/e931de8fb4b936cff557c9f60f7259da112784918dff4a0ac3c214e99460a037",
     "completed": 1
+  },
+  {
+    "title": "To Be Hero X",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2600a83045214ae05792ee0a53ec2406774fb5a4242bb1d5e82fa6d66edb2766.jpg",
+    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/872faedbeda7b961e63fbfd42a17f70c023406104255f49c00aac51d2706e8de",
+    "completed": 0
+  },
+  {
+    "title": "You and Idol Precure♪",
+    "episode": 20,
+    "image": "https://i.animepahe.ru/uploads/snapshots/47e22a269b35bfb65eca2496e59843f30a63421729f7b0f3dd2a4de88d7f3dd1.jpg",
+    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/ecfe6002152f1004ab362a8277680ffb672e2d5c1580ffb741f4059b82d6022c",
+    "completed": 0
   }
 ]
