@@ -1,26 +1,5 @@
 [
   {
-    "title": "You and Idol Precure♪",
-    "episode": 20,
-    "image": "https://i.animepahe.ru/uploads/snapshots/47e22a269b35bfb65eca2496e59843f30a63421729f7b0f3dd2a4de88d7f3dd1.jpg",
-    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/ecfe6002152f1004ab362a8277680ffb672e2d5c1580ffb741f4059b82d6022c",
-    "completed": 0
-  },
-  {
-    "title": "Uma Musume: Cinderella Gray",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c791bc39ba45de886b7505c2e94dcdb1d73219bd3b105088148cf512252cebad.jpg",
-    "link": "https://animepahe.ru/play/b35e44f1-70cd-9362-593d-4b62705f3151/3c2d62b7500ccd6d08bd6988d17415738c4248c00df1c3ada355e9d3cc6f9a26",
-    "completed": 0
-  },
-  {
-    "title": "Witch Watch",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/12fd386da747ace288363d8a2bedda74c7d509c2c32f089424f2f1066937223c.jpg",
-    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/af7c0f2f603b5eeda5bb9a9d3b0177dee86ce1550aa362c3dddd33a143a17ba6",
-    "completed": 0
-  },
-  {
     "title": "Shirohiyo - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/6abcb2b32758b494f8e4f9e551bba4122db6dc3adffc0c9d2593c1f922e6541f.jpg",
@@ -68,5 +47,26 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/b89289daf203d669f389f0a5838126da65eef2b480a292ca6e59fd615a877698.jpg",
     "link": "https://animepahe.ru/play/74a7b937-6d52-a599-4b6f-b74c8ff664ab/7104f43f2af2a96e8d1097c39aa91b50aaf82b60bbb60679a3c9a15d73947447",
     "completed": 1
+  },
+  {
+    "title": "Summer Pockets",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/53bc636c3396b715e31634b55f784126d881c4e7d8155e37ce869020009d356b.jpg",
+    "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/5d76fbb6a3314b73b1c6ab31194e0409555dde80ef2ce26958471380efc04849",
+    "completed": 0
+  },
+  {
+    "title": "Sword of the Demon Hunter: Kijin Gentosho",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0012d9f615b449f288a8d27b4be6544ec72339cec336bc58f40461d5d2b0fe19.jpg",
+    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/16da2e47d7420ab8eddda88b06335320e5c1c0f823957d88facf93932e414567",
+    "completed": 0
+  },
+  {
+    "title": "My Hero Academia: Vigilantes",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4a12d49179c56ecf6d6edccbdbd93d4c84b6ff9568c913dfa3cd222969ea090e.jpg",
+    "link": "https://animepahe.ru/play/8b11e7f8-1007-ba31-bd47-5ac966d549f6/30ac3bcabfce6fe428dc6cf090c1738cd45859df223f17d13bd855bb470a6f8a",
+    "completed": 0
   }
 ]
