@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Gorilla God's Go-To Girl",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/cdaef190d7a40951e4cdb3c1f8da3d93120040d572f3e4e25dc01865d9d83ce9.jpg",
-    "link": "https://animepahe.ru/play/a89659be-3c75-1c88-c21f-9d6a2990734e/58bb214772bd04c9bb9f2355472aa4b4305b640d98c72363374b10fdbd61d5f4",
-    "completed": 1
-  },
-  {
     "title": "Go! Go! Loser Ranger! Season 2",
     "episode": 23,
     "image": "https://i.animepahe.ru/uploads/snapshots/8d1695311ecec1487718a0d3acdc127d29300bd0324141310bfd0d700c383fc6.jpg",
@@ -67,6 +60,13 @@
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/d824f49701e0525f9256e169fea0ff2408ab6746afd4240678062a2d05c0418e.jpg",
     "link": "https://animepahe.ru/play/3f4e86ac-1a0a-3b30-2f93-d5210d1c455f/1ea0ae263b826a77bdd2cffbc504c946f978b844b3fc9a1d44a86bfb2cb42a00",
+    "completed": 1
+  },
+  {
+    "title": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b882ecc94daefa727ab9c36215ac8d3efa8cf3347c013baf3f06e09d0572de8d.jpg",
+    "link": "https://animepahe.ru/play/501f91f6-5ecf-920c-b735-df646375f827/2d6e220fec34fbe87ca7341f8e67d8f8bf45d6721e0542e5a21c1d95d612e96f",
     "completed": 1
   }
 ]
