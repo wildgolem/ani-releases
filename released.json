@@ -1,19 +1,5 @@
 [
   {
-    "title": "I'm the Evil Lord of an Intergalactic Empire!",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/6fb2e59a77b65a89802a56907bf817b4e0ea2fef8504141beb3b62fda142d379.jpg",
-    "link": "https://animepahe.ru/play/83837af5-73ae-503d-4362-f5389e634697/e931de8fb4b936cff557c9f60f7259da112784918dff4a0ac3c214e99460a037",
-    "completed": 1
-  },
-  {
-    "title": "To Be Hero X",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2600a83045214ae05792ee0a53ec2406774fb5a4242bb1d5e82fa6d66edb2766.jpg",
-    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/872faedbeda7b961e63fbfd42a17f70c023406104255f49c00aac51d2706e8de",
-    "completed": 0
-  },
-  {
     "title": "You and Idol Precure♪",
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/47e22a269b35bfb65eca2496e59843f30a63421729f7b0f3dd2a4de88d7f3dd1.jpg",
@@ -67,6 +53,20 @@
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/83e03e58681d7285b4e97b3c28cc2f32e2bbc6374f4116be2d983a5b8f8aa65b.jpg",
     "link": "https://animepahe.ru/play/bb77d96f-d2ec-73ae-9af1-46898257aa0b/dac26cbfa1990b94ead1c2cbf3cd483ed0cd9ec98b7d6fe550e5c006a4c9cd6d",
+    "completed": 1
+  },
+  {
+    "title": "Aharen-san wa Hakarenai Season 2",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/22c8b3dc9890dc6e838e75a9cd16a762d384feea225ca9abd994112ceaddddab.jpg",
+    "link": "https://animepahe.ru/play/6ef5ed34-6366-534d-cd1c-65379c8bfa96/3485704830d169b1a895e873589c8b4c928177a870fcde662c8ace3717c782b9",
+    "completed": 1
+  },
+  {
+    "title": "Zatsu Tabi: That's Journey",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b89289daf203d669f389f0a5838126da65eef2b480a292ca6e59fd615a877698.jpg",
+    "link": "https://animepahe.ru/play/74a7b937-6d52-a599-4b6f-b74c8ff664ab/7104f43f2af2a96e8d1097c39aa91b50aaf82b60bbb60679a3c9a15d73947447",
     "completed": 1
   }
 ]
