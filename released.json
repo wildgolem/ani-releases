@@ -1,12 +1,5 @@
 [
   {
-    "title": "#Compass2.0: Animation Project",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d824f49701e0525f9256e169fea0ff2408ab6746afd4240678062a2d05c0418e.jpg",
-    "link": "https://animepahe.ru/play/3f4e86ac-1a0a-3b30-2f93-d5210d1c455f/1ea0ae263b826a77bdd2cffbc504c946f978b844b3fc9a1d44a86bfb2cb42a00",
-    "completed": 1
-  },
-  {
     "title": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/b882ecc94daefa727ab9c36215ac8d3efa8cf3347c013baf3f06e09d0572de8d.jpg",
@@ -67,6 +60,13 @@
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/d605fc840f993b56508f3803c86e4332f76fe2fae168db82ada9c771ba623e90.jpg",
     "link": "https://animepahe.ru/play/94545d3d-12f7-8215-d10a-743ba8b500b6/91b5d39158055246cf7ae9618e07181fbbf8e7fb4875ec90295eed7040fc412d",
+    "completed": 0
+  },
+  {
+    "title": "Me and the Alien MuMu",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fdb25db44f3544a56623370c16c64b0c8c4e9773e15ec3f7292ca737efda5eaa.jpg",
+    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/fa8ad6ac6de029950f229ff976523211569c9c93b67743cb63fa91584a76bcea",
     "completed": 0
   }
 ]
