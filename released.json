@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b882ecc94daefa727ab9c36215ac8d3efa8cf3347c013baf3f06e09d0572de8d.jpg",
-    "link": "https://animepahe.ru/play/501f91f6-5ecf-920c-b735-df646375f827/2d6e220fec34fbe87ca7341f8e67d8f8bf45d6721e0542e5a21c1d95d612e96f",
-    "completed": 1
-  },
-  {
     "title": "Lazarus",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/b452d5afbb566dd8c29d887a77cf38dca882a1692401a11889dd1d919d308c8d.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/fdb25db44f3544a56623370c16c64b0c8c4e9773e15ec3f7292ca737efda5eaa.jpg",
     "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/fa8ad6ac6de029950f229ff976523211569c9c93b67743cb63fa91584a76bcea",
     "completed": 0
+  },
+  {
+    "title": "Our Last Crusade or the Rise of a New World Season 2",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ec7d0eb56053da543cbd2706fb1303bf11d93238d53c69920fc0b4ac50b9deb6.jpg",
+    "link": "https://animepahe.ru/play/e1a2aee9-2346-282c-d6c0-b85e7c5bb925/9bf96e01f40a9fd78b8c4d85127b5c293b55b960ad1bcc4cb52c44a58cbcb214",
+    "completed": 1
   }
 ]
