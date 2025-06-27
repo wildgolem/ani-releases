@@ -1,12 +1,5 @@
 [
   {
-    "title": "Apocalypse Hotel",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1e3ae1a2caf3f3857c60b9cc7f5afa237c7b2b97f11c9aa4beba73541714fbcd.jpg",
-    "link": "https://animepahe.ru/play/71a95120-95dc-7512-10e5-156a393f0003/5b6ef2757f918e5fe6a623f3103716f92aa73d279006bb6a565f41f885e43f83",
-    "completed": 1
-  },
-  {
     "title": "Your Forma",
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/9e6eeb3386be7fc7001f7b50971b665f3039f8cf64f9e502ade75b4d55539e14.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/934b8df4aae4683cf3751be3cea33b88a9ea43691c2e512291338be495a6a735.jpg",
     "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/1710e75f86adf5654110d85a14a9d74575efbd5bc2f57db08344efc176eafcc0",
     "completed": 0
+  },
+  {
+    "title": "Teogonia",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/82435d7cd14e08868332df2d637ec526271ab41f98c3552c8511680787fd4e40.jpg",
+    "link": "https://animepahe.ru/play/6520ee5f-5081-c81e-b2e5-53b20b81de62/450645068f8fec7540036d71afa169d12b1b7367f60656fb1a4680f0354274aa",
+    "completed": 1
   }
 ]
