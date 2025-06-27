@@ -1,12 +1,5 @@
 [
   {
-    "title": "Your Forma",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/9e6eeb3386be7fc7001f7b50971b665f3039f8cf64f9e502ade75b4d55539e14.jpg",
-    "link": "https://animepahe.ru/play/0f4cc85c-bd29-67f6-a582-bc22a9882073/9354e8009a506a694602d3efe0e75d6d2eaa8511f4e24fb6571b041723050628",
-    "completed": 1
-  },
-  {
     "title": "Everyday Host",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/537cc73d9167a8d4795917df5b60a35232ac8936e39ee1aa01db5e202586d169.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/82435d7cd14e08868332df2d637ec526271ab41f98c3552c8511680787fd4e40.jpg",
     "link": "https://animepahe.ru/play/6520ee5f-5081-c81e-b2e5-53b20b81de62/450645068f8fec7540036d71afa169d12b1b7367f60656fb1a4680f0354274aa",
     "completed": 1
+  },
+  {
+    "title": "The Apothecary Diaries Season 2",
+    "episode": 47,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3720472993b897481240cdcd607fb869854e15c8baea841ee33dca16cfff47f7.jpg",
+    "link": "https://animepahe.ru/play/44302c02-ac39-d56b-1bf4-a7e9628f9c8d/530ca9a072c747571fc21c1928d4d8cc4da030bf58ed3b9df86cd23a7829759e",
+    "completed": 0
   }
 ]
