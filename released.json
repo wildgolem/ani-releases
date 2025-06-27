@@ -1,12 +1,5 @@
 [
   {
-    "title": "Everyday Host",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/537cc73d9167a8d4795917df5b60a35232ac8936e39ee1aa01db5e202586d169.jpg",
-    "link": "https://animepahe.ru/play/a1663aa0-db3b-1419-591b-4f132166f55b/f2f4bd797bc3af39bbd2fbf35852e4e6575f2805395281d9dbe2b16af252ddd1",
-    "completed": 0
-  },
-  {
     "title": "Araiguma Calcal-dan",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/fdd83f5c554dbedb141fc50c40b3940125e38af848f52f3c9c5dbaf341ace80b.jpg",
@@ -67,6 +60,13 @@
     "episode": 47,
     "image": "https://i.animepahe.ru/uploads/snapshots/3720472993b897481240cdcd607fb869854e15c8baea841ee33dca16cfff47f7.jpg",
     "link": "https://animepahe.ru/play/44302c02-ac39-d56b-1bf4-a7e9628f9c8d/530ca9a072c747571fc21c1928d4d8cc4da030bf58ed3b9df86cd23a7829759e",
+    "completed": 0
+  },
+  {
+    "title": "Himitsu no AiPri: Ring-hen",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b7262529e3e7262637e8f605f2d5d4a3450ab5fe9a32ce85d68096f7714c0090.jpg",
+    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/fe5f9ad456d69ff043f427fb5092589d09da428550312b74da9441a9be58d3f3",
     "completed": 0
   }
 ]
