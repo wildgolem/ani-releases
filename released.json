@@ -1,12 +1,5 @@
 [
   {
-    "title": "Mobile Suit Gundam: GQuuuuuuX",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a5c695d1a0e8f6cee8c01835217e992c0fbce05e87b62e1c3f93ed6162544882.jpg",
-    "link": "https://animepahe.ru/play/f92a8c34-c4d1-29d4-275e-6786fdcf44c0/6bbe2a1dcefc38b36dadcb92b4254ee0f8a6fee067f18eceaf1987b43c535716",
-    "completed": 1
-  },
-  {
     "title": "Apocalypse Hotel",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/1e3ae1a2caf3f3857c60b9cc7f5afa237c7b2b97f11c9aa4beba73541714fbcd.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/604f72fca45bac39165b36bec2c95a05508f2a0c1ed8022e51da8adb6293a841.jpg",
     "link": "https://animepahe.ru/play/06eaab74-0977-aebc-f50e-adc5d42bd574/5a9413e865be6eabc42ba5a86acef9791be925db24772913fdd8b0dd7b589826",
     "completed": 1
+  },
+  {
+    "title": "Beyblade X",
+    "episode": 86,
+    "image": "https://i.animepahe.ru/uploads/snapshots/934b8df4aae4683cf3751be3cea33b88a9ea43691c2e512291338be495a6a735.jpg",
+    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/1710e75f86adf5654110d85a14a9d74575efbd5bc2f57db08344efc176eafcc0",
+    "completed": 0
   }
 ]
