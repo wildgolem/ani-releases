@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Apothecary Diaries Season 2",
-    "episode": 47,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3720472993b897481240cdcd607fb869854e15c8baea841ee33dca16cfff47f7.jpg",
-    "link": "https://animepahe.ru/play/44302c02-ac39-d56b-1bf4-a7e9628f9c8d/530ca9a072c747571fc21c1928d4d8cc4da030bf58ed3b9df86cd23a7829759e",
-    "completed": 0
-  },
-  {
     "title": "Himitsu no AiPri: Ring-hen",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/b7262529e3e7262637e8f605f2d5d4a3450ab5fe9a32ce85d68096f7714c0090.jpg",
@@ -67,6 +60,13 @@
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/89df2e7e5e842a5b85c6ae4a95ab32eb9f7349bf3ffeffe76ed37bde6922133e.jpg",
     "link": "https://animepahe.ru/play/60dce763-1e23-9f3a-9291-7b3ef9bfaeda/86d64e4ea07594d51031970d152374841f604311abaa8e0152020a2398bb2f36",
+    "completed": 1
+  },
+  {
+    "title": "Black Butler: Emerald Witch Arc",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2a7b102d288d3d9de96255b982ecd83e5f02049177745f55673adb94c54898ba.jpg",
+    "link": "https://animepahe.ru/play/6b42b16b-13b1-7cfb-a19a-a9670bddc933/ef4f6b4c77fc3341864f0274a1f0c35996bf908923e6a8922194818cbd1842fb",
     "completed": 1
   }
 ]
