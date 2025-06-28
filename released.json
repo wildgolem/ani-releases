@@ -1,19 +1,5 @@
 [
   {
-    "title": "Himitsu no AiPri: Ring-hen",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b7262529e3e7262637e8f605f2d5d4a3450ab5fe9a32ce85d68096f7714c0090.jpg",
-    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/fe5f9ad456d69ff043f427fb5092589d09da428550312b74da9441a9be58d3f3",
-    "completed": 0
-  },
-  {
-    "title": "The All-devouring Whale: Homecoming",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e3a8fb4565d3d21a0f9c3bb63ef3dd03e95ea46c999b5b8e40d5fe2566a7eeb9.jpg",
-    "link": "https://animepahe.ru/play/8638b3f9-7333-55d7-11aa-ee4fe1d047a0/665caf2daaa542b8202918822390cc80ced818a031e2814d93baff589291bd52",
-    "completed": 0
-  },
-  {
     "title": "Pokémon Horizons: The Series",
     "episode": 101,
     "image": "https://i.animepahe.ru/uploads/snapshots/9a909aa77b260e952cd1b34bc442f13afe54db22caa9dd46592dc07d95a6f7ad.jpg",
@@ -67,6 +53,20 @@
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/2a7b102d288d3d9de96255b982ecd83e5f02049177745f55673adb94c54898ba.jpg",
     "link": "https://animepahe.ru/play/6b42b16b-13b1-7cfb-a19a-a9670bddc933/ef4f6b4c77fc3341864f0274a1f0c35996bf908923e6a8922194818cbd1842fb",
+    "completed": 1
+  },
+  {
+    "title": "Mono",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/972464de7459ae619be6f07f10a390798942217908998c43509d78dda32901a5.jpg",
+    "link": "https://animepahe.ru/play/cdda01ba-50ca-a61b-f1ae-5e705c65994b/7aed0a688e6fe1d0584f4e4dbded62bc9cb89f01bcf8e72ff041fda4db7b300b",
+    "completed": 1
+  },
+  {
+    "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+    "episode": 24,
+    "image": "https://i.animepahe.ru/uploads/snapshots/dcb399c863e7a1eef7f9d8a2bc4e041f1298f600bc2a7fc86c6e422936596e01.jpg",
+    "link": "https://animepahe.ru/play/29670402-de30-e595-802b-ced9c08857fa/c464b54f5e392442855b9d4e99eb35fbd95c374ceb1f74bae22b3487e88926be",
     "completed": 1
   }
 ]
