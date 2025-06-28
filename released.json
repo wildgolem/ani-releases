@@ -1,12 +1,5 @@
 [
   {
-    "title": "Teogonia",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/82435d7cd14e08868332df2d637ec526271ab41f98c3552c8511680787fd4e40.jpg",
-    "link": "https://animepahe.ru/play/6520ee5f-5081-c81e-b2e5-53b20b81de62/450645068f8fec7540036d71afa169d12b1b7367f60656fb1a4680f0354274aa",
-    "completed": 1
-  },
-  {
     "title": "The Apothecary Diaries Season 2",
     "episode": 47,
     "image": "https://i.animepahe.ru/uploads/snapshots/3720472993b897481240cdcd607fb869854e15c8baea841ee33dca16cfff47f7.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/b1c0e0424422f347083b11b442f5271d7a7e4acc67f4a251bf6e75970d3c12fb.jpg",
     "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/3ee8a360f6e01ff902f6740244566158b2f517c5c550723d355f11ab5ea64109",
     "completed": 0
+  },
+  {
+    "title": "Kowloon Generic Romance",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/89df2e7e5e842a5b85c6ae4a95ab32eb9f7349bf3ffeffe76ed37bde6922133e.jpg",
+    "link": "https://animepahe.ru/play/60dce763-1e23-9f3a-9291-7b3ef9bfaeda/86d64e4ea07594d51031970d152374841f604311abaa8e0152020a2398bb2f36",
+    "completed": 1
   }
 ]
