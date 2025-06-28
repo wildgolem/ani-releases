@@ -1,19 +1,5 @@
 [
   {
-    "title": "Me and the Alien MuMu",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/fdb25db44f3544a56623370c16c64b0c8c4e9773e15ec3f7292ca737efda5eaa.jpg",
-    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/fa8ad6ac6de029950f229ff976523211569c9c93b67743cb63fa91584a76bcea",
-    "completed": 0
-  },
-  {
-    "title": "Our Last Crusade or the Rise of a New World Season 2",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ec7d0eb56053da543cbd2706fb1303bf11d93238d53c69920fc0b4ac50b9deb6.jpg",
-    "link": "https://animepahe.ru/play/e1a2aee9-2346-282c-d6c0-b85e7c5bb925/9bf96e01f40a9fd78b8c4d85127b5c293b55b960ad1bcc4cb52c44a58cbcb214",
-    "completed": 1
-  },
-  {
     "title": "A Ninja and an Assassin Under One Roof",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/6355251c611a791be943d0d1ea83bf575885cd63ee538e9a0c1e473198fe56d4.jpg",
@@ -67,6 +53,20 @@
     "episode": 101,
     "image": "https://i.animepahe.ru/uploads/snapshots/9a909aa77b260e952cd1b34bc442f13afe54db22caa9dd46592dc07d95a6f7ad.jpg",
     "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/22ae15c9ddc1889c82a0110c7e22b5074913162a46e490f0065b5ead0b9c3bd1",
+    "completed": 0
+  },
+  {
+    "title": "Lord of Mysteries",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/bdbae973c4496b7fcb4f38d0a9003b2f926cbf36117403f3f9c24b319299c00f.jpg",
+    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/e40559e28dd5f074d5a96a6e2e67f1ad1d33854ff0f56c61d7f949ddf88e9c8c",
+    "completed": 0
+  },
+  {
+    "title": "Takopi's Original Sin",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9e8a1db57ca53888c945e4d6c97796ad40940cb748deaf7e539646c7a50f7ad6.jpg",
+    "link": "https://animepahe.ru/play/6d155661-e113-3afe-7fbe-40ee28a2ffeb/5b023cbef17fde4dff35eaa9391c699320f98c76e1c269a6c8412c51a28514f5",
     "completed": 0
   }
 ]
