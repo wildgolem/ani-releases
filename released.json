@@ -1,12 +1,5 @@
 [
   {
-    "title": "Beyblade X",
-    "episode": 86,
-    "image": "https://i.animepahe.ru/uploads/snapshots/934b8df4aae4683cf3751be3cea33b88a9ea43691c2e512291338be495a6a735.jpg",
-    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/1710e75f86adf5654110d85a14a9d74575efbd5bc2f57db08344efc176eafcc0",
-    "completed": 0
-  },
-  {
     "title": "Teogonia",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/82435d7cd14e08868332df2d637ec526271ab41f98c3552c8511680787fd4e40.jpg",
@@ -67,6 +60,13 @@
     "episode": 1167,
     "image": "https://i.animepahe.ru/uploads/snapshots/4ae469fa0303069f1a92bfe6c64f43d00f8ecf2d2c971dc02849e82d09bf231e.jpg",
     "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/7ab0f7f49c1eff30d656630a0228dc62bd155ab3f74f2662e1c484fe85038819",
+    "completed": 0
+  },
+  {
+    "title": "Anne Shirley",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b1c0e0424422f347083b11b442f5271d7a7e4acc67f4a251bf6e75970d3c12fb.jpg",
+    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/3ee8a360f6e01ff902f6740244566158b2f517c5c550723d355f11ab5ea64109",
     "completed": 0
   }
 ]
