@@ -1,12 +1,5 @@
 [
   {
-    "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
-    "episode": 24,
-    "image": "https://i.animepahe.ru/uploads/snapshots/dcb399c863e7a1eef7f9d8a2bc4e041f1298f600bc2a7fc86c6e422936596e01.jpg",
-    "link": "https://animepahe.ru/play/29670402-de30-e595-802b-ced9c08857fa/c464b54f5e392442855b9d4e99eb35fbd95c374ceb1f74bae22b3487e88926be",
-    "completed": 1
-  },
-  {
     "title": "Food for the Soul",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/b1c5de7884181814a2e1720c54180fef3a52c37435ae2634a5ecbcd511e039f7.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/ee568c9708dbb489915bbb6a3f8dd2b2026debc8ea9ee2f3e0672262da6c64e3.jpg",
     "link": "https://animepahe.ru/play/e0ed6ecb-5dbc-e5fd-c665-fb10fb6bca49/2699c2af927038e7bf7f4a7bbf500271c9e89b61eb0747c93c7c58b75289047d",
     "completed": 1
+  },
+  {
+    "title": "One Piece",
+    "episode": 1134,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9e0dc472f4b29e378e3f0a48471f5c80ac8681358e5414891ac736eac583b946.jpg",
+    "link": "https://animepahe.ru/play/d58fc9f8-582e-fdf0-3618-112cd54ed5ab/489d6c9267ea4ff45321517b59b34860145bac821ba31555ebefdad5842dad87",
+    "completed": 0
   }
 ]
