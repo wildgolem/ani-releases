@@ -1,12 +1,5 @@
 [
   {
-    "title": "Black Butler: Emerald Witch Arc",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2a7b102d288d3d9de96255b982ecd83e5f02049177745f55673adb94c54898ba.jpg",
-    "link": "https://animepahe.ru/play/6b42b16b-13b1-7cfb-a19a-a9670bddc933/ef4f6b4c77fc3341864f0274a1f0c35996bf908923e6a8922194818cbd1842fb",
-    "completed": 1
-  },
-  {
     "title": "Mono",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/972464de7459ae619be6f07f10a390798942217908998c43509d78dda32901a5.jpg",
@@ -67,6 +60,13 @@
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/35ec2b957940f7842ca90f670130a8607c196f2027d18dc847e9215b00f85d18.jpg",
     "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/bd3ddef158fdffd9f6ea7d403d5fc344f8ae3c2c1bcd47fcee1807edd21768fb",
+    "completed": 0
+  },
+  {
+    "title": "Shirohiyo - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/429da2d6a9bf98c4095e099594feb702470f241a68726ccd78f7a6beac9fe594.jpg",
+    "link": "https://animepahe.ru/play/cb49b9d1-2396-39e6-8f76-f23b3607aff0/b3c5193012b623ffe17956bcf2ca26756ab451db1656131df0b39780c7be41b3",
     "completed": 0
   }
 ]
