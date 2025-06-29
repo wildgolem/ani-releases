@@ -1,12 +1,5 @@
 [
   {
-    "title": "Mono",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/972464de7459ae619be6f07f10a390798942217908998c43509d78dda32901a5.jpg",
-    "link": "https://animepahe.ru/play/cdda01ba-50ca-a61b-f1ae-5e705c65994b/7aed0a688e6fe1d0584f4e4dbded62bc9cb89f01bcf8e72ff041fda4db7b300b",
-    "completed": 1
-  },
-  {
     "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
     "episode": 24,
     "image": "https://i.animepahe.ru/uploads/snapshots/dcb399c863e7a1eef7f9d8a2bc4e041f1298f600bc2a7fc86c6e422936596e01.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/429da2d6a9bf98c4095e099594feb702470f241a68726ccd78f7a6beac9fe594.jpg",
     "link": "https://animepahe.ru/play/cb49b9d1-2396-39e6-8f76-f23b3607aff0/b3c5193012b623ffe17956bcf2ca26756ab451db1656131df0b39780c7be41b3",
     "completed": 0
+  },
+  {
+    "title": "Go! Go! Loser Ranger! Season 2",
+    "episode": 24,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ee568c9708dbb489915bbb6a3f8dd2b2026debc8ea9ee2f3e0672262da6c64e3.jpg",
+    "link": "https://animepahe.ru/play/e0ed6ecb-5dbc-e5fd-c665-fb10fb6bca49/2699c2af927038e7bf7f4a7bbf500271c9e89b61eb0747c93c7c58b75289047d",
+    "completed": 1
   }
 ]
