@@ -1,12 +1,5 @@
 [
   {
-    "title": "Anne Shirley",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b1c0e0424422f347083b11b442f5271d7a7e4acc67f4a251bf6e75970d3c12fb.jpg",
-    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/3ee8a360f6e01ff902f6740244566158b2f517c5c550723d355f11ab5ea64109",
-    "completed": 0
-  },
-  {
     "title": "Kowloon Generic Romance",
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/89df2e7e5e842a5b85c6ae4a95ab32eb9f7349bf3ffeffe76ed37bde6922133e.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/68b9b7abc35bd3e28611b50442b18a0789ccde625c54f5d5298a8074a3e60a5a.jpg",
     "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/cc02d8c5fff1c546e15336bc9998c023590bbcadb57859a22d485509a8a0c786",
     "completed": 0
+  },
+  {
+    "title": "Uma Musume: Cinderella Gray",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/551f83586af542ead944ae174fb2671f1d8b4fb738e591eb98615c3f539995e0.jpg",
+    "link": "https://animepahe.ru/play/b35e44f1-70cd-9362-593d-4b62705f3151/7cd6aed1456711dee3ac724beb1e3226247ee6770df73d6e80dc1b7d5570f775",
+    "completed": 1
   }
 ]
