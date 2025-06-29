@@ -1,19 +1,5 @@
 [
   {
-    "title": "Yaiba: Samurai Legend",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2b6a91e9728092c6fa463615b010805d10426067dfcb8d51bee61a8258033cd2.jpg",
-    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/4877dfb327681c6a222479b33e9fd3f11fb37a2a3bedf60c190130388c35eae9",
-    "completed": 0
-  },
-  {
-    "title": "Meitantei Conan",
-    "episode": 1167,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4ae469fa0303069f1a92bfe6c64f43d00f8ecf2d2c971dc02849e82d09bf231e.jpg",
-    "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/7ab0f7f49c1eff30d656630a0228dc62bd155ab3f74f2662e1c484fe85038819",
-    "completed": 0
-  },
-  {
     "title": "Anne Shirley",
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/b1c0e0424422f347083b11b442f5271d7a7e4acc67f4a251bf6e75970d3c12fb.jpg",
@@ -68,5 +54,19 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/ed9256dcc5720bca36d1e20108d7af9c2ccc89706477ef30e480ce31f348467e.jpg",
     "link": "https://animepahe.ru/play/2267c8b1-4b92-777f-7b06-a4564d79d202/cf5f752201c89028a51ad2211a633dff07219b5990a97e7a0337d1ce12b747ab",
     "completed": 1
+  },
+  {
+    "title": "To Be Hero X",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fbc561e9d96b7acd0b806c0d90d418379643bc2f519147ef4a882fd4803e6951.jpg",
+    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/607ba2d9dc9eb87a768fa15d2ff1e14e446f18f70ceafe2f3c4c012a357c4932",
+    "completed": 0
+  },
+  {
+    "title": "You and Idol Precure♪",
+    "episode": 21,
+    "image": "https://i.animepahe.ru/uploads/snapshots/68b9b7abc35bd3e28611b50442b18a0789ccde625c54f5d5298a8074a3e60a5a.jpg",
+    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/cc02d8c5fff1c546e15336bc9998c023590bbcadb57859a22d485509a8a0c786",
+    "completed": 0
   }
 ]
