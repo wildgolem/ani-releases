@@ -1,19 +1,5 @@
 [
   {
-    "title": "To Be Hero X",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/fbc561e9d96b7acd0b806c0d90d418379643bc2f519147ef4a882fd4803e6951.jpg",
-    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/607ba2d9dc9eb87a768fa15d2ff1e14e446f18f70ceafe2f3c4c012a357c4932",
-    "completed": 0
-  },
-  {
-    "title": "You and Idol Precure♪",
-    "episode": 21,
-    "image": "https://i.animepahe.ru/uploads/snapshots/68b9b7abc35bd3e28611b50442b18a0789ccde625c54f5d5298a8074a3e60a5a.jpg",
-    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/cc02d8c5fff1c546e15336bc9998c023590bbcadb57859a22d485509a8a0c786",
-    "completed": 0
-  },
-  {
     "title": "Uma Musume: Cinderella Gray",
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/551f83586af542ead944ae174fb2671f1d8b4fb738e591eb98615c3f539995e0.jpg",
@@ -68,5 +54,19 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/aa84f3ea110437cb41df3c08bb47456aaa5015bf18d0f5861fafb86d6d11ef28.jpg",
     "link": "https://animepahe.ru/play/04202b71-2660-b9ee-b54f-b1ca5094f421/a0a1ffaa769dcc937aff57158d1989235a5fd008450ef3f18e5af19f497c42e1",
     "completed": 0
+  },
+  {
+    "title": "Summer Pockets",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/10829f0833701bd01ea1ffbbd444b4e322054a156f39def90625cb4525389c99.jpg",
+    "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/82239a44bf8c9935c2f6c5130791857bf69e95d5c1e5785dcf22fe55a0fb0f6c",
+    "completed": 0
+  },
+  {
+    "title": "My Hero Academia: Vigilantes",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2a038120ee19f0dfe39a3b172926469a6a20b0cbb0b51994f84247d847d9c7b6.jpg",
+    "link": "https://animepahe.ru/play/8b11e7f8-1007-ba31-bd47-5ac966d549f6/084938da54cf2cc79e516b4c1b69636863acbd982421269b681085cc0bf1c5ea",
+    "completed": 1
   }
 ]
