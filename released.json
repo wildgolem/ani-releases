@@ -1,19 +1,5 @@
 [
   {
-    "title": "Private Tutor to the Duke's Daughter",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/0440ad138db0b4fccc0ac8927c2dc3b3f282acd5b012a82fe901b6fe0dc86b44.jpg",
-    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/24467a48e2dfc472770d9e4ea0dd62fb48192fec70e6bb4238c2387d3ec78926",
-    "completed": 0
-  },
-  {
-    "title": "Classic★Stars",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ed9256dcc5720bca36d1e20108d7af9c2ccc89706477ef30e480ce31f348467e.jpg",
-    "link": "https://animepahe.ru/play/2267c8b1-4b92-777f-7b06-a4564d79d202/cf5f752201c89028a51ad2211a633dff07219b5990a97e7a0337d1ce12b747ab",
-    "completed": 1
-  },
-  {
     "title": "To Be Hero X",
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/fbc561e9d96b7acd0b806c0d90d418379643bc2f519147ef4a882fd4803e6951.jpg",
@@ -68,5 +54,19 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/fbafdcd385760cb1d681f098d2441b9f8956577c0d89ba5f3555a46d15f650c1.jpg",
     "link": "https://animepahe.ru/play/0675f2a0-5d95-5998-5376-2e096bed54ce/5415b9f6ba6010ed5660e06d7f6853764c5bde33f0309a7f14907ed1dd4f8a56",
     "completed": 1
+  },
+  {
+    "title": "Celestial Bonds",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f910a64606be35b44d4c0a80b3651975606d41cd2e04b2a0e3f4519789c6984d.jpg",
+    "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/b583f3bbb03b311309dd124bd6b3b0d6af6112d706b82a35f1891c5666231b51",
+    "completed": 0
+  },
+  {
+    "title": "Pyramid Game",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/aa84f3ea110437cb41df3c08bb47456aaa5015bf18d0f5861fafb86d6d11ef28.jpg",
+    "link": "https://animepahe.ru/play/04202b71-2660-b9ee-b54f-b1ca5094f421/a0a1ffaa769dcc937aff57158d1989235a5fd008450ef3f18e5af19f497c42e1",
+    "completed": 0
   }
 ]
