@@ -1,12 +1,5 @@
 [
   {
-    "title": "Uma Musume: Cinderella Gray",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/551f83586af542ead944ae174fb2671f1d8b4fb738e591eb98615c3f539995e0.jpg",
-    "link": "https://animepahe.ru/play/b35e44f1-70cd-9362-593d-4b62705f3151/7cd6aed1456711dee3ac724beb1e3226247ee6770df73d6e80dc1b7d5570f775",
-    "completed": 1
-  },
-  {
     "title": "Witch Watch",
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/35ec2b957940f7842ca90f670130a8607c196f2027d18dc847e9215b00f85d18.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/2a038120ee19f0dfe39a3b172926469a6a20b0cbb0b51994f84247d847d9c7b6.jpg",
     "link": "https://animepahe.ru/play/8b11e7f8-1007-ba31-bd47-5ac966d549f6/084938da54cf2cc79e516b4c1b69636863acbd982421269b681085cc0bf1c5ea",
     "completed": 1
+  },
+  {
+    "title": "Lord of Mysteries",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/bdbae973c4496b7fcb4f38d0a9003b2f926cbf36117403f3f9c24b319299c00f.jpg",
+    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/e40559e28dd5f074d5a96a6e2e67f1ad1d33854ff0f56c61d7f949ddf88e9c8c",
+    "completed": 0
   }
 ]
