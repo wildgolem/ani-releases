@@ -1,19 +1,5 @@
 [
   {
-    "title": "Shirohiyo - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/429da2d6a9bf98c4095e099594feb702470f241a68726ccd78f7a6beac9fe594.jpg",
-    "link": "https://animepahe.ru/play/cb49b9d1-2396-39e6-8f76-f23b3607aff0/b3c5193012b623ffe17956bcf2ca26756ab451db1656131df0b39780c7be41b3",
-    "completed": 1
-  },
-  {
-    "title": "Go! Go! Loser Ranger! Season 2",
-    "episode": 24,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ee568c9708dbb489915bbb6a3f8dd2b2026debc8ea9ee2f3e0672262da6c64e3.jpg",
-    "link": "https://animepahe.ru/play/e0ed6ecb-5dbc-e5fd-c665-fb10fb6bca49/2699c2af927038e7bf7f4a7bbf500271c9e89b61eb0747c93c7c58b75289047d",
-    "completed": 1
-  },
-  {
     "title": "One Piece",
     "episode": 1134,
     "image": "https://i.animepahe.ru/uploads/snapshots/9e0dc472f4b29e378e3f0a48471f5c80ac8681358e5414891ac736eac583b946.jpg",
@@ -67,6 +53,20 @@
     "episode": 37,
     "image": "https://i.animepahe.ru/uploads/snapshots/6ae5bb1364defd89ef6e2aea2c8209cabe37b13e1e2587386d6269e372dea3f3.jpg",
     "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/700cf2148180f13f3ec0deaf29005a0a018abdbaaf812053730bbd995965e5bb",
+    "completed": 0
+  },
+  {
+    "title": "Detectives These Days Are Crazy!",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/84d6eaa7972c0af1ce09eba9048674a30e147aff87b67668e47a20f68f05034c.jpg",
+    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/1266ceb17f7bef2fa666467c8e6c83c83994f12fb5f38469d3da02adb34b4eb5",
+    "completed": 0
+  },
+  {
+    "title": "Necronomico and the Cosmic Horror Show",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5a5a50eea383b4d9487fe8477ae956f4951a25410a007a3e5fbd36b379cb9deb.jpg",
+    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/e1e3d23cf12b745ee9d4a31ba94910eda91fdbfd4114e5d8555b3790e94f9ad8",
     "completed": 0
   }
 ]
