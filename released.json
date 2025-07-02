@@ -1,12 +1,5 @@
 [
   {
-    "title": "Celestial Bonds",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f910a64606be35b44d4c0a80b3651975606d41cd2e04b2a0e3f4519789c6984d.jpg",
-    "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/b583f3bbb03b311309dd124bd6b3b0d6af6112d706b82a35f1891c5666231b51",
-    "completed": 0
-  },
-  {
     "title": "Pyramid Game",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/aa84f3ea110437cb41df3c08bb47456aaa5015bf18d0f5861fafb86d6d11ef28.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/a76396b4900a5fe6a09c4c0655465db7e6f61dd8a1e5d295fa3a8c92945a0e4d.jpg",
     "link": "https://animepahe.ru/play/79fe94dc-8a14-630c-2760-13ed564ef809/e3afcccbf626fc57b7551ae88331dcc8b1e86fc105cba3d2bd8367d61bf079bb",
+    "completed": 0
+  },
+  {
+    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/01a75b25fc678d08511fa62537d7f3570b856b1a27d61af5a6219296141e9b96.jpg",
+    "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/ad2d14d53b9d209d0449d6aae22d19190ecb6db56fbef2cf881193f140dd12dd",
     "completed": 0
   }
 ]
