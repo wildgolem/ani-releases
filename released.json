@@ -1,12 +1,5 @@
 [
   {
-    "title": "Summer Pockets",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/10829f0833701bd01ea1ffbbd444b4e322054a156f39def90625cb4525389c99.jpg",
-    "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/82239a44bf8c9935c2f6c5130791857bf69e95d5c1e5785dcf22fe55a0fb0f6c",
-    "completed": 0
-  },
-  {
     "title": "My Hero Academia: Vigilantes",
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/2a038120ee19f0dfe39a3b172926469a6a20b0cbb0b51994f84247d847d9c7b6.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/c0695c181ce39d2e36c020b7f50f7ebeee77b6f44cd46ca7e915b91c996212de.jpg",
     "link": "https://animepahe.ru/play/f5135165-7630-6498-ccd8-93954cfef653/ba34a61d53529eed9d7b3caeaa2e147a8409cafcbb0beb578092fcbe0873a298",
+    "completed": 0
+  },
+  {
+    "title": "Onmyo Kaiten Re:Birth Verse",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0536a8f2b38ecdbbbf65a6965a57e54432189a0ca216ec844bac92ac1ab92e69.jpg",
+    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/f5386ce0acd2b94bdc7987b9b5d9424805e61aabf14e625f1a269e77e397ae46",
     "completed": 0
   }
 ]
