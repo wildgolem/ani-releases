@@ -1,12 +1,5 @@
 [
   {
-    "title": "Detectives These Days Are Crazy!",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/84d6eaa7972c0af1ce09eba9048674a30e147aff87b67668e47a20f68f05034c.jpg",
-    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/1266ceb17f7bef2fa666467c8e6c83c83994f12fb5f38469d3da02adb34b4eb5",
-    "completed": 0
-  },
-  {
     "title": "Necronomico and the Cosmic Horror Show",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/5a5a50eea383b4d9487fe8477ae956f4951a25410a007a3e5fbd36b379cb9deb.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/dc51b58664ed559f4c676a8b87758e300d01b45160191da714a473b8c10917d1.jpg",
     "link": "https://animepahe.ru/play/7a909eb7-14eb-9822-6bfe-ab9f1d9ab597/ad8673633c516611f907f3ec616a7a28f93cfd13927eee3662e0b84d0dedc301",
+    "completed": 0
+  },
+  {
+    "title": "Dan Da Dan Season 2",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/12532daa64facc2f9f22da5bc4baad7164bbb238341a6b268dd45300997557a6.jpg",
+    "link": "https://animepahe.ru/play/eb60c032-081f-2049-f869-babd395f242e/415c68652190247a5e95f36d8a7dc328d94724cf33cbedd337a87b4d2dd199ca",
     "completed": 0
   }
 ]
