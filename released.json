@@ -1,12 +1,5 @@
 [
   {
-    "title": "My Hero Academia: Vigilantes",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2a038120ee19f0dfe39a3b172926469a6a20b0cbb0b51994f84247d847d9c7b6.jpg",
-    "link": "https://animepahe.ru/play/8b11e7f8-1007-ba31-bd47-5ac966d549f6/084938da54cf2cc79e516b4c1b69636863acbd982421269b681085cc0bf1c5ea",
-    "completed": 1
-  },
-  {
     "title": "Lord of Mysteries",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/bdbae973c4496b7fcb4f38d0a9003b2f926cbf36117403f3f9c24b319299c00f.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/0536a8f2b38ecdbbbf65a6965a57e54432189a0ca216ec844bac92ac1ab92e69.jpg",
     "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/f5386ce0acd2b94bdc7987b9b5d9424805e61aabf14e625f1a269e77e397ae46",
+    "completed": 0
+  },
+  {
+    "title": "Beyblade X",
+    "episode": 87,
+    "image": "https://i.animepahe.ru/uploads/snapshots/60866d0e41dd795f3a8a88eb16dd940479a32ab338629d0ee6540dab9b5b2f3c.jpg",
+    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/6a72dc6f02fd511cba14dee83b380d2daac65c5f368d1f6f19d74442e85c06ce",
     "completed": 0
   }
 ]
