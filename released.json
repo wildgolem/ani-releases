@@ -1,12 +1,5 @@
 [
   {
-    "title": "Rent-a-Girlfriend Season 4",
-    "episode": 37,
-    "image": "https://i.animepahe.ru/uploads/snapshots/6ae5bb1364defd89ef6e2aea2c8209cabe37b13e1e2587386d6269e372dea3f3.jpg",
-    "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/700cf2148180f13f3ec0deaf29005a0a018abdbaaf812053730bbd995965e5bb",
-    "completed": 0
-  },
-  {
     "title": "Detectives These Days Are Crazy!",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/84d6eaa7972c0af1ce09eba9048674a30e147aff87b67668e47a20f68f05034c.jpg",
@@ -67,6 +60,13 @@
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/036d73403bd3cb99a713defdce65e52a1bf5620da149fe3c773392bf3009ad8a.jpg",
     "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/160e4b430dee105a750ae6e75f50e64d6cab14d7f39e706424a9ad4ae2186454",
+    "completed": 0
+  },
+  {
+    "title": "Welcome to the Outcast's Restaurant!",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/dc51b58664ed559f4c676a8b87758e300d01b45160191da714a473b8c10917d1.jpg",
+    "link": "https://animepahe.ru/play/7a909eb7-14eb-9822-6bfe-ab9f1d9ab597/ad8673633c516611f907f3ec616a7a28f93cfd13927eee3662e0b84d0dedc301",
     "completed": 0
   }
 ]
