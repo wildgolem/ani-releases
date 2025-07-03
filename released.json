@@ -1,12 +1,5 @@
 [
   {
-    "title": "Lord of Mysteries",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/bdbae973c4496b7fcb4f38d0a9003b2f926cbf36117403f3f9c24b319299c00f.jpg",
-    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/e40559e28dd5f074d5a96a6e2e67f1ad1d33854ff0f56c61d7f949ddf88e9c8c",
-    "completed": 0
-  },
-  {
     "title": "Rent-a-Girlfriend Season 4",
     "episode": 37,
     "image": "https://i.animepahe.ru/uploads/snapshots/6ae5bb1364defd89ef6e2aea2c8209cabe37b13e1e2587386d6269e372dea3f3.jpg",
@@ -67,6 +60,13 @@
     "episode": 87,
     "image": "https://i.animepahe.ru/uploads/snapshots/60866d0e41dd795f3a8a88eb16dd940479a32ab338629d0ee6540dab9b5b2f3c.jpg",
     "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/6a72dc6f02fd511cba14dee83b380d2daac65c5f368d1f6f19d74442e85c06ce",
+    "completed": 0
+  },
+  {
+    "title": "Me and the Alien MuMu",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/036d73403bd3cb99a713defdce65e52a1bf5620da149fe3c773392bf3009ad8a.jpg",
+    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/160e4b430dee105a750ae6e75f50e64d6cab14d7f39e706424a9ad4ae2186454",
     "completed": 0
   }
 ]
