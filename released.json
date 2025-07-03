@@ -1,12 +1,5 @@
 [
   {
-    "title": "Clevatess",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a76396b4900a5fe6a09c4c0655465db7e6f61dd8a1e5d295fa3a8c92945a0e4d.jpg",
-    "link": "https://animepahe.ru/play/79fe94dc-8a14-630c-2760-13ed564ef809/e3afcccbf626fc57b7551ae88331dcc8b1e86fc105cba3d2bd8367d61bf079bb",
-    "completed": 0
-  },
-  {
     "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/01a75b25fc678d08511fa62537d7f3570b856b1a27d61af5a6219296141e9b96.jpg",
@@ -65,8 +58,15 @@
   {
     "title": "Hell Teacher: Jigoku Sensei Nube",
     "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d6bd7cf8e7cc1d0f78c9bac7cbd78cc748a69c19ea31b7303f9d5e1c24538cc1.jpg",
+    "image": "https://i.animepahe.ru/uploads/snapshots/50bf45b633606d130f5313c022a70902452a3ffb0179f6f57a2dc8ebc4d3e522.jpg",
     "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/f4bcc458edc015507fb0b67a0089d997821c283b86be7ba7384c1aaf2a391956",
+    "completed": 0
+  },
+  {
+    "title": "Chuhai Lips",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/189ede144983802062c568aa140830a41476e110d6ca6d5fea855ea16e532120.jpg",
+    "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/485ed6d4c356e49adffec651f510b9f7affe42c3e53818a28b9c22662ff48e23",
     "completed": 0
   }
 ]
