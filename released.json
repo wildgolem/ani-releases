@@ -1,12 +1,5 @@
 [
   {
-    "title": "Necronomico and the Cosmic Horror Show",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/5a5a50eea383b4d9487fe8477ae956f4951a25410a007a3e5fbd36b379cb9deb.jpg",
-    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/e1e3d23cf12b745ee9d4a31ba94910eda91fdbfd4114e5d8555b3790e94f9ad8",
-    "completed": 0
-  },
-  {
     "title": "Level E",
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/35caf22af354bcaf723d277008326c29b9e000142aa5afa786c8d612cc066317.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/12532daa64facc2f9f22da5bc4baad7164bbb238341a6b268dd45300997557a6.jpg",
     "link": "https://animepahe.ru/play/eb60c032-081f-2049-f869-babd395f242e/415c68652190247a5e95f36d8a7dc328d94724cf33cbedd337a87b4d2dd199ca",
     "completed": 0
+  },
+  {
+    "title": "Kamitsubaki City Under Production",
+    "episode": 0,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ec1f03ac6282fe3efeac2f085aca2339e788486dac2005806423010b5b736f16.jpg",
+    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/769f003cd043ed1d06a55021477b7070eac752f29b069663b399001b0e2795b4",
+    "completed": 1
   }
 ]
