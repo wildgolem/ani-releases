@@ -1,26 +1,5 @@
 [
   {
-    "title": "New Saga",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c0695c181ce39d2e36c020b7f50f7ebeee77b6f44cd46ca7e915b91c996212de.jpg",
-    "link": "https://animepahe.ru/play/f5135165-7630-6498-ccd8-93954cfef653/ba34a61d53529eed9d7b3caeaa2e147a8409cafcbb0beb578092fcbe0873a298",
-    "completed": 0
-  },
-  {
-    "title": "Onmyo Kaiten Re:Birth Verse",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/0536a8f2b38ecdbbbf65a6965a57e54432189a0ca216ec844bac92ac1ab92e69.jpg",
-    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/f5386ce0acd2b94bdc7987b9b5d9424805e61aabf14e625f1a269e77e397ae46",
-    "completed": 0
-  },
-  {
-    "title": "Beyblade X",
-    "episode": 87,
-    "image": "https://i.animepahe.ru/uploads/snapshots/60866d0e41dd795f3a8a88eb16dd940479a32ab338629d0ee6540dab9b5b2f3c.jpg",
-    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/6a72dc6f02fd511cba14dee83b380d2daac65c5f368d1f6f19d74442e85c06ce",
-    "completed": 0
-  },
-  {
     "title": "Me and the Alien MuMu",
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/036d73403bd3cb99a713defdce65e52a1bf5620da149fe3c773392bf3009ad8a.jpg",
@@ -67,6 +46,27 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/bf0bedf9b19b9c0703716ef92e74993eeb87d7761f4dfdba97c25dd255738b72.jpg",
     "link": "https://animepahe.ru/play/ab79ccc4-e32b-a265-2f43-3ed58bc67206/4a02c8ea2c22becfc346d0a5778e66d72327785379c4739d6c4df4c8d13a7c44",
+    "completed": 0
+  },
+  {
+    "title": "Lord of Mysteries",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/bdbae973c4496b7fcb4f38d0a9003b2f926cbf36117403f3f9c24b319299c00f.jpg",
+    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/e40559e28dd5f074d5a96a6e2e67f1ad1d33854ff0f56c61d7f949ddf88e9c8c",
+    "completed": 0
+  },
+  {
+    "title": "Arknights: Rise from Ember",
+    "episode": 17,
+    "image": "https://i.animepahe.ru/uploads/snapshots/21cc57647b3324f14e6bff096f5a9657d09a6a5d0118d10f815876dff825d872.jpg",
+    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/fad685f47eae240004d027fede747efc93b645ec501ed701c2f7ff773f386184",
+    "completed": 0
+  },
+  {
+    "title": "Takopi's Original Sin",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7b3a4c915b0c734bd6293c79904f3327648f696d67a109e0116cc6ba248fb6cb.jpg",
+    "link": "https://animepahe.ru/play/6d155661-e113-3afe-7fbe-40ee28a2ffeb/af3e16e4d4a3c87164455c381c355aba434f60b834a7f8c6af29c3de91419e11",
     "completed": 0
   }
 ]
