@@ -1,12 +1,5 @@
 [
   {
-    "title": "Chuhai Lips",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/posters/b666fdbe8f59f715d28b4b11858beec9d2749efda1ca89213f9643326526739c.jpg",
-    "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/485ed6d4c356e49adffec651f510b9f7affe42c3e53818a28b9c22662ff48e23",
-    "completed": 0
-  },
-  {
     "title": "The Water Magician",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/bf0bedf9b19b9c0703716ef92e74993eeb87d7761f4dfdba97c25dd255738b72.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/41b0c5ea2d9b310502631a6df1ba203565bef506b85a6a82439a940fa70b9390.jpg",
     "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/7ed8e99fc35854ef140a520a821cb27999fe9bde6ffeae7d18ee95b6108417ac",
+    "completed": 0
+  },
+  {
+    "title": "Call of the Night Season 2",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ba7ac8019e515eff70e8044d85f3bd23fa0a1f502126b13e65f605403c42d634.jpg",
+    "link": "https://animepahe.ru/play/bd82c9e0-73b3-0d9e-8078-a8e01cddaa78/94e7da082d0497d3be8fb26ebf598fdde630aef46e881696ed87becf87a52621",
     "completed": 0
   }
 ]
