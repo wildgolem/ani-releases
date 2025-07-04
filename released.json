@@ -1,19 +1,5 @@
 [
   {
-    "title": "Dan Da Dan Season 2",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7aa0f738487043edfc3e531c781dc8e1656bbb004cde9df78289a05ca6db41b6.jpg",
-    "link": "https://animepahe.ru/play/eb60c032-081f-2049-f869-babd395f242e/415c68652190247a5e95f36d8a7dc328d94724cf33cbedd337a87b4d2dd199ca",
-    "completed": 0
-  },
-  {
-    "title": "Kamitsubaki City Under Production",
-    "episode": 0,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ec1f03ac6282fe3efeac2f085aca2339e788486dac2005806423010b5b736f16.jpg",
-    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/769f003cd043ed1d06a55021477b7070eac752f29b069663b399001b0e2795b4",
-    "completed": 0
-  },
-  {
     "title": "Hell Teacher: Jigoku Sensei Nube",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/50bf45b633606d130f5313c022a70902452a3ffb0179f6f57a2dc8ebc4d3e522.jpg",
@@ -68,5 +54,19 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/c04b0758d8748411399dc0c0c471edb147b338f0478e82778cb680107f1d93ab.jpg",
     "link": "https://animepahe.ru/play/44302c02-ac39-d56b-1bf4-a7e9628f9c8d/14479c387aa76b75022005081fb22ce63f71765c212f696c4e6f2fc4505bda92",
     "completed": 1
+  },
+  {
+    "title": "Secrets of the Silent Witch",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/afb93965e87892e2c819a1b738a2234d186da6bdf739f3bc09cabc697a743290.jpg",
+    "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/9a571d62c20ca4ec62ed664d796c9649576c105c13f235eca5739c7c16174f4b",
+    "completed": 0
+  },
+  {
+    "title": "Celestial Bonds",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ddda41dcfeee2861c53de23061c9a055742e320a8977f9e92a54d5b80e0b2cc8.jpg",
+    "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/f460575f1ca4d1890ee1331a9fcaca9a5db2f060219ea713a55855ea11276e52",
+    "completed": 0
   }
 ]
