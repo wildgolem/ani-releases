@@ -1,12 +1,5 @@
 [
   {
-    "title": "Lord of Mysteries",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/99f15961c5892b6121214246ed8a04ce07663de18502afc83ca6ed6b7c760f91.jpg",
-    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/913b6da22d20815bff1b701f7f6cecf4c4b7d9bab754c78618bd847ab36ca249",
-    "completed": 0
-  },
-  {
     "title": "The All-devouring Whale: Homecoming",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/88db4f87208412afae3b48f36642bdb18c201cc4061fec962ec7a5d0fa4a3cba.jpg",
@@ -67,6 +60,13 @@
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/7c8a0f78bf7b4a386245054562639e87dcf6783c98a82db909f166cc4da83811.jpg",
     "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/ec44198a7e6e6b51ead473271f03993a121d7ece2fa347fab208586d019d4c36",
+    "completed": 0
+  },
+  {
+    "title": "Private Tutor to the Duke's Daughter",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/29a1858528849f9aa8c6039e814e010e2e6314ad09cc7a5699c28782c7af7407.jpg",
+    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/458e26a7fabc956b891fcba59f23a85a78202555b1a812be57b7189d01842e49",
     "completed": 0
   }
 ]
