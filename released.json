@@ -1,12 +1,5 @@
 [
   {
-    "title": "Celestial Bonds",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ddda41dcfeee2861c53de23061c9a055742e320a8977f9e92a54d5b80e0b2cc8.jpg",
-    "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/f460575f1ca4d1890ee1331a9fcaca9a5db2f060219ea713a55855ea11276e52",
-    "completed": 0
-  },
-  {
     "title": "Betrothed to My Sister's Ex",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/41b0c5ea2d9b310502631a6df1ba203565bef506b85a6a82439a940fa70b9390.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/dfb4a2de8b27a88b6da42a902865727e88d4ca6155e55f53ead6b960845f8d45.jpg",
     "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/fe05759d629ddb452a99b6fc3518d232466ccc8f743120511f17f3d7d0b80588",
+    "completed": 0
+  },
+  {
+    "title": "Bad Girl",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4f911e6464d524ee866465569ef92c9cff97e55e969a7c8d8142245e7a44e941.jpg",
+    "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/87c766107a029673a0c4f2ae5572dabe0cb53d1912cfd6fd4c4dcc32b7b013fb",
     "completed": 0
   }
 ]
