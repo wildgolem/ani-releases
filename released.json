@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Apothecary Diaries Season 2",
-    "episode": 48,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c04b0758d8748411399dc0c0c471edb147b338f0478e82778cb680107f1d93ab.jpg",
-    "link": "https://animepahe.ru/play/44302c02-ac39-d56b-1bf4-a7e9628f9c8d/14479c387aa76b75022005081fb22ce63f71765c212f696c4e6f2fc4505bda92",
-    "completed": 1
-  },
-  {
     "title": "Secrets of the Silent Witch",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/afb93965e87892e2c819a1b738a2234d186da6bdf739f3bc09cabc697a743290.jpg",
@@ -67,6 +60,13 @@
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/a55e319b20d1eec47b42bbef9bf7be0e6b681b9435dd8a005cff6edc90000f24.jpg",
     "link": "https://animepahe.ru/play/bd82c9e0-73b3-0d9e-8078-a8e01cddaa78/3980fd03e6d6d6843276bdbd73085b28d49d2c7f05cff608f65d8e02f2b0ee51",
+    "completed": 0
+  },
+  {
+    "title": "The Shy Hero and the Assassin Princesses",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/01f1a13c12af1ce9b720fedb5ceed937cad9725035630db2e6b028b826c06aca.jpg",
+    "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/2c61c3c7511856ab0c1729ece0343e722e7788c2dc1e5d4606055255bc791d24",
     "completed": 0
   }
 ]
