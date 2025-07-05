@@ -1,12 +1,5 @@
 [
   {
-    "title": "Secrets of the Silent Witch",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/afb93965e87892e2c819a1b738a2234d186da6bdf739f3bc09cabc697a743290.jpg",
-    "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/9a571d62c20ca4ec62ed664d796c9649576c105c13f235eca5739c7c16174f4b",
-    "completed": 0
-  },
-  {
     "title": "Celestial Bonds",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/ddda41dcfeee2861c53de23061c9a055742e320a8977f9e92a54d5b80e0b2cc8.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/01f1a13c12af1ce9b720fedb5ceed937cad9725035630db2e6b028b826c06aca.jpg",
     "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/2c61c3c7511856ab0c1729ece0343e722e7788c2dc1e5d4606055255bc791d24",
+    "completed": 0
+  },
+  {
+    "title": "Scooped Up by an S-Ranked Adventurer",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/dfb4a2de8b27a88b6da42a902865727e88d4ca6155e55f53ead6b960845f8d45.jpg",
+    "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/fe05759d629ddb452a99b6fc3518d232466ccc8f743120511f17f3d7d0b80588",
     "completed": 0
   }
 ]
