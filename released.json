@@ -1,12 +1,5 @@
 [
   {
-    "title": "Takopi's Original Sin",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7b3a4c915b0c734bd6293c79904f3327648f696d67a109e0116cc6ba248fb6cb.jpg",
-    "link": "https://animepahe.ru/play/6d155661-e113-3afe-7fbe-40ee28a2ffeb/af3e16e4d4a3c87164455c381c355aba434f60b834a7f8c6af29c3de91419e11",
-    "completed": 0
-  },
-  {
     "title": "Watari-kun's ****** Is about to Collapse",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/5d21fffc35afdebb6940be5f3226b72e9fa780cd3913b3c6e77280d69f0e465c.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/88db4f87208412afae3b48f36642bdb18c201cc4061fec962ec7a5d0fa4a3cba.jpg",
     "link": "https://animepahe.ru/play/8638b3f9-7333-55d7-11aa-ee4fe1d047a0/c476eac29a6f4a7f033a10a7876df616375a587a26f65b395f607bcda6bdc31b",
+    "completed": 0
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "episode": 102,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e2df079d7f1139bd9f3b5927cacc9449d03893ba0edb8fa0781fcf98a8802040.jpg",
+    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/ec9d611ff021fff149fa43999ca701f73bf261f475e019d55cf8de9c6da14aa6",
     "completed": 0
   }
 ]
