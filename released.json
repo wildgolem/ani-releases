@@ -1,12 +1,5 @@
 [
   {
-    "title": "Watari-kun's ****** Is about to Collapse",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/5d21fffc35afdebb6940be5f3226b72e9fa780cd3913b3c6e77280d69f0e465c.jpg",
-    "link": "https://animepahe.ru/play/3d39e1b4-3351-c2c3-1c50-8308b0f96a5e/9da96418dd7b2227351b35188e629ec3d46c48a306a3f60f6be7137944e2e3d1",
-    "completed": 0
-  },
-  {
     "title": "The Apothecary Diaries Season 2",
     "episode": 48,
     "image": "https://i.animepahe.ru/uploads/snapshots/c04b0758d8748411399dc0c0c471edb147b338f0478e82778cb680107f1d93ab.jpg",
@@ -67,6 +60,13 @@
     "episode": 102,
     "image": "https://i.animepahe.ru/uploads/snapshots/e2df079d7f1139bd9f3b5927cacc9449d03893ba0edb8fa0781fcf98a8802040.jpg",
     "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/ec9d611ff021fff149fa43999ca701f73bf261f475e019d55cf8de9c6da14aa6",
+    "completed": 0
+  },
+  {
+    "title": "Anne Shirley",
+    "episode": 14,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b8221811b386f15687943a3e0e8cea15f43811c50502a3c5bcf0b9365ee0ea22.jpg",
+    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/c11ee9900496292dec91a363c5c70233b57a7b997822aa19346616bcd8583de0",
     "completed": 0
   }
 ]
