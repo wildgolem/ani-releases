@@ -1,12 +1,5 @@
 [
   {
-    "title": "Lord of Mysteries",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/bdbae973c4496b7fcb4f38d0a9003b2f926cbf36117403f3f9c24b319299c00f.jpg",
-    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/e40559e28dd5f074d5a96a6e2e67f1ad1d33854ff0f56c61d7f949ddf88e9c8c",
-    "completed": 0
-  },
-  {
     "title": "Arknights: Rise from Ember",
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/21cc57647b3324f14e6bff096f5a9657d09a6a5d0118d10f815876dff825d872.jpg",
@@ -67,6 +60,13 @@
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/9a69f752bf06503b496d65fb0637608eacc96e098441b1b667e9be7b996975a8.jpg",
     "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/842204f2364fc20401f6023f23e6a6a94bf1d34984a39a1ad76d4494f7c6575c",
+    "completed": 0
+  },
+  {
+    "title": "Lord of Mysteries",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/99f15961c5892b6121214246ed8a04ce07663de18502afc83ca6ed6b7c760f91.jpg",
+    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/913b6da22d20815bff1b701f7f6cecf4c4b7d9bab754c78618bd847ab36ca249",
     "completed": 0
   }
 ]
