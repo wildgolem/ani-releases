@@ -1,12 +1,5 @@
 [
   {
-    "title": "Puniru is a Kawaii Slime Season 2",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/68a12e13be1cfd8804f59159ad428342dc561ef124437b8c69eaca529d4282f0.jpg",
-    "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/2ec01081d562bcc911801f2bdd49b1ed2464480552275e4f5e1e6eb0bc3a8728",
-    "completed": 0
-  },
-  {
     "title": "Dekin no Mogura: The Earthbound Mole",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/b32e4668495a7adbed8549c3f3825144a7f6b07e1f2bc9bc2eef995296b2c19a.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/d19a067eb30f705d76d7faa800e8174d2d440547f76dc95b0405f99e38275cbd.jpg",
     "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/aa7fe2055862ea1bbe11f884b91af44c9568dc458037d76d45432c391b49b3fb",
+    "completed": 0
+  },
+  {
+    "title": "City The Animation",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/73b97c0617f05373c0ad7645ee15dfe88de286427e9581ab2ddc3cb889e5de40.jpg",
+    "link": "https://animepahe.ru/play/d957867d-d470-7ce7-72fc-4c23095fafc1/3d72ece84c684e085c86012a324ed39e03ef5a090df0e6cc7348a50bc4428f62",
     "completed": 0
   }
 ]
