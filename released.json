@@ -1,19 +1,5 @@
 [
   {
-    "title": "Pokémon Horizons: The Series",
-    "episode": 102,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e2df079d7f1139bd9f3b5927cacc9449d03893ba0edb8fa0781fcf98a8802040.jpg",
-    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/ec9d611ff021fff149fa43999ca701f73bf261f475e019d55cf8de9c6da14aa6",
-    "completed": 0
-  },
-  {
-    "title": "Anne Shirley",
-    "episode": 14,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b8221811b386f15687943a3e0e8cea15f43811c50502a3c5bcf0b9365ee0ea22.jpg",
-    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/c11ee9900496292dec91a363c5c70233b57a7b997822aa19346616bcd8583de0",
-    "completed": 0
-  },
-  {
     "title": "Call of the Night Season 2",
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/a55e319b20d1eec47b42bbef9bf7be0e6b681b9435dd8a005cff6edc90000f24.jpg",
@@ -67,6 +53,20 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/046107e3d49ef351e220880de10ae076994e3091fcad27b32aa17c7acd3a7eb7.jpg",
     "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/4994a0052c742699b90105102a2e848bf4fb82fd6c69ef085bd08fcdb6bc0c85",
+    "completed": 0
+  },
+  {
+    "title": "To Be Hero X",
+    "episode": 14,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5fe103b4edbd3608b13b2c309a627c1f761e4cb038ccff71d4f795dcc219c2f4.jpg",
+    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/90cc367d295221d27ce454cff150753c2640ceb699cace273331ccf50dd2e54a",
+    "completed": 0
+  },
+  {
+    "title": "You and Idol Precure♪",
+    "episode": 22,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ad30b4fe3b2e5c9fed5cf961b042a79f52ad272f2994f781f8e16ed0ce71ab0f.jpg",
+    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/35c5230864a650da6e3026a4f2e20d2442c01a4422c5d15568f6bb679bc5c85d",
     "completed": 0
   }
 ]
