@@ -1,12 +1,5 @@
 [
   {
-    "title": "Rascal Does Not Dream of Santa Claus",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e61f00731ab8189850a1a57912fe9156e827c8aed6bc9ea4da58482dfbcc17ad.jpg",
-    "link": "https://animepahe.ru/play/025b8411-f3ff-809b-4bf9-751552950caa/4da9541bf86f6a107f3c800c138810c46fd7b1b4897e0b34c6855eea9a6e5436",
-    "completed": 0
-  },
-  {
     "title": "My Dress-Up Darling Season 2",
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/7c8a0f78bf7b4a386245054562639e87dcf6783c98a82db909f166cc4da83811.jpg",
@@ -67,6 +60,13 @@
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/68a12e13be1cfd8804f59159ad428342dc561ef124437b8c69eaca529d4282f0.jpg",
     "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/2ec01081d562bcc911801f2bdd49b1ed2464480552275e4f5e1e6eb0bc3a8728",
+    "completed": 0
+  },
+  {
+    "title": "Dekin no Mogura: The Earthbound Mole",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b32e4668495a7adbed8549c3f3825144a7f6b07e1f2bc9bc2eef995296b2c19a.jpg",
+    "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/c54af558cadae8cae40aabbc26ce7b1e28b3bf74d6e9faa8cb26195ba9c408fc",
     "completed": 0
   }
 ]
