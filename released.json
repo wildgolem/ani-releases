@@ -1,19 +1,5 @@
 [
   {
-    "title": "My Dress-Up Darling Season 2",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7c8a0f78bf7b4a386245054562639e87dcf6783c98a82db909f166cc4da83811.jpg",
-    "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/ec44198a7e6e6b51ead473271f03993a121d7ece2fa347fab208586d019d4c36",
-    "completed": 0
-  },
-  {
-    "title": "Private Tutor to the Duke's Daughter",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/29a1858528849f9aa8c6039e814e010e2e6314ad09cc7a5699c28782c7af7407.jpg",
-    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/458e26a7fabc956b891fcba59f23a85a78202555b1a812be57b7189d01842e49",
-    "completed": 0
-  },
-  {
     "title": "With You and the Rain",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/046107e3d49ef351e220880de10ae076994e3091fcad27b32aa17c7acd3a7eb7.jpg",
@@ -67,6 +53,20 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/b32e4668495a7adbed8549c3f3825144a7f6b07e1f2bc9bc2eef995296b2c19a.jpg",
     "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/c54af558cadae8cae40aabbc26ce7b1e28b3bf74d6e9faa8cb26195ba9c408fc",
+    "completed": 0
+  },
+  {
+    "title": "Ruri Rocks",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c3b555233286478edde91a64470b9df72bdb85b8be80f14bd7fdb51a473c3bf1.jpg",
+    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/91ce7638b520a3f8678cf5cb4dcdb829418f6fbfa6af2b089f0ec2269d602db8",
+    "completed": 0
+  },
+  {
+    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a2ba404648fe9a7da1cbdcae311286e47b55aa3af209dfd9551ca544f618c902.jpg",
+    "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/4f5069f90f7a5b99f2ec78c06d8107626079ece2096f7cfd7afa9cbedebdee1f",
     "completed": 0
   }
 ]
