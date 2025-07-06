@@ -1,12 +1,5 @@
 [
   {
-    "title": "Call of the Night Season 2",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a55e319b20d1eec47b42bbef9bf7be0e6b681b9435dd8a005cff6edc90000f24.jpg",
-    "link": "https://animepahe.ru/play/bd82c9e0-73b3-0d9e-8078-a8e01cddaa78/3980fd03e6d6d6843276bdbd73085b28d49d2c7f05cff608f65d8e02f2b0ee51",
-    "completed": 0
-  },
-  {
     "title": "The Shy Hero and the Assassin Princesses",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/01f1a13c12af1ce9b720fedb5ceed937cad9725035630db2e6b028b826c06aca.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/ad30b4fe3b2e5c9fed5cf961b042a79f52ad272f2994f781f8e16ed0ce71ab0f.jpg",
     "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/35c5230864a650da6e3026a4f2e20d2442c01a4422c5d15568f6bb679bc5c85d",
     "completed": 0
+  },
+  {
+    "title": "Hoshina's Day Off",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b1cfaf23ee0048b6890130f50e1ece0e41b44aa7104fbb90cec64b69cedfce4a.jpg",
+    "link": "https://animepahe.ru/play/b823c203-93b1-4564-5497-023d789798a0/cfc0728b159afa5682833fefdf8dcdfe0dbfec486bbab5eafe282d7d0127d9d0",
+    "completed": 1
   }
 ]
