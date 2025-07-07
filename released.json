@@ -1,12 +1,5 @@
 [
   {
-    "title": "Cultural Exchange With a Game Centre Girl",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/6080511076ccba82d451f0bc3fd4cc31100b45135271f62de1f3cc204bd41781.jpg",
-    "link": "https://animepahe.ru/play/bccca268-6edd-0369-ae31-cd145e76238d/14a90f0c348e51b874ab1a3825a87e090f45eaa105650c83cff586c824c5ab35",
-    "completed": 0
-  },
-  {
     "title": "Gachiakuta",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/79b7efd275588053b4fdb803e8d4b107586bbab666f00859e1998fd3560ab984.jpg",
@@ -67,6 +60,13 @@
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/4473c3d50e2f2bf8f35a227367bdb19004980379d4ba239b2563cb73642b2cd6.jpg",
     "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/5ebe601e33a89ee6a02d033168f4eacabbf037d32cda9fb05f5235482349406a",
+    "completed": 0
+  },
+  {
+    "title": "Grand Blue Dreaming Season 2",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d7107e7fa0a2d4743002239a1fb610ad650345bb132fbd2f87d4ebf303ebe882.jpg",
+    "link": "https://animepahe.ru/play/785d08ac-4a7a-6c64-ae6d-f2bce029d355/930f5501404a2430538c1b4c1dd75681b3019e22b9e1f5ae7a2fb84eceae98d5",
     "completed": 0
   }
 ]
