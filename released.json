@@ -1,19 +1,5 @@
 [
   {
-    "title": "Dekin no Mogura: The Earthbound Mole",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b32e4668495a7adbed8549c3f3825144a7f6b07e1f2bc9bc2eef995296b2c19a.jpg",
-    "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/c54af558cadae8cae40aabbc26ce7b1e28b3bf74d6e9faa8cb26195ba9c408fc",
-    "completed": 0
-  },
-  {
-    "title": "Ruri Rocks",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c3b555233286478edde91a64470b9df72bdb85b8be80f14bd7fdb51a473c3bf1.jpg",
-    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/91ce7638b520a3f8678cf5cb4dcdb829418f6fbfa6af2b089f0ec2269d602db8",
-    "completed": 0
-  },
-  {
     "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/a2ba404648fe9a7da1cbdcae311286e47b55aa3af209dfd9551ca544f618c902.jpg",
@@ -67,6 +53,20 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/73b97c0617f05373c0ad7645ee15dfe88de286427e9581ab2ddc3cb889e5de40.jpg",
     "link": "https://animepahe.ru/play/d957867d-d470-7ce7-72fc-4c23095fafc1/3d72ece84c684e085c86012a324ed39e03ef5a090df0e6cc7348a50bc4428f62",
+    "completed": 0
+  },
+  {
+    "title": "Fermat no Ryouri",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/eac6113a4a08b21cf165894e1515a73e02fcaefad08fde5e5acf183b62345621.jpg",
+    "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/0f47fe1644a8e27c2146ee56db2751def95ac092bad2041ac45fcb12547ff007",
+    "completed": 0
+  },
+  {
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/22c034f704a286b5ce17cc33a3dccf9258cc83038e5bafbcc5a196b2584c3454.jpg",
+    "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/800a1f7d29d6ebb94d2bfd320b2001b95d00decff4aaecaa6fbef5916379a762",
     "completed": 0
   }
 ]
