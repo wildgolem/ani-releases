@@ -1,12 +1,5 @@
 [
   {
-    "title": "Grand Blue Dreaming Season 2",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d7107e7fa0a2d4743002239a1fb610ad650345bb132fbd2f87d4ebf303ebe882.jpg",
-    "link": "https://animepahe.ru/play/785d08ac-4a7a-6c64-ae6d-f2bce029d355/930f5501404a2430538c1b4c1dd75681b3019e22b9e1f5ae7a2fb84eceae98d5",
-    "completed": 0
-  },
-  {
     "title": "Kaijuu Sekai Seifuku (TV)",
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/988b31d103bd52c8b3a4281cf00ca5e7688b2c526a49bb46cbfe29db86b6deb9.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/3ab256e26d4c98264a8773b0a4a90497459d6f694ce74d421aadecefd1ceefd5.jpg",
     "link": "https://animepahe.ru/play/ad12e261-8b36-80af-842a-28d955a8dba1/d7eb48b6787a4e566b1023abc5d86c3d69e8d541c9f51f5fcf7ec3c6a6f70300",
+    "completed": 0
+  },
+  {
+    "title": "Turkey! Time to Strike",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/bc70cc76b8d6d392b75c8f15fdaf345eacc378a67c4253d088956ad905ada229.jpg",
+    "link": "https://animepahe.ru/play/25d65413-3d15-a068-14bf-de80387ff396/87a19b2f1958b63e7610643bcbb11bb2893c4ceae42c1a0f9f7dd3741ba4d1e7",
     "completed": 0
   }
 ]
