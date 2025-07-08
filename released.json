@@ -1,19 +1,5 @@
 [
   {
-    "title": "City The Animation",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/73b97c0617f05373c0ad7645ee15dfe88de286427e9581ab2ddc3cb889e5de40.jpg",
-    "link": "https://animepahe.ru/play/d957867d-d470-7ce7-72fc-4c23095fafc1/3d72ece84c684e085c86012a324ed39e03ef5a090df0e6cc7348a50bc4428f62",
-    "completed": 0
-  },
-  {
-    "title": "Fermat no Ryouri",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/eac6113a4a08b21cf165894e1515a73e02fcaefad08fde5e5acf183b62345621.jpg",
-    "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/0f47fe1644a8e27c2146ee56db2751def95ac092bad2041ac45fcb12547ff007",
-    "completed": 0
-  },
-  {
     "title": "The Fragrant Flower Blooms with Dignity",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/22c034f704a286b5ce17cc33a3dccf9258cc83038e5bafbcc5a196b2584c3454.jpg",
@@ -67,6 +53,20 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/f084934498e8ca38c394917a0924304b19a087cd1851c45d61850df9c7b94f7f.jpg",
     "link": "https://animepahe.ru/play/04202b71-2660-b9ee-b54f-b1ca5094f421/c4fed022bbb1d080b1cbe1ac65bec2250a5229f05e26c5895f9bd97b6947ff7a",
+    "completed": 0
+  },
+  {
+    "title": "A Couple of Cuckoos Season 2",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fe347b565eb8f08d4723f4ab30ff78b795013ae028e847e9870ab43ec631ec8d.jpg",
+    "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/48d63cd1a02196cde6f3f74ab7c23a9fa3f8831cebcc2a16f99c64b5ef041bc8",
+    "completed": 0
+  },
+  {
+    "title": "9: Ruler's Crown",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/6473905e48d444bf098c78b54ff9c9a7d9aa473f1ccc8c0281f5660f57c1325d.jpg",
+    "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/5e6d340756a4f31305c46bad75f3d9c19d6bf514f5541c33c1a37700cab8d7d9",
     "completed": 0
   }
 ]
