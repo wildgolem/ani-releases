@@ -1,12 +1,5 @@
 [
   {
-    "title": "Hotel Inhumans",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d19a067eb30f705d76d7faa800e8174d2d440547f76dc95b0405f99e38275cbd.jpg",
-    "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/aa7fe2055862ea1bbe11f884b91af44c9568dc458037d76d45432c391b49b3fb",
-    "completed": 0
-  },
-  {
     "title": "City The Animation",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/73b97c0617f05373c0ad7645ee15dfe88de286427e9581ab2ddc3cb889e5de40.jpg",
@@ -67,6 +60,13 @@
     "episode": 38,
     "image": "https://i.animepahe.ru/uploads/snapshots/6ae9c1386fb0e55cfb04fe02dcd3ba1432d94563ffa09099b4d5094289c37e22.jpg",
     "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/f4fad9f4808669fb30a119b814cabcdd4c6471c960b1b4ee949f802d642283c9",
+    "completed": 0
+  },
+  {
+    "title": "Pyramid Game",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f084934498e8ca38c394917a0924304b19a087cd1851c45d61850df9c7b94f7f.jpg",
+    "link": "https://animepahe.ru/play/04202b71-2660-b9ee-b54f-b1ca5094f421/c4fed022bbb1d080b1cbe1ac65bec2250a5229f05e26c5895f9bd97b6947ff7a",
     "completed": 0
   }
 ]
