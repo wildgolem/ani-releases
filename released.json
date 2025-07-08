@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kaijuu Sekai Seifuku (TV)",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/988b31d103bd52c8b3a4281cf00ca5e7688b2c526a49bb46cbfe29db86b6deb9.jpg",
-    "link": "https://animepahe.ru/play/55106c61-0821-03e1-a8c1-7788a836440d/2547d14146ddc3047a934d3ad141be1accd1356418ef5ef78835c44004cd3ae4",
-    "completed": 0
-  },
-  {
     "title": "Miru: Paths to My Future",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/69d0105850a3fb4dccc20ded7a6f8c29792bc2a15ecd48a4e2f14cf4891029e8.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/bc70cc76b8d6d392b75c8f15fdaf345eacc378a67c4253d088956ad905ada229.jpg",
     "link": "https://animepahe.ru/play/25d65413-3d15-a068-14bf-de80387ff396/87a19b2f1958b63e7610643bcbb11bb2893c4ceae42c1a0f9f7dd3741ba4d1e7",
+    "completed": 0
+  },
+  {
+    "title": "There's No Freaking Way I'll be Your Lover! Unless...",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/507301a9d7191983e62af9ac916f8893e5fbe299235881fae092fa9a54fea0fa.jpg",
+    "link": "https://animepahe.ru/play/1abdeb23-fe28-dc61-7169-e3d5946718b0/1bbce1457c83cdbf39321a0ad28d1f844ed040f508cec0792b38ba863a98025d",
     "completed": 0
   }
 ]
