@@ -1,12 +1,5 @@
 [
   {
-    "title": "Uglymug, Epicfighter",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/52b507ff9a67d91aba6466856b8bc7bc9dcf0d10062dfdbb1207ab555014e535.jpg",
-    "link": "https://animepahe.ru/play/e41f275d-54ee-a56d-9f5f-7b34bd31edfb/0ebe28261847b82decd63cd66fa257fa97c6f06282a6dc16eca5474c9e0c7da0",
-    "completed": 0
-  },
-  {
     "title": "One Piece",
     "episode": 1135,
     "image": "https://i.animepahe.ru/uploads/snapshots/8ffd6833efb2aece69b82c2043a54a00ea81a1602b0ba4699e057d76571a836e.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/988b31d103bd52c8b3a4281cf00ca5e7688b2c526a49bb46cbfe29db86b6deb9.jpg",
     "link": "https://animepahe.ru/play/55106c61-0821-03e1-a8c1-7788a836440d/2547d14146ddc3047a934d3ad141be1accd1356418ef5ef78835c44004cd3ae4",
     "completed": 0
+  },
+  {
+    "title": "Miru: Paths to My Future",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/69d0105850a3fb4dccc20ded7a6f8c29792bc2a15ecd48a4e2f14cf4891029e8.jpg",
+    "link": "https://animepahe.ru/play/64c35bdc-d323-f1a2-1987-ff31d385fb2c/db1e9911b062916d6e5bd029514c5cad8a50d7ced505db97876bfebaef69f7eb",
+    "completed": 1
   }
 ]
