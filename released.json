@@ -1,19 +1,5 @@
 [
   {
-    "title": "The Fragrant Flower Blooms with Dignity",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/22c034f704a286b5ce17cc33a3dccf9258cc83038e5bafbcc5a196b2584c3454.jpg",
-    "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/800a1f7d29d6ebb94d2bfd320b2001b95d00decff4aaecaa6fbef5916379a762",
-    "completed": 0
-  },
-  {
-    "title": "See You Tomorrow at the Food Court",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/33035a09cc415e6ea85180ab6945dd2574a809fe3b088c7cfe12260a51234e2a.jpg",
-    "link": "https://animepahe.ru/play/fb8c4048-fdb7-0d73-c932-d3e7ecad16a4/2c69b135cecf88594ff7d982238670c92f8f20b93f3996c161c43acb906656b3",
-    "completed": 0
-  },
-  {
     "title": "Summer Pockets",
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/4473c3d50e2f2bf8f35a227367bdb19004980379d4ba239b2563cb73642b2cd6.jpg",
@@ -67,6 +53,20 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/6473905e48d444bf098c78b54ff9c9a7d9aa473f1ccc8c0281f5660f57c1325d.jpg",
     "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/5e6d340756a4f31305c46bad75f3d9c19d6bf514f5541c33c1a37700cab8d7d9",
+    "completed": 0
+  },
+  {
+    "title": "Detectives These Days Are Crazy!",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ec75ce9dba188163417d36caf67ed76a4a3b95bc105f07c8718f827c7145a577.jpg",
+    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/b1d74e13df9e51b3287e0ac3b33e0d765073c12457f66cc375967e87786f407d",
+    "completed": 0
+  },
+  {
+    "title": "Necronomico and the Cosmic Horror Show",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8a4c0a235dca1f7faee479ab4bab9b40e360f75e694f8c2f3632111ef02616d2.jpg",
+    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/fd649362735425e3bece39c5244f0d2adb4c06604ad0ca92ecb8721089815cf3",
     "completed": 0
   }
 ]
