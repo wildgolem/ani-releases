@@ -1,12 +1,5 @@
 [
   {
-    "title": "Gachiakuta",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/79b7efd275588053b4fdb803e8d4b107586bbab666f00859e1998fd3560ab984.jpg",
-    "link": "https://animepahe.ru/play/42dd67ed-699c-d2d4-194a-3f2365652272/55d3e38870910104599def177c17d9fadd5f2134a48aeae2b7eb65120b1e1cf7",
-    "completed": 0
-  },
-  {
     "title": "Uglymug, Epicfighter",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/52b507ff9a67d91aba6466856b8bc7bc9dcf0d10062dfdbb1207ab555014e535.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/d7107e7fa0a2d4743002239a1fb610ad650345bb132fbd2f87d4ebf303ebe882.jpg",
     "link": "https://animepahe.ru/play/785d08ac-4a7a-6c64-ae6d-f2bce029d355/930f5501404a2430538c1b4c1dd75681b3019e22b9e1f5ae7a2fb84eceae98d5",
+    "completed": 0
+  },
+  {
+    "title": "Kaijuu Sekai Seifuku (TV)",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/988b31d103bd52c8b3a4281cf00ca5e7688b2c526a49bb46cbfe29db86b6deb9.jpg",
+    "link": "https://animepahe.ru/play/55106c61-0821-03e1-a8c1-7788a836440d/2547d14146ddc3047a934d3ad141be1accd1356418ef5ef78835c44004cd3ae4",
     "completed": 0
   }
 ]
