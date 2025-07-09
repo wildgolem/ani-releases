@@ -1,12 +1,5 @@
 [
   {
-    "title": "Miru: Paths to My Future",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/69d0105850a3fb4dccc20ded7a6f8c29792bc2a15ecd48a4e2f14cf4891029e8.jpg",
-    "link": "https://animepahe.ru/play/64c35bdc-d323-f1a2-1987-ff31d385fb2c/db1e9911b062916d6e5bd029514c5cad8a50d7ced505db97876bfebaef69f7eb",
-    "completed": 1
-  },
-  {
     "title": "Rent-a-Girlfriend Season 4",
     "episode": 38,
     "image": "https://i.animepahe.ru/uploads/snapshots/6ae9c1386fb0e55cfb04fe02dcd3ba1432d94563ffa09099b4d5094289c37e22.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/507301a9d7191983e62af9ac916f8893e5fbe299235881fae092fa9a54fea0fa.jpg",
     "link": "https://animepahe.ru/play/1abdeb23-fe28-dc61-7169-e3d5946718b0/1bbce1457c83cdbf39321a0ad28d1f844ed040f508cec0792b38ba863a98025d",
+    "completed": 0
+  },
+  {
+    "title": "Himitsu no AiPri: Ring-hen",
+    "episode": 14,
+    "image": "https://i.animepahe.ru/uploads/snapshots/38945fa5a31f3d54891e09aecb77e6abafe277d1827738f29182f1a40a89168d.jpg",
+    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/d14849749c7e071843b976dd264be25de5c75d424a66e5484245a452828ed36e",
     "completed": 0
   }
 ]
