@@ -1,12 +1,5 @@
 [
   {
-    "title": "9: Ruler's Crown",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/6473905e48d444bf098c78b54ff9c9a7d9aa473f1ccc8c0281f5660f57c1325d.jpg",
-    "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/5e6d340756a4f31305c46bad75f3d9c19d6bf514f5541c33c1a37700cab8d7d9",
-    "completed": 0
-  },
-  {
     "title": "Detectives These Days Are Crazy!",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/ec75ce9dba188163417d36caf67ed76a4a3b95bc105f07c8718f827c7145a577.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/c57ca76e9ce266736a4d0914a6535080838e48abb21d36fac34311a31d345b05.jpg",
     "link": "https://animepahe.ru/play/75361ccc-cacc-d7c2-8fe0-2f0af0f565ae/333f636974bc9f1891838528d2f6783e19b6eac371ef5e9466bc2cdc8f088ea3",
+    "completed": 0
+  },
+  {
+    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d22ce1c17fe18e392c7b7480fce5428d4064fd5fb228ad511a68cf39477178f0.jpg",
+    "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/375d60f08c07952281f99fe0d2c2ddbd940b45a67bdb69c8f4ef539a1761b42b",
     "completed": 0
   }
 ]
