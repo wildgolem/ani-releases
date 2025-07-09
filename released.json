@@ -1,12 +1,5 @@
 [
   {
-    "title": "Rent-a-Girlfriend Season 4",
-    "episode": 38,
-    "image": "https://i.animepahe.ru/uploads/snapshots/6ae9c1386fb0e55cfb04fe02dcd3ba1432d94563ffa09099b4d5094289c37e22.jpg",
-    "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/f4fad9f4808669fb30a119b814cabcdd4c6471c960b1b4ee949f802d642283c9",
-    "completed": 0
-  },
-  {
     "title": "Pyramid Game",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/f084934498e8ca38c394917a0924304b19a087cd1851c45d61850df9c7b94f7f.jpg",
@@ -67,6 +60,13 @@
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/38945fa5a31f3d54891e09aecb77e6abafe277d1827738f29182f1a40a89168d.jpg",
     "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/d14849749c7e071843b976dd264be25de5c75d424a66e5484245a452828ed36e",
+    "completed": 0
+  },
+  {
+    "title": "Chuhai Lips",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/503d28b20935718c9239f6c7d6a6939c8979c84d2f6568271a51719d8306da6a.jpg",
+    "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/741fb94b877763aa758079b2752194e119b3d537fae3c8cd946b4d3accd6d13e",
     "completed": 0
   }
 ]
