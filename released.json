@@ -1,19 +1,5 @@
 [
   {
-    "title": "Detectives These Days Are Crazy!",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ec75ce9dba188163417d36caf67ed76a4a3b95bc105f07c8718f827c7145a577.jpg",
-    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/b1d74e13df9e51b3287e0ac3b33e0d765073c12457f66cc375967e87786f407d",
-    "completed": 0
-  },
-  {
-    "title": "Necronomico and the Cosmic Horror Show",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/8a4c0a235dca1f7faee479ab4bab9b40e360f75e694f8c2f3632111ef02616d2.jpg",
-    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/fd649362735425e3bece39c5244f0d2adb4c06604ad0ca92ecb8721089815cf3",
-    "completed": 0
-  },
-  {
     "title": "Osomatsu-san 4th Season",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/3ab256e26d4c98264a8773b0a4a90497459d6f694ce74d421aadecefd1ceefd5.jpg",
@@ -67,6 +53,20 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/d22ce1c17fe18e392c7b7480fce5428d4064fd5fb228ad511a68cf39477178f0.jpg",
     "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/375d60f08c07952281f99fe0d2c2ddbd940b45a67bdb69c8f4ef539a1761b42b",
+    "completed": 0
+  },
+  {
+    "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9524cbed4d67d1251cdc526f6f8c71d139fc6afac235ade085970f466c90297a.jpg",
+    "link": "https://animepahe.ru/play/39f74d0c-55ad-4c14-5af2-2821f91f6eb5/8893460e1169e889b28c42be09b3354f5183f3b68dc8abccd515139f3013fa2e",
+    "completed": 0
+  },
+  {
+    "title": "Hell Teacher: Jigoku Sensei Nube",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/bec67f99b180fdc90c0ffb5c12eec0ee882a9348a0daad33f226c4e23d35ac29.jpg",
+    "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/29ccd0a7f79aedd94a5bc8bc1fc9177dfe4ceb7b47949838678ae6232e0a33e8",
     "completed": 0
   }
 ]
