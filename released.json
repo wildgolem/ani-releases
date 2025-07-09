@@ -1,19 +1,5 @@
 [
   {
-    "title": "Pyramid Game",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f084934498e8ca38c394917a0924304b19a087cd1851c45d61850df9c7b94f7f.jpg",
-    "link": "https://animepahe.ru/play/04202b71-2660-b9ee-b54f-b1ca5094f421/c4fed022bbb1d080b1cbe1ac65bec2250a5229f05e26c5895f9bd97b6947ff7a",
-    "completed": 0
-  },
-  {
-    "title": "A Couple of Cuckoos Season 2",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/fe347b565eb8f08d4723f4ab30ff78b795013ae028e847e9870ab43ec631ec8d.jpg",
-    "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/48d63cd1a02196cde6f3f74ab7c23a9fa3f8831cebcc2a16f99c64b5ef041bc8",
-    "completed": 0
-  },
-  {
     "title": "9: Ruler's Crown",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/6473905e48d444bf098c78b54ff9c9a7d9aa473f1ccc8c0281f5660f57c1325d.jpg",
@@ -67,6 +53,20 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/503d28b20935718c9239f6c7d6a6939c8979c84d2f6568271a51719d8306da6a.jpg",
     "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/741fb94b877763aa758079b2752194e119b3d537fae3c8cd946b4d3accd6d13e",
+    "completed": 0
+  },
+  {
+    "title": "Clevatess",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/998013151ca40214918a2ef363e553d005866052c3252f19e3a299cd5dbeb14f.jpg",
+    "link": "https://animepahe.ru/play/79fe94dc-8a14-630c-2760-13ed564ef809/fe1e3152fa98b2d7e36f9dcd1f3bb88298ccf2b79de9cad735e4d32c9f890a3d",
+    "completed": 0
+  },
+  {
+    "title": "The Rising of the Shield Hero Season 4",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c57ca76e9ce266736a4d0914a6535080838e48abb21d36fac34311a31d345b05.jpg",
+    "link": "https://animepahe.ru/play/75361ccc-cacc-d7c2-8fe0-2f0af0f565ae/333f636974bc9f1891838528d2f6783e19b6eac371ef5e9466bc2cdc8f088ea3",
     "completed": 0
   }
 ]
