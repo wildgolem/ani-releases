@@ -1,12 +1,5 @@
 [
   {
-    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d22ce1c17fe18e392c7b7480fce5428d4064fd5fb228ad511a68cf39477178f0.jpg",
-    "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/375d60f08c07952281f99fe0d2c2ddbd940b45a67bdb69c8f4ef539a1761b42b",
-    "completed": 0
-  },
-  {
     "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/9524cbed4d67d1251cdc526f6f8c71d139fc6afac235ade085970f466c90297a.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/e3122bd3d3de785f66e8b63842c4c31b65de9e0ab5985abd1944aca516234458.jpg",
     "link": "https://animepahe.ru/play/121849f4-890d-db95-3a0b-34e0e9a9360b/f37095c26301381ab0861526185a8e573f3b8b1f721f4e88e1767229f398b86e",
+    "completed": 0
+  },
+  {
+    "title": "Kamitsubaki City Under Construction",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2ffe5f2ecb91a5d8f3c2e7b5f44229b76263236ab00ac7dac703997c11d33cd1.jpg",
+    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/5be42d627476b91966fc17c5b2f0eb26bc42426767a31baa7824d982fc2ec343",
     "completed": 0
   }
 ]
