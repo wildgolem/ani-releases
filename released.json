@@ -1,12 +1,5 @@
 [
   {
-    "title": "Himitsu no AiPri: Ring-hen",
-    "episode": 14,
-    "image": "https://i.animepahe.ru/uploads/snapshots/38945fa5a31f3d54891e09aecb77e6abafe277d1827738f29182f1a40a89168d.jpg",
-    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/d14849749c7e071843b976dd264be25de5c75d424a66e5484245a452828ed36e",
-    "completed": 0
-  },
-  {
     "title": "Chuhai Lips",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/503d28b20935718c9239f6c7d6a6939c8979c84d2f6568271a51719d8306da6a.jpg",
@@ -67,6 +60,13 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/8105ae1bc145c3ce4ac7b198882d46ce1722ea544642988c062c208dc23a54f6.jpg",
     "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/9296990f5d31fb711e47ee6f6eb02011e0632457f2dc194a1bdabd5b0b826b31",
+    "completed": 0
+  },
+  {
+    "title": "Dr. Stone: Science Future Part 2",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9414764586d88fbaf9ebea9b9a11e4c3dae8966bf57f9958d0e0866365d15c94.jpg",
+    "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/07535688898835351d2c937ce0dbe4e44fc1c03872f4037d0edf48fa94a89ad2",
     "completed": 0
   }
 ]
