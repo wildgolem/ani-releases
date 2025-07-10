@@ -1,12 +1,5 @@
 [
   {
-    "title": "Chuhai Lips",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/503d28b20935718c9239f6c7d6a6939c8979c84d2f6568271a51719d8306da6a.jpg",
-    "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/741fb94b877763aa758079b2752194e119b3d537fae3c8cd946b4d3accd6d13e",
-    "completed": 0
-  },
-  {
     "title": "Clevatess",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/998013151ca40214918a2ef363e553d005866052c3252f19e3a299cd5dbeb14f.jpg",
@@ -67,6 +60,13 @@
     "episode": 13,
     "image": "https://i.animepahe.ru/uploads/snapshots/9414764586d88fbaf9ebea9b9a11e4c3dae8966bf57f9958d0e0866365d15c94.jpg",
     "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/07535688898835351d2c937ce0dbe4e44fc1c03872f4037d0edf48fa94a89ad2",
+    "completed": 0
+  },
+  {
+    "title": "Welcome to the Outcast's Restaurant!",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/965191e2ee4544823a9f5de6ac31819ae1c70cca71f10e91d6d6ad8543884e0c.jpg",
+    "link": "https://animepahe.ru/play/7a909eb7-14eb-9822-6bfe-ab9f1d9ab597/5be4ed176638280df803c1843ab40cee594765e6624ab343b6927172efb088d9",
     "completed": 0
   }
 ]
