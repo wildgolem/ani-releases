@@ -1,12 +1,5 @@
 [
   {
-    "title": "New Saga",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/9410a08b65c53fd4a988fa8d7b799681555e329a0189bf02bcca4c8bf995d9f4.jpg",
-    "link": "https://animepahe.ru/play/f5135165-7630-6498-ccd8-93954cfef653/2c87035942b4e8679e478d1768476270dcf4cf4c64343a2ce3af868a212ece1e",
-    "completed": 0
-  },
-  {
     "title": "Dealing with Mikadono Sisters Is a Breeze",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/8105ae1bc145c3ce4ac7b198882d46ce1722ea544642988c062c208dc23a54f6.jpg",
@@ -64,9 +57,16 @@
   },
   {
     "title": "Leviathan",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/454d8d331549cb47b3232dc4dac2bd2ccb43b1a64e20e162cf43c95843204499.jpg",
-    "link": "https://animepahe.ru/play/448dbce4-dba5-b388-0764-108ab125d22b/cd0974e29b2423f817726c084b5c40b90c424393d2de9b05066b291fc1e06d71",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/cf82e753e2a38349cd6346b855f822afd10f2298279708f93a50b04850956b45.jpg",
+    "link": "https://animepahe.ru/play/448dbce4-dba5-b388-0764-108ab125d22b/29283130013aaf7f43383d6865c67e00af88cb42489e14343daaa6a398cc7799",
+    "completed": 1
+  },
+  {
+    "title": "New Panty & Stocking with Garterbelt",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fc63a483fcd47ff8d53d2d2058a14103e2652da42ad2d09c10bf3919b22bc2a0.jpg",
+    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/3c2ce1774043ea3b647cc076807556f381a77b4d587070b0f46df39d920986c5",
     "completed": 0
   }
 ]
