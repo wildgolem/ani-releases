@@ -1,12 +1,5 @@
 [
   {
-    "title": "Onmyo Kaiten Re:Birth Verse",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/fe3bc7d631dd9dc964ff61ccbc6c371bcef5a87e3b784b00fa09dee642dae848.jpg",
-    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/25383580b054b422e1c4215f43b9eff774c594e26c430c4fa5c6cfcdd55341bd",
-    "completed": 0
-  },
-  {
     "title": "New Saga",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/9410a08b65c53fd4a988fa8d7b799681555e329a0189bf02bcca4c8bf995d9f4.jpg",
@@ -67,6 +60,13 @@
     "episode": 88,
     "image": "https://i.animepahe.ru/uploads/snapshots/49455f954a8d6f2f48817c42469a1b2e93c199328b8cb4d4304685eede8cfb87.jpg",
     "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/36e9ee7fb29318bd34169335f9a7594c16369f74dc6098bb6d1ec2a5eaa4f376",
+    "completed": 0
+  },
+  {
+    "title": "Leviathan",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/454d8d331549cb47b3232dc4dac2bd2ccb43b1a64e20e162cf43c95843204499.jpg",
+    "link": "https://animepahe.ru/play/448dbce4-dba5-b388-0764-108ab125d22b/cd0974e29b2423f817726c084b5c40b90c424393d2de9b05066b291fc1e06d71",
     "completed": 0
   }
 ]
