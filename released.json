@@ -1,19 +1,5 @@
 [
   {
-    "title": "Dealing with Mikadono Sisters Is a Breeze",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/8105ae1bc145c3ce4ac7b198882d46ce1722ea544642988c062c208dc23a54f6.jpg",
-    "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/9296990f5d31fb711e47ee6f6eb02011e0632457f2dc194a1bdabd5b0b826b31",
-    "completed": 0
-  },
-  {
-    "title": "Dr. Stone: Science Future Part 2",
-    "episode": 13,
-    "image": "https://i.animepahe.ru/uploads/snapshots/9414764586d88fbaf9ebea9b9a11e4c3dae8966bf57f9958d0e0866365d15c94.jpg",
-    "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/07535688898835351d2c937ce0dbe4e44fc1c03872f4037d0edf48fa94a89ad2",
-    "completed": 0
-  },
-  {
     "title": "Welcome to the Outcast's Restaurant!",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/965191e2ee4544823a9f5de6ac31819ae1c70cca71f10e91d6d6ad8543884e0c.jpg",
@@ -67,6 +53,20 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/fc63a483fcd47ff8d53d2d2058a14103e2652da42ad2d09c10bf3919b22bc2a0.jpg",
     "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/3c2ce1774043ea3b647cc076807556f381a77b4d587070b0f46df39d920986c5",
+    "completed": 0
+  },
+  {
+    "title": "Arknights: Rise from Ember",
+    "episode": 18,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ce9ef68481533cddb963341a5e6e4cb5b8bb2f6d22ad8d007c96408d1a9d48e3.jpg",
+    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/44780c933705e3e6f9470298da80cd1199461d81f5f81c69607622d6c9c1a502",
+    "completed": 0
+  },
+  {
+    "title": "Takopi's Original Sin",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c45688f9abb5f7f5575dd8ead0df94e66e37a698c7f72866e177050dc78298d2.jpg",
+    "link": "https://animepahe.ru/play/6d155661-e113-3afe-7fbe-40ee28a2ffeb/9c277ea5926ffcf5bab3ef80b1b7d39dc857f4a8b7853b66756e33c574df537f",
     "completed": 0
   }
 ]
