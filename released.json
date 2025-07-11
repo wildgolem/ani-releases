@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Water Magician",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/03a922997a12edb770d8e43e5f821fbc4c34fa84ebe940eb6a7dbbb027961f83.jpg",
-    "link": "https://animepahe.ru/play/ab79ccc4-e32b-a265-2f43-3ed58bc67206/42d9b74c06e06805f86d9001de06318ae5d86233f44833adfc5dfa4a46f20ddf",
-    "completed": 0
-  },
-  {
     "title": "Beyblade X",
     "episode": 88,
     "image": "https://i.animepahe.ru/uploads/snapshots/49455f954a8d6f2f48817c42469a1b2e93c199328b8cb4d4304685eede8cfb87.jpg",
@@ -67,6 +60,13 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/aaf335f7ec116777b1ed07c10e52690ab5a44ba7dd2cbcd2df350e0cd70374c9.jpg",
     "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/c3be83c8b8d885d13f442c95e347a2318761df533d092cb739e15ba66071bf1c",
+    "completed": 0
+  },
+  {
+    "title": "Betrothed to My Sister's Ex",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/56046d6fce9b4edd71e24034487525753a6d2aee8a3e7192df4bdebd56630a3f.jpg",
+    "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/d71c6af3c2d26d349809d58c54718444991b753d46ffc307b6f3e5eddfebdcb4",
     "completed": 0
   }
 ]
