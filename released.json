@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kamitsubaki City Under Construction",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2ffe5f2ecb91a5d8f3c2e7b5f44229b76263236ab00ac7dac703997c11d33cd1.jpg",
-    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/5be42d627476b91966fc17c5b2f0eb26bc42426767a31baa7824d982fc2ec343",
-    "completed": 0
-  },
-  {
     "title": "The Water Magician",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/03a922997a12edb770d8e43e5f821fbc4c34fa84ebe940eb6a7dbbb027961f83.jpg",
@@ -67,6 +60,13 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/facbd507a60eb587e16f5d8173379bfd859f790d8f99b60fef0d33c7d4d03e81.jpg",
     "link": "https://animepahe.ru/play/3d39e1b4-3351-c2c3-1c50-8308b0f96a5e/b6fcb3df9028551947f0fce7537c5151b552ccfdeebbe41e06ee0416e9b33012",
+    "completed": 0
+  },
+  {
+    "title": "Secrets of the Silent Witch",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/aaf335f7ec116777b1ed07c10e52690ab5a44ba7dd2cbcd2df350e0cd70374c9.jpg",
+    "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/c3be83c8b8d885d13f442c95e347a2318761df533d092cb739e15ba66071bf1c",
     "completed": 0
   }
 ]
