@@ -42,13 +42,6 @@
     "completed": 0
   },
   {
-    "title": "My Dress-Up Darling Season 2",
-    "episode": 14,
-    "image": "https://i.animepahe.ru/uploads/snapshots/259a5ae49fd2bb52b4808d3ad1834a9b0477a7fb4c038d0bef7781d19093a582.jpg",
-    "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/6b4cc40beda8f7b6801fde955edca21dc0283d614e924fe438b701a34613d4cf",
-    "completed": 0
-  },
-  {
     "title": "The Summer Hikaru Died",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/619578106ac3cc64bd1cf85440bbf70e406fcdacb77735d3ad7f1ba2a6ad7ad6.jpg",
@@ -67,6 +60,13 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/1a2fd7492ca51ec9f8254426084337f284f7f9a6c0c5d55fc3b4b3dce7ada091.jpg",
     "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/1ba1631e2ae1a26014c4d2cb56918b00d2081751858eaebe00d3253f8f1c71cf",
+    "completed": 0
+  },
+  {
+    "title": "My Dress-Up Darling Season 2",
+    "episode": 14,
+    "image": "https://i.animepahe.ru/uploads/snapshots/259a5ae49fd2bb52b4808d3ad1834a9b0477a7fb4c038d0bef7781d19093a582.jpg",
+    "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/6b4cc40beda8f7b6801fde955edca21dc0283d614e924fe438b701a34613d4cf",
     "completed": 0
   }
 ]
