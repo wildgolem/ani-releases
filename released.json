@@ -56,17 +56,17 @@
     "completed": 0
   },
   {
-    "title": "Lord of Mysteries",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/14bec99d6af0d6e33faf27918ca31a469c0c1b274c6ece58607abd2d9c519720.jpg",
-    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/e28a40e64aaf669b15fe7129b8a1d6fd1a24c33a5a5bdac54532bcf9e3a79a16",
-    "completed": 0
-  },
-  {
     "title": "The All-devouring Whale: Homecoming",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/b1b8b0551669741f8b461c1bc22a004cffef46edf044c963ae53f14fd9ceb0e8.jpg",
     "link": "https://animepahe.ru/play/8638b3f9-7333-55d7-11aa-ee4fe1d047a0/f8731de16843f50d4a76ce594fc18c19473475052a1bdb896bca34bb007ae98e",
     "completed": 1
+  },
+  {
+    "title": "Lord of Mysteries",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/14bec99d6af0d6e33faf27918ca31a469c0c1b274c6ece58607abd2d9c519720.jpg",
+    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/e28a40e64aaf669b15fe7129b8a1d6fd1a24c33a5a5bdac54532bcf9e3a79a16",
+    "completed": 0
   }
 ]
