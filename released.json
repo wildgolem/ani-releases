@@ -1,12 +1,5 @@
 [
   {
-    "title": "Leviathan",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/cf82e753e2a38349cd6346b855f822afd10f2298279708f93a50b04850956b45.jpg",
-    "link": "https://animepahe.ru/play/448dbce4-dba5-b388-0764-108ab125d22b/29283130013aaf7f43383d6865c67e00af88cb42489e14343daaa6a398cc7799",
-    "completed": 1
-  },
-  {
     "title": "New Panty & Stocking with Garterbelt",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/fc63a483fcd47ff8d53d2d2058a14103e2652da42ad2d09c10bf3919b22bc2a0.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/14bec99d6af0d6e33faf27918ca31a469c0c1b274c6ece58607abd2d9c519720.jpg",
     "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/e28a40e64aaf669b15fe7129b8a1d6fd1a24c33a5a5bdac54532bcf9e3a79a16",
     "completed": 0
+  },
+  {
+    "title": "The All-devouring Whale: Homecoming",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b1b8b0551669741f8b461c1bc22a004cffef46edf044c963ae53f14fd9ceb0e8.jpg",
+    "link": "https://animepahe.ru/play/8638b3f9-7333-55d7-11aa-ee4fe1d047a0/f8731de16843f50d4a76ce594fc18c19473475052a1bdb896bca34bb007ae98e",
+    "completed": 1
   }
 ]
