@@ -1,12 +1,5 @@
 [
   {
-    "title": "Beyblade X",
-    "episode": 88,
-    "image": "https://i.animepahe.ru/uploads/snapshots/49455f954a8d6f2f48817c42469a1b2e93c199328b8cb4d4304685eede8cfb87.jpg",
-    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/36e9ee7fb29318bd34169335f9a7594c16369f74dc6098bb6d1ec2a5eaa4f376",
-    "completed": 0
-  },
-  {
     "title": "Leviathan",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/cf82e753e2a38349cd6346b855f822afd10f2298279708f93a50b04850956b45.jpg",
@@ -67,6 +60,13 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/56046d6fce9b4edd71e24034487525753a6d2aee8a3e7192df4bdebd56630a3f.jpg",
     "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/d71c6af3c2d26d349809d58c54718444991b753d46ffc307b6f3e5eddfebdcb4",
+    "completed": 0
+  },
+  {
+    "title": "Lord of Mysteries",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/14bec99d6af0d6e33faf27918ca31a469c0c1b274c6ece58607abd2d9c519720.jpg",
+    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/e28a40e64aaf669b15fe7129b8a1d6fd1a24c33a5a5bdac54532bcf9e3a79a16",
     "completed": 0
   }
 ]
