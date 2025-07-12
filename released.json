@@ -1,12 +1,5 @@
 [
   {
-    "title": "Tougen Anki",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/27c4a13038b41ec8ad38db65def068c6a103f1b296c1318c98c356ba5f38b793.jpg",
-    "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/48e694fb14f58a575a78360e94dfef189fb95f5e1f960b454a6a7f493051f7cf",
-    "completed": 0
-  },
-  {
     "title": "Call of the Night Season 2",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/5e09c3ae139de05cfc6f1552521d78137efa7876a5eecdd0c00475f655d3b0b9.jpg",
@@ -67,6 +60,13 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/d94dbf05985ed81522142887edea7b8b8d165b6f13bbb818570d79bb0aa8058a.jpg",
     "link": "https://animepahe.ru/play/6e9c69a4-6719-22ec-78f8-7e9604e91b7a/f60c5c7113a4dc9c76b5423503edf16ce51f881cef224d3dde687ae71b36928e",
+    "completed": 0
+  },
+  {
+    "title": "Anne Shirley",
+    "episode": 15,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f4da434a6402f8763754cb6a7ab41087be17ae73a809e98fc0cb99fb624ae370.jpg",
+    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/7a15720f361062df106e89fd1a089698947a861205626785c93bf637149d50ad",
     "completed": 0
   }
 ]
