@@ -1,12 +1,5 @@
 [
   {
-    "title": "Lord of Mysteries",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/14bec99d6af0d6e33faf27918ca31a469c0c1b274c6ece58607abd2d9c519720.jpg",
-    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/e28a40e64aaf669b15fe7129b8a1d6fd1a24c33a5a5bdac54532bcf9e3a79a16",
-    "completed": 0
-  },
-  {
     "title": "Me and the Alien MuMu",
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/7bffd18303db0ed5795a6689fb3fec779053feb7caa99f30df115457444d294e.jpg",
@@ -67,6 +60,13 @@
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/259a5ae49fd2bb52b4808d3ad1834a9b0477a7fb4c038d0bef7781d19093a582.jpg",
     "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/6b4cc40beda8f7b6801fde955edca21dc0283d614e924fe438b701a34613d4cf",
+    "completed": 0
+  },
+  {
+    "title": "Private Tutor to the Duke's Daughter",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0017b2a1b511ec45da78de1b7498af21c753079fecf549fb47012a087c347ad6.jpg",
+    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/73772516b0f91edbdc7b596e27258a8313bac7523da8c750be1aae2671bcd696",
     "completed": 0
   }
 ]
