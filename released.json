@@ -1,12 +1,5 @@
 [
   {
-    "title": "Call of the Night Season 2",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/5e09c3ae139de05cfc6f1552521d78137efa7876a5eecdd0c00475f655d3b0b9.jpg",
-    "link": "https://animepahe.ru/play/bd82c9e0-73b3-0d9e-8078-a8e01cddaa78/2eff68416a136ab227e38fa983c903fbefbbca40dfaf028e236ecdcdbe3aef75",
-    "completed": 0
-  },
-  {
     "title": "Watari-kun's ****** Is about to Collapse",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/facbd507a60eb587e16f5d8173379bfd859f790d8f99b60fef0d33c7d4d03e81.jpg",
@@ -67,6 +60,13 @@
     "episode": 15,
     "image": "https://i.animepahe.ru/uploads/snapshots/f4da434a6402f8763754cb6a7ab41087be17ae73a809e98fc0cb99fb624ae370.jpg",
     "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/7a15720f361062df106e89fd1a089698947a861205626785c93bf637149d50ad",
+    "completed": 0
+  },
+  {
+    "title": "The Shy Hero and the Assassin Princesses",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4ed1e5ead9e7edac8fa227c460f499a4cc6b9a8faea7d666976ac4acb1dd102a.jpg",
+    "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/393ef23e00ed8e91b9787e31918849e5379b0165e6898022363f9aee35b29c9f",
     "completed": 0
   }
 ]
