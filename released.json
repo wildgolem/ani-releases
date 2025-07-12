@@ -1,12 +1,5 @@
 [
   {
-    "title": "Arknights: Rise from Ember",
-    "episode": 18,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ce9ef68481533cddb963341a5e6e4cb5b8bb2f6d22ad8d007c96408d1a9d48e3.jpg",
-    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/44780c933705e3e6f9470298da80cd1199461d81f5f81c69607622d6c9c1a502",
-    "completed": 0
-  },
-  {
     "title": "Takopi's Original Sin",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/c45688f9abb5f7f5575dd8ead0df94e66e37a698c7f72866e177050dc78298d2.jpg",
@@ -67,6 +60,13 @@
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/7bffd18303db0ed5795a6689fb3fec779053feb7caa99f30df115457444d294e.jpg",
     "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/e5c9e8a50339fb55daf3e2a307cd5bc6d2e7c928016325a8fdf8207ea419c596",
+    "completed": 0
+  },
+  {
+    "title": "Yaiba: Samurai Legend",
+    "episode": 14,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e01d4bcb490171e7d933d302e1226788007f3cf55e359a07beb40068ffda4627.jpg",
+    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/2181203b17da884d39b4d18b2a5d1e5eec5c093dbd7482287a4b5bf33f817d0a",
     "completed": 0
   }
 ]
