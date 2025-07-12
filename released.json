@@ -1,12 +1,5 @@
 [
   {
-    "title": "New Panty & Stocking with Garterbelt",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/fc63a483fcd47ff8d53d2d2058a14103e2652da42ad2d09c10bf3919b22bc2a0.jpg",
-    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/3c2ce1774043ea3b647cc076807556f381a77b4d587070b0f46df39d920986c5",
-    "completed": 0
-  },
-  {
     "title": "Arknights: Rise from Ember",
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/ce9ef68481533cddb963341a5e6e4cb5b8bb2f6d22ad8d007c96408d1a9d48e3.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/14bec99d6af0d6e33faf27918ca31a469c0c1b274c6ece58607abd2d9c519720.jpg",
     "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/e28a40e64aaf669b15fe7129b8a1d6fd1a24c33a5a5bdac54532bcf9e3a79a16",
+    "completed": 0
+  },
+  {
+    "title": "Me and the Alien MuMu",
+    "episode": 14,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7bffd18303db0ed5795a6689fb3fec779053feb7caa99f30df115457444d294e.jpg",
+    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/e5c9e8a50339fb55daf3e2a307cd5bc6d2e7c928016325a8fdf8207ea419c596",
     "completed": 0
   }
 ]
