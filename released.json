@@ -1,12 +1,5 @@
 [
   {
-    "title": "The All-devouring Whale: Homecoming",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b1b8b0551669741f8b461c1bc22a004cffef46edf044c963ae53f14fd9ceb0e8.jpg",
-    "link": "https://animepahe.ru/play/8638b3f9-7333-55d7-11aa-ee4fe1d047a0/f8731de16843f50d4a76ce594fc18c19473475052a1bdb896bca34bb007ae98e",
-    "completed": 1
-  },
-  {
     "title": "Lord of Mysteries",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/14bec99d6af0d6e33faf27918ca31a469c0c1b274c6ece58607abd2d9c519720.jpg",
@@ -67,6 +60,13 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/f7fd5bc912145800f81b6517c8229f88261cd2d829c2affe6a0cd20dc07eb9e3.jpg",
     "link": "https://animepahe.ru/play/025b8411-f3ff-809b-4bf9-751552950caa/57f4110873dbddd0399d4532da080fab742fdb1aeb110795cdce200b2e5cd68b",
+    "completed": 0
+  },
+  {
+    "title": "My Dress-Up Darling Season 2",
+    "episode": 14,
+    "image": "https://i.animepahe.ru/uploads/snapshots/259a5ae49fd2bb52b4808d3ad1834a9b0477a7fb4c038d0bef7781d19093a582.jpg",
+    "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/6b4cc40beda8f7b6801fde955edca21dc0283d614e924fe438b701a34613d4cf",
     "completed": 0
   }
 ]
