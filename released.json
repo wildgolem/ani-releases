@@ -1,19 +1,5 @@
 [
   {
-    "title": "April Showers Bring May Flowers",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d94dbf05985ed81522142887edea7b8b8d165b6f13bbb818570d79bb0aa8058a.jpg",
-    "link": "https://animepahe.ru/play/6e9c69a4-6719-22ec-78f8-7e9604e91b7a/f60c5c7113a4dc9c76b5423503edf16ce51f881cef224d3dde687ae71b36928e",
-    "completed": 0
-  },
-  {
-    "title": "Anne Shirley",
-    "episode": 15,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f4da434a6402f8763754cb6a7ab41087be17ae73a809e98fc0cb99fb624ae370.jpg",
-    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/7a15720f361062df106e89fd1a089698947a861205626785c93bf637149d50ad",
-    "completed": 0
-  },
-  {
     "title": "The Shy Hero and the Assassin Princesses",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/4ed1e5ead9e7edac8fa227c460f499a4cc6b9a8faea7d666976ac4acb1dd102a.jpg",
@@ -67,6 +53,20 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/619578106ac3cc64bd1cf85440bbf70e406fcdacb77735d3ad7f1ba2a6ad7ad6.jpg",
     "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/2be1ed032ee0ad921e29da53047738f0f06c17151eba250b66497e187a12700d",
+    "completed": 0
+  },
+  {
+    "title": "Pyramid Game",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/baac13d5e8983fab5f23ad3809d2a98feb5a344240a2f3c9b112b549144ecd74.jpg",
+    "link": "https://animepahe.ru/play/04202b71-2660-b9ee-b54f-b1ca5094f421/3750b3805a4c23ab8852cfbe32e54d587bab34ea7fab2bd07f6892ebd18721c7",
+    "completed": 0
+  },
+  {
+    "title": "Fermat no Ryouri",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/1a2fd7492ca51ec9f8254426084337f284f7f9a6c0c5d55fc3b4b3dce7ada091.jpg",
+    "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/1ba1631e2ae1a26014c4d2cb56918b00d2081751858eaebe00d3253f8f1c71cf",
     "completed": 0
   }
 ]
