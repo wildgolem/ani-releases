@@ -1,19 +1,5 @@
 [
   {
-    "title": "Pyramid Game",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/baac13d5e8983fab5f23ad3809d2a98feb5a344240a2f3c9b112b549144ecd74.jpg",
-    "link": "https://animepahe.ru/play/04202b71-2660-b9ee-b54f-b1ca5094f421/3750b3805a4c23ab8852cfbe32e54d587bab34ea7fab2bd07f6892ebd18721c7",
-    "completed": 0
-  },
-  {
-    "title": "Fermat no Ryouri",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1a2fd7492ca51ec9f8254426084337f284f7f9a6c0c5d55fc3b4b3dce7ada091.jpg",
-    "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/1ba1631e2ae1a26014c4d2cb56918b00d2081751858eaebe00d3253f8f1c71cf",
-    "completed": 0
-  },
-  {
     "title": "My Dress-Up Darling Season 2",
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/259a5ae49fd2bb52b4808d3ad1834a9b0477a7fb4c038d0bef7781d19093a582.jpg",
@@ -67,6 +53,20 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/f653befc69f77e8540002cdee2a79f0a67d3cbfcc36f95a9f51492fb08289380.jpg",
     "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/d479ae89eed7759d13608fb3dfe4a9c58a521c95bf0100a495ad9882586b08e6",
+    "completed": 0
+  },
+  {
+    "title": "Ruri Rocks",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/23e00ac287e32b3ff70e53cb0d6202a08ad26747a70ca939d8a9524d21c48942.jpg",
+    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/7cb9bfebc6090316b621efbc5b8bf349496715bdd64702d807684d574180f04b",
+    "completed": 0
+  },
+  {
+    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e514145d99feb532326f128b68fb3923dc6164c546c81b57ce95fa551fb1b2f7.jpg",
+    "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/63217b32bb3f347b06eff2376b01baa37fb9151f9714bcc297eff76b2c401dd4",
     "completed": 0
   }
 ]
