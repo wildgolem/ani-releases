@@ -1,12 +1,5 @@
 [
   {
-    "title": "With You and the Rain",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/9ecc12cb9100fa951960f111d7aecd2f4a36bde1056315ef855781a7b73bc1de.jpg",
-    "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/4e589a0a283cea825631c33c985333f3c5234c92609be76d8d915cb31a5503c9",
-    "completed": 0
-  },
-  {
     "title": "The Summer Hikaru Died",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/619578106ac3cc64bd1cf85440bbf70e406fcdacb77735d3ad7f1ba2a6ad7ad6.jpg",
@@ -67,6 +60,13 @@
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/a3fa45f4c4b2e73e41254deb368653f2f4d3be3091cd0daf413a781d657fbbf8.jpg",
     "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/73bf8ad09176b3c2e86f4e2be30372690ae2febf3fd0c75f1f6d2fbf8d1d06a3",
+    "completed": 0
+  },
+  {
+    "title": "Puniru is a Kawaii Slime Season 2",
+    "episode": 14,
+    "image": "https://i.animepahe.ru/uploads/snapshots/185e0afdcc9d45a6253c073e915f919ff3d8b48390542a0250919afa55f11434.jpg",
+    "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/ee3c6d38261663d0afba1330ea756eecbdf4b4705d65d3ec4052ab3a5d5d6696",
     "completed": 0
   }
 ]
