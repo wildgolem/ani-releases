@@ -1,26 +1,5 @@
 [
   {
-    "title": "The Shy Hero and the Assassin Princesses",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4ed1e5ead9e7edac8fa227c460f499a4cc6b9a8faea7d666976ac4acb1dd102a.jpg",
-    "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/393ef23e00ed8e91b9787e31918849e5379b0165e6898022363f9aee35b29c9f",
-    "completed": 0
-  },
-  {
-    "title": "Scooped Up by an S-Ranked Adventurer",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/5e916ed00195fee313862bafc05a6b827d6afb1901fd886ee5f214ed23e98f97.jpg",
-    "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/9169c0e1b839c9a847c28f985f54e029a2981b4a770563237121692f2efc4ec1",
-    "completed": 0
-  },
-  {
-    "title": "Bad Girl",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/57f37a1888d60207eb65242943c6f4fb0506bb7672c1bc48955007201f2cd2b0.jpg",
-    "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/00739d214cb26b390d82dfdc5cb3847b0e1df023d06d682adf56f5beb465bb96",
-    "completed": 0
-  },
-  {
     "title": "Rascal Does Not Dream of Santa Claus",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/f7fd5bc912145800f81b6517c8229f88261cd2d829c2affe6a0cd20dc07eb9e3.jpg",
@@ -67,6 +46,27 @@
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/259a5ae49fd2bb52b4808d3ad1834a9b0477a7fb4c038d0bef7781d19093a582.jpg",
     "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/6b4cc40beda8f7b6801fde955edca21dc0283d614e924fe438b701a34613d4cf",
+    "completed": 0
+  },
+  {
+    "title": "To Be Hero X",
+    "episode": 15,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a5f2008b8daa600c2a0f6a2f6be3a26da8af0f004319619259e82e4a452d9d1d.jpg",
+    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/1fef25da688931fcc91c856b3ae52e876a482eb4545af05c02c139c986c588fd",
+    "completed": 0
+  },
+  {
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/baf28a9ea1fecf9bbee49844cf3b782632e487ff49d3ba5c93b56241719fab05.jpg",
+    "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/4dd535ded2d2773bb3285881839d018c5787619de262dffb801ab4f78cf20123",
+    "completed": 0
+  },
+  {
+    "title": "You and Idol Precure♪",
+    "episode": 23,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8127327a2172b342c8f409a0ef905df7b2bc7f6cfa025f4f78e6ae663570f5b5.jpg",
+    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/85306ac72915d031a82ba89f843a5dfde2e521952b7ed1c183c6ed3e06b45338",
     "completed": 0
   }
 ]
