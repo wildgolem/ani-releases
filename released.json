@@ -1,12 +1,5 @@
 [
   {
-    "title": "Dekin no Mogura: The Earthbound Mole",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f653befc69f77e8540002cdee2a79f0a67d3cbfcc36f95a9f51492fb08289380.jpg",
-    "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/d479ae89eed7759d13608fb3dfe4a9c58a521c95bf0100a495ad9882586b08e6",
-    "completed": 0
-  },
-  {
     "title": "Ruri Rocks",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/23e00ac287e32b3ff70e53cb0d6202a08ad26747a70ca939d8a9524d21c48942.jpg",
@@ -67,6 +60,13 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/b12e8d8f2d07a6c5d0b01fd31d64ceb616b53f568ea237a645e39f48df55d39d.jpg",
     "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/ee0f09bbdec022875526d324e9a85dfc5dfbd5bd93b39a163f65704e028e3eea",
+    "completed": 0
+  },
+  {
+    "title": "Theatre of Darkness: Yamishibai 15",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0747b0b00db62de3d5a8de99d0317a82543fcc4c38f153cf50881da39eedfe0c.jpg",
+    "link": "https://animepahe.ru/play/6fd6c8a4-470a-57cb-9bac-5acc159bbdb9/2684679583ecd08e965f6ca2767ec8678b82c257e11e84119c9dcbed7bdb16d9",
     "completed": 0
   }
 ]
