@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Fragrant Flower Blooms with Dignity",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/baf28a9ea1fecf9bbee49844cf3b782632e487ff49d3ba5c93b56241719fab05.jpg",
-    "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/4dd535ded2d2773bb3285881839d018c5787619de262dffb801ab4f78cf20123",
-    "completed": 0
-  },
-  {
     "title": "You and Idol Precure♪",
     "episode": 23,
     "image": "https://i.animepahe.ru/uploads/snapshots/8127327a2172b342c8f409a0ef905df7b2bc7f6cfa025f4f78e6ae663570f5b5.jpg",
@@ -67,6 +60,13 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/59c0b0cf4f6754809b95371a93a1bfdf1e313aef3baa93bbcd1a64979ec03125.jpg",
     "link": "https://animepahe.ru/play/bccca268-6edd-0369-ae31-cd145e76238d/e6925c8b2aac58dba3b99efc74eba66520c8a92e618aa3ce1a7f0eb5c7880e17",
+    "completed": 0
+  },
+  {
+    "title": "Gachiakuta",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c7c9d2973061f704e3aa281106c5fab48b37529622c2194bc2104de0dfbb75be.jpg",
+    "link": "https://animepahe.ru/play/42dd67ed-699c-d2d4-194a-3f2365652272/6d9adf601dde24734d8fddfdc1017aff29df73c191c2b4e1850ed64cb5b4abd4",
     "completed": 0
   }
 ]
