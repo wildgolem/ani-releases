@@ -1,19 +1,5 @@
 [
   {
-    "title": "Ruri Rocks",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/23e00ac287e32b3ff70e53cb0d6202a08ad26747a70ca939d8a9524d21c48942.jpg",
-    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/7cb9bfebc6090316b621efbc5b8bf349496715bdd64702d807684d574180f04b",
-    "completed": 0
-  },
-  {
-    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e514145d99feb532326f128b68fb3923dc6164c546c81b57ce95fa551fb1b2f7.jpg",
-    "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/63217b32bb3f347b06eff2376b01baa37fb9151f9714bcc297eff76b2c401dd4",
-    "completed": 0
-  },
-  {
     "title": "Nyaight of the Living Cat",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/d31e917ad776da279e0e673f738969cf53a305b86a4a08c082133a2ad332e1c7.jpg",
@@ -67,6 +53,20 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/0747b0b00db62de3d5a8de99d0317a82543fcc4c38f153cf50881da39eedfe0c.jpg",
     "link": "https://animepahe.ru/play/6fd6c8a4-470a-57cb-9bac-5acc159bbdb9/2684679583ecd08e965f6ca2767ec8678b82c257e11e84119c9dcbed7bdb16d9",
+    "completed": 0
+  },
+  {
+    "title": "Kaiju No. 8: Mission Recon",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/01d34691860b0ee2bbcf2ecf97e144fbd4a794bf6e5ee05f6628359590c871dd.jpg",
+    "link": "https://animepahe.ru/play/3aab7c1b-f81e-b8b7-04dd-5c5973bc1110/38d52093a895cb9a94e8c5c8bc0f54a2caa9cfd5cccde213eeccc7b3d949e635",
+    "completed": 1
+  },
+  {
+    "title": "9: Ruler's Crown",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0d97003a2b72d41e580aff0c33b2f519b3c0cbbc11308bc23953e86c3e38e986.jpg",
+    "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/ffee45bc6f0dd9d5f41bb8c795e42bb77574bca11f2e92de9d70b60929cb0544",
     "completed": 0
   }
 ]
