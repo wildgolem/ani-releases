@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Summer Hikaru Died",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/619578106ac3cc64bd1cf85440bbf70e406fcdacb77735d3ad7f1ba2a6ad7ad6.jpg",
-    "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/2be1ed032ee0ad921e29da53047738f0f06c17151eba250b66497e187a12700d",
-    "completed": 0
-  },
-  {
     "title": "Pyramid Game",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/baac13d5e8983fab5f23ad3809d2a98feb5a344240a2f3c9b112b549144ecd74.jpg",
@@ -67,6 +60,13 @@
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/185e0afdcc9d45a6253c073e915f919ff3d8b48390542a0250919afa55f11434.jpg",
     "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/ee3c6d38261663d0afba1330ea756eecbdf4b4705d65d3ec4052ab3a5d5d6696",
+    "completed": 0
+  },
+  {
+    "title": "Dekin no Mogura: The Earthbound Mole",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f653befc69f77e8540002cdee2a79f0a67d3cbfcc36f95a9f51492fb08289380.jpg",
+    "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/d479ae89eed7759d13608fb3dfe4a9c58a521c95bf0100a495ad9882586b08e6",
     "completed": 0
   }
 ]
