@@ -1,12 +1,5 @@
 [
   {
-    "title": "Puniru is a Kawaii Slime Season 2",
-    "episode": 14,
-    "image": "https://i.animepahe.ru/uploads/snapshots/185e0afdcc9d45a6253c073e915f919ff3d8b48390542a0250919afa55f11434.jpg",
-    "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/ee3c6d38261663d0afba1330ea756eecbdf4b4705d65d3ec4052ab3a5d5d6696",
-    "completed": 0
-  },
-  {
     "title": "Dekin no Mogura: The Earthbound Mole",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/f653befc69f77e8540002cdee2a79f0a67d3cbfcc36f95a9f51492fb08289380.jpg",
@@ -67,6 +60,13 @@
     "episode": 1136,
     "image": "https://i.animepahe.ru/uploads/snapshots/e7dbf2976b040437f6c797ee3a0d121e5ab740ad00fc8f48a11f920cacefb431.jpg",
     "link": "https://animepahe.ru/play/d58fc9f8-582e-fdf0-3618-112cd54ed5ab/092c29e1e813016702de7ba89a6f56fd4b44f355d9c34d0e559184a9abfc6f58",
+    "completed": 0
+  },
+  {
+    "title": "Hotel Inhumans",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b12e8d8f2d07a6c5d0b01fd31d64ceb616b53f568ea237a645e39f48df55d39d.jpg",
+    "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/ee0f09bbdec022875526d324e9a85dfc5dfbd5bd93b39a163f65704e028e3eea",
     "completed": 0
   }
 ]
