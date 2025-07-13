@@ -1,12 +1,5 @@
 [
   {
-    "title": "Rascal Does Not Dream of Santa Claus",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f7fd5bc912145800f81b6517c8229f88261cd2d829c2affe6a0cd20dc07eb9e3.jpg",
-    "link": "https://animepahe.ru/play/025b8411-f3ff-809b-4bf9-751552950caa/57f4110873dbddd0399d4532da080fab742fdb1aeb110795cdce200b2e5cd68b",
-    "completed": 0
-  },
-  {
     "title": "Private Tutor to the Duke's Daughter",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/0017b2a1b511ec45da78de1b7498af21c753079fecf549fb47012a087c347ad6.jpg",
@@ -67,6 +60,13 @@
     "episode": 23,
     "image": "https://i.animepahe.ru/uploads/snapshots/8127327a2172b342c8f409a0ef905df7b2bc7f6cfa025f4f78e6ae663570f5b5.jpg",
     "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/85306ac72915d031a82ba89f843a5dfde2e521952b7ed1c183c6ed3e06b45338",
+    "completed": 0
+  },
+  {
+    "title": "Witch Watch",
+    "episode": 15,
+    "image": "https://i.animepahe.ru/uploads/snapshots/86e9c04e57f5d6cf82af3da636d8b0e54de8368fa7ac656332d15c9009516f0d.jpg",
+    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/b8ae19745e7e1b8ad2fcb0c9d9123156f073d4f4840be425523f82a0f032ea1e",
     "completed": 0
   }
 ]
