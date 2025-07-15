@@ -1,12 +1,5 @@
 [
   {
-    "title": "Sword of the Demon Hunter: Kijin Gentosho",
-    "episode": 14,
-    "image": "https://i.animepahe.ru/uploads/snapshots/111bb49813a7dc3cf4a29b346a13fb4184692421781291159e6423dda06d00f6.jpg",
-    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/89988c7c26c08a90862dc9abd54585e6aed679df5f71bb72795f43f93209423a",
-    "completed": 0
-  },
-  {
     "title": "Grand Blue Dreaming Season 2",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/1d442f6f4c1693c1ebf1cbf2fc4d56a7072fafa814d59de5c33ca0ca9b94824a.jpg",
@@ -67,6 +60,13 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/3f9331c8aac5cbac1c761bae0ed08295d3baf8663464325159a106292eb3930e.jpg",
     "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/de565efec3680180ea3a3f510cf807b0eb60c50176a9f799b3c1adaede84d601",
+    "completed": 0
+  },
+  {
+    "title": "Osomatsu-san 4th Season",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/eeb950fb54ab0bc0a93f161680be47c13850285b2ff342f95e921b57b265c0d6.jpg",
+    "link": "https://animepahe.ru/play/ad12e261-8b36-80af-842a-28d955a8dba1/1529aa60b64743adb32df26de4e0178717f19da8eeb23791a9ccfb696d224223",
     "completed": 0
   }
 ]
