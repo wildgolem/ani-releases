@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kaiju No. 8: Mission Recon",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/01d34691860b0ee2bbcf2ecf97e144fbd4a794bf6e5ee05f6628359590c871dd.jpg",
-    "link": "https://animepahe.ru/play/3aab7c1b-f81e-b8b7-04dd-5c5973bc1110/38d52093a895cb9a94e8c5c8bc0f54a2caa9cfd5cccde213eeccc7b3d949e635",
-    "completed": 1
-  },
-  {
     "title": "9: Ruler's Crown",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/0d97003a2b72d41e580aff0c33b2f519b3c0cbbc11308bc23953e86c3e38e986.jpg",
@@ -67,6 +60,13 @@
     "episode": 39,
     "image": "https://i.animepahe.ru/uploads/snapshots/2d6828be7411997b3663cd82fbeb38acb261f0f348e343e230ff048a939f9936.jpg",
     "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/76250920075c167b2a9cd2cc7cd9242d42067cce730aca595622126e8b904cae",
+    "completed": 0
+  },
+  {
+    "title": "A Couple of Cuckoos Season 2",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b24c884eef15922fb2ed5b6a1594ed17c9a39956f90c5bafe0eacafb5cf85134.jpg",
+    "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/46e80a82f4c12bf237915399a25fab7bee743e5f9b236b36d67644f53cdfe373",
     "completed": 0
   }
 ]
