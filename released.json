@@ -1,19 +1,5 @@
 [
   {
-    "title": "9: Ruler's Crown",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/0d97003a2b72d41e580aff0c33b2f519b3c0cbbc11308bc23953e86c3e38e986.jpg",
-    "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/ffee45bc6f0dd9d5f41bb8c795e42bb77574bca11f2e92de9d70b60929cb0544",
-    "completed": 0
-  },
-  {
-    "title": "See You Tomorrow at the Food Court",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/24f99347283b976c0c913acb4145cc57176f062b1931982473ed69521a586072.jpg",
-    "link": "https://animepahe.ru/play/fb8c4048-fdb7-0d73-c932-d3e7ecad16a4/6c483b87a591b2bb0c730bc5b168f72184a96d2a392f2d2c97ded2db56b509d1",
-    "completed": 0
-  },
-  {
     "title": "Summer Pockets",
     "episode": 15,
     "image": "https://i.animepahe.ru/uploads/snapshots/eb864df0d2f9184b54dc88d1f17b592d6a06cb9a3d7c617789aabd9ce007c39c.jpg",
@@ -67,6 +53,20 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/b24c884eef15922fb2ed5b6a1594ed17c9a39956f90c5bafe0eacafb5cf85134.jpg",
     "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/46e80a82f4c12bf237915399a25fab7bee743e5f9b236b36d67644f53cdfe373",
+    "completed": 0
+  },
+  {
+    "title": "Detectives These Days Are Crazy!",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fc108ae87aa431304a7cd62ee057cd70a6a74664645fc1c9167ea5475e3700be.jpg",
+    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/97d98d82ca1ab14a35be2ced486d2cf53e0bb721b47f3414665fd3c77bcdb8d0",
+    "completed": 0
+  },
+  {
+    "title": "Necronomico and the Cosmic Horror Show",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d29617c32cf8fff0c9b6ae303b399c4421abfeae4243337d52cf8ad4703da427.jpg",
+    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/d857803e3284a06a24bb2970d5fa058099f9af32a139f0669d8276881f496782",
     "completed": 0
   }
 ]
