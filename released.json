@@ -1,12 +1,5 @@
 [
   {
-    "title": "Theatre of Darkness: Yamishibai 15",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/0747b0b00db62de3d5a8de99d0317a82543fcc4c38f153cf50881da39eedfe0c.jpg",
-    "link": "https://animepahe.ru/play/6fd6c8a4-470a-57cb-9bac-5acc159bbdb9/2684679583ecd08e965f6ca2767ec8678b82c257e11e84119c9dcbed7bdb16d9",
-    "completed": 0
-  },
-  {
     "title": "Kaiju No. 8: Mission Recon",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/01d34691860b0ee2bbcf2ecf97e144fbd4a794bf6e5ee05f6628359590c871dd.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/7a80bf11d047b0757952f62551e1587caa3248049404cf17f2ff4b9b38260c29.jpg",
     "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/88d7035200fceffec8c18c978d084227ed08058272092e44ab0a9ab6a0235002",
+    "completed": 0
+  },
+  {
+    "title": "Rent-a-Girlfriend Season 4",
+    "episode": 39,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2d6828be7411997b3663cd82fbeb38acb261f0f348e343e230ff048a939f9936.jpg",
+    "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/76250920075c167b2a9cd2cc7cd9242d42067cce730aca595622126e8b904cae",
     "completed": 0
   }
 ]
