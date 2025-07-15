@@ -1,12 +1,5 @@
 [
   {
-    "title": "Hotel Inhumans",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b12e8d8f2d07a6c5d0b01fd31d64ceb616b53f568ea237a645e39f48df55d39d.jpg",
-    "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/ee0f09bbdec022875526d324e9a85dfc5dfbd5bd93b39a163f65704e028e3eea",
-    "completed": 0
-  },
-  {
     "title": "Theatre of Darkness: Yamishibai 15",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/0747b0b00db62de3d5a8de99d0317a82543fcc4c38f153cf50881da39eedfe0c.jpg",
@@ -67,6 +60,13 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/18cdf5e37d0cf9288c85a8a3c42842883b7129a27440d9be125a9f0ace656fb1.jpg",
     "link": "https://animepahe.ru/play/1abdeb23-fe28-dc61-7169-e3d5946718b0/c1debc220fdcbb8bc4f55fe38256e393a5e97b1f133e8aff75f43f11aa2d161b",
+    "completed": 0
+  },
+  {
+    "title": "Celestial Bonds",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7a80bf11d047b0757952f62551e1587caa3248049404cf17f2ff4b9b38260c29.jpg",
+    "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/88d7035200fceffec8c18c978d084227ed08058272092e44ab0a9ab6a0235002",
     "completed": 0
   }
 ]
