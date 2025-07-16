@@ -1,26 +1,5 @@
 [
   {
-    "title": "Necronomico and the Cosmic Horror Show",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d29617c32cf8fff0c9b6ae303b399c4421abfeae4243337d52cf8ad4703da427.jpg",
-    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/d857803e3284a06a24bb2970d5fa058099f9af32a139f0669d8276881f496782",
-    "completed": 0
-  },
-  {
-    "title": "Chuhai Lips",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ce017f6a126d015ac6bf74a97450163b25053903e90ecfe6a0709d9a94f6bc37.jpg",
-    "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/de565efec3680180ea3a3f510cf807b0eb60c50176a9f799b3c1adaede84d601",
-    "completed": 0
-  },
-  {
-    "title": "Mr. Osomatsu 4",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/eeb950fb54ab0bc0a93f161680be47c13850285b2ff342f95e921b57b265c0d6.jpg",
-    "link": "https://animepahe.ru/play/ad12e261-8b36-80af-842a-28d955a8dba1/1529aa60b64743adb32df26de4e0178717f19da8eeb23791a9ccfb696d224223",
-    "completed": 0
-  },
-  {
     "title": "Turkey! Time to Strike",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/fa6af80b4a8681179c5f17afc1624e3004f5c1b7c2f5cb4486283a807fa666c9.jpg",
@@ -67,6 +46,27 @@
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/bc847af377c5f5a7e60c635a5f7439038391366a4ec0ce0ab70984403022f0e9.jpg",
     "link": "https://animepahe.ru/play/39f74d0c-55ad-4c14-5af2-2821f91f6eb5/43cb5264eb8aeebecf66cf7a45efe6a1aabe5a42d2e00a647adce9383a284501",
+    "completed": 0
+  },
+  {
+    "title": "Hell Teacher: Jigoku Sensei Nube",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/93cf16c33dbf1f4108b7c3a4ecd90e2651777d7e449c8912e7e85065344c987c.jpg",
+    "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/ad9daf6dd98e8915aa86afb806afed01be470ea8d7c2c6930c60020997572f44",
+    "completed": 0
+  },
+  {
+    "title": "Dealing with Mikadono Sisters Is a Breeze",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e1f20c0d311dd624da8cbab64e0f8fe025c207b0f275a52a99c4aa039a6f6e19.jpg",
+    "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/e3e8506adee3eed7c09e396a5bc5e9663a93b1e51e79de1515da54c69330a82e",
+    "completed": 0
+  },
+  {
+    "title": "Onmyo Kaiten Re:Birth Verse",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/57547f53060cd10cacb1587777ae6ccf176fb2d04f9a46e2d7b68743e5cd0144.jpg",
+    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/b29297500e3b7a3d27abeab596fe2f8a744fbfab1de4aa6f0544a1c90599a853",
     "completed": 0
   }
 ]
