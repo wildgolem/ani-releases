@@ -1,19 +1,5 @@
 [
   {
-    "title": "A Couple of Cuckoos Season 2",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b24c884eef15922fb2ed5b6a1594ed17c9a39956f90c5bafe0eacafb5cf85134.jpg",
-    "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/46e80a82f4c12bf237915399a25fab7bee743e5f9b236b36d67644f53cdfe373",
-    "completed": 0
-  },
-  {
-    "title": "Detectives These Days Are Crazy!",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/fc108ae87aa431304a7cd62ee057cd70a6a74664645fc1c9167ea5475e3700be.jpg",
-    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/97d98d82ca1ab14a35be2ced486d2cf53e0bb721b47f3414665fd3c77bcdb8d0",
-    "completed": 0
-  },
-  {
     "title": "Necronomico and the Cosmic Horror Show",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/d29617c32cf8fff0c9b6ae303b399c4421abfeae4243337d52cf8ad4703da427.jpg",
@@ -67,6 +53,20 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/dab14efaf5a619b69c6e5b646e5c1b27a4a0298f2e59ab4a028042231e5432fb.jpg",
     "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/84031ed0a7627a43814e7327750e747090a76a143a1477d489183fea743acafc",
+    "completed": 0
+  },
+  {
+    "title": "New Panty & Stocking with Garterbelt",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ca931f3f5142574682f1763cd968bac1df086b79b1783ad5324c616df9283a03.jpg",
+    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/e6eabb6e8a33b61048513752694bb7240ebf62576e42f81da1199a8b001ce7a5",
+    "completed": 0
+  },
+  {
+    "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+    "episode": 14,
+    "image": "https://i.animepahe.ru/uploads/snapshots/bc847af377c5f5a7e60c635a5f7439038391366a4ec0ce0ab70984403022f0e9.jpg",
+    "link": "https://animepahe.ru/play/39f74d0c-55ad-4c14-5af2-2821f91f6eb5/43cb5264eb8aeebecf66cf7a45efe6a1aabe5a42d2e00a647adce9383a284501",
     "completed": 0
   }
 ]
