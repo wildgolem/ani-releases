@@ -1,12 +1,5 @@
 [
   {
-    "title": "Makina-san's a Love Bot?!",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7309a4beffb56fae888f79d08568884f8d1cb041b4a003b12e42a0167fc482be.jpg",
-    "link": "https://animepahe.ru/play/cbfc665c-fa2c-43b1-3827-84f9e7df10bd/336d3dfd074e6506eaec50e24de3a1a91f36ffe85e144d7756b03e2f16ce78d1",
-    "completed": 1
-  },
-  {
     "title": "Clevatess",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/1f89491f1e5911f116c155f24fdecc36848460334d31559ac9be348aabae5034.jpg",
@@ -67,6 +60,13 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/b3b7e1fae71ad900833427ec8c7ded7b448193a313995de8a5296d5ec020953c.jpg",
     "link": "https://animepahe.ru/play/f5135165-7630-6498-ccd8-93954cfef653/aee98cd88e309a54d9d68eb586b40dad5d00554d549ce0ff0abbeae6c5d6eafd",
+    "completed": 0
+  },
+  {
+    "title": "Bullet/Bullet",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5f00b01011cbf69555db3e059477665e2daadf157103a48eb25065992e780b36.jpg",
+    "link": "https://animepahe.ru/play/8c45b02f-fb4b-6628-08b0-52d649b75aa2/3acdbb4344a5c3e1501dbb3fb9e7de73f859cdb1dd4f4f218cee63fbd4fe45bf",
     "completed": 0
   }
 ]
