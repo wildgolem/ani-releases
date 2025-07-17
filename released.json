@@ -1,12 +1,5 @@
 [
   {
-    "title": "Hell Teacher: Jigoku Sensei Nube",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/93cf16c33dbf1f4108b7c3a4ecd90e2651777d7e449c8912e7e85065344c987c.jpg",
-    "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/ad9daf6dd98e8915aa86afb806afed01be470ea8d7c2c6930c60020997572f44",
-    "completed": 0
-  },
-  {
     "title": "Dealing with Mikadono Sisters Is a Breeze",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/e1f20c0d311dd624da8cbab64e0f8fe025c207b0f275a52a99c4aa039a6f6e19.jpg",
@@ -67,6 +60,13 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/aee48f488e6a3b3102b0b72fe3f0ff90b03f29e32ce7daaad3a68a36f5ef3d12.jpg",
     "link": "https://animepahe.ru/play/121849f4-890d-db95-3a0b-34e0e9a9360b/dbcd421538d55eefe63972f7049cf45e2c2b4ed25a6c4432d6a167e543b604b6",
+    "completed": 0
+  },
+  {
+    "title": "Kamitsubaki City Under Construction",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/700f6dd15111551c0ea6888ba4114c1d171b491f1a1b2f9ff23ef9f7f54866d9.jpg",
+    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/a8e59a32857ab6de219333d60c8f6aca66296016ca241f4189d9c18531058183",
     "completed": 0
   }
 ]
