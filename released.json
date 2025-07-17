@@ -1,12 +1,5 @@
 [
   {
-    "title": "New Panty & Stocking with Garterbelt",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3c6ee8093517f0903d3329646d5320d78fc51b8d57decaf549006389ef45dcf3.jpg",
-    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/e6eabb6e8a33b61048513752694bb7240ebf62576e42f81da1199a8b001ce7a5",
-    "completed": 0
-  },
-  {
     "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/bc847af377c5f5a7e60c635a5f7439038391366a4ec0ce0ab70984403022f0e9.jpg",
@@ -67,6 +60,13 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/df55e1c78b81efd2a23ba634a145b5ed253bea26d3599260998de7166728ac60.jpg",
     "link": "https://animepahe.ru/play/7a909eb7-14eb-9822-6bfe-ab9f1d9ab597/35ae0e06173dd3517b43c2bcda96b44f015e7981611fd850c74ce4ad24ade797",
+    "completed": 0
+  },
+  {
+    "title": "Dan Da Dan Season 2",
+    "episode": 15,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a5cba24378baf5c7fa1bb6cb804e278b1bb6f27ad3195dc35fedf4fcf253b9a6.jpg",
+    "link": "https://animepahe.ru/play/eb60c032-081f-2049-f869-babd395f242e/4ddf56977a41f3585618cf9d162f7e98b13b632f2e38771f308301b05cc1e5f2",
     "completed": 0
   }
 ]
