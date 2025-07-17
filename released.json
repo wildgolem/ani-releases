@@ -1,12 +1,5 @@
 [
   {
-    "title": "Clevatess",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1f89491f1e5911f116c155f24fdecc36848460334d31559ac9be348aabae5034.jpg",
-    "link": "https://animepahe.ru/play/79fe94dc-8a14-630c-2760-13ed564ef809/70fa2308dceac9955ce0eebf1f9ada1fda21d3f0e02347aa85c1cd83bf31eb29",
-    "completed": 0
-  },
-  {
     "title": "The Rising of the Shield Hero Season 4",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/fa1a078a559a3621f400a4d3cd7918a88733d255eda548492251f87e5eb27b2a.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/5f00b01011cbf69555db3e059477665e2daadf157103a48eb25065992e780b36.jpg",
     "link": "https://animepahe.ru/play/8c45b02f-fb4b-6628-08b0-52d649b75aa2/3acdbb4344a5c3e1501dbb3fb9e7de73f859cdb1dd4f4f218cee63fbd4fe45bf",
+    "completed": 0
+  },
+  {
+    "title": "Dr. Stone: Science Future Part 2",
+    "episode": 14,
+    "image": "https://i.animepahe.ru/uploads/snapshots/15f5fd09e9df8b6d0616f6b11a419ee1395cd4b019b8b0ace09235cbe9b506d7.jpg",
+    "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/427efc0368522625a93809cf5bcf53cea9b4a2585aa04d7d79c3b41822e7ee6f",
     "completed": 0
   }
 ]
