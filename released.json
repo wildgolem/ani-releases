@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kamitsubaki City Under Construction",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/700f6dd15111551c0ea6888ba4114c1d171b491f1a1b2f9ff23ef9f7f54866d9.jpg",
-    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/a8e59a32857ab6de219333d60c8f6aca66296016ca241f4189d9c18531058183",
-    "completed": 0
-  },
-  {
     "title": "The Water Magician",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/d54d040b17d097e9ec39e590d9f2a95cc0afe0e29377882dec60e425ede4af90.jpg",
@@ -67,6 +60,13 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/e9870697ed8736aebd24cbb757039a87fb8b16b014e628956b2be852d75e4a01.jpg",
     "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/fceee997427ff85db3c2c40c5c356afc2397f2a6484a5ae8ce5b822c985d5c5a",
+    "completed": 0
+  },
+  {
+    "title": "Betrothed to My Sister's Ex",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/41796af2cb98c27dfb3b127d12d5cd025275facf4a3cbf618aab7308f773b131.jpg",
+    "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/cdf68ccb9f4547ed908db0c49d802cdb1a48a30451dae497d5eae14edcf4e956",
     "completed": 0
   }
 ]
