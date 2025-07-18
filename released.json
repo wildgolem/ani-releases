@@ -1,19 +1,5 @@
 [
   {
-    "title": "Bullet/Bullet",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/5f00b01011cbf69555db3e059477665e2daadf157103a48eb25065992e780b36.jpg",
-    "link": "https://animepahe.ru/play/8c45b02f-fb4b-6628-08b0-52d649b75aa2/3acdbb4344a5c3e1501dbb3fb9e7de73f859cdb1dd4f4f218cee63fbd4fe45bf",
-    "completed": 0
-  },
-  {
-    "title": "Dr. Stone: Science Future Part 2",
-    "episode": 14,
-    "image": "https://i.animepahe.ru/uploads/snapshots/15f5fd09e9df8b6d0616f6b11a419ee1395cd4b019b8b0ace09235cbe9b506d7.jpg",
-    "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/427efc0368522625a93809cf5bcf53cea9b4a2585aa04d7d79c3b41822e7ee6f",
-    "completed": 0
-  },
-  {
     "title": "Me and the Alien MuMu",
     "episode": 15,
     "image": "https://i.animepahe.ru/uploads/snapshots/42053f4904a5a5c7c6e32d8734dd0e120c4b996d9d752cbcf88cbc90185719ab.jpg",
@@ -67,6 +53,20 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/9436158531aa5bb16bff5f77bb70b5feb93bf1c6b4a46abc2e8ce064a4f4c15d.jpg",
     "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/550a784c5ec8184c2ed66f001fd77dccae9c9d1cb5423b573a910649f0390610",
+    "completed": 0
+  },
+  {
+    "title": "Arknights: Rise from Ember",
+    "episode": 19,
+    "image": "https://i.animepahe.ru/uploads/snapshots/cdb99d4f41b9139d30d9664f17fbd284210a4271f88d1dee3717d114243998ea.jpg",
+    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/2ca568c70540f11b22bc6dc44be10f7967aaa4d9b40047ef090ea057356ccee9",
+    "completed": 0
+  },
+  {
+    "title": "Takopi's Original Sin",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b5c8d3fa3d4d86220e78444a804a159d88555dac4900f0bbb58e27f3283c82f6.jpg",
+    "link": "https://animepahe.ru/play/6d155661-e113-3afe-7fbe-40ee28a2ffeb/88f9ba2a7637286e107d199c6a56671c5b0ee9ed44d16fb4c1f9736069378d7b",
     "completed": 0
   }
 ]
