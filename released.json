@@ -1,12 +1,5 @@
 [
   {
-    "title": "New Saga",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b3b7e1fae71ad900833427ec8c7ded7b448193a313995de8a5296d5ec020953c.jpg",
-    "link": "https://animepahe.ru/play/f5135165-7630-6498-ccd8-93954cfef653/aee98cd88e309a54d9d68eb586b40dad5d00554d549ce0ff0abbeae6c5d6eafd",
-    "completed": 0
-  },
-  {
     "title": "Bullet/Bullet",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/5f00b01011cbf69555db3e059477665e2daadf157103a48eb25065992e780b36.jpg",
@@ -67,6 +60,13 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/59c8308c3d25ecc0fb77f981b334fd38bf0b02868909d0d1a94917ae15f3d322.jpg",
     "link": "https://animepahe.ru/play/fca3ff7b-02dd-b984-baa3-c4021c7f6629/c258d161a2e65bb106acec344c4ff5d261a9efc1f931d0c5df9d7ec70bf077f9",
+    "completed": 0
+  },
+  {
+    "title": "Celestial Bonds",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9436158531aa5bb16bff5f77bb70b5feb93bf1c6b4a46abc2e8ce064a4f4c15d.jpg",
+    "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/550a784c5ec8184c2ed66f001fd77dccae9c9d1cb5423b573a910649f0390610",
     "completed": 0
   }
 ]
