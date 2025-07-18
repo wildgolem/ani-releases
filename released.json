@@ -1,12 +1,5 @@
 [
   {
-    "title": "Me and the Alien MuMu",
-    "episode": 15,
-    "image": "https://i.animepahe.ru/uploads/snapshots/42053f4904a5a5c7c6e32d8734dd0e120c4b996d9d752cbcf88cbc90185719ab.jpg",
-    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/e04b6ed0b6814f9b77b88244bf795330e6e410f9f892602a9a5873d1384ec9a3",
-    "completed": 0
-  },
-  {
     "title": "Welcome to the Outcast's Restaurant!",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/df55e1c78b81efd2a23ba634a145b5ed253bea26d3599260998de7166728ac60.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/b5c8d3fa3d4d86220e78444a804a159d88555dac4900f0bbb58e27f3283c82f6.jpg",
     "link": "https://animepahe.ru/play/6d155661-e113-3afe-7fbe-40ee28a2ffeb/88f9ba2a7637286e107d199c6a56671c5b0ee9ed44d16fb4c1f9736069378d7b",
+    "completed": 0
+  },
+  {
+    "title": "Tougen Anki",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9e83f87104edf451b747dfa8cb26f6341720113c520c66853c6d90bdc2eef676.jpg",
+    "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/b37f09b327a1855c28e783f25cf51d8ad09e3f524d0111794a854b31f41004d6",
     "completed": 0
   }
 ]
