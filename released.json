@@ -1,12 +1,5 @@
 [
   {
-    "title": "Takopi's Original Sin",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b5c8d3fa3d4d86220e78444a804a159d88555dac4900f0bbb58e27f3283c82f6.jpg",
-    "link": "https://animepahe.ru/play/6d155661-e113-3afe-7fbe-40ee28a2ffeb/88f9ba2a7637286e107d199c6a56671c5b0ee9ed44d16fb4c1f9736069378d7b",
-    "completed": 0
-  },
-  {
     "title": "Tougen Anki",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/9e83f87104edf451b747dfa8cb26f6341720113c520c66853c6d90bdc2eef676.jpg",
@@ -67,6 +60,13 @@
     "episode": 15,
     "image": "https://i.animepahe.ru/uploads/snapshots/73808deb0eefb2053df49d84bd14250b619f3b74d1134085ec0d2812612af323.jpg",
     "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/af5eeaf4b06683221e0af29edc5aad5cd06b99e2543723cc9fb80e8c154c77ef",
+    "completed": 0
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "episode": 103,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8625aa4bc4afae3b84f8afabb35505fde292d99adcfd4155559880a5a2f314d9.jpg",
+    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/7d16b0fb01981f24cc53c9986b387b7e9699508bcfca0dfaaa94db0345416457",
     "completed": 0
   }
 ]
