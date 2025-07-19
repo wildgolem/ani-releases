@@ -1,12 +1,5 @@
 [
   {
-    "title": "Call of the Night Season 2",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d7e737cefb973d34b66c8cecf65163956c3b56966388e82b18ed3f314c54995f.jpg",
-    "link": "https://animepahe.ru/play/bd82c9e0-73b3-0d9e-8078-a8e01cddaa78/7ded97410ae29d28e9fcd94d24353d3c5a52ecdc1beaf00b05d029dcf42f72b5",
-    "completed": 0
-  },
-  {
     "title": "Watari-kun's ****** Is about to Collapse",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/928522dadb743d511a62c95f7e4fc1bde556571f6b9add68f43422eb921c4531.jpg",
@@ -67,6 +60,13 @@
     "episode": 15,
     "image": "https://i.animepahe.ru/uploads/snapshots/612b8983ccbf66ae61501e408b306196c2419774dfcec9472fe9eca016d17865.jpg",
     "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/1af4beb651a8385141279cd893d8d8092b0ab6306d214f5b49b422737b5a4671",
+    "completed": 0
+  },
+  {
+    "title": "Meitantei Conan",
+    "episode": 1168,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b1a6443d4d60239c626198c843ca25e1b009292d8b154c6aced33978ac5ebbbd.jpg",
+    "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/b0a6bcf93bfa1f4c9e97b34347ff40885f11b8ed6b95df87add76c728cf80cbb",
     "completed": 0
   }
 ]
