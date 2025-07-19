@@ -1,19 +1,5 @@
 [
   {
-    "title": "Celestial Bonds",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/9436158531aa5bb16bff5f77bb70b5feb93bf1c6b4a46abc2e8ce064a4f4c15d.jpg",
-    "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/550a784c5ec8184c2ed66f001fd77dccae9c9d1cb5423b573a910649f0390610",
-    "completed": 0
-  },
-  {
-    "title": "Arknights: Rise from Ember",
-    "episode": 19,
-    "image": "https://i.animepahe.ru/uploads/snapshots/cdb99d4f41b9139d30d9664f17fbd284210a4271f88d1dee3717d114243998ea.jpg",
-    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/2ca568c70540f11b22bc6dc44be10f7967aaa4d9b40047ef090ea057356ccee9",
-    "completed": 0
-  },
-  {
     "title": "Takopi's Original Sin",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/b5c8d3fa3d4d86220e78444a804a159d88555dac4900f0bbb58e27f3283c82f6.jpg",
@@ -67,6 +53,20 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/bbcfcb5dbd5271a666d726d6aac9c9ac0832f4b8aa523e23594282381722c463.jpg",
     "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/37ee57797410e9fda98412fc4f5cf54f004e41a3b79a87fe7476ea9a53bc81ae",
+    "completed": 0
+  },
+  {
+    "title": "Lord of Mysteries",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e58b760fcfe858d755c8bb345f830d1bebe0c9e1aa49742037a0182214282486.jpg",
+    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/899704676fe9b3d86a5eb5b99f200503e5ff806bcab7cc72593085c54e8584cb",
+    "completed": 0
+  },
+  {
+    "title": "Himitsu no AiPri: Ring-hen",
+    "episode": 15,
+    "image": "https://i.animepahe.ru/uploads/snapshots/73808deb0eefb2053df49d84bd14250b619f3b74d1134085ec0d2812612af323.jpg",
+    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/af5eeaf4b06683221e0af29edc5aad5cd06b99e2543723cc9fb80e8c154c77ef",
     "completed": 0
   }
 ]
