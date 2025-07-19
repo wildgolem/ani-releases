@@ -1,12 +1,5 @@
 [
   {
-    "title": "Watari-kun's ****** Is about to Collapse",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/928522dadb743d511a62c95f7e4fc1bde556571f6b9add68f43422eb921c4531.jpg",
-    "link": "https://animepahe.ru/play/3d39e1b4-3351-c2c3-1c50-8308b0f96a5e/08a13335e74f5e13fd1fb128f8885bde31e3559992340228ee773d5d2317c844",
-    "completed": 0
-  },
-  {
     "title": "Secrets of the Silent Witch",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/e9870697ed8736aebd24cbb757039a87fb8b16b014e628956b2be852d75e4a01.jpg",
@@ -67,6 +60,13 @@
     "episode": 1168,
     "image": "https://i.animepahe.ru/uploads/snapshots/b1a6443d4d60239c626198c843ca25e1b009292d8b154c6aced33978ac5ebbbd.jpg",
     "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/b0a6bcf93bfa1f4c9e97b34347ff40885f11b8ed6b95df87add76c728cf80cbb",
+    "completed": 0
+  },
+  {
+    "title": "Anne Shirley",
+    "episode": 16,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e52551ee92893a421f340d59842cc26ce15966dd069d53ff64d3038a11fd9949.jpg",
+    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/fd93bde505458c3b115ca2f4518af8453d6b9b7c156e9e693959611e85ae0211",
     "completed": 0
   }
 ]
