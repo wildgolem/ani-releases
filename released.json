@@ -1,19 +1,5 @@
 [
   {
-    "title": "Nukitashi the Animation",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/bbcfcb5dbd5271a666d726d6aac9c9ac0832f4b8aa523e23594282381722c463.jpg",
-    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/37ee57797410e9fda98412fc4f5cf54f004e41a3b79a87fe7476ea9a53bc81ae",
-    "completed": 0
-  },
-  {
-    "title": "Lord of Mysteries",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e58b760fcfe858d755c8bb345f830d1bebe0c9e1aa49742037a0182214282486.jpg",
-    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/899704676fe9b3d86a5eb5b99f200503e5ff806bcab7cc72593085c54e8584cb",
-    "completed": 0
-  },
-  {
     "title": "Himitsu no AiPri: Ring-hen",
     "episode": 15,
     "image": "https://i.animepahe.ru/uploads/snapshots/73808deb0eefb2053df49d84bd14250b619f3b74d1134085ec0d2812612af323.jpg",
@@ -67,6 +53,20 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/149c90edcab8845dd4757709a5c7022fb2167ea7aece155dbe0f4cc64727b93b.jpg",
     "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/cce1e63f5fdf4de519c12981d774ce10bc2f6c04f79a20bddc65148fe57a7f5e",
+    "completed": 0
+  },
+  {
+    "title": "Scooped Up by an S-Ranked Adventurer",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5ad85eefc68408c8f89954358596fc83d2f273971d6a3da60d0dc988c5144dba.jpg",
+    "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/6cc541b0e932b834798d645cd94dad1ff7aee564359e6ea5caf75485da60c965",
+    "completed": 0
+  },
+  {
+    "title": "Bad Girl",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/6a53043de517da107aa6fffc4238cb95b99e73cd0e65ffe04b993666e89fc797.jpg",
+    "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/4ba553db54aed560b40a614a763e9c03ca02e7abc20c89c5844c7335024f4dd6",
     "completed": 0
   }
 ]
