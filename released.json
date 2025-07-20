@@ -1,12 +1,5 @@
 [
   {
-    "title": "To Be Hero X",
-    "episode": 16,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a3c8a696d19289cd47bd06dce6d42c162edb9200965c940587683e8681397126.jpg",
-    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/8199ab14530fc0496c655a1e967ccbeb04c254a28ea65344a402392c52a1a5ab",
-    "completed": 0
-  },
-  {
     "title": "You and Idol Precure♪",
     "episode": 24,
     "image": "https://i.animepahe.ru/uploads/snapshots/0aab7b8b06cc498b10cabeff1dde9df1b0aa2b8c1a4f38c07258d71b18c5d98e.jpg",
@@ -67,6 +60,13 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/7739e8fda3ffc0e46f918a8a4bd0df9494be262a0699279e271c7664d991d28b.jpg",
     "link": "https://animepahe.ru/play/6e43baaf-9b64-9ef9-bad2-bfcc3be87071/e2cdfa88213a9f8cd6dcf77aeeaf98035b416e2c437d949e903051c7a97ffaf4",
+    "completed": 0
+  },
+  {
+    "title": "Cultural Exchange With a Game Centre Girl",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ba59aafc2006d008282dfc2cca55d6edf327861540ac652ed8f51ac51b9d22d6.jpg",
+    "link": "https://animepahe.ru/play/bccca268-6edd-0369-ae31-cd145e76238d/a0a6504308c9b273ebca288ad42b97ca45ce464119f362bb94567d83e10f5c37",
     "completed": 0
   }
 ]
