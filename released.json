@@ -1,19 +1,5 @@
 [
   {
-    "title": "You and Idol Precure♪",
-    "episode": 24,
-    "image": "https://i.animepahe.ru/uploads/snapshots/0aab7b8b06cc498b10cabeff1dde9df1b0aa2b8c1a4f38c07258d71b18c5d98e.jpg",
-    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/bdcd425a3d108b02edd3c51d75ec7988f5115a2ba0bfceb1f05ac9231a118090",
-    "completed": 0
-  },
-  {
-    "title": "The Fragrant Flower Blooms with Dignity",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/64537fafc6f26b4aa90f99cc42e4dd1fbe032b3836c80579ba176f5f998d13d6.jpg",
-    "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/d1ee152f89e7cacfdd715aa50e90db51a3b7c837373029897f02b195c481b6d8",
-    "completed": 0
-  },
-  {
     "title": "Witch Watch",
     "episode": 16,
     "image": "https://i.animepahe.ru/uploads/snapshots/dfdc7aa337268e91148cf839a20d11c36d39175267bca1275586d1e55af279d0.jpg",
@@ -67,6 +53,20 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/ba59aafc2006d008282dfc2cca55d6edf327861540ac652ed8f51ac51b9d22d6.jpg",
     "link": "https://animepahe.ru/play/bccca268-6edd-0369-ae31-cd145e76238d/a0a6504308c9b273ebca288ad42b97ca45ce464119f362bb94567d83e10f5c37",
+    "completed": 0
+  },
+  {
+    "title": "Uglymug, Epicfighter",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e81f1b36b8b5be804abb5915f89adc452a2019a01b497d405efbb696c4530295.jpg",
+    "link": "https://animepahe.ru/play/e41f275d-54ee-a56d-9f5f-7b34bd31edfb/2c7eff8371697d84e527dda381fd13603c2cbc56ecb1f1e5c25cea17b186b6dc",
+    "completed": 0
+  },
+  {
+    "title": "City The Animation",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ad663d902ca2529b62a496c9a3dd3d4bada6c18eb760d37b54850e67a5a52ecb.jpg",
+    "link": "https://animepahe.ru/play/d957867d-d470-7ce7-72fc-4c23095fafc1/52002f0a98030f5f6a12b5d278212e4a296a777fe4b29d045b673d61da0bda21",
     "completed": 0
   }
 ]
