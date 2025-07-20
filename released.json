@@ -1,12 +1,5 @@
 [
   {
-    "title": "Witch Watch",
-    "episode": 16,
-    "image": "https://i.animepahe.ru/uploads/snapshots/dfdc7aa337268e91148cf839a20d11c36d39175267bca1275586d1e55af279d0.jpg",
-    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/9fa6663631b7faf6855db1f22b63f7f3942bb16f63a970bc3e5fda4982aa0af7",
-    "completed": 0
-  },
-  {
     "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
     "episode": 15,
     "image": "https://i.animepahe.ru/uploads/snapshots/6720a1cb990df89e34e98d24260150641720522ac86bd8c7f277e442a940bec7.jpg",
@@ -67,6 +60,13 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/ad663d902ca2529b62a496c9a3dd3d4bada6c18eb760d37b54850e67a5a52ecb.jpg",
     "link": "https://animepahe.ru/play/d957867d-d470-7ce7-72fc-4c23095fafc1/52002f0a98030f5f6a12b5d278212e4a296a777fe4b29d045b673d61da0bda21",
+    "completed": 0
+  },
+  {
+    "title": "Hotel Inhumans",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3ff6f3793b73b84f03849292e7542746b6abdd8370ffefb4b16abd495d93829d.jpg",
+    "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/e8180d432d239cee5880b5df6256ea5fdf6ce43917fe77126fc9be77c93f9f1e",
     "completed": 0
   }
 ]
