@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Summer Hikaru Died",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b8c7f654f6795f6d64bde4d9d2e72370137e2d8775a2f70b4d260ee2ea74d77e.jpg",
-    "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/6ae74dc59896cf30cb07fa3fd834dbcb9250da08a4b567d627759f35dbb8ca54",
-    "completed": 0
-  },
-  {
     "title": "With You and the Rain",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/29b73cebba903da7cc5d8832be9004069f1523f912f302b223f853fe335fce3c.jpg",
@@ -67,6 +60,13 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/b0751d54671ad139491d824a602092fac4fe20173f6d2659acb320d3b883f72e.jpg",
     "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/55554890d08572e4090b250f15a7d7f797ac149daf861ed25ae4516a4eb8af2e",
+    "completed": 0
+  },
+  {
+    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/6bdbf3c2f812f82c49b17dbec95ae47be3370ca3e782fffdcd1aa95d027b702c.jpg",
+    "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/74efeca1fdd2a6b68ffbbcb820a6d71e91f8538cf68407fd27fd1eb41408b0de",
     "completed": 0
   }
 ]
