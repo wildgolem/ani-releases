@@ -1,12 +1,5 @@
 [
   {
-    "title": "Rascal Does Not Dream of Santa Claus",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/dff2c4fc95b39356ef86c8b946512c20a7e80bbad6c6a6790c0633cb955775f0.jpg",
-    "link": "https://animepahe.ru/play/025b8411-f3ff-809b-4bf9-751552950caa/6937591f0fd2afa2f75c2aa71cc4dfaae5f41b646b861b814890cd649cfcc4da",
-    "completed": 0
-  },
-  {
     "title": "Pyramid Game",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/b709ce673b9d9adc066664ab5573d4c87ab6bb30091c405f70b8802e95bdba9a.jpg",
@@ -67,6 +60,13 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/64537fafc6f26b4aa90f99cc42e4dd1fbe032b3836c80579ba176f5f998d13d6.jpg",
     "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/d1ee152f89e7cacfdd715aa50e90db51a3b7c837373029897f02b195c481b6d8",
+    "completed": 0
+  },
+  {
+    "title": "Witch Watch",
+    "episode": 16,
+    "image": "https://i.animepahe.ru/uploads/snapshots/dfdc7aa337268e91148cf839a20d11c36d39175267bca1275586d1e55af279d0.jpg",
+    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/9fa6663631b7faf6855db1f22b63f7f3942bb16f63a970bc3e5fda4982aa0af7",
     "completed": 0
   }
 ]
