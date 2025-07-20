@@ -1,26 +1,5 @@
 [
   {
-    "title": "Scooped Up by an S-Ranked Adventurer",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/5ad85eefc68408c8f89954358596fc83d2f273971d6a3da60d0dc988c5144dba.jpg",
-    "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/6cc541b0e932b834798d645cd94dad1ff7aee564359e6ea5caf75485da60c965",
-    "completed": 0
-  },
-  {
-    "title": "Bad Girl",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/6a53043de517da107aa6fffc4238cb95b99e73cd0e65ffe04b993666e89fc797.jpg",
-    "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/4ba553db54aed560b40a614a763e9c03ca02e7abc20c89c5844c7335024f4dd6",
-    "completed": 0
-  },
-  {
-    "title": "Harmony of Mille-Feuille",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/90095e8d789b1ca7341aec14a293c3ec237119f01254c13bdf0d2cb19ae6593d.jpg",
-    "link": "https://animepahe.ru/play/40b8e827-748b-b262-94b2-b72ad4bde65a/f5fe5558ade538c5b0a9eea7d17eb3db637267880de3e29994380744977912bf",
-    "completed": 0
-  },
-  {
     "title": "Rascal Does Not Dream of Santa Claus",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/dff2c4fc95b39356ef86c8b946512c20a7e80bbad6c6a6790c0633cb955775f0.jpg",
@@ -67,6 +46,27 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/29b73cebba903da7cc5d8832be9004069f1523f912f302b223f853fe335fce3c.jpg",
     "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/db51f32a2df8d5392907525de212b93c922aa1b19747512d4bd2c4dbe4edc9e8",
+    "completed": 0
+  },
+  {
+    "title": "To Be Hero X",
+    "episode": 16,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a3c8a696d19289cd47bd06dce6d42c162edb9200965c940587683e8681397126.jpg",
+    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/8199ab14530fc0496c655a1e967ccbeb04c254a28ea65344a402392c52a1a5ab",
+    "completed": 0
+  },
+  {
+    "title": "You and Idol Precure♪",
+    "episode": 24,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0aab7b8b06cc498b10cabeff1dde9df1b0aa2b8c1a4f38c07258d71b18c5d98e.jpg",
+    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/bdcd425a3d108b02edd3c51d75ec7988f5115a2ba0bfceb1f05ac9231a118090",
+    "completed": 0
+  },
+  {
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/64537fafc6f26b4aa90f99cc42e4dd1fbe032b3836c80579ba176f5f998d13d6.jpg",
+    "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/d1ee152f89e7cacfdd715aa50e90db51a3b7c837373029897f02b195c481b6d8",
     "completed": 0
   }
 ]
