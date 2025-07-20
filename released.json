@@ -1,12 +1,5 @@
 [
   {
-    "title": "Pyramid Game",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b709ce673b9d9adc066664ab5573d4c87ab6bb30091c405f70b8802e95bdba9a.jpg",
-    "link": "https://animepahe.ru/play/04202b71-2660-b9ee-b54f-b1ca5094f421/044aec773299403f8e251b97ce9d2ab6d35b80baa1ecb478ec9d525dda730571",
-    "completed": 0
-  },
-  {
     "title": "9: Ruler's Crown",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/932b4c77e170f0225a5ccc23b3ea7311eb5f754d262bdcd463a8ad59db26af84.jpg",
@@ -67,6 +60,13 @@
     "episode": 16,
     "image": "https://i.animepahe.ru/uploads/snapshots/dfdc7aa337268e91148cf839a20d11c36d39175267bca1275586d1e55af279d0.jpg",
     "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/9fa6663631b7faf6855db1f22b63f7f3942bb16f63a970bc3e5fda4982aa0af7",
+    "completed": 0
+  },
+  {
+    "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
+    "episode": 15,
+    "image": "https://i.animepahe.ru/uploads/snapshots/6720a1cb990df89e34e98d24260150641720522ac86bd8c7f277e442a940bec7.jpg",
+    "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/5e3e63ac6d2068d4a0b754b8d7ec73f354502810279e106709eb99a0892a22d7",
     "completed": 0
   }
 ]
