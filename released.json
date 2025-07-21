@@ -1,19 +1,5 @@
 [
   {
-    "title": "Dekin no Mogura: The Earthbound Mole",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/02977e6f0ddad47793844ed7302d467eb4a257bca9b8608ed88f9c010d8c3f54.jpg",
-    "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/c99305bff8e825804c690f5b8be6684dae24e953befaff26b2b9028f45687421",
-    "completed": 0
-  },
-  {
-    "title": "Ruri Rocks",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b0751d54671ad139491d824a602092fac4fe20173f6d2659acb320d3b883f72e.jpg",
-    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/55554890d08572e4090b250f15a7d7f797ac149daf861ed25ae4516a4eb8af2e",
-    "completed": 0
-  },
-  {
     "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/6bdbf3c2f812f82c49b17dbec95ae47be3370ca3e782fffdcd1aa95d027b702c.jpg",
@@ -67,6 +53,20 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/91abda6f11a223d574a63c469674e1342154699bacda601efa75574bdbc8d54e.jpg",
     "link": "https://animepahe.ru/play/fb8c4048-fdb7-0d73-c932-d3e7ecad16a4/eb8a23ebcab9cbc259197540fc1c96c891571ce4abd49c178da33bd2bae3984a",
+    "completed": 0
+  },
+  {
+    "title": "Summer Pockets",
+    "episode": 16,
+    "image": "https://i.animepahe.ru/uploads/snapshots/927ca3f10b0c1e65d491115585f3211d8960da7ceb2db62481c929010ed353b9.jpg",
+    "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/bbc7162c423b115f60ca41c4291419db93c2d3d404e43b9d0e003c0c28a8d735",
+    "completed": 0
+  },
+  {
+    "title": "Sword of the Demon Hunter: Kijin Gentosho",
+    "episode": 15,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3aaf7a7de69b327fb7e4aa28b7ce62d7153b2a13c7a0b820bd3afcb8bc0d022c.jpg",
+    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/a6f6bbc0f5e976eddf74796d40246b1d94ae72fc6650372f0bc188f19470693f",
     "completed": 0
   }
 ]
