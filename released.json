@@ -1,12 +1,5 @@
 [
   {
-    "title": "Puniru is a Kawaii Slime Season 2",
-    "episode": 15,
-    "image": "https://i.animepahe.ru/uploads/snapshots/dad2dff2679fd8ace595484ba2727795700e70a74894c80790701f16232ab635.jpg",
-    "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/02d8f3cdc558ff1b0bfb55e096ed6d0880b937fa1e3289161196a60abfc94306",
-    "completed": 0
-  },
-  {
     "title": "Dekin no Mogura: The Earthbound Mole",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/02977e6f0ddad47793844ed7302d467eb4a257bca9b8608ed88f9c010d8c3f54.jpg",
@@ -67,6 +60,13 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/1b6242b423699831fa6a5a86d62754fb43b522d31abc0982fceb5d1cb253b100.jpg",
     "link": "https://animepahe.ru/play/6fd6c8a4-470a-57cb-9bac-5acc159bbdb9/1a62a5ca9d9674bb649b470b7fc02dba9ed802b0340902d456b6de840a3058a3",
+    "completed": 0
+  },
+  {
+    "title": "See You Tomorrow at the Food Court",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/91abda6f11a223d574a63c469674e1342154699bacda601efa75574bdbc8d54e.jpg",
+    "link": "https://animepahe.ru/play/fb8c4048-fdb7-0d73-c932-d3e7ecad16a4/eb8a23ebcab9cbc259197540fc1c96c891571ce4abd49c178da33bd2bae3984a",
     "completed": 0
   }
 ]
