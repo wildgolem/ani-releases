@@ -1,12 +1,5 @@
 [
   {
-    "title": "Uglymug, Epicfighter",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e81f1b36b8b5be804abb5915f89adc452a2019a01b497d405efbb696c4530295.jpg",
-    "link": "https://animepahe.ru/play/e41f275d-54ee-a56d-9f5f-7b34bd31edfb/2c7eff8371697d84e527dda381fd13603c2cbc56ecb1f1e5c25cea17b186b6dc",
-    "completed": 0
-  },
-  {
     "title": "City The Animation",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/ad663d902ca2529b62a496c9a3dd3d4bada6c18eb760d37b54850e67a5a52ecb.jpg",
@@ -67,6 +60,13 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/59d17ecb385156c278566416f12f2c47caaaeb3c2b3a17deed40a3334e7daf83.jpg",
     "link": "https://animepahe.ru/play/1abdeb23-fe28-dc61-7169-e3d5946718b0/5b26f1f47e5920db8de321d684284799ddeb405161794e95589d0d06b8844b05",
+    "completed": 0
+  },
+  {
+    "title": "Rent-a-Girlfriend Season 4",
+    "episode": 40,
+    "image": "https://i.animepahe.ru/uploads/snapshots/802d43c45dd05a865ff85e654661e0909d9c3f1de1b3e603b7ca978ffdc79e47.jpg",
+    "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/02ab81e1097a73d71e6c4b241c1386716c0e329c343d3b01be1f685f67a4749d",
     "completed": 0
   }
 ]
