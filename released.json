@@ -1,12 +1,5 @@
 [
   {
-    "title": "Sword of the Demon Hunter: Kijin Gentosho",
-    "episode": 15,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3aaf7a7de69b327fb7e4aa28b7ce62d7153b2a13c7a0b820bd3afcb8bc0d022c.jpg",
-    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/a6f6bbc0f5e976eddf74796d40246b1d94ae72fc6650372f0bc188f19470693f",
-    "completed": 0
-  },
-  {
     "title": "Sakamoto Days Part 2",
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/c6a1eb12076c8547e87a77002b68b7d50bed8b5a163b53befabe7f0b72168fd1.jpg",
@@ -67,6 +60,13 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/b8a142fc5de5faad7412a7c25e9b2a0eba2d5a49c5433179277e8ebca43aab3d.jpg",
     "link": "https://animepahe.ru/play/ad12e261-8b36-80af-842a-28d955a8dba1/4b8499a51e8679dd6bb407f6e2f9f4d58f1179dbe9b4c18aea6dbe10abc4c556",
+    "completed": 0
+  },
+  {
+    "title": "Turkey! Time to Strike",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/126f2524b16d774bca590fbd343fee160dfaa5cef139114dcccce9ff822049cf.jpg",
+    "link": "https://animepahe.ru/play/25d65413-3d15-a068-14bf-de80387ff396/f92ae3471a34c41f9558a527e069eb045522b36d227cd6b8680d59c0e74628dd",
     "completed": 0
   }
 ]
