@@ -1,12 +1,5 @@
 [
   {
-    "title": "Summer Pockets",
-    "episode": 16,
-    "image": "https://i.animepahe.ru/uploads/snapshots/927ca3f10b0c1e65d491115585f3211d8960da7ceb2db62481c929010ed353b9.jpg",
-    "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/bbc7162c423b115f60ca41c4291419db93c2d3d404e43b9d0e003c0c28a8d735",
-    "completed": 0
-  },
-  {
     "title": "Sword of the Demon Hunter: Kijin Gentosho",
     "episode": 15,
     "image": "https://i.animepahe.ru/uploads/snapshots/3aaf7a7de69b327fb7e4aa28b7ce62d7153b2a13c7a0b820bd3afcb8bc0d022c.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/9c3a9caebec6b1d5adeab3ebc7973398b7b48f8cfaeaef98a20575ee02677f9e.jpg",
     "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/78fd614fa1b92c09361607ac35df7502de4009b1c673003756cee8cac18f351f",
+    "completed": 0
+  },
+  {
+    "title": "Mr. Osomatsu 4th Season",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b8a142fc5de5faad7412a7c25e9b2a0eba2d5a49c5433179277e8ebca43aab3d.jpg",
+    "link": "https://animepahe.ru/play/ad12e261-8b36-80af-842a-28d955a8dba1/4b8499a51e8679dd6bb407f6e2f9f4d58f1179dbe9b4c18aea6dbe10abc4c556",
     "completed": 0
   }
 ]
