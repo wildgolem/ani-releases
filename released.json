@@ -1,19 +1,5 @@
 [
   {
-    "title": "A Couple of Cuckoos Season 2",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/011ec0ed7cefea7ae016112f16bb4e7c3bda09dd50313bb5766319fede46a3e9.jpg",
-    "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/bc6b251244a1835ef674a28504bb30e71993958000db11bd8c55a631d6feaf30",
-    "completed": 0
-  },
-  {
-    "title": "Detectives These Days Are Crazy!",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/bc1ea17904eac7d2b29515b3363306d22042d46b1477ba929acd8c0ed80095c3.jpg",
-    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/d669292b38c53ef8bd5b59332954b3571133c8eca53110fc68d5fb6275b8847d",
-    "completed": 0
-  },
-  {
     "title": "Necronomico and the Cosmic Horror Show",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/d9a87746a4316b1800f77b6fa8ddcc2da6da7517a73cab463868244d975b640a.jpg",
@@ -67,6 +53,20 @@
     "episode": 15,
     "image": "https://i.animepahe.ru/uploads/snapshots/bcee9df9ffd73568ae891365868b9bf090bbead5ab03fd4eeaab499dcdd87375.jpg",
     "link": "https://animepahe.ru/play/39f74d0c-55ad-4c14-5af2-2821f91f6eb5/968b9960356e1e7c4e9ea339511c2270cafca810508c1172834ccaa14ce24c0f",
+    "completed": 0
+  },
+  {
+    "title": "Dealing with Mikadono Sisters Is a Breeze",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c7f378b389c6d0c6b6d82331ae49159991312fe6d58e0b941233b37c889f7b50.jpg",
+    "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/9a6d9eaa7f0ce4c5a774749b68556e582be479040f5347674fffc09ed844cecd",
+    "completed": 0
+  },
+  {
+    "title": "Onmyo Kaiten Re:Birth Verse",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/44901572e9f3b80a05a41fe955bd3401334418defab7a901dcf126b3164d7546.jpg",
+    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/7d4990026a0ecdaa2dd11f1f82972ed4372a3ba3fb3a4305be0c78cf57adfb20",
     "completed": 0
   }
 ]
