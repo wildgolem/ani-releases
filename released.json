@@ -1,12 +1,5 @@
 [
   {
-    "title": "Rent-a-Girlfriend Season 4",
-    "episode": 40,
-    "image": "https://i.animepahe.ru/uploads/snapshots/802d43c45dd05a865ff85e654661e0909d9c3f1de1b3e603b7ca978ffdc79e47.jpg",
-    "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/02ab81e1097a73d71e6c4b241c1386716c0e329c343d3b01be1f685f67a4749d",
-    "completed": 0
-  },
-  {
     "title": "A Couple of Cuckoos Season 2",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/011ec0ed7cefea7ae016112f16bb4e7c3bda09dd50313bb5766319fede46a3e9.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/31b6440097e2b403879c5a1a26c16832aa37ce3ecfb7511aae0955495108c2b9.jpg",
     "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/44054397ec6e6323830df1abe0472e124e7c69bf5a678f64bceed84f120bff9d",
+    "completed": 0
+  },
+  {
+    "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+    "episode": 15,
+    "image": "https://i.animepahe.ru/uploads/snapshots/bcee9df9ffd73568ae891365868b9bf090bbead5ab03fd4eeaab499dcdd87375.jpg",
+    "link": "https://animepahe.ru/play/39f74d0c-55ad-4c14-5af2-2821f91f6eb5/968b9960356e1e7c4e9ea339511c2270cafca810508c1172834ccaa14ce24c0f",
     "completed": 0
   }
 ]
