@@ -1,12 +1,5 @@
 [
   {
-    "title": "Turkey! Time to Strike",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/126f2524b16d774bca590fbd343fee160dfaa5cef139114dcccce9ff822049cf.jpg",
-    "link": "https://animepahe.ru/play/25d65413-3d15-a068-14bf-de80387ff396/f92ae3471a34c41f9558a527e069eb045522b36d227cd6b8680d59c0e74628dd",
-    "completed": 0
-  },
-  {
     "title": "Clevatess",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/97e0198ecada9948d2ddc0acd0240cd7277fa623f60269341f4f81a38da3e300.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/f6212e7b8c277dbac029493407ebc256dfe4e381b8cde7f018c5abf30c101534.jpg",
     "link": "https://animepahe.ru/play/4c1087fc-9f3d-318c-10b7-b2c1aeed41f0/cfd2701c34d9eb85051f1e86e18561b8eab67d5bfd8423135f8da6db000b9c20",
+    "completed": 0
+  },
+  {
+    "title": "Dr. Stone: Science Future Part 2",
+    "episode": 15,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e44ddf55f003d3d7e4cb7b3f836961c18720e5aa32a5221fb959ecf2e64834ba.jpg",
+    "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/d1e91ae81df771dc186cf85bd905bbb2c6d1bb5df9985c035dfedaf2cf6c936d",
     "completed": 0
   }
 ]
