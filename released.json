@@ -1,12 +1,5 @@
 [
   {
-    "title": "Let's Go Karaoke!",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f6212e7b8c277dbac029493407ebc256dfe4e381b8cde7f018c5abf30c101534.jpg",
-    "link": "https://animepahe.ru/play/4c1087fc-9f3d-318c-10b7-b2c1aeed41f0/cfd2701c34d9eb85051f1e86e18561b8eab67d5bfd8423135f8da6db000b9c20",
-    "completed": 0
-  },
-  {
     "title": "Dr. Stone: Science Future Part 2",
     "episode": 15,
     "image": "https://i.animepahe.ru/uploads/snapshots/e44ddf55f003d3d7e4cb7b3f836961c18720e5aa32a5221fb959ecf2e64834ba.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/f8671df821d1ac7500f8e6fc0650e184512dac536d4433186b44d3fa91b0a57a.jpg",
     "link": "https://animepahe.ru/play/fca3ff7b-02dd-b984-baa3-c4021c7f6629/12b0b6a16fd5f787497cb41f9501233689c28a1d9a8e2e528b87ca9bc87d426e",
+    "completed": 0
+  },
+  {
+    "title": "Celestial Bonds",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3d3788a682cd6dce76183708dac373e19dad2cca513436164fda2abca0e8d823.jpg",
+    "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/b93188c890059e685cc94ecc474763e522ca3353befab80c36b7d39355b8ce40",
     "completed": 0
   }
 ]
