@@ -1,12 +1,5 @@
 [
   {
-    "title": "Takopi's Original Sin",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3c5d1814bb8288d9c6ae6fbfd0aa093e9445a0dc1a0d6988c904ec31cb2612f5.jpg",
-    "link": "https://animepahe.ru/play/6d155661-e113-3afe-7fbe-40ee28a2ffeb/fc0891c1599a8687a47cc28dcd388fb828165ba2a205f278ac79206cea5acc3e",
-    "completed": 0
-  },
-  {
     "title": "Tougen Anki",
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/51073838851c0e339c04b1195460c9c7912e27ba987509ab3b9caf55e0879f72.jpg",
@@ -67,6 +60,13 @@
     "episode": 16,
     "image": "https://i.animepahe.ru/uploads/snapshots/e079a4a412f1026ffd22b8f92562c402c21dbdfaff5f2dcd9fddea2d94a1b0c3.jpg",
     "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/bc4883f9d275fbf11456941e304b66dc7d06609b2edece76007065b4133c98a9",
+    "completed": 0
+  },
+  {
+    "title": "Himitsu no AiPri: Ring-hen",
+    "episode": 16,
+    "image": "https://i.animepahe.ru/uploads/snapshots/45c105c17ce91b1d900d4d547d0cf9461ec1c0a067857705c67b7d548a8e250e.jpg",
+    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/e22828b893ff0bc956e2d5bb6a2422c8cfa739cc32619804bf41b87d24cf0b5a",
     "completed": 0
   }
 ]
