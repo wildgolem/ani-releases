@@ -1,12 +1,5 @@
 [
   {
-    "title": "Dr. Stone: Science Future Part 2",
-    "episode": 15,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e44ddf55f003d3d7e4cb7b3f836961c18720e5aa32a5221fb959ecf2e64834ba.jpg",
-    "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/d1e91ae81df771dc186cf85bd905bbb2c6d1bb5df9985c035dfedaf2cf6c936d",
-    "completed": 0
-  },
-  {
     "title": "Welcome to the Outcast's Restaurant!",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/94bb5df2b89451a544f7ef1e0a76fe26a1591b4d513a4cda7d7982e796d2f82d.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/3d3788a682cd6dce76183708dac373e19dad2cca513436164fda2abca0e8d823.jpg",
     "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/b93188c890059e685cc94ecc474763e522ca3353befab80c36b7d39355b8ce40",
+    "completed": 0
+  },
+  {
+    "title": "New Panty & Stocking with Garterbelt",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f35c5c87c31b272c60f8ab6e8de50f8a0f359c15a5a373234ea521b4c99be270.jpg",
+    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/304326845d2e532dfccb151e20ffee76272930dea6f707b130f1c94ca0beb337",
     "completed": 0
   }
 ]
