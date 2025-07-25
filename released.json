@@ -1,19 +1,5 @@
 [
   {
-    "title": "Welcome to the Outcast's Restaurant!",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/94bb5df2b89451a544f7ef1e0a76fe26a1591b4d513a4cda7d7982e796d2f82d.jpg",
-    "link": "https://animepahe.ru/play/7a909eb7-14eb-9822-6bfe-ab9f1d9ab597/e1ecfaa2b8edec1507d8af6cf7f97a30d25da8492cc65b257f6f63824164c3c3",
-    "completed": 0
-  },
-  {
-    "title": "My Melody & Kuromi",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/cdb70b79816785a5c5f60f69e3f5244b548f7731579f99cb59b23a570279b177.jpg",
-    "link": "https://animepahe.ru/play/edb549d7-2d34-793b-5b5b-a7cab6c7511e/5fb0e9457124a734de1ec812524bedc69ad4ea333cb48f083e2aa55fe04d40d6",
-    "completed": 1
-  },
-  {
     "title": "Dan Da Dan Season 2",
     "episode": 16,
     "image": "https://i.animepahe.ru/uploads/snapshots/da9f285d60e4eac9815670d1b9770c1205c978b0f15e9ba3b9f12b88d80b3d37.jpg",
@@ -67,6 +53,20 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/f35c5c87c31b272c60f8ab6e8de50f8a0f359c15a5a373234ea521b4c99be270.jpg",
     "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/304326845d2e532dfccb151e20ffee76272930dea6f707b130f1c94ca0beb337",
+    "completed": 0
+  },
+  {
+    "title": "Arknights: Rise from Ember",
+    "episode": 20,
+    "image": "https://i.animepahe.ru/uploads/snapshots/74bc85bbc53a0c956db09ed1e644c9fc7351a10f70322dbda3f34275c3787f71.jpg",
+    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/dab08c58412be02832db7a6636af4b42805ff4d895a3c1e55d69d8563676a179",
+    "completed": 0
+  },
+  {
+    "title": "Takopi's Original Sin",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3c5d1814bb8288d9c6ae6fbfd0aa093e9445a0dc1a0d6988c904ec31cb2612f5.jpg",
+    "link": "https://animepahe.ru/play/6d155661-e113-3afe-7fbe-40ee28a2ffeb/fc0891c1599a8687a47cc28dcd388fb828165ba2a205f278ac79206cea5acc3e",
     "completed": 0
   }
 ]
