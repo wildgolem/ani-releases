@@ -1,12 +1,5 @@
 [
   {
-    "title": "Dragon Raja II -The Mourner's Eyes-",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f8671df821d1ac7500f8e6fc0650e184512dac536d4433186b44d3fa91b0a57a.jpg",
-    "link": "https://animepahe.ru/play/fca3ff7b-02dd-b984-baa3-c4021c7f6629/12b0b6a16fd5f787497cb41f9501233689c28a1d9a8e2e528b87ca9bc87d426e",
-    "completed": 0
-  },
-  {
     "title": "Celestial Bonds",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/3d3788a682cd6dce76183708dac373e19dad2cca513436164fda2abca0e8d823.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/60afff1a31fe0830c857f01a53179117be320cca1ffd6b7f0740c88f685ab58c.jpg",
     "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/e489704ec78fa5e0af98f81542058dc891e7f51e24159878838c5d0ef03a33fd",
+    "completed": 0
+  },
+  {
+    "title": "Nukitashi the Animation",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7a4ad98162aad4cb5c31527be9e92f7b2afded683200b6966e5bcc2c465839ee.jpg",
+    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/8cfd1f5d509e01d24ee93b6087a6a5bbe06737f76cd572fdc884a95b7b8b7024",
     "completed": 0
   }
 ]
