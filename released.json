@@ -1,19 +1,5 @@
 [
   {
-    "title": "Celestial Bonds",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3d3788a682cd6dce76183708dac373e19dad2cca513436164fda2abca0e8d823.jpg",
-    "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/b93188c890059e685cc94ecc474763e522ca3353befab80c36b7d39355b8ce40",
-    "completed": 0
-  },
-  {
-    "title": "New Panty & Stocking with Garterbelt",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f35c5c87c31b272c60f8ab6e8de50f8a0f359c15a5a373234ea521b4c99be270.jpg",
-    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/304326845d2e532dfccb151e20ffee76272930dea6f707b130f1c94ca0beb337",
-    "completed": 0
-  },
-  {
     "title": "Arknights: Rise from Ember",
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/74bc85bbc53a0c956db09ed1e644c9fc7351a10f70322dbda3f34275c3787f71.jpg",
@@ -67,6 +53,20 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/7a4ad98162aad4cb5c31527be9e92f7b2afded683200b6966e5bcc2c465839ee.jpg",
     "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/8cfd1f5d509e01d24ee93b6087a6a5bbe06737f76cd572fdc884a95b7b8b7024",
+    "completed": 0
+  },
+  {
+    "title": "Strawberry Prince the Movie",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9f7fc15649c447bc991fb779bd247935845d74f3da51d978903d303c9c171049.jpg",
+    "link": "https://animepahe.ru/play/772a0843-c107-fa48-b6bc-3d4342ea7d2c/7385f125d2775c73053a5faf371a3f9783e763d93c9a1b1a8aef7eccda5aace6",
+    "completed": 1
+  },
+  {
+    "title": "April Showers Bring May Flowers",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fceac96e070a85cfb005517af4190307d0a0469a0cc6ff7c307dcd0fcf3a95b2.jpg",
+    "link": "https://animepahe.ru/play/6e9c69a4-6719-22ec-78f8-7e9604e91b7a/e6caa0d4ff41026d2d9f1d15d34a4850ab12a7a3b925bd4eafc3a13df039fdaa",
     "completed": 0
   }
 ]
