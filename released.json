@@ -1,12 +1,5 @@
 [
   {
-    "title": "Tougen Anki",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/51073838851c0e339c04b1195460c9c7912e27ba987509ab3b9caf55e0879f72.jpg",
-    "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/ea0169e99ab58b23c11c6dfbcd8cf35bb0d1157c76e38c844e7cafadddeca062",
-    "completed": 0
-  },
-  {
     "title": "Call of the Night Season 2",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/698a26fb49ebf83b5b7bd98ca6ce4f74c792167dbb8b3767d06a7cf2900f12ec.jpg",
@@ -67,6 +60,13 @@
     "episode": 16,
     "image": "https://i.animepahe.ru/uploads/snapshots/45c105c17ce91b1d900d4d547d0cf9461ec1c0a067857705c67b7d548a8e250e.jpg",
     "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/e22828b893ff0bc956e2d5bb6a2422c8cfa739cc32619804bf41b87d24cf0b5a",
+    "completed": 0
+  },
+  {
+    "title": "Lord of Mysteries",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5112a2cb99e9e470eb09daff3b419637960f98c063dde05f50f9cd071943b799.jpg",
+    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/6ecad4fc5e098ea384b9306b4688b8768a69a964e71f443b19d52de05fffb1ef",
     "completed": 0
   }
 ]
