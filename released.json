@@ -1,12 +1,5 @@
 [
   {
-    "title": "Betrothed to My Sister's Ex",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/60afff1a31fe0830c857f01a53179117be320cca1ffd6b7f0740c88f685ab58c.jpg",
-    "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/e489704ec78fa5e0af98f81542058dc891e7f51e24159878838c5d0ef03a33fd",
-    "completed": 0
-  },
-  {
     "title": "Nukitashi the Animation",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/7a4ad98162aad4cb5c31527be9e92f7b2afded683200b6966e5bcc2c465839ee.jpg",
@@ -67,6 +60,13 @@
     "episode": 1169,
     "image": "https://i.animepahe.ru/uploads/snapshots/e6ba952c0c21eb2dc6a5aa662e7ef83b5bccbc1d40f2f482547a8e020f4b5b62.jpg",
     "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/3d3475b58a0c21ae3e0046372f45ae825e1ea83e8f7bddb4c877106424ac5a75",
+    "completed": 0
+  },
+  {
+    "title": "Anne Shirley",
+    "episode": 17,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a171aa4e56fa8852197cbaa592f73df6555fa3acb09dee785f3a6c466a98e3d6.jpg",
+    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/7cda78a38b86c0e2d6ffb0b3bd008c77de911b77ccb979b507b2bb28de23d2c3",
     "completed": 0
   }
 ]
