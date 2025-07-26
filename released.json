@@ -1,12 +1,5 @@
 [
   {
-    "title": "Nukitashi the Animation",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7a4ad98162aad4cb5c31527be9e92f7b2afded683200b6966e5bcc2c465839ee.jpg",
-    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/8cfd1f5d509e01d24ee93b6087a6a5bbe06737f76cd572fdc884a95b7b8b7024",
-    "completed": 0
-  },
-  {
     "title": "Strawberry Prince the Movie",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/9f7fc15649c447bc991fb779bd247935845d74f3da51d978903d303c9c171049.jpg",
@@ -67,6 +60,13 @@
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/a171aa4e56fa8852197cbaa592f73df6555fa3acb09dee785f3a6c466a98e3d6.jpg",
     "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/7cda78a38b86c0e2d6ffb0b3bd008c77de911b77ccb979b507b2bb28de23d2c3",
+    "completed": 0
+  },
+  {
+    "title": "Kaiju No. 8 Season 2",
+    "episode": 14,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d65cd0f51f7a3b1443b8194336da023e7ded7c2323a0a9f030a9e10859eac301.jpg",
+    "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/4c19411abb8135d314176ca6dcbdbd7d05f759247efe3b916d82b606941eef6e",
     "completed": 0
   }
 ]
