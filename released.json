@@ -1,12 +1,5 @@
 [
   {
-    "title": "Fermat Kitchen",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/47d018cbff0901bf514fc1a33d2e42c6bd36ddc20451a0289e37db03de3f57e0.jpg",
-    "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/dc38faf23df59aec51818c81c5cadce383960b6f8f00d0e3e6588487b3b8acfe",
-    "completed": 0
-  },
-  {
     "title": "9: Ruler's Crown",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/04f4226a93d5da79de9b1f17d82cdde765279dd387a55b8909a7da48a43f7f3e.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/b7b82f82c7d5801a7534543fa35185c4d40553ebdb8871ecc71c9264064f2769.jpg",
     "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/387edea2618a0d20b085c0237490f9bd45fd7f1f40de109424d17d1877d06b97",
+    "completed": 0
+  },
+  {
+    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/423e383f154e1113153ca60f36379ae1575c5bf5464bba206c217bc87d902b54.jpg",
+    "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/c1272418b58554ac5d436e92c9282d4fd80c71bc091771ecb5cb3f54925597e3",
     "completed": 0
   }
 ]
