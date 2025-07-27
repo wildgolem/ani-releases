@@ -1,19 +1,5 @@
 [
   {
-    "title": "To Be Hero X",
-    "episode": 17,
-    "image": "https://i.animepahe.ru/uploads/snapshots/8f6232aac202936ce9ed17ca1d961ff019a2143ae36425d5d936d79d173a6997.jpg",
-    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/f71ef9cd13c27166aafd94cc07a8b41f5a2938f5e839d685fa4542d9a40a7576",
-    "completed": 0
-  },
-  {
-    "title": "You and Idol Precure♪",
-    "episode": 25,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d8a845e88a5b223d70e68e94d3919c0fe6cdfd5cb646a78cacc23631fb18dbdf.jpg",
-    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/7d6c17c2adf7e2dab6f34c2eb3fa77c0394056ab48dac2f1e8921920260c6391",
-    "completed": 0
-  },
-  {
     "title": "The Fragrant Flower Blooms with Dignity",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/4b130d6c4bb316a17519c84d512a71a73ce15d55b332088209214518c3a73955.jpg",
@@ -67,6 +53,20 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/6935a75e440178de7a8328475174b1de1b86b507c1bda65b7d6696d9fdb5964f.jpg",
     "link": "https://animepahe.ru/play/6e43baaf-9b64-9ef9-bad2-bfcc3be87071/b09b11567c9e7bc4377c8e8bd5bc221517083c99e408e167ea25e0d7a2fcb88f",
+    "completed": 0
+  },
+  {
+    "title": "Cultural Exchange With a Game Centre Girl",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fe338dd025e9650a1be7139d0edd682dafa0fba863ea8b7adfcf0a68f89b9bf4.jpg",
+    "link": "https://animepahe.ru/play/bccca268-6edd-0369-ae31-cd145e76238d/d1260f739bcd654a2a4e70c36a28eb9a16b68ca20472e8b038e9a806fc29a55f",
+    "completed": 0
+  },
+  {
+    "title": "Gachiakuta",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/406b4721655cab192b3ef02e2209866fa6ca456316ef4bf1554d486d71cd9753.jpg",
+    "link": "https://animepahe.ru/play/42dd67ed-699c-d2d4-194a-3f2365652272/ffbc31f1fa8fb0fb6f204a34eb3b914f028b730779c42c974978610ea279f1d1",
     "completed": 0
   }
 ]
