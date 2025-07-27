@@ -1,19 +1,5 @@
 [
   {
-    "title": "Private Tutor to the Duke's Daughter",
-    "episode": 4.5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/736a25a38870ca89895641f6eb011edf6aedf6e0f83d35f014b3230459a2e525.jpg",
-    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/6d3155441d7f50934f1f5ebadf9d0e295b2e68a1ece331224427f3905e9b0e0b",
-    "completed": 0
-  },
-  {
-    "title": "With You and the Rain",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/fa9cf556690e7bd5f301627f01e0f48481450f83a86194f6d0e4903f6ef3135c.jpg",
-    "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/32dc1fcd363d4adbf1272b44679ae8b17af5b983ac7717bec0d05fac9cd6929d",
-    "completed": 0
-  },
-  {
     "title": "Fermat Kitchen",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/47d018cbff0901bf514fc1a33d2e42c6bd36ddc20451a0289e37db03de3f57e0.jpg",
@@ -67,6 +53,20 @@
     "episode": 16,
     "image": "https://i.animepahe.ru/uploads/snapshots/a73969e19e8819b20a2088f59f3d1575be2111de998f79a815ee789040dff51b.jpg",
     "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/2f19eb55b26bce6ec1046d4e519ef6a3d2d724e475e9177aabdeeba1814c3dd1",
+    "completed": 0
+  },
+  {
+    "title": "Dekin no Mogura: The Earthbound Mole",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b933894ccc3e182f3ec99a569ac946dcb8744a2339862f2f93dfa0d525918ca4.jpg",
+    "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/b9f33b58bab48efbd7fb210a8195ee5eb6b79c8a47554485f8444a4e1c349a9c",
+    "completed": 0
+  },
+  {
+    "title": "Ruri Rocks",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b7b82f82c7d5801a7534543fa35185c4d40553ebdb8871ecc71c9264064f2769.jpg",
+    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/387edea2618a0d20b085c0237490f9bd45fd7f1f40de109424d17d1877d06b97",
     "completed": 0
   }
 ]
