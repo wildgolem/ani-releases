@@ -1,19 +1,5 @@
 [
   {
-    "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
-    "episode": 16,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1f6fc1e235e974f64174fcf4d5d24957710be45125d1a2557d9c7749d06da5ca.jpg",
-    "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/f4cf377fff7ed2c88add1f94e6fb43ac3bb27e43cef4594ef17969002bb0a467",
-    "completed": 0
-  },
-  {
-    "title": "Puniru is a Kawaii Slime Season 2",
-    "episode": 16,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a73969e19e8819b20a2088f59f3d1575be2111de998f79a815ee789040dff51b.jpg",
-    "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/2f19eb55b26bce6ec1046d4e519ef6a3d2d724e475e9177aabdeeba1814c3dd1",
-    "completed": 0
-  },
-  {
     "title": "Dekin no Mogura: The Earthbound Mole",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/b933894ccc3e182f3ec99a569ac946dcb8744a2339862f2f93dfa0d525918ca4.jpg",
@@ -67,6 +53,20 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/7cc0d444f227f5b8da541cd96c50a017cb382be78f5d03f2cef16528628502d7.jpg",
     "link": "https://animepahe.ru/play/d957867d-d470-7ce7-72fc-4c23095fafc1/decb5c92e9f7e1b212627a1527c3d3e80fed0b582e51ca387363e9b7b18b4ada",
+    "completed": 0
+  },
+  {
+    "title": "Hotel Inhumans",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/43d14c4fd28c6fcd1f187cca91b3c8038abae4cf43ca2ea3d7d802c679de2fa2.jpg",
+    "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/5438a82907c91ec59baa695111a94fc56dac9e55e2260aa2073dee9ba5771236",
+    "completed": 0
+  },
+  {
+    "title": "One Piece",
+    "episode": 1137,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e0c79843fee3073dd160209e635a3da11b0ae6d5e6bde1b3798d5767203855f0.jpg",
+    "link": "https://animepahe.ru/play/d58fc9f8-582e-fdf0-3618-112cd54ed5ab/a93a0adaa95954ea7bbd8491f1b610eadd1af9040b0edcc6b9beee24749df3e1",
     "completed": 0
   }
 ]
