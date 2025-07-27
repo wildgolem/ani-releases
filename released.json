@@ -1,19 +1,5 @@
 [
   {
-    "title": "The Fragrant Flower Blooms with Dignity",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4b130d6c4bb316a17519c84d512a71a73ce15d55b332088209214518c3a73955.jpg",
-    "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/53eb710ac8a46ba760a5e8ba7dfe25c95ddb7054c97f0f29d22dafcf05b7b5b4",
-    "completed": 0
-  },
-  {
-    "title": "Witch Watch",
-    "episode": 17,
-    "image": "https://i.animepahe.ru/uploads/snapshots/18991d6012a71e366f513d15d426ec47302ea7a6cb08748fd058dcd06e28505d.jpg",
-    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/c4c0c3b3dbbad22f1692f687724340cfdbb30feadb73253396b34fc5cdf8495e",
-    "completed": 0
-  },
-  {
     "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
     "episode": 16,
     "image": "https://i.animepahe.ru/uploads/snapshots/1f6fc1e235e974f64174fcf4d5d24957710be45125d1a2557d9c7749d06da5ca.jpg",
@@ -67,6 +53,20 @@
     "episode": 3,
     "image": "https://i.animepahe.ru/uploads/snapshots/406b4721655cab192b3ef02e2209866fa6ca456316ef4bf1554d486d71cd9753.jpg",
     "link": "https://animepahe.ru/play/42dd67ed-699c-d2d4-194a-3f2365652272/ffbc31f1fa8fb0fb6f204a34eb3b914f028b730779c42c974978610ea279f1d1",
+    "completed": 0
+  },
+  {
+    "title": "Uglymug, Epicfighter",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/dcc00e4be7a43b54ffbc688e302181d4944872f5f617b1cb90f4574acda219b1.jpg",
+    "link": "https://animepahe.ru/play/e41f275d-54ee-a56d-9f5f-7b34bd31edfb/c260343ad5b5970ca4311cdf902f25983391a1358cc833532323dad25c7bd757",
+    "completed": 0
+  },
+  {
+    "title": "City The Animation",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7cc0d444f227f5b8da541cd96c50a017cb382be78f5d03f2cef16528628502d7.jpg",
+    "link": "https://animepahe.ru/play/d957867d-d470-7ce7-72fc-4c23095fafc1/decb5c92e9f7e1b212627a1527c3d3e80fed0b582e51ca387363e9b7b18b4ada",
     "completed": 0
   }
 ]
