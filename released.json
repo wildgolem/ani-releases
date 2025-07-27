@@ -1,19 +1,5 @@
 [
   {
-    "title": "The Shy Hero and the Assassin Princesses",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4ede4ea9d8ecfb15826a5d717978c52be8200e98272b00b71a80d1ac7049cf85.jpg",
-    "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/c4141be307abdf2d07a750e1bc57a6c6d1ab529cdce392b3fbfba5ffb024badc",
-    "completed": 0
-  },
-  {
-    "title": "Scooped Up by an S-Ranked Adventurer",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/332017df620ddb85200bc582d117ff3f2b938a2cbb67c02c518567950844b12a.jpg",
-    "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/805195b15190998da8810516780a7f4587f57d67b9e04a8e455161db92d67541",
-    "completed": 0
-  },
-  {
     "title": "Bad Girl",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/17092ef5cfc0e2282c0f2113016ac126c1dee701fe509503d0806e191bea1331.jpg",
@@ -67,6 +53,20 @@
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/04f4226a93d5da79de9b1f17d82cdde765279dd387a55b8909a7da48a43f7f3e.jpg",
     "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/0e27474cea2bd3033d315e0d9733e5696730ef330b190afea916e8a927779a21",
+    "completed": 0
+  },
+  {
+    "title": "To Be Hero X",
+    "episode": 17,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8f6232aac202936ce9ed17ca1d961ff019a2143ae36425d5d936d79d173a6997.jpg",
+    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/f71ef9cd13c27166aafd94cc07a8b41f5a2938f5e839d685fa4542d9a40a7576",
+    "completed": 0
+  },
+  {
+    "title": "You and Idol Precure♪",
+    "episode": 25,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d8a845e88a5b223d70e68e94d3919c0fe6cdfd5cb646a78cacc23631fb18dbdf.jpg",
+    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/7d6c17c2adf7e2dab6f34c2eb3fa77c0394056ab48dac2f1e8921920260c6391",
     "completed": 0
   }
 ]
