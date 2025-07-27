@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Summer Hikaru Died",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/94b77860fa8388b5d53879a9e179eb51078ef22891c222b407b2bd56aa071b8c.jpg",
-    "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/212eb169dbd017002868790504c7f141724d5a659b411199bb91c2e33edcbebf",
-    "completed": 0
-  },
-  {
     "title": "Private Tutor to the Duke's Daughter",
     "episode": 4.5,
     "image": "https://i.animepahe.ru/uploads/snapshots/736a25a38870ca89895641f6eb011edf6aedf6e0f83d35f014b3230459a2e525.jpg",
@@ -67,6 +60,13 @@
     "episode": 16,
     "image": "https://i.animepahe.ru/uploads/snapshots/1f6fc1e235e974f64174fcf4d5d24957710be45125d1a2557d9c7749d06da5ca.jpg",
     "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/f4cf377fff7ed2c88add1f94e6fb43ac3bb27e43cef4594ef17969002bb0a467",
+    "completed": 0
+  },
+  {
+    "title": "Puniru is a Kawaii Slime Season 2",
+    "episode": 16,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a73969e19e8819b20a2088f59f3d1575be2111de998f79a815ee789040dff51b.jpg",
+    "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/2f19eb55b26bce6ec1046d4e519ef6a3d2d724e475e9177aabdeeba1814c3dd1",
     "completed": 0
   }
 ]
