@@ -1,12 +1,5 @@
 [
   {
-    "title": "Uglymug, Epicfighter",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/dcc00e4be7a43b54ffbc688e302181d4944872f5f617b1cb90f4574acda219b1.jpg",
-    "link": "https://animepahe.ru/play/e41f275d-54ee-a56d-9f5f-7b34bd31edfb/c260343ad5b5970ca4311cdf902f25983391a1358cc833532323dad25c7bd757",
-    "completed": 0
-  },
-  {
     "title": "City The Animation",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/7cc0d444f227f5b8da541cd96c50a017cb382be78f5d03f2cef16528628502d7.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/b3dd8005a5c5efd5c01d129af0cab9d6653daa21f8b38cd9270d2ded886c666e.jpg",
     "link": "https://animepahe.ru/play/785d08ac-4a7a-6c64-ae6d-f2bce029d355/ffd41ddede12a0ebb5236688b71979a0cbe3001875c69b652d7a92291dcac1b5",
+    "completed": 0
+  },
+  {
+    "title": "There's No Freaking Way I'll be Your Lover! Unless...",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7091e49e7d7228ab2c1853e878126e0ef7b4423b899172a4c15d65016b0eb2e2.jpg",
+    "link": "https://animepahe.ru/play/1abdeb23-fe28-dc61-7169-e3d5946718b0/cbe9dd3dad3c5a98a4602c22bdfa9dc1affd261d7490943d3d16f2cf82d3fb1d",
     "completed": 0
   }
 ]
