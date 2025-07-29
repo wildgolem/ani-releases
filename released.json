@@ -1,12 +1,5 @@
 [
   {
-    "title": "Grand Blue Dreaming Season 2",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b3dd8005a5c5efd5c01d129af0cab9d6653daa21f8b38cd9270d2ded886c666e.jpg",
-    "link": "https://animepahe.ru/play/785d08ac-4a7a-6c64-ae6d-f2bce029d355/ffd41ddede12a0ebb5236688b71979a0cbe3001875c69b652d7a92291dcac1b5",
-    "completed": 0
-  },
-  {
     "title": "There's No Freaking Way I'll be Your Lover! Unless...",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/7091e49e7d7228ab2c1853e878126e0ef7b4423b899172a4c15d65016b0eb2e2.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/0ce2e5cea151da652983c9fc7d32cad99dbd6215cadd5e2c4f572e588a5362d8.jpg",
     "link": "https://animepahe.ru/play/25d65413-3d15-a068-14bf-de80387ff396/c523ec1499eb50775b96998366cd3e381554ad115859b4f77c9b8cb76422a3d1",
+    "completed": 0
+  },
+  {
+    "title": "Beyblade X",
+    "episode": 89,
+    "image": "https://i.animepahe.ru/uploads/snapshots/69c5519bc7d9b81ca2de569b9f30ce561b3f30b5a798f840eca61739c044e8c8.jpg",
+    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/5ccf8d2c2570c27c92bafdc886b87caab23646686cbec17a15de5b5999bba8cc",
     "completed": 0
   }
 ]
