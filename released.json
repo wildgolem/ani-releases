@@ -1,12 +1,5 @@
 [
   {
-    "title": "Rent-a-Girlfriend Season 4",
-    "episode": 41,
-    "image": "https://i.animepahe.ru/uploads/snapshots/645a6319714522c7b29e1a6e59611c61ce95128562e7cf927c52a4145fcc1129.jpg",
-    "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/465b0e77f4a7280cb2338a5ba958c41c02b62468f549773b360f73487215a950",
-    "completed": 0
-  },
-  {
     "title": "A Couple of Cuckoos Season 2",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/d2d33fe71b19ce847d007a75a79c974cdcba6f3b8e1ee2cfb51a72570782a017.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/31fa9bff70d31082bbff2642c33c0b1064b38852fb3592ba94aac74cf6e939e9.jpg",
     "link": "https://animepahe.ru/play/75361ccc-cacc-d7c2-8fe0-2f0af0f565ae/b227f3ad9db7f55734546e7ac5046eb63dcd2577014a9a11fbd5912d8381acbf",
+    "completed": 0
+  },
+  {
+    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/6d8a684c45e4a0a3d368ca0492283dbd325f9bc3021061c98353913e6e842bdb.jpg",
+    "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/f72b61eaca13829a62c3990de4e2a2b8f4f49286730a744930b63f05099b88a8",
     "completed": 0
   }
 ]
