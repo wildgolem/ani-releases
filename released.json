@@ -1,12 +1,5 @@
 [
   {
-    "title": "Dealing with Mikadono Sisters Is a Breeze",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a218ead6f416acfcacf7aab1fc90a5c39f943169e6a27ef4390655848c48b250.jpg",
-    "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/ae17ffab7de08c683e5ed2b654aed03b19c6ba0f2ac49a618b919c60b2fbbed6",
-    "completed": 0
-  },
-  {
     "title": "Onmyo Kaiten Re:Birth Verse",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/18ff21838ca88b8406a63f28f670ae154779f32b3d398a6642fa022b68772a9f.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/022b996c931e6dd50e3f4fe4e74d00f55f49bdb2b89ca816dad2754f930d984b.jpg",
     "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/f476272875ec3d9c8028593580e728e08bb98acfefc0481ba7f33246c75fe0d4",
+    "completed": 0
+  },
+  {
+    "title": "The Water Magician",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/54885a81dc6db80d1e161e7d1ea9acef263758849c6db530623d79bc86ba9ee0.jpg",
+    "link": "https://animepahe.ru/play/ab79ccc4-e32b-a265-2f43-3ed58bc67206/37c14c5b6c1aa9a689a129ac62f3aae8eb8f31785d26a0d2e8de8e6507a1ffe5",
     "completed": 0
   }
 ]
