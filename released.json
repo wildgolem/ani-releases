@@ -1,12 +1,5 @@
 [
   {
-    "title": "Turkey! Time to Strike",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/0ce2e5cea151da652983c9fc7d32cad99dbd6215cadd5e2c4f572e588a5362d8.jpg",
-    "link": "https://animepahe.ru/play/25d65413-3d15-a068-14bf-de80387ff396/c523ec1499eb50775b96998366cd3e381554ad115859b4f77c9b8cb76422a3d1",
-    "completed": 0
-  },
-  {
     "title": "Beyblade X",
     "episode": 89,
     "image": "https://i.animepahe.ru/uploads/snapshots/69c5519bc7d9b81ca2de569b9f30ce561b3f30b5a798f840eca61739c044e8c8.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/6171c956c65c3718fd3319287e192d0839f617fa85762236ee8c8d123d534a54.jpg",
     "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/77f5e29991200bb16bcaf3282faf4b336a3b900051b86503c19d1959652e6d71",
+    "completed": 0
+  },
+  {
+    "title": "Let's Go Karaoke!",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2d64a220204a262b38495d523f3a20f25e9ef8a9daa73237a8b24ab0397491c7.jpg",
+    "link": "https://animepahe.ru/play/4c1087fc-9f3d-318c-10b7-b2c1aeed41f0/2d15a3d4b8cd07099785eb082c5ed4b804e3681651f610f4df28fd128e44fdb7",
     "completed": 0
   }
 ]
