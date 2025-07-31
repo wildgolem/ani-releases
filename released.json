@@ -1,19 +1,5 @@
 [
   {
-    "title": "Beyblade X",
-    "episode": 89,
-    "image": "https://i.animepahe.ru/uploads/snapshots/69c5519bc7d9b81ca2de569b9f30ce561b3f30b5a798f840eca61739c044e8c8.jpg",
-    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/5ccf8d2c2570c27c92bafdc886b87caab23646686cbec17a15de5b5999bba8cc",
-    "completed": 0
-  },
-  {
-    "title": "Clevatess",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d851669e5040b05c02706a3d7b10d6dfd4118c55d60ba355a44fd488db3546ec.jpg",
-    "link": "https://animepahe.ru/play/79fe94dc-8a14-630c-2760-13ed564ef809/8f432c903e749ce1c77f533ed7cd12cb2279e15b6483ea92aceb28fd7bef88d9",
-    "completed": 0
-  },
-  {
     "title": "The Rising of the Shield Hero Season 4",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/31fa9bff70d31082bbff2642c33c0b1064b38852fb3592ba94aac74cf6e939e9.jpg",
@@ -67,6 +53,20 @@
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/2d64a220204a262b38495d523f3a20f25e9ef8a9daa73237a8b24ab0397491c7.jpg",
     "link": "https://animepahe.ru/play/4c1087fc-9f3d-318c-10b7-b2c1aeed41f0/2d15a3d4b8cd07099785eb082c5ed4b804e3681651f610f4df28fd128e44fdb7",
+    "completed": 0
+  },
+  {
+    "title": "Dr. Stone: Science Future Part 2",
+    "episode": 16,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f881f1cb772bd34457c8c2147e93c68695d63dcc5411a3166565aee3d181b611.jpg",
+    "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/1fdafd23f526d4aab2468e52e5e3f906ca674b9c8e52b071567b442c5371f530",
+    "completed": 0
+  },
+  {
+    "title": "Welcome to the Outcast's Restaurant!",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9397e53614276e3671a550596123c0204b36482d10d8b30ca177293a0e39ce62.jpg",
+    "link": "https://animepahe.ru/play/7a909eb7-14eb-9822-6bfe-ab9f1d9ab597/f51431a6384aee47c993c9eb3dee9024c9dfb29aaf85ec1c0cf2c4dd114acc97",
     "completed": 0
   }
 ]
