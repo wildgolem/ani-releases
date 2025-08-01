@@ -1,12 +1,5 @@
 [
   {
-    "title": "New Panty & Stocking with Garterbelt",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/6171c956c65c3718fd3319287e192d0839f617fa85762236ee8c8d123d534a54.jpg",
-    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/77f5e29991200bb16bcaf3282faf4b336a3b900051b86503c19d1959652e6d71",
-    "completed": 0
-  },
-  {
     "title": "Let's Go Karaoke!",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/2d64a220204a262b38495d523f3a20f25e9ef8a9daa73237a8b24ab0397491c7.jpg",
@@ -67,6 +60,13 @@
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/f3997ba9cd908eaccf236456448de4a757303f23c34034b0b512059839a3568e.jpg",
     "link": "https://animepahe.ru/play/fca3ff7b-02dd-b984-baa3-c4021c7f6629/5d50a70b73c60c89743ce10581fe37d4556361183b0b8441c174402ff329b05b",
+    "completed": 0
+  },
+  {
+    "title": "Celestial Bonds",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/20cdb3f499ec0b82b94a9b8bce16f498ea500cc565c985b90cd6dc97b5fa022b.jpg",
+    "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/0940a02cca0f739def046e3667ac9c02e7d1c2577569136e1826eb2e7694ce11",
     "completed": 0
   }
 ]
