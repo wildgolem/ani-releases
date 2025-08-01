@@ -1,12 +1,5 @@
 [
   {
-    "title": "Welcome to the Outcast's Restaurant!",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/9397e53614276e3671a550596123c0204b36482d10d8b30ca177293a0e39ce62.jpg",
-    "link": "https://animepahe.ru/play/7a909eb7-14eb-9822-6bfe-ab9f1d9ab597/f51431a6384aee47c993c9eb3dee9024c9dfb29aaf85ec1c0cf2c4dd114acc97",
-    "completed": 0
-  },
-  {
     "title": "Dan Da Dan Season 2",
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/aee4c45ce5685f1e797b21bba9f1be8cd745c76bf5b95e404c79d5ac1ecd40e5.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/55c7f1e0544a616499c5ec87b5d69145eb1e763a3f47aa344d38238a7d5a214f.jpg",
     "link": "https://animepahe.ru/play/6d155661-e113-3afe-7fbe-40ee28a2ffeb/15a29bdbce48d32d36a29f485e0f78eb38b99bbc39fb5f2d84d06eb388273ada",
     "completed": 1
+  },
+  {
+    "title": "Tougen Anki",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/57c37d151daa10bb7ed48baf9f35191ace4235a8558c42a95d432e5a294afae6.jpg",
+    "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/e7ce7795937b66e77771b5d7101447029d11a94c737abb5ba2149898eaa07ca8",
+    "completed": 0
   }
 ]
