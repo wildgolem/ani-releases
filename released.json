@@ -1,12 +1,5 @@
 [
   {
-    "title": "Celestial Bonds",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/20cdb3f499ec0b82b94a9b8bce16f498ea500cc565c985b90cd6dc97b5fa022b.jpg",
-    "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/0940a02cca0f739def046e3667ac9c02e7d1c2577569136e1826eb2e7694ce11",
-    "completed": 0
-  },
-  {
     "title": "Arknights: Rise from Ember",
     "episode": 21,
     "image": "https://i.animepahe.ru/uploads/snapshots/36cf1fedf131a2930028fcc81998d60664bc901d44353627d3c195de4550ddcd.jpg",
@@ -67,6 +60,13 @@
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/47445ae39bb6edaf5f2926378b82ef2e7df001bc3c07500d25d9cdfb8d40ae14.jpg",
     "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/92f0eacae33780ae7daec2c71f9eda955c1ef3de72fcd0ea44a76700e3fdaebb",
+    "completed": 0
+  },
+  {
+    "title": "Himitsu no AiPri: Ring-hen",
+    "episode": 17,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f4f38cbfdfcaa7c11cd8b5d918fb58bd9c32e038c88023a5297876f2e157580d.jpg",
+    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/fe80cdb231cb341bd17e7c335b1d4efb06b812daa91fcdcf6569c282c8eb1d42",
     "completed": 0
   }
 ]
