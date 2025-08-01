@@ -1,19 +1,5 @@
 [
   {
-    "title": "Let's Go Karaoke!",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2d64a220204a262b38495d523f3a20f25e9ef8a9daa73237a8b24ab0397491c7.jpg",
-    "link": "https://animepahe.ru/play/4c1087fc-9f3d-318c-10b7-b2c1aeed41f0/2d15a3d4b8cd07099785eb082c5ed4b804e3681651f610f4df28fd128e44fdb7",
-    "completed": 0
-  },
-  {
-    "title": "Dr. Stone: Science Future Part 2",
-    "episode": 16,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f881f1cb772bd34457c8c2147e93c68695d63dcc5411a3166565aee3d181b611.jpg",
-    "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/1fdafd23f526d4aab2468e52e5e3f906ca674b9c8e52b071567b442c5371f530",
-    "completed": 0
-  },
-  {
     "title": "Welcome to the Outcast's Restaurant!",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/9397e53614276e3671a550596123c0204b36482d10d8b30ca177293a0e39ce62.jpg",
@@ -68,5 +54,19 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/20cdb3f499ec0b82b94a9b8bce16f498ea500cc565c985b90cd6dc97b5fa022b.jpg",
     "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/0940a02cca0f739def046e3667ac9c02e7d1c2577569136e1826eb2e7694ce11",
     "completed": 0
+  },
+  {
+    "title": "Arknights: Rise from Ember",
+    "episode": 21,
+    "image": "https://i.animepahe.ru/uploads/snapshots/36cf1fedf131a2930028fcc81998d60664bc901d44353627d3c195de4550ddcd.jpg",
+    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/21d37c32d33abb52bb48dafb607aea74ba815c9093012bba8c7955e1cf6ed207",
+    "completed": 0
+  },
+  {
+    "title": "Takopi's Original Sin",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/55c7f1e0544a616499c5ec87b5d69145eb1e763a3f47aa344d38238a7d5a214f.jpg",
+    "link": "https://animepahe.ru/play/6d155661-e113-3afe-7fbe-40ee28a2ffeb/15a29bdbce48d32d36a29f485e0f78eb38b99bbc39fb5f2d84d06eb388273ada",
+    "completed": 1
   }
 ]
