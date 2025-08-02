@@ -1,12 +1,5 @@
 [
   {
-    "title": "Secrets of the Silent Witch",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/5846a240f227ef80ce18338c3cbac90d8c238e3c8e4b3b42aaf7681dfafc4f61.jpg",
-    "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/7dbc453702485ccec819deafce196804f9266136b84c85c5d450fb7ab55b850f",
-    "completed": 0
-  },
-  {
     "title": "Betrothed to My Sister's Ex",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/c5c9b90ecd062c112a99c17f34389534b7e93f4608be97b0e8e6193dfba7589a.jpg",
@@ -67,6 +60,13 @@
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/244a454cad1c38f95f12be3a324846cd53ec1298ca0a384cf339f6148926e353.jpg",
     "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/04e1ef2cbfc51da44122c6d96ef9bd5142afe15d47a204e72e92528aa9de9a8b",
+    "completed": 0
+  },
+  {
+    "title": "Kaiju No. 8 Season 2",
+    "episode": 15,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5b6d6a4f8a9aa43c03b25f4f0981e415c91a2836fc19fc3f5916c336533376f7.jpg",
+    "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/6495ce7160727407ebc56a0195a8ba4686801980e00cc1b2f2b6e1587d5790f4",
     "completed": 0
   }
 ]
