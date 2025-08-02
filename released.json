@@ -1,12 +1,5 @@
 [
   {
-    "title": "Arknights: Rise from Ember",
-    "episode": 21,
-    "image": "https://i.animepahe.ru/uploads/snapshots/36cf1fedf131a2930028fcc81998d60664bc901d44353627d3c195de4550ddcd.jpg",
-    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/21d37c32d33abb52bb48dafb607aea74ba815c9093012bba8c7955e1cf6ed207",
-    "completed": 0
-  },
-  {
     "title": "Takopi's Original Sin",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/55c7f1e0544a616499c5ec87b5d69145eb1e763a3f47aa344d38238a7d5a214f.jpg",
@@ -67,6 +60,13 @@
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/f4f38cbfdfcaa7c11cd8b5d918fb58bd9c32e038c88023a5297876f2e157580d.jpg",
     "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/fe80cdb231cb341bd17e7c335b1d4efb06b812daa91fcdcf6569c282c8eb1d42",
+    "completed": 0
+  },
+  {
+    "title": "Lord of Mysteries",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2c7e0dc9c3d65deecee68ca17a2f689fca910d59192dcd941f8f4660874d168e.jpg",
+    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/bf1c72bb94941931a3bd0fb4e965dddef6ec461c7fbe2c0a01c719185825faf3",
     "completed": 0
   }
 ]
