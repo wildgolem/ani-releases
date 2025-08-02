@@ -1,12 +1,5 @@
 [
   {
-    "title": "Tougen Anki",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/57c37d151daa10bb7ed48baf9f35191ace4235a8558c42a95d432e5a294afae6.jpg",
-    "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/e7ce7795937b66e77771b5d7101447029d11a94c737abb5ba2149898eaa07ca8",
-    "completed": 0
-  },
-  {
     "title": "Call of the Night Season 2",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/8157dbbce23162adbf414cf89f6fb7596b9c59ae3b00126744c8987157d9516f.jpg",
@@ -67,6 +60,13 @@
     "episode": 104,
     "image": "https://i.animepahe.ru/uploads/snapshots/322eb7a20cb532f4f02ad981e77248f140dee660999cbb78b0a3645cd26415c3.jpg",
     "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/4ab34bd3d981210e0c652d873802b358ac037bc5dcdd2b69eff65eecf001dfbd",
+    "completed": 0
+  },
+  {
+    "title": "Yaiba: Samurai Legend",
+    "episode": 17,
+    "image": "https://i.animepahe.ru/uploads/snapshots/81c929a218d046c1a6aa2818438aee7afc9b190b6a4fea573dc7c08fd236b2d1.jpg",
+    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/b316269f94dc39c70d12d8d26dfd6ea2e84af27b025dc9207b1356d03e0e1710",
     "completed": 0
   }
 ]
