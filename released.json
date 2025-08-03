@@ -1,12 +1,5 @@
 [
   {
-    "title": "Bad Girl",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1188b32b91bc4ff2e8a6fb4dc502a1dd10fd4a53675d2f7c3a5d5f8987f356d1.jpg",
-    "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/d15d1a8335e1016a6214fbb6c322d54e75d3f380ec436c82520ebbfd0e0da7fc",
-    "completed": 0
-  },
-  {
     "title": "Rascal Does Not Dream of Santa Claus",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/e1cf25ede693c8b1fab848061c51a18393400a962570427d8406385cf1df631c.jpg",
@@ -67,6 +60,13 @@
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/f1ec4ad66c0cbb1c7faef38202734be58ead02fcec0f4e291702e0da026fffd4.jpg",
     "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/bfa8f803b644d9f888cd62abc470360665a87c1d8eeb8a77794a287182a1c433",
+    "completed": 0
+  },
+  {
+    "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
+    "episode": 17,
+    "image": "https://i.animepahe.ru/uploads/snapshots/403707b07df13df7cf5e934a3563879ba49e0d91881d75dc6f1bc507209ce7d4.jpg",
+    "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/237c773ad2e2d18c19582b4c4abc718afab78ac91afb0cb50ff55ea7fb65f723",
     "completed": 0
   }
 ]
