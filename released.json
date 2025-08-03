@@ -1,26 +1,5 @@
 [
   {
-    "title": "Kaiju No. 8 Season 2",
-    "episode": 15,
-    "image": "https://i.animepahe.ru/uploads/snapshots/5b6d6a4f8a9aa43c03b25f4f0981e415c91a2836fc19fc3f5916c336533376f7.jpg",
-    "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/6495ce7160727407ebc56a0195a8ba4686801980e00cc1b2f2b6e1587d5790f4",
-    "completed": 0
-  },
-  {
-    "title": "The Shy Hero and the Assassin Princesses",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/6d90628531715aeb15244a7572ab3e8e00d6b8fe3482dda5b7ec2558dc52e205.jpg",
-    "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/adca57bc2294c104d1f31d1e1eb8076a01908e585cc81fa36894498ba59d2020",
-    "completed": 0
-  },
-  {
-    "title": "9: Ruler's Crown",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/28cbcbed59b57fd553126137b89272cbeafd7a2f85426357999abb31bee5d11c.jpg",
-    "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/97982d2577454b1dfa97d8d3c82d297603e81cf892257e7bd5a8188b513d8ad5",
-    "completed": 0
-  },
-  {
     "title": "Scooped Up by an S-Ranked Adventurer",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/08c6505a03a529355d1e7cba35b213227e48b585feac12de486b05aeea7d4dba.jpg",
@@ -67,6 +46,27 @@
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/73296a40955011a9345dab87f7fafe7501f7a7130f29f194a3ede0550c61a9d5.jpg",
     "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/b1e76338f33753e334cfc23f42f911731dacf7bde2e66c24b3b52480df4e3079",
+    "completed": 0
+  },
+  {
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c99db14aa38b2c68af48e30e69f506a298911551bef930cc4a7823ddd9c8407a.jpg",
+    "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/43f3a46161ce433775171af48c45cc0447385009d1d84f936e27631ae6c4e5e9",
+    "completed": 0
+  },
+  {
+    "title": "To Be Hero X",
+    "episode": 18,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b1cb79b63f4bd744f09cb5f2411479e1a2ceca9acef47ac21bd73e34274bddc8.jpg",
+    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/1af711b7bb687992ea73dc04607f68b4add828a456fe20490cd66b63c429624b",
+    "completed": 0
+  },
+  {
+    "title": "You and Idol Precure♪",
+    "episode": 26,
+    "image": "https://i.animepahe.ru/uploads/snapshots/aa04570fc7610831bc9546d1c815fc2a058be82009ec19cb1b45e0d9d4e434bf.jpg",
+    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/91d4970dd6bf9a3749bd14cf2dad175f764a19e448ebea93934c9ae6951d89a9",
     "completed": 0
   }
 ]
