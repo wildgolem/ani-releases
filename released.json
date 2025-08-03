@@ -1,19 +1,5 @@
 [
   {
-    "title": "My Dress-Up Darling Season 2",
-    "episode": 17,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3b69bacd80d673a54cdf69f6ca0e8369878c193363e5fc168c1ddb2fad32b5df.jpg",
-    "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/8df83efc59b8a96accf1076436801655168e86ad32fa6ef38113f83703e692ed",
-    "completed": 0
-  },
-  {
-    "title": "Private Tutor to the Duke's Daughter",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7614322a7971c2410cd9515c749e60c83d7645cacaa1c60fb9fd221d4051b2ab.jpg",
-    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/45bf529a864f484010c390c3d944c7996b44bda1764a0a11aa761db5e60f9f40",
-    "completed": 0
-  },
-  {
     "title": "The Summer Hikaru Died",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/78e497e789ad2da07922ad354360d5153e85e5f7083f254a5b4dd9fa51b591aa.jpg",
@@ -67,6 +53,20 @@
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/e5853e1dbe353ad1ed8210a169c25b228ea14deb5d05610d2751cc6322cef409.jpg",
     "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/3f7cd0989c2c615fb035db81bbcc5af20e8aff0ffedaa0701ee5bd1ec9c6eb5a",
+    "completed": 0
+  },
+  {
+    "title": "Dekin no Mogura: The Earthbound Mole",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/6f59731f72d8242434d082e3cd174b42ea271010a5bd972e5c642108f0c804c9.jpg",
+    "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/736743db093e850a20b7c84469b5decec5ad57f3cc431c4ea7c24980b4fffc20",
+    "completed": 0
+  },
+  {
+    "title": "Ruri Rocks",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/498f06fc057932f2c4d4bd02c9e2f59ccdf0264c2771db43c9b4bfa376f38033.jpg",
+    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/e5360be60d98a4e65fa3afafe9cb768a66ea26eb1f16c730495054250766dbb5",
     "completed": 0
   }
 ]
