@@ -1,19 +1,5 @@
 [
   {
-    "title": "You and Idol Precure♪",
-    "episode": 26,
-    "image": "https://i.animepahe.ru/uploads/snapshots/aa04570fc7610831bc9546d1c815fc2a058be82009ec19cb1b45e0d9d4e434bf.jpg",
-    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/91d4970dd6bf9a3749bd14cf2dad175f764a19e448ebea93934c9ae6951d89a9",
-    "completed": 0
-  },
-  {
-    "title": "Witch Watch",
-    "episode": 18,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f1ec4ad66c0cbb1c7faef38202734be58ead02fcec0f4e291702e0da026fffd4.jpg",
-    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/bfa8f803b644d9f888cd62abc470360665a87c1d8eeb8a77794a287182a1c433",
-    "completed": 0
-  },
-  {
     "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/403707b07df13df7cf5e934a3563879ba49e0d91881d75dc6f1bc507209ce7d4.jpg",
@@ -67,6 +53,20 @@
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/d7ce6890df3753af428024a066a7057a0d690c1eb9c4f0a7eada69dabffb04e6.jpg",
     "link": "https://animepahe.ru/play/42dd67ed-699c-d2d4-194a-3f2365652272/ebea76f5c9c5061982d20d4d415aab03b61f11f08d0609bb5190114d64fb4987",
+    "completed": 0
+  },
+  {
+    "title": "Uglymug, Epicfighter",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/95488aa539d03e5d62f8c30f3f7d5df68bf0988c7e56471f33cf00e9053ae686.jpg",
+    "link": "https://animepahe.ru/play/e41f275d-54ee-a56d-9f5f-7b34bd31edfb/90d7028563ab4d074efadc7d5711d6f33f20d2a51fa1dbe980d06e2a5087ee43",
+    "completed": 0
+  },
+  {
+    "title": "City The Animation",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b9f014d4d6c4d3f4787bc67f9f787c3fbe211cad74be254efc00fb8d81119104.jpg",
+    "link": "https://animepahe.ru/play/d957867d-d470-7ce7-72fc-4c23095fafc1/a7f505c9fb870995b1fb54319af7e233e86fc184edf05e812e732d562cdc34a9",
     "completed": 0
   }
 ]
