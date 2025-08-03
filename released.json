@@ -1,12 +1,5 @@
 [
   {
-    "title": "Rascal Does Not Dream of Santa Claus",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e1cf25ede693c8b1fab848061c51a18393400a962570427d8406385cf1df631c.jpg",
-    "link": "https://animepahe.ru/play/025b8411-f3ff-809b-4bf9-751552950caa/276d384a325918a35f4382f1bbd46cd7560b498d5709f2dd7d75f685c0c2be88",
-    "completed": 0
-  },
-  {
     "title": "My Dress-Up Darling Season 2",
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/3b69bacd80d673a54cdf69f6ca0e8369878c193363e5fc168c1ddb2fad32b5df.jpg",
@@ -67,6 +60,13 @@
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/403707b07df13df7cf5e934a3563879ba49e0d91881d75dc6f1bc507209ce7d4.jpg",
     "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/237c773ad2e2d18c19582b4c4abc718afab78ac91afb0cb50ff55ea7fb65f723",
+    "completed": 0
+  },
+  {
+    "title": "Puniru is a Kawaii Slime Season 2",
+    "episode": 17,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e5853e1dbe353ad1ed8210a169c25b228ea14deb5d05610d2751cc6322cef409.jpg",
+    "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/3f7cd0989c2c615fb035db81bbcc5af20e8aff0ffedaa0701ee5bd1ec9c6eb5a",
     "completed": 0
   }
 ]
