@@ -1,19 +1,5 @@
 [
   {
-    "title": "Uglymug, Epicfighter",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/95488aa539d03e5d62f8c30f3f7d5df68bf0988c7e56471f33cf00e9053ae686.jpg",
-    "link": "https://animepahe.ru/play/e41f275d-54ee-a56d-9f5f-7b34bd31edfb/90d7028563ab4d074efadc7d5711d6f33f20d2a51fa1dbe980d06e2a5087ee43",
-    "completed": 0
-  },
-  {
-    "title": "City The Animation",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b9f014d4d6c4d3f4787bc67f9f787c3fbe211cad74be254efc00fb8d81119104.jpg",
-    "link": "https://animepahe.ru/play/d957867d-d470-7ce7-72fc-4c23095fafc1/a7f505c9fb870995b1fb54319af7e233e86fc184edf05e812e732d562cdc34a9",
-    "completed": 0
-  },
-  {
     "title": "One Piece",
     "episode": 1138,
     "image": "https://i.animepahe.ru/uploads/snapshots/70a50c896b1e11f9d40fd69464fab4d766c0aab2af7b1896b46695575b30f400.jpg",
@@ -67,6 +53,20 @@
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/b13f9a452c080e755a8766d9ca3db57bd2f7be72e429090c7dce9923f1b47fe8.jpg",
     "link": "https://animepahe.ru/play/785d08ac-4a7a-6c64-ae6d-f2bce029d355/df2f39a0294f7b8e750a9f02a0ddbc9dd366d683ec56a09836bf77214467efc9",
+    "completed": 0
+  },
+  {
+    "title": "There's No Freaking Way I'll be Your Lover! Unless...",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8890a76d197ebcf5b302bef17a0a3fc6286a01b6a0ff73236609de06329a5cf4.jpg",
+    "link": "https://animepahe.ru/play/1abdeb23-fe28-dc61-7169-e3d5946718b0/9761fa5a38c92948f82da496c71ac031aef30f29f217bc9a8e8def1c5372dc7b",
+    "completed": 0
+  },
+  {
+    "title": "Nukitashi the Animation",
+    "episode": 3,
+    "image": "https://i.animepahe.ru/uploads/snapshots/294a0985ce46c8564e12146c891af28fd68ddf34ebedf97bacb8d1fb796ecdc9.jpg",
+    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/726a26910206779cb5ac89cf3447d340687cf49aa14efe76e9efba436284ec89",
     "completed": 0
   }
 ]
