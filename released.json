@@ -1,12 +1,5 @@
 [
   {
-    "title": "Summer Pockets",
-    "episode": 18,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c6b97d323b425d1c82035404aeaf014e9776f568283aea415dd8895406433f67.jpg",
-    "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/31f56e0a9d4c1a5bbe0b1d6f791f9ff43e4210a478d6ad8fdce5ad0be695e963",
-    "completed": 0
-  },
-  {
     "title": "Sword of the Demon Hunter: Kijin Gentosho",
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/c026ef25f286a0e501a15478146e18eb6eb4a66f36f39afb7fe429f9fd666bb1.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/96330a92ab806450e4e3c09d10028ea1c92ad84eaf655f9cfc472d97973e7c4d.jpg",
     "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/522a337cbacbedf886f6b66941760c66826378f0e233be178309c84b4f362776",
+    "completed": 0
+  },
+  {
+    "title": "Chuhai Lips",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e4a28b05c64ad4f75959657e5a40db291129b8329590f77e598e6637f28fe827.jpg",
+    "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/1bb580b523dbcf6424a2addf5b0646209664bde343bc8648808cf23696bb3651",
     "completed": 0
   }
 ]
