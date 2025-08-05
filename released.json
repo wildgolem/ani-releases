@@ -1,19 +1,5 @@
 [
   {
-    "title": "Theatre of Darkness: Yamishibai 15",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/9bc0b61ef57ebbe28cef88a62d6ac13e138291ba9553fec08bb4122d225f0c2f.jpg",
-    "link": "https://animepahe.ru/play/6fd6c8a4-470a-57cb-9bac-5acc159bbdb9/26f9caf6f3d669bb99edbab444ca2659388d680606e3e6d74e42a65819d8a342",
-    "completed": 0
-  },
-  {
-    "title": "See You Tomorrow at the Food Court",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3bf8f690930ba0466d287e1a7655f1ea4975ff511d3b32e924df6faa449426df.jpg",
-    "link": "https://animepahe.ru/play/fb8c4048-fdb7-0d73-c932-d3e7ecad16a4/9ad6b9fddb000b066a8733c0d7c760890f35de30f6723ce7e3c06871eb0b8e4a",
-    "completed": 0
-  },
-  {
     "title": "Summer Pockets",
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/c6b97d323b425d1c82035404aeaf014e9776f568283aea415dd8895406433f67.jpg",
@@ -67,6 +53,20 @@
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/65fe51f0c454f9a65e623a410e1aaec8b4d58aaf0918b88e549ad86921405e87.jpg",
     "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/5674818dae5ddbcdd2054f910d2cfbfb93f30f0edc8a9e51052d54624b1ffd0f",
+    "completed": 0
+  },
+  {
+    "title": "Detectives These Days Are Crazy!",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b5d9f9358b7efa0b6af890e65fb4c9e28d0bef1a6e7654806c5e3cd649549424.jpg",
+    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/c7dec300aaf9ffa3bd58d91a370d1b409cd3586f7e270ad972cb559e2282c12c",
+    "completed": 0
+  },
+  {
+    "title": "Necronomico and the Cosmic Horror Show",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/96330a92ab806450e4e3c09d10028ea1c92ad84eaf655f9cfc472d97973e7c4d.jpg",
+    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/522a337cbacbedf886f6b66941760c66826378f0e233be178309c84b4f362776",
     "completed": 0
   }
 ]
