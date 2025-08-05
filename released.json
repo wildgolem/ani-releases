@@ -1,12 +1,5 @@
 [
   {
-    "title": "Hotel Inhumans",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/522c06f4a8adf0eaf5ab24050562225319c00b8135bcaee1e505294c234ae216.jpg",
-    "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/a0c5714a678dcb235843e335881c61f0b41a74bf7c05f69012e6d5dfeeecacef",
-    "completed": 0
-  },
-  {
     "title": "Theatre of Darkness: Yamishibai 15",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/9bc0b61ef57ebbe28cef88a62d6ac13e138291ba9553fec08bb4122d225f0c2f.jpg",
@@ -67,6 +60,13 @@
     "episode": 42,
     "image": "https://i.animepahe.ru/uploads/snapshots/e245367bb18e3dc08d87c16737080bf75d2e08bef62bac7a60208b8bd46d07be.jpg",
     "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/d8b63251772d97d91e0a9a9693412cc484de25431fbc0dbb251a86e22d032d3c",
+    "completed": 0
+  },
+  {
+    "title": "A Couple of Cuckoos Season 2",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/65fe51f0c454f9a65e623a410e1aaec8b4d58aaf0918b88e549ad86921405e87.jpg",
+    "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/5674818dae5ddbcdd2054f910d2cfbfb93f30f0edc8a9e51052d54624b1ffd0f",
     "completed": 0
   }
 ]
