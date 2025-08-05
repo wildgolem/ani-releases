@@ -1,12 +1,5 @@
 [
   {
-    "title": "Sword of the Demon Hunter: Kijin Gentosho",
-    "episode": 17,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c026ef25f286a0e501a15478146e18eb6eb4a66f36f39afb7fe429f9fd666bb1.jpg",
-    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/522a34059e22807f772b7a2a126f310ec5e22a419c11a5c58914d1e1d6c2f1c2",
-    "completed": 0
-  },
-  {
     "title": "Sakamoto Days Part 2",
     "episode": 16,
     "image": "https://i.animepahe.ru/uploads/snapshots/4f55c75a982b7ee150f83375218244a613d7e4cbe8284d0496d5404f208de2e9.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/e4a28b05c64ad4f75959657e5a40db291129b8329590f77e598e6637f28fe827.jpg",
     "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/1bb580b523dbcf6424a2addf5b0646209664bde343bc8648808cf23696bb3651",
+    "completed": 0
+  },
+  {
+    "title": "Mr. Osomatsu 4th Season",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/77785d087a1937fc58b0e78030a3eff160b036756d7e8f9f01508aba9eff7e0d.jpg",
+    "link": "https://animepahe.ru/play/ad12e261-8b36-80af-842a-28d955a8dba1/10f8edf44509280adbcb9cc00976945121a890816c1ade1d90c790b329fac3c3",
     "completed": 0
   }
 ]
