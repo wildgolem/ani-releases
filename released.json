@@ -1,19 +1,5 @@
 [
   {
-    "title": "Detectives These Days Are Crazy!",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b5d9f9358b7efa0b6af890e65fb4c9e28d0bef1a6e7654806c5e3cd649549424.jpg",
-    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/c7dec300aaf9ffa3bd58d91a370d1b409cd3586f7e270ad972cb559e2282c12c",
-    "completed": 0
-  },
-  {
-    "title": "Necronomico and the Cosmic Horror Show",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/96330a92ab806450e4e3c09d10028ea1c92ad84eaf655f9cfc472d97973e7c4d.jpg",
-    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/522a337cbacbedf886f6b66941760c66826378f0e233be178309c84b4f362776",
-    "completed": 0
-  },
-  {
     "title": "Chuhai Lips",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/e4a28b05c64ad4f75959657e5a40db291129b8329590f77e598e6637f28fe827.jpg",
@@ -67,6 +53,20 @@
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/3b71dbe11bee9c7c98626085991746fa3b997aa72c39ed585e98b8830bbc0a89.jpg",
     "link": "https://animepahe.ru/play/39f74d0c-55ad-4c14-5af2-2821f91f6eb5/84c159336d5314bfdb32b4c1ac403ddef18e7adf950f469ba2bfa0b6bbe230f0",
+    "completed": 0
+  },
+  {
+    "title": "Dealing with Mikadono Sisters Is a Breeze",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d6aa6781c01a499ec51aaba91b40d1d6e22fd3874dc827ac71c5f00dbde90122.jpg",
+    "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/ac98931361d31b76e3a1399ed0f562d488910f27a1e556d2d5cf58e89ff446fc",
+    "completed": 0
+  },
+  {
+    "title": "Onmyo Kaiten Re:Birth Verse",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/20e2b0df8db4248bff4d545eb34c1801c552edc179ed3b070548058f392837af.jpg",
+    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/691b86f5f68c5bcd2f823a2bd889073847afdb6c72df23aea6d3284a67e9fd8a",
     "completed": 0
   }
 ]
