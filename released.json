@@ -1,19 +1,5 @@
 [
   {
-    "title": "Rent-a-Girlfriend Season 4",
-    "episode": 42,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e245367bb18e3dc08d87c16737080bf75d2e08bef62bac7a60208b8bd46d07be.jpg",
-    "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/d8b63251772d97d91e0a9a9693412cc484de25431fbc0dbb251a86e22d032d3c",
-    "completed": 0
-  },
-  {
-    "title": "A Couple of Cuckoos Season 2",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/65fe51f0c454f9a65e623a410e1aaec8b4d58aaf0918b88e549ad86921405e87.jpg",
-    "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/5674818dae5ddbcdd2054f910d2cfbfb93f30f0edc8a9e51052d54624b1ffd0f",
-    "completed": 0
-  },
-  {
     "title": "Detectives These Days Are Crazy!",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/b5d9f9358b7efa0b6af890e65fb4c9e28d0bef1a6e7654806c5e3cd649549424.jpg",
@@ -67,6 +53,20 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/a87f8e2b9ea718c2654cfa5925495a19b9ac806f21906bd19573a93be34f6376.jpg",
     "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/a658fcb8010801612fbb06ac137ed36e385937e43eab984347c3a44fd96d8927",
+    "completed": 0
+  },
+  {
+    "title": "New Panty & Stocking with Garterbelt",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d90a9110b4abb95df2c81d1eb5d5d7f5a3e180ab0a470c39f33b430a196ac878.jpg",
+    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/065c34eb5f1a584f8b87b0aab317f97912706171ff583008529dc19432ab1ba7",
+    "completed": 0
+  },
+  {
+    "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+    "episode": 17,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3b71dbe11bee9c7c98626085991746fa3b997aa72c39ed585e98b8830bbc0a89.jpg",
+    "link": "https://animepahe.ru/play/39f74d0c-55ad-4c14-5af2-2821f91f6eb5/84c159336d5314bfdb32b4c1ac403ddef18e7adf950f469ba2bfa0b6bbe230f0",
     "completed": 0
   }
 ]
