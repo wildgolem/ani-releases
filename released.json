@@ -1,12 +1,5 @@
 [
   {
-    "title": "Chuhai Lips",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e4a28b05c64ad4f75959657e5a40db291129b8329590f77e598e6637f28fe827.jpg",
-    "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/1bb580b523dbcf6424a2addf5b0646209664bde343bc8648808cf23696bb3651",
-    "completed": 0
-  },
-  {
     "title": "Mr. Osomatsu 4th Season",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/77785d087a1937fc58b0e78030a3eff160b036756d7e8f9f01508aba9eff7e0d.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/20e2b0df8db4248bff4d545eb34c1801c552edc179ed3b070548058f392837af.jpg",
     "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/691b86f5f68c5bcd2f823a2bd889073847afdb6c72df23aea6d3284a67e9fd8a",
+    "completed": 0
+  },
+  {
+    "title": "Hell Teacher: Jigoku Sensei Nube",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/659d6886bbc326aecd4048dab86a13e82cfc3fec4631c809d58321ddada0019f.jpg",
+    "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/ba5a87f0df291ec85c26e79eec6c0ca76d0878bfa6ef2d713667b69b6dea74f6",
     "completed": 0
   }
 ]
