@@ -1,12 +1,5 @@
 [
   {
-    "title": "Nukitashi the Animation",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/294a0985ce46c8564e12146c891af28fd68ddf34ebedf97bacb8d1fb796ecdc9.jpg",
-    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/726a26910206779cb5ac89cf3447d340687cf49aa14efe76e9efba436284ec89",
-    "completed": 0
-  },
-  {
     "title": "Rent-a-Girlfriend Season 4",
     "episode": 42,
     "image": "https://i.animepahe.ru/uploads/snapshots/e245367bb18e3dc08d87c16737080bf75d2e08bef62bac7a60208b8bd46d07be.jpg",
@@ -67,6 +60,13 @@
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/779c01c4f5cdab1821726d95691c937e0066c23ab68588b58e066549ff49df9e.jpg",
     "link": "https://animepahe.ru/play/75361ccc-cacc-d7c2-8fe0-2f0af0f565ae/bcadf1548324a4c1c9011eee9ba20483fbd4ed979e1e4c00d45bf2390142fcdd",
+    "completed": 0
+  },
+  {
+    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a87f8e2b9ea718c2654cfa5925495a19b9ac806f21906bd19573a93be34f6376.jpg",
+    "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/a658fcb8010801612fbb06ac137ed36e385937e43eab984347c3a44fd96d8927",
     "completed": 0
   }
 ]
