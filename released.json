@@ -1,12 +1,5 @@
 [
   {
-    "title": "Turkey! Time to Strike",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/fa739f3451c51697e6d9895641b3cf4c2e4264d69a9f0f7fca311c07fa5dceae.jpg",
-    "link": "https://animepahe.ru/play/25d65413-3d15-a068-14bf-de80387ff396/f18123e1be79a9213b7dd9a55e2c92b65e4786607801c01231e02183909c2da9",
-    "completed": 0
-  },
-  {
     "title": "Clevatess",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/b29bfd8ecd0b7c48200eb8d7c8e77a682d4be12a01d94dc9aadbc03be0b38ad9.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/18ef0e4f069431b6507f97d502746dcf39d99dff46330573e2ddd27dfe8999f9.jpg",
     "link": "https://animepahe.ru/play/f5135165-7630-6498-ccd8-93954cfef653/498b5915d2e95ad03d79053d7e6505f4e29ea8d4562950bd43cb8f40c9ee2eb0",
+    "completed": 0
+  },
+  {
+    "title": "Beyblade X",
+    "episode": 91,
+    "image": "https://i.animepahe.ru/uploads/snapshots/75f485e40466c2a505f11c95c90788b73bba2ae1656401a447cb7baada597fb3.jpg",
+    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/1afb1d16cb7517eba6ec3caadaee7c4973e198224a7dbd7a31d8ad2f0e24e0ec",
     "completed": 0
   }
 ]
