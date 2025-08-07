@@ -1,12 +1,5 @@
 [
   {
-    "title": "Onmyo Kaiten Re:Birth Verse",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/20e2b0df8db4248bff4d545eb34c1801c552edc179ed3b070548058f392837af.jpg",
-    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/691b86f5f68c5bcd2f823a2bd889073847afdb6c72df23aea6d3284a67e9fd8a",
-    "completed": 0
-  },
-  {
     "title": "Hell Teacher: Jigoku Sensei Nube",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/659d6886bbc326aecd4048dab86a13e82cfc3fec4631c809d58321ddada0019f.jpg",
@@ -67,6 +60,13 @@
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/ad37c296d362af1c20ea9191fde3acc785469feb5ea354706da6edd4163aadec.jpg",
     "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/8405407023b10cf952e0227c5f4783779839ef39e4f2576b0774c8abbd775ee4",
+    "completed": 0
+  },
+  {
+    "title": "Me and the Alien MuMu",
+    "episode": 18,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2659455ede0556a705b0e370b1cbdb203c7f71e79fda82287636ba9d99903a69.jpg",
+    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/f55abe963ec970d11bb90b599d768d692e017b5cbbb4c0ec1ac020166c0a2a49",
     "completed": 0
   }
 ]
