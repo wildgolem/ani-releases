@@ -1,19 +1,5 @@
 [
   {
-    "title": "New Panty & Stocking with Garterbelt",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d90a9110b4abb95df2c81d1eb5d5d7f5a3e180ab0a470c39f33b430a196ac878.jpg",
-    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/065c34eb5f1a584f8b87b0aab317f97912706171ff583008529dc19432ab1ba7",
-    "completed": 0
-  },
-  {
-    "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
-    "episode": 17,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3b71dbe11bee9c7c98626085991746fa3b997aa72c39ed585e98b8830bbc0a89.jpg",
-    "link": "https://animepahe.ru/play/39f74d0c-55ad-4c14-5af2-2821f91f6eb5/84c159336d5314bfdb32b4c1ac403ddef18e7adf950f469ba2bfa0b6bbe230f0",
-    "completed": 0
-  },
-  {
     "title": "Dealing with Mikadono Sisters Is a Breeze",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/d6aa6781c01a499ec51aaba91b40d1d6e22fd3874dc827ac71c5f00dbde90122.jpg",
@@ -67,6 +53,20 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/44db840aa8f685eef028aa86acf0290820c16147748f016b7aac66781f3dcf02.jpg",
     "link": "https://animepahe.ru/play/7a909eb7-14eb-9822-6bfe-ab9f1d9ab597/16af476a4ec90457dde4b6416250dab669d763eda1afd7e5f70419109fd8a5be",
+    "completed": 0
+  },
+  {
+    "title": "Dan Da Dan Season 2",
+    "episode": 18,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7e08a3c47d8898edec874d30f6b4ab55ac85e86a87a8e6f476721fd943f8d23b.jpg",
+    "link": "https://animepahe.ru/play/eb60c032-081f-2049-f869-babd395f242e/2d895097316576a6722ff3d2e812a44bd7b41247e5d36c3f6555c8b0883ecf35",
+    "completed": 0
+  },
+  {
+    "title": "Solo Camping for Two",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/18a8aa3507345424a885847e6fa8d5c023e3f841eefa41b258ebdb19e5207324.jpg",
+    "link": "https://animepahe.ru/play/121849f4-890d-db95-3a0b-34e0e9a9360b/98b92b8c7ed818311412ca9e138c5fd90f4c70c22915c176cb0979dab4170902",
     "completed": 0
   }
 ]
