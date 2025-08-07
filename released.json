@@ -1,12 +1,5 @@
 [
   {
-    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a87f8e2b9ea718c2654cfa5925495a19b9ac806f21906bd19573a93be34f6376.jpg",
-    "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/a658fcb8010801612fbb06ac137ed36e385937e43eab984347c3a44fd96d8927",
-    "completed": 0
-  },
-  {
     "title": "New Panty & Stocking with Garterbelt",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/d90a9110b4abb95df2c81d1eb5d5d7f5a3e180ab0a470c39f33b430a196ac878.jpg",
@@ -67,6 +60,13 @@
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/afe999ba99c12805a1fc4a941311c751e3e40c09bb96bd3d1ca5b01abc4b6330.jpg",
     "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/81ea9569d8b2960e8a11c3d965987f7d21f9db4eadd8a8c93e7fc9672e171b54",
+    "completed": 0
+  },
+  {
+    "title": "Welcome to the Outcast's Restaurant!",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/44db840aa8f685eef028aa86acf0290820c16147748f016b7aac66781f3dcf02.jpg",
+    "link": "https://animepahe.ru/play/7a909eb7-14eb-9822-6bfe-ab9f1d9ab597/16af476a4ec90457dde4b6416250dab669d763eda1afd7e5f70419109fd8a5be",
     "completed": 0
   }
 ]
