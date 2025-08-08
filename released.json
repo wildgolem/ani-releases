@@ -1,12 +1,5 @@
 [
   {
-    "title": "Dr. Stone: Science Future Part 2",
-    "episode": 17,
-    "image": "https://i.animepahe.ru/uploads/snapshots/afe999ba99c12805a1fc4a941311c751e3e40c09bb96bd3d1ca5b01abc4b6330.jpg",
-    "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/81ea9569d8b2960e8a11c3d965987f7d21f9db4eadd8a8c93e7fc9672e171b54",
-    "completed": 0
-  },
-  {
     "title": "Welcome to the Outcast's Restaurant!",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/44db840aa8f685eef028aa86acf0290820c16147748f016b7aac66781f3dcf02.jpg",
@@ -67,6 +60,13 @@
     "episode": 22,
     "image": "https://i.animepahe.ru/uploads/snapshots/8a4359112ae12de08444db5388acb2b9f4179e0d069e7922c6da7e42c14b315b.jpg",
     "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/a0adef0e5b34db72e8003d907c35866ff28b9e935d5dce2cafebfd5d2a493fa8",
+    "completed": 0
+  },
+  {
+    "title": "Tougen Anki",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2e04bc4c338e3ef20104bf8930e52fe3d67a32f255d263a2342792853b82bcda.jpg",
+    "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/e74f51050443f522ea448ec2b879fc005723cce00d4963f618265b4d841e2e65",
     "completed": 0
   }
 ]
