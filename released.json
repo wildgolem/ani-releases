@@ -1,12 +1,5 @@
 [
   {
-    "title": "Me and the Alien MuMu",
-    "episode": 18,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2659455ede0556a705b0e370b1cbdb203c7f71e79fda82287636ba9d99903a69.jpg",
-    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/f55abe963ec970d11bb90b599d768d692e017b5cbbb4c0ec1ac020166c0a2a49",
-    "completed": 0
-  },
-  {
     "title": "Dragon Raja II -The Mourner's Eyes-",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/db79788581260585a239b8136582daaa25b483cf8b101aeeff824cbf43a9e37f.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/62d0bb62d237e759549510440541dbb367f6dc8d18d60b21aa452b59e8b81a64.jpg",
     "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/e527b3064281528c535c56794bfd049dd39ba97e866490425740f0ab94896fb8",
+    "completed": 0
+  },
+  {
+    "title": "Himitsu no AiPri: Ring-hen",
+    "episode": 18,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3609c48b4ba0117608b86d82b27d491bb56b286a90ce11a9359e094b5a4f15fc.jpg",
+    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/0f2793e9c925b9459cda4f8f380b54a18c134591f1224d516918310ef0847cda",
     "completed": 0
   }
 ]
