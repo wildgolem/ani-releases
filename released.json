@@ -1,12 +1,5 @@
 [
   {
-    "title": "New Saga",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/18ef0e4f069431b6507f97d502746dcf39d99dff46330573e2ddd27dfe8999f9.jpg",
-    "link": "https://animepahe.ru/play/f5135165-7630-6498-ccd8-93954cfef653/498b5915d2e95ad03d79053d7e6505f4e29ea8d4562950bd43cb8f40c9ee2eb0",
-    "completed": 0
-  },
-  {
     "title": "Beyblade X",
     "episode": 91,
     "image": "https://i.animepahe.ru/uploads/snapshots/75f485e40466c2a505f11c95c90788b73bba2ae1656401a447cb7baada597fb3.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/db79788581260585a239b8136582daaa25b483cf8b101aeeff824cbf43a9e37f.jpg",
     "link": "https://animepahe.ru/play/fca3ff7b-02dd-b984-baa3-c4021c7f6629/7f437e02bc3b79f13e041392fb099259fc797b4ec23c00dcf84ba04cfb7208bd",
+    "completed": 0
+  },
+  {
+    "title": "Crayon Shin-chan",
+    "episode": 65,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2ade2a55c58991f599057ca614fb7815e44f7974b12970aa7a65ac763656ce29.jpg",
+    "link": "https://animepahe.ru/play/8a53e333-74b8-9fb6-721e-9b82085e83e6/4d561a1dc0a6118c50bd19bcd023ef731d0805f5874b84f1d3d790689f450897",
     "completed": 0
   }
 ]
