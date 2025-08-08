@@ -1,12 +1,5 @@
 [
   {
-    "title": "Let's Go Karaoke!",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d7379fee14d747ea059a47a4648f4eb84e63a8cf9207e03aab7b6cf11df3e769.jpg",
-    "link": "https://animepahe.ru/play/4c1087fc-9f3d-318c-10b7-b2c1aeed41f0/2d585aae74bea190961829ab238636ed5d4fde99da2cc4076846720ee01e8baf",
-    "completed": 0
-  },
-  {
     "title": "Dr. Stone: Science Future Part 2",
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/afe999ba99c12805a1fc4a941311c751e3e40c09bb96bd3d1ca5b01abc4b6330.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/fabc057c6c1c423fbf5259784425de4848dbbf907aba512a11361516c631ac42.jpg",
     "link": "https://animepahe.ru/play/6e9c69a4-6719-22ec-78f8-7e9604e91b7a/a295331a58fdc0916de8922ee8a87bb76cc4e53b89020d1534146dcef405cb6c",
+    "completed": 0
+  },
+  {
+    "title": "Arknights: Rise from Ember",
+    "episode": 22,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8a4359112ae12de08444db5388acb2b9f4179e0d069e7922c6da7e42c14b315b.jpg",
+    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/a0adef0e5b34db72e8003d907c35866ff28b9e935d5dce2cafebfd5d2a493fa8",
     "completed": 0
   }
 ]
