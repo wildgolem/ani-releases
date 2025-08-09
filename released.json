@@ -1,19 +1,5 @@
 [
   {
-    "title": "Dragon Raja II -The Mourner's Eyes-",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/db79788581260585a239b8136582daaa25b483cf8b101aeeff824cbf43a9e37f.jpg",
-    "link": "https://animepahe.ru/play/fca3ff7b-02dd-b984-baa3-c4021c7f6629/7f437e02bc3b79f13e041392fb099259fc797b4ec23c00dcf84ba04cfb7208bd",
-    "completed": 0
-  },
-  {
-    "title": "Crayon Shin-chan",
-    "episode": 65,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2ade2a55c58991f599057ca614fb7815e44f7974b12970aa7a65ac763656ce29.jpg",
-    "link": "https://animepahe.ru/play/8a53e333-74b8-9fb6-721e-9b82085e83e6/4d561a1dc0a6118c50bd19bcd023ef731d0805f5874b84f1d3d790689f450897",
-    "completed": 0
-  },
-  {
     "title": "April Showers Bring May Flowers",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/fabc057c6c1c423fbf5259784425de4848dbbf907aba512a11361516c631ac42.jpg",
@@ -67,6 +53,20 @@
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/3609c48b4ba0117608b86d82b27d491bb56b286a90ce11a9359e094b5a4f15fc.jpg",
     "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/0f2793e9c925b9459cda4f8f380b54a18c134591f1224d516918310ef0847cda",
+    "completed": 0
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "episode": 105,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0e659d8d607e56e3e47b3c72b3a0b47f3f22797acf347c28467c664fc7bd1f59.jpg",
+    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/1413bd04f2ae1418b3353b2070ef26c5a52955a00c6c4db44e906e8febd975e7",
+    "completed": 0
+  },
+  {
+    "title": "Lord of Mysteries",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/48c0970cc92534f56ac11826322fb3ac3c1e80fda84d526b5a410b9d063bbf26.jpg",
+    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/1447a6e9e0446f07e75cf5a6ee408b4c98e4357f01cc646aa927b38fcb01e8c6",
     "completed": 0
   }
 ]
