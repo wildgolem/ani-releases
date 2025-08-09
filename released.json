@@ -1,12 +1,5 @@
 [
   {
-    "title": "Tougen Anki",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2e04bc4c338e3ef20104bf8930e52fe3d67a32f255d263a2342792853b82bcda.jpg",
-    "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/e74f51050443f522ea448ec2b879fc005723cce00d4963f618265b4d841e2e65",
-    "completed": 0
-  },
-  {
     "title": "Call of the Night Season 2",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/0e78a26604e80c31aea14df4d5a62a64625e4c7cb4370baef81087f9679540f1.jpg",
@@ -67,6 +60,13 @@
     "episode": 16,
     "image": "https://i.animepahe.ru/uploads/snapshots/92eec702dc0cd50ef3d15c3987b464a9710ae1fee01f86ef7080a6e175de94dd.jpg",
     "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/4f29aec9f222e693c59d3353e087dc9fc42dc345a2bb2adf20809d1cc9fa1419",
+    "completed": 0
+  },
+  {
+    "title": "The Shy Hero and the Assassin Princesses",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0cadc843ff88f2c056be29f0ba1dc82c410c033e2d8ae4295960ea25286dfd0c.jpg",
+    "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/1d9f1fce2ca83df15b000406c59d48a5aa2125498ce33551c295d1b297bcf5da",
     "completed": 0
   }
 ]
