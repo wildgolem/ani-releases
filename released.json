@@ -1,26 +1,5 @@
 [
   {
-    "title": "Betrothed to My Sister's Ex",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/62d0bb62d237e759549510440541dbb367f6dc8d18d60b21aa452b59e8b81a64.jpg",
-    "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/e527b3064281528c535c56794bfd049dd39ba97e866490425740f0ab94896fb8",
-    "completed": 0
-  },
-  {
-    "title": "Himitsu no AiPri: Ring-hen",
-    "episode": 18,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3609c48b4ba0117608b86d82b27d491bb56b286a90ce11a9359e094b5a4f15fc.jpg",
-    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/0f2793e9c925b9459cda4f8f380b54a18c134591f1224d516918310ef0847cda",
-    "completed": 0
-  },
-  {
-    "title": "Pokémon Horizons: The Series",
-    "episode": 105,
-    "image": "https://i.animepahe.ru/uploads/snapshots/0e659d8d607e56e3e47b3c72b3a0b47f3f22797acf347c28467c664fc7bd1f59.jpg",
-    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/1413bd04f2ae1418b3353b2070ef26c5a52955a00c6c4db44e906e8febd975e7",
-    "completed": 0
-  },
-  {
     "title": "Lord of Mysteries",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/48c0970cc92534f56ac11826322fb3ac3c1e80fda84d526b5a410b9d063bbf26.jpg",
@@ -67,6 +46,27 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/39bab300c084af771fc57bbfbcaeafb9ce0d8f9d37e5eaa3217a3a43421b8347.jpg",
     "link": "https://animepahe.ru/play/025b8411-f3ff-809b-4bf9-751552950caa/e01c7ec2ba8de9f5405bdc08f3c90d6f529d24636a16025d32ad9202667ac468",
+    "completed": 0
+  },
+  {
+    "title": "My Dress-Up Darling Season 2",
+    "episode": 18,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c308ec3d5f11ef9310784a1c7c87c5d4ee4c4ab22ec8b26843e356b252747ec7.jpg",
+    "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/3a63938a7dc95f587b3a49a70d307b8a1bcc2c1d836ac214974ad914a7ff7674",
+    "completed": 0
+  },
+  {
+    "title": "9: Ruler's Crown",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/1058aea0d8f9036cb6d43c9d2425671fd868d8d059d2217e4413a531c0c54cf4.jpg",
+    "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/68fa4ef72db24e88ee4309f72c0e2994a9947d49de5475049d6f02bb1e4a1ae5",
+    "completed": 0
+  },
+  {
+    "title": "Fermat Kitchen",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/eb5662acb9f4d60d49b33f0737d8f5790c2b306d5e28976dbdbad94903e7a156.jpg",
+    "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/c7ba48a94f582ae959946ba104c2f33aa941901e7456a70ae57df4354136d248",
     "completed": 0
   }
 ]
