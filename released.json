@@ -1,12 +1,5 @@
 [
   {
-    "title": "Arknights: Rise from Ember",
-    "episode": 22,
-    "image": "https://i.animepahe.ru/uploads/snapshots/8a4359112ae12de08444db5388acb2b9f4179e0d069e7922c6da7e42c14b315b.jpg",
-    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/a0adef0e5b34db72e8003d907c35866ff28b9e935d5dce2cafebfd5d2a493fa8",
-    "completed": 0
-  },
-  {
     "title": "Tougen Anki",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/2e04bc4c338e3ef20104bf8930e52fe3d67a32f255d263a2342792853b82bcda.jpg",
@@ -67,6 +60,13 @@
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/944926b78fe68b31d88619d8070859c7e5d03fa324bf0b1950a7853ad918eefa.jpg",
     "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/2b070074b99ede51bd6bf88cfb796cc8536d0418182d1c38f4efab697a376f35",
+    "completed": 0
+  },
+  {
+    "title": "Kaiju No. 8 Season 2",
+    "episode": 16,
+    "image": "https://i.animepahe.ru/uploads/snapshots/92eec702dc0cd50ef3d15c3987b464a9710ae1fee01f86ef7080a6e175de94dd.jpg",
+    "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/4f29aec9f222e693c59d3353e087dc9fc42dc345a2bb2adf20809d1cc9fa1419",
     "completed": 0
   }
 ]
