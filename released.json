@@ -1,12 +1,5 @@
 [
   {
-    "title": "April Showers Bring May Flowers",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/fabc057c6c1c423fbf5259784425de4848dbbf907aba512a11361516c631ac42.jpg",
-    "link": "https://animepahe.ru/play/6e9c69a4-6719-22ec-78f8-7e9604e91b7a/a295331a58fdc0916de8922ee8a87bb76cc4e53b89020d1534146dcef405cb6c",
-    "completed": 0
-  },
-  {
     "title": "Arknights: Rise from Ember",
     "episode": 22,
     "image": "https://i.animepahe.ru/uploads/snapshots/8a4359112ae12de08444db5388acb2b9f4179e0d069e7922c6da7e42c14b315b.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/48c0970cc92534f56ac11826322fb3ac3c1e80fda84d526b5a410b9d063bbf26.jpg",
     "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/1447a6e9e0446f07e75cf5a6ee408b4c98e4357f01cc646aa927b38fcb01e8c6",
+    "completed": 0
+  },
+  {
+    "title": "Yaiba: Samurai Legend",
+    "episode": 18,
+    "image": "https://i.animepahe.ru/uploads/snapshots/944926b78fe68b31d88619d8070859c7e5d03fa324bf0b1950a7853ad918eefa.jpg",
+    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/2b070074b99ede51bd6bf88cfb796cc8536d0418182d1c38f4efab697a376f35",
     "completed": 0
   }
 ]
