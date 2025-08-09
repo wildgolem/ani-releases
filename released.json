@@ -1,19 +1,5 @@
 [
   {
-    "title": "Lord of Mysteries",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/48c0970cc92534f56ac11826322fb3ac3c1e80fda84d526b5a410b9d063bbf26.jpg",
-    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/1447a6e9e0446f07e75cf5a6ee408b4c98e4357f01cc646aa927b38fcb01e8c6",
-    "completed": 0
-  },
-  {
-    "title": "Yaiba: Samurai Legend",
-    "episode": 18,
-    "image": "https://i.animepahe.ru/uploads/snapshots/944926b78fe68b31d88619d8070859c7e5d03fa324bf0b1950a7853ad918eefa.jpg",
-    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/2b070074b99ede51bd6bf88cfb796cc8536d0418182d1c38f4efab697a376f35",
-    "completed": 0
-  },
-  {
     "title": "Kaiju No. 8 Season 2",
     "episode": 16,
     "image": "https://i.animepahe.ru/uploads/snapshots/92eec702dc0cd50ef3d15c3987b464a9710ae1fee01f86ef7080a6e175de94dd.jpg",
@@ -67,6 +53,20 @@
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/eb5662acb9f4d60d49b33f0737d8f5790c2b306d5e28976dbdbad94903e7a156.jpg",
     "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/c7ba48a94f582ae959946ba104c2f33aa941901e7456a70ae57df4354136d248",
+    "completed": 0
+  },
+  {
+    "title": "Private Tutor to the Duke's Daughter",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d682a3822c05a5b59ff72f0c1b46038faf07590add68cde7076ec4a2ba414e8e.jpg",
+    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/89e0f31c6bbbb3a2dda70eac91a28742b20de3a5d0a890b2e74f450f096a7cc2",
+    "completed": 0
+  },
+  {
+    "title": "The Summer Hikaru Died",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4264294154110c6396f32eb39a358e0eb6a8273f272fc38da12e0d1f3eea4a65.jpg",
+    "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/79203500f9677548a4ee4fb0797edaee047f59785598549ff48e285402afa80b",
     "completed": 0
   }
 ]
