@@ -1,12 +1,5 @@
 [
   {
-    "title": "9: Ruler's Crown",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1058aea0d8f9036cb6d43c9d2425671fd868d8d059d2217e4413a531c0c54cf4.jpg",
-    "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/68fa4ef72db24e88ee4309f72c0e2994a9947d49de5475049d6f02bb1e4a1ae5",
-    "completed": 0
-  },
-  {
     "title": "Fermat Kitchen",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/eb5662acb9f4d60d49b33f0737d8f5790c2b306d5e28976dbdbad94903e7a156.jpg",
@@ -67,6 +60,13 @@
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/69bb0190e3627163c5664900bbb2015dcf4d1e96ae5c606e59469e974b6c8557.jpg",
     "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/87bf31217432021b3405de46171e620e4c79fef65d2c45392c245edb43566c8a",
+    "completed": 0
+  },
+  {
+    "title": "Puniru is a Kawaii Slime Season 2",
+    "episode": 18,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fa17137518e4b832032dbc2d3e213be8ae10c8093094788b026eaee1362124cc.jpg",
+    "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/f9964e8d9b42869fd8d9dc9bf2c731bde8b0a090cee8f91e29ba50da82a220d0",
     "completed": 0
   }
 ]
