@@ -1,12 +1,5 @@
 [
   {
-    "title": "My Dress-Up Darling Season 2",
-    "episode": 18,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c308ec3d5f11ef9310784a1c7c87c5d4ee4c4ab22ec8b26843e356b252747ec7.jpg",
-    "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/3a63938a7dc95f587b3a49a70d307b8a1bcc2c1d836ac214974ad914a7ff7674",
-    "completed": 0
-  },
-  {
     "title": "9: Ruler's Crown",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/1058aea0d8f9036cb6d43c9d2425671fd868d8d059d2217e4413a531c0c54cf4.jpg",
@@ -67,6 +60,13 @@
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/a70ed1c237b516ceff904bbd465982b7704c66e729dea8249f159cf15d3fb4fe.jpg",
     "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/4ffab2115eabbc0fccc3cc1fcdb5a7d8bd316ebd41c883de7807dd36a97ff0dc",
+    "completed": 0
+  },
+  {
+    "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
+    "episode": 18,
+    "image": "https://i.animepahe.ru/uploads/snapshots/69bb0190e3627163c5664900bbb2015dcf4d1e96ae5c606e59469e974b6c8557.jpg",
+    "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/87bf31217432021b3405de46171e620e4c79fef65d2c45392c245edb43566c8a",
     "completed": 0
   }
 ]
