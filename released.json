@@ -1,26 +1,5 @@
 [
   {
-    "title": "Fermat Kitchen",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/eb5662acb9f4d60d49b33f0737d8f5790c2b306d5e28976dbdbad94903e7a156.jpg",
-    "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/c7ba48a94f582ae959946ba104c2f33aa941901e7456a70ae57df4354136d248",
-    "completed": 0
-  },
-  {
-    "title": "Private Tutor to the Duke's Daughter",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d682a3822c05a5b59ff72f0c1b46038faf07590add68cde7076ec4a2ba414e8e.jpg",
-    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/89e0f31c6bbbb3a2dda70eac91a28742b20de3a5d0a890b2e74f450f096a7cc2",
-    "completed": 0
-  },
-  {
-    "title": "The Summer Hikaru Died",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4264294154110c6396f32eb39a358e0eb6a8273f272fc38da12e0d1f3eea4a65.jpg",
-    "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/79203500f9677548a4ee4fb0797edaee047f59785598549ff48e285402afa80b",
-    "completed": 0
-  },
-  {
     "title": "With You and the Rain",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/f9418bfe4bba11505811b155cbd2fef43e553994fa68df7d2c89e84266427abf.jpg",
@@ -67,6 +46,27 @@
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/fa17137518e4b832032dbc2d3e213be8ae10c8093094788b026eaee1362124cc.jpg",
     "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/f9964e8d9b42869fd8d9dc9bf2c731bde8b0a090cee8f91e29ba50da82a220d0",
+    "completed": 0
+  },
+  {
+    "title": "Dekin no Mogura: The Earthbound Mole",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/acd2f10514f80441c8105f63e8e77e318366867c327af27960da6e9d4ae9a4af.jpg",
+    "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/2b6460c685cd1adad61debf7e72778b6b51946ccc107baebdeed1bce403e7cd3",
+    "completed": 0
+  },
+  {
+    "title": "Ruri Rocks",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/922760187fda7f9f5eaee8e0fde28621d1297a0c7ff8ee1e237ea5682cea4e73.jpg",
+    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/9c59344ee0db74715f581d422dfa3de7b4779e31109d8408a80462c2c0968d29",
+    "completed": 0
+  },
+  {
+    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/083e8cf71f32043aef83f4a8786a7181d4e42bf8a8ed7a4d69596095e4cb0a6a.jpg",
+    "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/415a0d16031d45c4fe4834e27e06d3d5ad91d2089e9a1ba3f389d2a0b7c7a48c",
     "completed": 0
   }
 ]
