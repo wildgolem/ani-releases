@@ -21,13 +21,6 @@
     "completed": 0
   },
   {
-    "title": "Harmony of Mille-Feuille",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/97a9e3177155b40a10431be53228b717fa768d5fa9385e315a39784d3b7e4202.jpg",
-    "link": "https://animepahe.ru/play/40b8e827-748b-b262-94b2-b72ad4bde65a/68077ae589148a18816410f3e6a48b65f386add8d4c072950f40e1b2a899cfc6",
-    "completed": 0
-  },
-  {
     "title": "See You Tomorrow at the Food Court",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/08793a146b366b2633197bcea1e66b934b7f59d4e008ba87f5b5dccf6f02b04b.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/144b4cc0132e270df963b5df12ee49b8a5338860158c6d3c4e346ec8efb614c1.jpg",
     "link": "https://animepahe.ru/play/1abdeb23-fe28-dc61-7169-e3d5946718b0/278bed16ffa184006d4ccaee373f67222b9c2ff583c5f0b2801ba316a7368f5a",
+    "completed": 0
+  },
+  {
+    "title": "Harmony of Mille-Feuille",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2cf11fd695e89dc20ca1854eb2b35f9dd34a09724120569ffa8caa9d1aa539b2.jpg",
+    "link": "https://animepahe.ru/play/40b8e827-748b-b262-94b2-b72ad4bde65a/cfff298135bf73d54cdd7f9d86b0860fdf1f57fbd9f9c119fb6795f6d987a830",
     "completed": 0
   }
 ]
