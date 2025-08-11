@@ -1,19 +1,5 @@
 [
   {
-    "title": "Nyaight of the Living Cat",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2a945011d7fe3839a6b5afa3380fa6aaadf87b5e400244bb435041a468c2778a.jpg",
-    "link": "https://animepahe.ru/play/6e43baaf-9b64-9ef9-bad2-bfcc3be87071/424dc7c5deddc8ecfa883dd9eea2186f2d2d2f8beb656db37878e15157cda32f",
-    "completed": 0
-  },
-  {
-    "title": "Cultural Exchange With a Game Centre Girl",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/eeebaac803f3ba7f139155fd85d0a945fac0cc6dacf8e4ac62755a5dd2292f3f.jpg",
-    "link": "https://animepahe.ru/play/bccca268-6edd-0369-ae31-cd145e76238d/afc59492299d373b2405d43239c2f7b642456eb6cfaa1e97e1ea038b729f307a",
-    "completed": 0
-  },
-  {
     "title": "Gachiakuta",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/1d799a3cd22344acc286fa396c57bd9e1446cc5f000d33022e38cbf153c16a0c.jpg",
@@ -68,5 +54,19 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/08793a146b366b2633197bcea1e66b934b7f59d4e008ba87f5b5dccf6f02b04b.jpg",
     "link": "https://animepahe.ru/play/fb8c4048-fdb7-0d73-c932-d3e7ecad16a4/12c59e0b1babcdbee55b2e39d86fd35c7acc6bb69f4a826e56a970583c11bbc0",
     "completed": 1
+  },
+  {
+    "title": "Summer Pockets",
+    "episode": 19,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0c1e131bb5e4ea3a1acf88b93b3e1300e47820e51e1d9e2374b41aab219f1042.jpg",
+    "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/96226cbec6cfc2939f1b619f42a45275b8e405813628dbc307894653af2441bd",
+    "completed": 0
+  },
+  {
+    "title": "Sword of the Demon Hunter: Kijin Gentosho",
+    "episode": 18,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fe85c0901e2ed63ef48728d647af14419cebf15056e88d9a7e64707f39993e92.jpg",
+    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/6934c753cb90f9c93c63cebcad8afdc23ee592306fdbea503d945addb3003419",
+    "completed": 0
   }
 ]
