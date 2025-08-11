@@ -1,12 +1,5 @@
 [
   {
-    "title": "Uglymug, Epicfighter",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c222221fbcff75cf39d5f7d2be955da1c25ac3239bf942f8de3bd26d6266b799.jpg",
-    "link": "https://animepahe.ru/play/e41f275d-54ee-a56d-9f5f-7b34bd31edfb/9c77088279683ded06db85206ca93fa7b40a3519cdbbec42099afa2f6aec08a6",
-    "completed": 0
-  },
-  {
     "title": "City The Animation",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/c831a95cf85519b71da56944421e3a227ed2103e82d716d5f0af9fac4d3516b2.jpg",
@@ -67,6 +60,13 @@
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/94fe8abf847434649803f0b321a2ff1a2ba9f7419378495fa102ee647156161f.jpg",
     "link": "https://animepahe.ru/play/a86c0265-d763-fdb8-ccc6-b5555b241cd6/207b52b0bfe4c2cfbc9d2bc1d8e9ec7f8351d288cbd515160a619b6096e56dbb",
+    "completed": 0
+  },
+  {
+    "title": "Grand Blue Dreaming Season 2",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/cafe869a6dc85197146eb09c3778e15ecd02b4e7f1bd6c0ff90be6d54aba26f4.jpg",
+    "link": "https://animepahe.ru/play/785d08ac-4a7a-6c64-ae6d-f2bce029d355/7aaf88e1f5c8e826c8361df0570f4e1619b67073967c0091bdee7ff836e646ae",
     "completed": 0
   }
 ]
