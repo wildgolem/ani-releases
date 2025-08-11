@@ -1,12 +1,5 @@
 [
   {
-    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/083e8cf71f32043aef83f4a8786a7181d4e42bf8a8ed7a4d69596095e4cb0a6a.jpg",
-    "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/415a0d16031d45c4fe4834e27e06d3d5ad91d2089e9a1ba3f389d2a0b7c7a48c",
-    "completed": 0
-  },
-  {
     "title": "Nyaight of the Living Cat",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/2a945011d7fe3839a6b5afa3380fa6aaadf87b5e400244bb435041a468c2778a.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/97a9e3177155b40a10431be53228b717fa768d5fa9385e315a39784d3b7e4202.jpg",
     "link": "https://animepahe.ru/play/40b8e827-748b-b262-94b2-b72ad4bde65a/68077ae589148a18816410f3e6a48b65f386add8d4c072950f40e1b2a899cfc6",
     "completed": 0
+  },
+  {
+    "title": "See You Tomorrow at the Food Court",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/08793a146b366b2633197bcea1e66b934b7f59d4e008ba87f5b5dccf6f02b04b.jpg",
+    "link": "https://animepahe.ru/play/fb8c4048-fdb7-0d73-c932-d3e7ecad16a4/12c59e0b1babcdbee55b2e39d86fd35c7acc6bb69f4a826e56a970583c11bbc0",
+    "completed": 1
   }
 ]
