@@ -1,12 +1,5 @@
 [
   {
-    "title": "Grand Blue Dreaming Season 2",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/cafe869a6dc85197146eb09c3778e15ecd02b4e7f1bd6c0ff90be6d54aba26f4.jpg",
-    "link": "https://animepahe.ru/play/785d08ac-4a7a-6c64-ae6d-f2bce029d355/7aaf88e1f5c8e826c8361df0570f4e1619b67073967c0091bdee7ff836e646ae",
-    "completed": 0
-  },
-  {
     "title": "There's No Freaking Way I'll be Your Lover! Unless...",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/144b4cc0132e270df963b5df12ee49b8a5338860158c6d3c4e346ec8efb614c1.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/be8f0ba358a76e7f33a549e86eacdedf648263db266eb5fff71bd69ab750b39e.jpg",
     "link": "https://animepahe.ru/play/25d65413-3d15-a068-14bf-de80387ff396/c0f82d23b4cc19059404857677083c0550dd43b8c6833ed53f98c0c6143488fa",
+    "completed": 0
+  },
+  {
+    "title": "Nukitashi the Animation",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c456d4e205039aa4c966c600fe7b2a04aebbb07be188b91f6344a31ccd846778.jpg",
+    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/bec77dbd2fcfae0ed5d4e7f4290981ab9dd18423503006b4957b42f797314a86",
     "completed": 0
   }
 ]
