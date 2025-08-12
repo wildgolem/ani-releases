@@ -1,19 +1,5 @@
 [
   {
-    "title": "See You Tomorrow at the Food Court",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/08793a146b366b2633197bcea1e66b934b7f59d4e008ba87f5b5dccf6f02b04b.jpg",
-    "link": "https://animepahe.ru/play/fb8c4048-fdb7-0d73-c932-d3e7ecad16a4/12c59e0b1babcdbee55b2e39d86fd35c7acc6bb69f4a826e56a970583c11bbc0",
-    "completed": 1
-  },
-  {
-    "title": "Summer Pockets",
-    "episode": 19,
-    "image": "https://i.animepahe.ru/uploads/snapshots/0c1e131bb5e4ea3a1acf88b93b3e1300e47820e51e1d9e2374b41aab219f1042.jpg",
-    "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/96226cbec6cfc2939f1b619f42a45275b8e405813628dbc307894653af2441bd",
-    "completed": 0
-  },
-  {
     "title": "Sword of the Demon Hunter: Kijin Gentosho",
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/fe85c0901e2ed63ef48728d647af14419cebf15056e88d9a7e64707f39993e92.jpg",
@@ -67,6 +53,20 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/45e7a7c549f8676a263c14020b3d5edca8b487d6089b5b10a7c15c2b4e66b611.jpg",
     "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/df0793d9ca5ce4e63f9b1cf03a9b10a05b08f81b237e373236f3f59e600c0034",
+    "completed": 0
+  },
+  {
+    "title": "Detectives These Days Are Crazy!",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/926e6a38421c19474c945352970bc9568a0c0aaaa66cb3d77058255dff464e16.jpg",
+    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/192e27abf23457f6647bedf0ce8d267f134c0e0b4021e336d67321525ccff6a4",
+    "completed": 0
+  },
+  {
+    "title": "Chuhai Lips",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/deb20543659a95baa004f592610b34fee743833f775db3b51d757c094276cf7c.jpg",
+    "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/1663cf4e178318787a1789193b5909dfd16f22c7eb1d66d5dea8540e545d057c",
     "completed": 0
   }
 ]
