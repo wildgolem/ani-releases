@@ -1,12 +1,5 @@
 [
   {
-    "title": "Theatre of Darkness: Yamishibai 15",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/6e4a933ab5e1aff09a8e89e09e7e698b339b997a9fa41f402f428e24c09901d2.jpg",
-    "link": "https://animepahe.ru/play/6fd6c8a4-470a-57cb-9bac-5acc159bbdb9/3e58d8038960f8284336fc743f8ecc26f46e4bff3687b616cc7e4cb3c3636c27",
-    "completed": 0
-  },
-  {
     "title": "See You Tomorrow at the Food Court",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/08793a146b366b2633197bcea1e66b934b7f59d4e008ba87f5b5dccf6f02b04b.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/1be8771e6bdeb7f792eab3a2df901fcc3b49f49c87f31fecc6b8b218db7aceb9.jpg",
     "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/9124813b12abf38e4f2b0927b3b7072e0774d2a5c354ee5f487c33de8e10e140",
+    "completed": 0
+  },
+  {
+    "title": "Necronomico and the Cosmic Horror Show",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/45e7a7c549f8676a263c14020b3d5edca8b487d6089b5b10a7c15c2b4e66b611.jpg",
+    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/df0793d9ca5ce4e63f9b1cf03a9b10a05b08f81b237e373236f3f59e600c0034",
     "completed": 0
   }
 ]
