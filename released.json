@@ -1,12 +1,5 @@
 [
   {
-    "title": "Sakamoto Days Part 2",
-    "episode": 17,
-    "image": "https://i.animepahe.ru/uploads/snapshots/94fe8abf847434649803f0b321a2ff1a2ba9f7419378495fa102ee647156161f.jpg",
-    "link": "https://animepahe.ru/play/a86c0265-d763-fdb8-ccc6-b5555b241cd6/207b52b0bfe4c2cfbc9d2bc1d8e9ec7f8351d288cbd515160a619b6096e56dbb",
-    "completed": 0
-  },
-  {
     "title": "Grand Blue Dreaming Season 2",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/cafe869a6dc85197146eb09c3778e15ecd02b4e7f1bd6c0ff90be6d54aba26f4.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/b587b41d5210604bddd495b684201315eed61b12c0ca4691deec4d20b36cf00c.jpg",
     "link": "https://animepahe.ru/play/ad12e261-8b36-80af-842a-28d955a8dba1/2e37aa5c6f897761d4bf01d8a58bda8fbe556bb6f9c84ef6e64be226039b4703",
+    "completed": 0
+  },
+  {
+    "title": "Turkey! Time to Strike",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/be8f0ba358a76e7f33a549e86eacdedf648263db266eb5fff71bd69ab750b39e.jpg",
+    "link": "https://animepahe.ru/play/25d65413-3d15-a068-14bf-de80387ff396/c0f82d23b4cc19059404857677083c0550dd43b8c6833ed53f98c0c6143488fa",
     "completed": 0
   }
 ]
