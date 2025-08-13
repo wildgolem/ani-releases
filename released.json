@@ -1,19 +1,5 @@
 [
   {
-    "title": "Mr. Osomatsu 4th Season",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b587b41d5210604bddd495b684201315eed61b12c0ca4691deec4d20b36cf00c.jpg",
-    "link": "https://animepahe.ru/play/ad12e261-8b36-80af-842a-28d955a8dba1/2e37aa5c6f897761d4bf01d8a58bda8fbe556bb6f9c84ef6e64be226039b4703",
-    "completed": 0
-  },
-  {
-    "title": "Turkey! Time to Strike",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/be8f0ba358a76e7f33a549e86eacdedf648263db266eb5fff71bd69ab750b39e.jpg",
-    "link": "https://animepahe.ru/play/25d65413-3d15-a068-14bf-de80387ff396/c0f82d23b4cc19059404857677083c0550dd43b8c6833ed53f98c0c6143488fa",
-    "completed": 0
-  },
-  {
     "title": "Nukitashi the Animation",
     "episode": 4,
     "image": "https://i.animepahe.ru/uploads/snapshots/c456d4e205039aa4c966c600fe7b2a04aebbb07be188b91f6344a31ccd846778.jpg",
@@ -67,6 +53,20 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/357e3465b51ca5379e6a23d86ccfbaf5697afc2df3eb16640f592fc6017a17a5.jpg",
     "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/da67b297855a8187c813cc3d79d17b24c1e407c1abe6c8aafd6d8150875bd558",
+    "completed": 0
+  },
+  {
+    "title": "New Saga",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/09c05cd15ee9fd2edd02973351b04024413368111bd6f2d673f1d5c9c6d39d2a.jpg",
+    "link": "https://animepahe.ru/play/f5135165-7630-6498-ccd8-93954cfef653/1fbee250f0896598d87e22dcf770eb58f63cb2202beb8d0cb4f151f5a61867fb",
+    "completed": 0
+  },
+  {
+    "title": "Hell Teacher: Jigoku Sensei Nube",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c90fda5eebeaa0f1b4f6c2469813b351de8f4298f56dee436f1d15f2f4bedea8.jpg",
+    "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/dbf3a5124abefcdc37fc52960ca0aed59c06f12081c351ad6f008ee34ef22502",
     "completed": 0
   }
 ]
