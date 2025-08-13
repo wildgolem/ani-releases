@@ -1,12 +1,5 @@
 [
   {
-    "title": "A Couple of Cuckoos Season 2",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1be8771e6bdeb7f792eab3a2df901fcc3b49f49c87f31fecc6b8b218db7aceb9.jpg",
-    "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/9124813b12abf38e4f2b0927b3b7072e0774d2a5c354ee5f487c33de8e10e140",
-    "completed": 0
-  },
-  {
     "title": "Necronomico and the Cosmic Horror Show",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/45e7a7c549f8676a263c14020b3d5edca8b487d6089b5b10a7c15c2b4e66b611.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/b6b41d6236290ac2f5414294f2dd2b48038fb7645b3c407e45510cae0e762b33.jpg",
     "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/5e5f0dd200f0ea60bed92bcbe516ca5ac9b7568ed04230ea096cfe7aa272fee9",
+    "completed": 0
+  },
+  {
+    "title": "New Panty & Stocking with Garterbelt",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a9bc8b72be6a76c1933855d14f05f89c6f186189e8d8219c22c274844f338335.jpg",
+    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/fa1441d8a771a0e589e0793a1417418dfc550b38ce4e55aca63feecfc63ea64e",
     "completed": 0
   }
 ]
