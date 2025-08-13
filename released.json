@@ -1,12 +1,5 @@
 [
   {
-    "title": "Chuhai Lips",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/deb20543659a95baa004f592610b34fee743833f775db3b51d757c094276cf7c.jpg",
-    "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/1663cf4e178318787a1789193b5909dfd16f22c7eb1d66d5dea8540e545d057c",
-    "completed": 0
-  },
-  {
     "title": "Mr. Osomatsu 4th Season",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/b587b41d5210604bddd495b684201315eed61b12c0ca4691deec4d20b36cf00c.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/b61f8d288ee4aa272e349c39a8bceaaf19e4d0acab8c4def0cccc243dd5eec65.jpg",
     "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/d5bf6f5c1c6ec2055207ddf4035564a52803e2c33d243a3f0d658799d58b5282",
+    "completed": 0
+  },
+  {
+    "title": "Onmyo Kaiten Re:Birth Verse",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/357e3465b51ca5379e6a23d86ccfbaf5697afc2df3eb16640f592fc6017a17a5.jpg",
+    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/da67b297855a8187c813cc3d79d17b24c1e407c1abe6c8aafd6d8150875bd558",
     "completed": 0
   }
 ]
