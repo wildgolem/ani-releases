@@ -1,12 +1,5 @@
 [
   {
-    "title": "Detectives These Days Are Crazy!",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/926e6a38421c19474c945352970bc9568a0c0aaaa66cb3d77058255dff464e16.jpg",
-    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/192e27abf23457f6647bedf0ce8d267f134c0e0b4021e336d67321525ccff6a4",
-    "completed": 0
-  },
-  {
     "title": "Chuhai Lips",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/deb20543659a95baa004f592610b34fee743833f775db3b51d757c094276cf7c.jpg",
@@ -67,6 +60,13 @@
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/70214c3dff3f54c094a66435e47d3cab7276d377bd670e1629f7c2db9731f224.jpg",
     "link": "https://animepahe.ru/play/39f74d0c-55ad-4c14-5af2-2821f91f6eb5/caec11e8145e51c4c88b98a0977313c90860d4785352754aa0030532728cd7b1",
+    "completed": 0
+  },
+  {
+    "title": "Dealing with Mikadono Sisters Is a Breeze",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b61f8d288ee4aa272e349c39a8bceaaf19e4d0acab8c4def0cccc243dd5eec65.jpg",
+    "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/d5bf6f5c1c6ec2055207ddf4035564a52803e2c33d243a3f0d658799d58b5282",
     "completed": 0
   }
 ]
