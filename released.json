@@ -1,12 +1,5 @@
 [
   {
-    "title": "Nukitashi the Animation",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c456d4e205039aa4c966c600fe7b2a04aebbb07be188b91f6344a31ccd846778.jpg",
-    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/bec77dbd2fcfae0ed5d4e7f4290981ab9dd18423503006b4957b42f797314a86",
-    "completed": 0
-  },
-  {
     "title": "Clevatess",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/3f6dcb96f26569f84aa01e177bd3a254a87aace21cb74e68f1183acbeaf19fbd.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/c90fda5eebeaa0f1b4f6c2469813b351de8f4298f56dee436f1d15f2f4bedea8.jpg",
     "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/dbf3a5124abefcdc37fc52960ca0aed59c06f12081c351ad6f008ee34ef22502",
     "completed": 0
+  },
+  {
+    "title": "Bullet/Bullet",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2fb31886bb8608adb9517bd6be43eb33b46aee8adc6e90dc92381a887d4897d5.jpg",
+    "link": "https://animepahe.ru/play/8c45b02f-fb4b-6628-08b0-52d649b75aa2/694449ec313683dfd5d847feb844e3aebb51a43a19363885b56bf5a4ca571ac2",
+    "completed": 1
   }
 ]
