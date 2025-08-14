@@ -1,12 +1,5 @@
 [
   {
-    "title": "Clevatess",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3f6dcb96f26569f84aa01e177bd3a254a87aace21cb74e68f1183acbeaf19fbd.jpg",
-    "link": "https://animepahe.ru/play/79fe94dc-8a14-630c-2760-13ed564ef809/4fc60b3467f082077e3a55025a9644fdbe4cedeeac9dc0507b7b7813347e4952",
-    "completed": 0
-  },
-  {
     "title": "The Rising of the Shield Hero Season 4",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/cfe034884a213c16e22f056093f28e23c2565a4b7ae9b351a92c055c3959c485.jpg",
@@ -67,6 +60,13 @@
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/2fb31886bb8608adb9517bd6be43eb33b46aee8adc6e90dc92381a887d4897d5.jpg",
     "link": "https://animepahe.ru/play/8c45b02f-fb4b-6628-08b0-52d649b75aa2/694449ec313683dfd5d847feb844e3aebb51a43a19363885b56bf5a4ca571ac2",
+    "completed": 1
+  },
+  {
+    "title": "Battle Programmer Shirase",
+    "episode": 13,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ea501c6ba29bc6938c481efebd3f9a0dbe8e1565020ca4541c691eb863d16028.jpg",
+    "link": "https://animepahe.ru/play/423232a2-bfa9-78a5-a6bc-d563ec4438e5/94d30029033b9bf8c999fca7c53386f638eab1843774c007ee592262f897b239",
     "completed": 1
   }
 ]
