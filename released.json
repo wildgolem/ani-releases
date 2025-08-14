@@ -1,12 +1,5 @@
 [
   {
-    "title": "Hell Teacher: Jigoku Sensei Nube",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c90fda5eebeaa0f1b4f6c2469813b351de8f4298f56dee436f1d15f2f4bedea8.jpg",
-    "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/dbf3a5124abefcdc37fc52960ca0aed59c06f12081c351ad6f008ee34ef22502",
-    "completed": 0
-  },
-  {
     "title": "Bullet/Bullet",
     "episode": 12,
     "image": "https://i.animepahe.ru/uploads/snapshots/2fb31886bb8608adb9517bd6be43eb33b46aee8adc6e90dc92381a887d4897d5.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/e7d787b96a33c47f299dd1e1b5287410c120744816d9fd18b95c411c49863f75.jpg",
     "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/a752992b91b284bde54be3179568c370c89acc5143b871d6c5fb5aca4b03e806",
+    "completed": 0
+  },
+  {
+    "title": "The Water Magician",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/96eba85afe6b246153aae0002c1a00ca7f04a6d11003464acdd05719beef8372.jpg",
+    "link": "https://animepahe.ru/play/ab79ccc4-e32b-a265-2f43-3ed58bc67206/658af43df592732e5c8beb4c8d38c2ec3ce37f8070732b1e5b47cb69240bde82",
     "completed": 0
   }
 ]
