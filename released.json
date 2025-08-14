@@ -1,12 +1,5 @@
 [
   {
-    "title": "Onmyo Kaiten Re:Birth Verse",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/357e3465b51ca5379e6a23d86ccfbaf5697afc2df3eb16640f592fc6017a17a5.jpg",
-    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/da67b297855a8187c813cc3d79d17b24c1e407c1abe6c8aafd6d8150875bd558",
-    "completed": 0
-  },
-  {
     "title": "New Saga",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/09c05cd15ee9fd2edd02973351b04024413368111bd6f2d673f1d5c9c6d39d2a.jpg",
@@ -67,6 +60,13 @@
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/2c332d16543ae78518ebdd3be0ed04d239740cdd5ced288e9498f305f1f7dac4.jpg",
     "link": "https://animepahe.ru/play/eb60c032-081f-2049-f869-babd395f242e/20579e6c0ee26860ca43684f619ff55b3bb6b1b2dad7cf96e6f920056b986e48",
+    "completed": 0
+  },
+  {
+    "title": "Solo Camping for Two",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8a12537ecaf6025ca288c14c1cc96cdc08457e76e2559de5d4922e3605249eb4.jpg",
+    "link": "https://animepahe.ru/play/121849f4-890d-db95-3a0b-34e0e9a9360b/806b343708970ab45fbd21ccc29182719d4426c6b999a012a1fdbd6ba742a351",
     "completed": 0
   }
 ]
