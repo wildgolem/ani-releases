@@ -1,12 +1,5 @@
 [
   {
-    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b6b41d6236290ac2f5414294f2dd2b48038fb7645b3c407e45510cae0e762b33.jpg",
-    "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/5e5f0dd200f0ea60bed92bcbe516ca5ac9b7568ed04230ea096cfe7aa272fee9",
-    "completed": 0
-  },
-  {
     "title": "New Panty & Stocking with Garterbelt",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/a9bc8b72be6a76c1933855d14f05f89c6f186189e8d8219c22c274844f338335.jpg",
@@ -67,6 +60,13 @@
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/48a71a6f42e82795fac2ab86460ff8dc3b58b833d585400c0eabb3a8f185849a.jpg",
     "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/a260bfbcc2094e318178b1bbdd647ebda3e800fe2cc613b628401b90bd3bab9e",
+    "completed": 0
+  },
+  {
+    "title": "Let's Go Karaoke!",
+    "episode": 4,
+    "image": "https://i.animepahe.ru/uploads/snapshots/03f1d8367e0f81f6ce29b94cfeca5f1d0eb34559278e49721f27935d98cd990f.jpg",
+    "link": "https://animepahe.ru/play/4c1087fc-9f3d-318c-10b7-b2c1aeed41f0/e2ea41e6f8ebe54fe47744978c41284efb8ce0f3c95ccb5976d966a7c24248cf",
     "completed": 0
   }
 ]
