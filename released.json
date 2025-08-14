@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Rising of the Shield Hero Season 4",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/cfe034884a213c16e22f056093f28e23c2565a4b7ae9b351a92c055c3959c485.jpg",
-    "link": "https://animepahe.ru/play/75361ccc-cacc-d7c2-8fe0-2f0af0f565ae/7cbd2e220df2d3c73f6791933f5209373d06bac006101a12a949da010787d8f2",
-    "completed": 0
-  },
-  {
     "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/b6b41d6236290ac2f5414294f2dd2b48038fb7645b3c407e45510cae0e762b33.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/ea501c6ba29bc6938c481efebd3f9a0dbe8e1565020ca4541c691eb863d16028.jpg",
     "link": "https://animepahe.ru/play/423232a2-bfa9-78a5-a6bc-d563ec4438e5/94d30029033b9bf8c999fca7c53386f638eab1843774c007ee592262f897b239",
     "completed": 1
+  },
+  {
+    "title": "Me and the Alien MuMu",
+    "episode": 19,
+    "image": "https://i.animepahe.ru/uploads/snapshots/48a71a6f42e82795fac2ab86460ff8dc3b58b833d585400c0eabb3a8f185849a.jpg",
+    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/a260bfbcc2094e318178b1bbdd647ebda3e800fe2cc613b628401b90bd3bab9e",
+    "completed": 0
   }
 ]
