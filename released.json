@@ -1,12 +1,5 @@
 [
   {
-    "title": "Let's Go Karaoke!",
-    "episode": 4,
-    "image": "https://i.animepahe.ru/uploads/snapshots/03f1d8367e0f81f6ce29b94cfeca5f1d0eb34559278e49721f27935d98cd990f.jpg",
-    "link": "https://animepahe.ru/play/4c1087fc-9f3d-318c-10b7-b2c1aeed41f0/e2ea41e6f8ebe54fe47744978c41284efb8ce0f3c95ccb5976d966a7c24248cf",
-    "completed": 0
-  },
-  {
     "title": "Dr. Stone: Science Future Part 2",
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/6168b6ae574c88107445c7365b66279caa5ed9219073a23f0fd09cba6ea018af.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/826a805f511a0a17f94a1da8c3625d6a7f8874d140ab2dd814d577920a19e314.jpg",
     "link": "https://animepahe.ru/play/709afd6c-65b2-6a24-d389-fb1b87f01703/1c45104a6345c06d6eef5d02f81441f93c417acc654b0e5f4c3261a3eae0f38f",
     "completed": 1
+  },
+  {
+    "title": "Dragon Raja II -The Mourner's Eyes-",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d0610af02f83dad3040e26128707080671860d7083e201323b00b33fd863bdac.jpg",
+    "link": "https://animepahe.ru/play/fca3ff7b-02dd-b984-baa3-c4021c7f6629/283d700d1e21a9f98bac086bee1062b86625f525cf11291fdb802c4cb6dae861",
+    "completed": 0
   }
 ]
