@@ -1,12 +1,5 @@
 [
   {
-    "title": "Ninjaboy Rantaro: Invincible Master of the Dokutake Ninja",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/931c4e753659c5be68064d5a0d4daa5e5f036b74031146bb8c6cbf1ff39c4f8d.jpg",
-    "link": "https://animepahe.ru/play/0fe3fa0f-0240-191d-0cf4-37cab6a930d2/06d1adeef92196b5d9d24e3d938608ef9144a8e6dcd884c27308cb6ca4653dae",
-    "completed": 1
-  },
-  {
     "title": "Lost in Starlight",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/826a805f511a0a17f94a1da8c3625d6a7f8874d140ab2dd814d577920a19e314.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/435cc1ccb18add5093b8c76b6836c4b6818e37b48425452b19bccb424e9a074b.jpg",
     "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/015e70b9709f8e75faa929b9a5a68c267d515309eb983970b77c737825c8950d",
     "completed": 0
+  },
+  {
+    "title": "Mononoke Movie: Dai-2 Shou - Hinezumi",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a2c986a7de542c4d2720cf6a3c9e9dd14ea3060caf2889525e9381c40da5687f.jpg",
+    "link": "https://animepahe.ru/play/25f7c27a-2b1e-661d-4aa4-fe92c8e389d6/3f9a383c21343fc581615c21f0dd60f050a71e6c9f5f93a02871700a237cf685",
+    "completed": 1
   }
 ]
