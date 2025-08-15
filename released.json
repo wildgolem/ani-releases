@@ -1,26 +1,5 @@
 [
   {
-    "title": "Dan Da Dan Season 2",
-    "episode": 19,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2c332d16543ae78518ebdd3be0ed04d239740cdd5ced288e9498f305f1f7dac4.jpg",
-    "link": "https://animepahe.ru/play/eb60c032-081f-2049-f869-babd395f242e/20579e6c0ee26860ca43684f619ff55b3bb6b1b2dad7cf96e6f920056b986e48",
-    "completed": 0
-  },
-  {
-    "title": "Solo Camping for Two",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/8a12537ecaf6025ca288c14c1cc96cdc08457e76e2559de5d4922e3605249eb4.jpg",
-    "link": "https://animepahe.ru/play/121849f4-890d-db95-3a0b-34e0e9a9360b/806b343708970ab45fbd21ccc29182719d4426c6b999a012a1fdbd6ba742a351",
-    "completed": 0
-  },
-  {
-    "title": "Kamitsubaki City Under Construction",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e7d787b96a33c47f299dd1e1b5287410c120744816d9fd18b95c411c49863f75.jpg",
-    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/a752992b91b284bde54be3179568c370c89acc5143b871d6c5fb5aca4b03e806",
-    "completed": 0
-  },
-  {
     "title": "The Water Magician",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/96eba85afe6b246153aae0002c1a00ca7f04a6d11003464acdd05719beef8372.jpg",
@@ -67,6 +46,27 @@
     "episode": 23,
     "image": "https://i.animepahe.ru/uploads/snapshots/239205628a2f8e6ac3e8bb42004011758986d03b72751774a21060974a882763.jpg",
     "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/4720d7c9618bc4e16dfdb759a645bc2446e4c1f51a8733d6f0afcc187a6411f4",
+    "completed": 0
+  },
+  {
+    "title": "Call of the Night Season 2",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5c8aa5381fef609361270196b33575d7b87fedd846f5d837836835ea7959f3f8.jpg",
+    "link": "https://animepahe.ru/play/bd82c9e0-73b3-0d9e-8078-a8e01cddaa78/967caebce397692fbe6b2be8d3009a4f3a929616ffcc4017cccaff84d9e77844",
+    "completed": 0
+  },
+  {
+    "title": "Watari-kun's ****** Is about to Collapse",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ce41f9764e5f42245f19e08cab65b5b28d504a8bda9032117eb0b399598687de.jpg",
+    "link": "https://animepahe.ru/play/3d39e1b4-3351-c2c3-1c50-8308b0f96a5e/c47646c0d00d87a8922c6874a21d052198e08bb802e7c0ccbc11492795e2c689",
+    "completed": 0
+  },
+  {
+    "title": "Secrets of the Silent Witch",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9e4067212d10a77c96e8fe48e46a71e4d9534d8dede92cdb802e476022564fab.jpg",
+    "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/796d410246aebae01a1eb248502f0aee3695be5f56ae8c0bfd9aaf5672ec6dc8",
     "completed": 0
   }
 ]
