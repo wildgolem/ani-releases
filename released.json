@@ -1,12 +1,5 @@
 [
   {
-    "title": "Lost in Starlight",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/826a805f511a0a17f94a1da8c3625d6a7f8874d140ab2dd814d577920a19e314.jpg",
-    "link": "https://animepahe.ru/play/709afd6c-65b2-6a24-d389-fb1b87f01703/1c45104a6345c06d6eef5d02f81441f93c417acc654b0e5f4c3261a3eae0f38f",
-    "completed": 1
-  },
-  {
     "title": "Dragon Raja II -The Mourner's Eyes-",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/d0610af02f83dad3040e26128707080671860d7083e201323b00b33fd863bdac.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/a2c986a7de542c4d2720cf6a3c9e9dd14ea3060caf2889525e9381c40da5687f.jpg",
     "link": "https://animepahe.ru/play/25f7c27a-2b1e-661d-4aa4-fe92c8e389d6/3f9a383c21343fc581615c21f0dd60f050a71e6c9f5f93a02871700a237cf685",
     "completed": 1
+  },
+  {
+    "title": "Himitsu no AiPri: Ring-hen",
+    "episode": 19,
+    "image": "https://i.animepahe.ru/uploads/snapshots/6e6d4eb71752df201ed536d2c5f234a3e8dc657e75c24f30fbdedb3f3a8a2002.jpg",
+    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/9238b291683aff99d67f20e8583134857344eec84f221a46818249f02c911e38",
+    "completed": 0
   }
 ]
