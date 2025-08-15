@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Water Magician",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/96eba85afe6b246153aae0002c1a00ca7f04a6d11003464acdd05719beef8372.jpg",
-    "link": "https://animepahe.ru/play/ab79ccc4-e32b-a265-2f43-3ed58bc67206/658af43df592732e5c8beb4c8d38c2ec3ce37f8070732b1e5b47cb69240bde82",
-    "completed": 0
-  },
-  {
     "title": "The Rose of Versailles (Movie)",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/9ed682b20d3f85376348a422bc72e650bde9006fc2e769e81a38ef365478d17c.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/9e4067212d10a77c96e8fe48e46a71e4d9534d8dede92cdb802e476022564fab.jpg",
     "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/796d410246aebae01a1eb248502f0aee3695be5f56ae8c0bfd9aaf5672ec6dc8",
+    "completed": 0
+  },
+  {
+    "title": "Tougen Anki",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d505381e21985e01fac44cf9a6626a357032dd79c3fca5a8d6b3d2ef1dfebb1d.jpg",
+    "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/17b19b2f30d9a4ae3cef261d1fa64f1c2c7bf16df58354e5bd5d14b38fc5f4c8",
     "completed": 0
   }
 ]
