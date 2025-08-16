@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kaiju No. 8 Season 2",
-    "episode": 17,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f4f7042229cb95cdf5b03caf1c7220e1fd93bbec69b97c8966741070c49dfd69.jpg",
-    "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/063d97a30a087ede1ccc6ac6a03eb58760620ba41fe883d6e2af202d8f1c25ad",
-    "completed": 0
-  },
-  {
     "title": "The Shy Hero and the Assassin Princesses",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/c25a9b9eb86426cff5674e24ccc290b5dd4789a5676ed0b13ba2ee5baa975ca2.jpg",
@@ -67,6 +60,13 @@
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/04bddb03765297b3d328d1c1fa30e0a59740ce6fa73137a580e9e66084e48517.jpg",
     "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/722de8d02621bb905d1baf7b066bdc5a7cd7c02a90bc60ea2cee1c3a0101436e",
+    "completed": 0
+  },
+  {
+    "title": "Meitantei Conan",
+    "episode": 1171,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ed62c7b4cf767d504cbaa556eea05851d610fa68535b490ddf3e633b342274a4.jpg",
+    "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/d97f64d275b4fa481a1e347b03a8f6f134bbfe4c22e4ee0ae73e254c4593643c",
     "completed": 0
   }
 ]
