@@ -1,12 +1,5 @@
 [
   {
-    "title": "Watari-kun's ****** Is about to Collapse",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ce41f9764e5f42245f19e08cab65b5b28d504a8bda9032117eb0b399598687de.jpg",
-    "link": "https://animepahe.ru/play/3d39e1b4-3351-c2c3-1c50-8308b0f96a5e/c47646c0d00d87a8922c6874a21d052198e08bb802e7c0ccbc11492795e2c689",
-    "completed": 0
-  },
-  {
     "title": "Secrets of the Silent Witch",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/9e4067212d10a77c96e8fe48e46a71e4d9534d8dede92cdb802e476022564fab.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/b814c17aecaccaefae21a3cd1889e7dabfdeea0bac2f3648c8e9fe15f6a67743.jpg",
     "link": "https://animepahe.ru/play/1aed7df2-8b3e-d273-9116-12e8ac3f7d55/ed578f25a2eb3557f91a92366ffbb4da84bebc46036555d017eb6467eeec955e",
     "completed": 1
+  },
+  {
+    "title": "Yaiba: Samurai Legend",
+    "episode": 19,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c2f2179aeb0518154599a934438528662a55b638ca4e3f352656031c4560102b.jpg",
+    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/5795b6b66f52ebbcc2c6b3bca4bcefbdaebd13953400d0155bcff02b539b666c",
+    "completed": 0
   }
 ]
