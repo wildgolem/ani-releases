@@ -1,19 +1,5 @@
 [
   {
-    "title": "Himitsu no AiPri: Ring-hen",
-    "episode": 19,
-    "image": "https://i.animepahe.ru/uploads/snapshots/6e6d4eb71752df201ed536d2c5f234a3e8dc657e75c24f30fbdedb3f3a8a2002.jpg",
-    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/9238b291683aff99d67f20e8583134857344eec84f221a46818249f02c911e38",
-    "completed": 0
-  },
-  {
-    "title": "Lord of Mysteries",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/25b45faea11a020e61b672d340443acffe4087e8033a72e4810549ea7f0302a0.jpg",
-    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/2ab93c352e700a00f43704c3075afbaffdb215e972ad13f9d6381895c72af65d",
-    "completed": 0
-  },
-  {
     "title": "Pokémon Horizons: The Series",
     "episode": 106,
     "image": "https://i.animepahe.ru/uploads/snapshots/f0b9fc902001fdce4430082545cb98594d8b98aa800f84a2e27f80d9f70cd0b0.jpg",
@@ -67,6 +53,20 @@
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/dfb67971d8111ed7b2120d301799b22f92ba5d551f205cb0c59ced8af117ff4d.jpg",
     "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/0cc01c12eb638ff8b47ee8a1a1eb83ad216b4a0af011efadfb889b59dc6c350b",
+    "completed": 0
+  },
+  {
+    "title": "Private Tutor to the Duke's Daughter",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d94acec0241e8f7562ca9e34fb0dbf7d8a98c9fc9a4c49b14bb92fb733d78048.jpg",
+    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/727c90d051da62cfcc5983a87418e5affa6c482b8e83f210b4881a036a510a93",
+    "completed": 0
+  },
+  {
+    "title": "The Summer Hikaru Died",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/77f15297f42e0a3f4e4e5e52c6ec971d1495b97fba2c9dbe1fcb85219c69f6dd.jpg",
+    "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/73f5e678dd261e8a3d388c49e0bf7672c2d23360803d8fbaeb8c226a0501c617",
     "completed": 0
   }
 ]
