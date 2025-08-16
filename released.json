@@ -1,12 +1,5 @@
 [
   {
-    "title": "Yaiba: Samurai Legend",
-    "episode": 19,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c2f2179aeb0518154599a934438528662a55b638ca4e3f352656031c4560102b.jpg",
-    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/5795b6b66f52ebbcc2c6b3bca4bcefbdaebd13953400d0155bcff02b539b666c",
-    "completed": 0
-  },
-  {
     "title": "Kaiju No. 8 Season 2",
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/f4f7042229cb95cdf5b03caf1c7220e1fd93bbec69b97c8966741070c49dfd69.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/45d523616b3d078d1ce0925a7ac36d6e527010f4e9de515569de5734e726f0a2.jpg",
     "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/970d9ad1018ef1cc0021b3607a2e8ae971d7fa7f811c56c219b5a5c52fa66a6a",
+    "completed": 0
+  },
+  {
+    "title": "Nukitashi the Animation",
+    "episode": 5,
+    "image": "https://i.animepahe.ru/uploads/snapshots/04bddb03765297b3d328d1c1fa30e0a59740ce6fa73137a580e9e66084e48517.jpg",
+    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/722de8d02621bb905d1baf7b066bdc5a7cd7c02a90bc60ea2cee1c3a0101436e",
     "completed": 0
   }
 ]
