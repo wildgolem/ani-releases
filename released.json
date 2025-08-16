@@ -1,12 +1,5 @@
 [
   {
-    "title": "Mononoke Movie: Dai-2 Shou - Hinezumi",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a2c986a7de542c4d2720cf6a3c9e9dd14ea3060caf2889525e9381c40da5687f.jpg",
-    "link": "https://animepahe.ru/play/25f7c27a-2b1e-661d-4aa4-fe92c8e389d6/3f9a383c21343fc581615c21f0dd60f050a71e6c9f5f93a02871700a237cf685",
-    "completed": 1
-  },
-  {
     "title": "Himitsu no AiPri: Ring-hen",
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/6e6d4eb71752df201ed536d2c5f234a3e8dc657e75c24f30fbdedb3f3a8a2002.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/e0d8b33e7ceca362b835f1269bc1a5388da12e71d9fa774fabce70011cfb4b6f.jpg",
     "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/85ecf83b4df3f55edb0dc187b5ddf3fe129cb71265eeddb13f10cedbb45b012d",
+    "completed": 0
+  },
+  {
+    "title": "My Dress-Up Darling Season 2",
+    "episode": 19,
+    "image": "https://i.animepahe.ru/uploads/snapshots/dfb67971d8111ed7b2120d301799b22f92ba5d551f205cb0c59ced8af117ff4d.jpg",
+    "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/0cc01c12eb638ff8b47ee8a1a1eb83ad216b4a0af011efadfb889b59dc6c350b",
     "completed": 0
   }
 ]
