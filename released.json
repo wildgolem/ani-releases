@@ -1,12 +1,5 @@
 [
   {
-    "title": "Arknights: Rise from Ember",
-    "episode": 23,
-    "image": "https://i.animepahe.ru/uploads/snapshots/239205628a2f8e6ac3e8bb42004011758986d03b72751774a21060974a882763.jpg",
-    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/4720d7c9618bc4e16dfdb759a645bc2446e4c1f51a8733d6f0afcc187a6411f4",
-    "completed": 0
-  },
-  {
     "title": "Call of the Night Season 2",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/5c8aa5381fef609361270196b33575d7b87fedd846f5d837836835ea7959f3f8.jpg",
@@ -67,6 +60,13 @@
     "episode": 106,
     "image": "https://i.animepahe.ru/uploads/snapshots/f0b9fc902001fdce4430082545cb98594d8b98aa800f84a2e27f80d9f70cd0b0.jpg",
     "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/0157cbde50358255e33f4d26eb85352ca4daf135686e33105309109d8225f31b",
+    "completed": 0
+  },
+  {
+    "title": "Beyblade X",
+    "episode": 92,
+    "image": "https://i.animepahe.ru/uploads/snapshots/95c81b649692788d983d9ae1635e0e08f81e8b84c470934c290db7ecc7719a47.jpg",
+    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/86ac8e4269e59325d5faaab8c00c591be3f4eca239fd43fa9b153801127b8e69",
     "completed": 0
   }
 ]
