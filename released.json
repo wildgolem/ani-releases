@@ -1,12 +1,5 @@
 [
   {
-    "title": "Tougen Anki",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d505381e21985e01fac44cf9a6626a357032dd79c3fca5a8d6b3d2ef1dfebb1d.jpg",
-    "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/17b19b2f30d9a4ae3cef261d1fa64f1c2c7bf16df58354e5bd5d14b38fc5f4c8",
-    "completed": 0
-  },
-  {
     "title": "Betrothed to My Sister's Ex",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/435cc1ccb18add5093b8c76b6836c4b6818e37b48425452b19bccb424e9a074b.jpg",
@@ -67,6 +60,13 @@
     "episode": 17,
     "image": "https://i.animepahe.ru/uploads/snapshots/f4f7042229cb95cdf5b03caf1c7220e1fd93bbec69b97c8966741070c49dfd69.jpg",
     "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/063d97a30a087ede1ccc6ac6a03eb58760620ba41fe883d6e2af202d8f1c25ad",
+    "completed": 0
+  },
+  {
+    "title": "The Shy Hero and the Assassin Princesses",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c25a9b9eb86426cff5674e24ccc290b5dd4789a5676ed0b13ba2ee5baa975ca2.jpg",
+    "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/521fc0e852a37513aeda58cbac35751300a36e6819d618a756495a02a2326a6c",
     "completed": 0
   }
 ]
