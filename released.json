@@ -1,12 +1,5 @@
 [
   {
-    "title": "April Showers Bring May Flowers",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1471019ca5a92367b3e217093a99c6aab70a5218ddf45ad5b0acc83f539ab9d4.jpg",
-    "link": "https://animepahe.ru/play/6e9c69a4-6719-22ec-78f8-7e9604e91b7a/f41f98cee6627d9dca741fd12e785281a5311cb0d3395a1ef41b22950dae643b",
-    "completed": 0
-  },
-  {
     "title": "Arknights: Rise from Ember",
     "episode": 23,
     "image": "https://i.animepahe.ru/uploads/snapshots/239205628a2f8e6ac3e8bb42004011758986d03b72751774a21060974a882763.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/25b45faea11a020e61b672d340443acffe4087e8033a72e4810549ea7f0302a0.jpg",
     "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/2ab93c352e700a00f43704c3075afbaffdb215e972ad13f9d6381895c72af65d",
+    "completed": 0
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "episode": 106,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f0b9fc902001fdce4430082545cb98594d8b98aa800f84a2e27f80d9f70cd0b0.jpg",
+    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/0157cbde50358255e33f4d26eb85352ca4daf135686e33105309109d8225f31b",
     "completed": 0
   }
 ]
