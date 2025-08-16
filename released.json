@@ -1,26 +1,5 @@
 [
   {
-    "title": "Pokémon Horizons: The Series",
-    "episode": 106,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f0b9fc902001fdce4430082545cb98594d8b98aa800f84a2e27f80d9f70cd0b0.jpg",
-    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/0157cbde50358255e33f4d26eb85352ca4daf135686e33105309109d8225f31b",
-    "completed": 0
-  },
-  {
-    "title": "Beyblade X",
-    "episode": 92,
-    "image": "https://i.animepahe.ru/uploads/snapshots/95c81b649692788d983d9ae1635e0e08f81e8b84c470934c290db7ecc7719a47.jpg",
-    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/86ac8e4269e59325d5faaab8c00c591be3f4eca239fd43fa9b153801127b8e69",
-    "completed": 0
-  },
-  {
-    "title": "Magic Candies",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b814c17aecaccaefae21a3cd1889e7dabfdeea0bac2f3648c8e9fe15f6a67743.jpg",
-    "link": "https://animepahe.ru/play/1aed7df2-8b3e-d273-9116-12e8ac3f7d55/ed578f25a2eb3557f91a92366ffbb4da84bebc46036555d017eb6467eeec955e",
-    "completed": 1
-  },
-  {
     "title": "Yaiba: Samurai Legend",
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/c2f2179aeb0518154599a934438528662a55b638ca4e3f352656031c4560102b.jpg",
@@ -67,6 +46,27 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/77f15297f42e0a3f4e4e5e52c6ec971d1495b97fba2c9dbe1fcb85219c69f6dd.jpg",
     "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/73f5e678dd261e8a3d388c49e0bf7672c2d23360803d8fbaeb8c226a0501c617",
+    "completed": 0
+  },
+  {
+    "title": "9: Ruler's Crown",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d03524e001b44629c91080794f15ef712bda03ba5d2c0b057aae42c54c89504d.jpg",
+    "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/4312041270e5504f886ff8246711903e80b4b36c7b82291ce403a2e18ffccc03",
+    "completed": 0
+  },
+  {
+    "title": "Fermat Kitchen",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/cde19f25509d6dae3f8e69b6c915f143fb0ee034c5ccd6c89e25c07457e1c9de.jpg",
+    "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/e4f6cde143c754658886ce472f37a15aebcc0dcf91209af7794bc4f1d8afb102",
+    "completed": 0
+  },
+  {
+    "title": "With You and the Rain",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/45d523616b3d078d1ce0925a7ac36d6e527010f4e9de515569de5734e726f0a2.jpg",
+    "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/970d9ad1018ef1cc0021b3607a2e8ae971d7fa7f811c56c219b5a5c52fa66a6a",
     "completed": 0
   }
 ]
