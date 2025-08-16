@@ -1,12 +1,5 @@
 [
   {
-    "title": "Dragon Raja II -The Mourner's Eyes-",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d0610af02f83dad3040e26128707080671860d7083e201323b00b33fd863bdac.jpg",
-    "link": "https://animepahe.ru/play/fca3ff7b-02dd-b984-baa3-c4021c7f6629/283d700d1e21a9f98bac086bee1062b86625f525cf11291fdb802c4cb6dae861",
-    "completed": 0
-  },
-  {
     "title": "April Showers Bring May Flowers",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/1471019ca5a92367b3e217093a99c6aab70a5218ddf45ad5b0acc83f539ab9d4.jpg",
@@ -67,6 +60,13 @@
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/6e6d4eb71752df201ed536d2c5f234a3e8dc657e75c24f30fbdedb3f3a8a2002.jpg",
     "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/9238b291683aff99d67f20e8583134857344eec84f221a46818249f02c911e38",
+    "completed": 0
+  },
+  {
+    "title": "Lord of Mysteries",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/25b45faea11a020e61b672d340443acffe4087e8033a72e4810549ea7f0302a0.jpg",
+    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/2ab93c352e700a00f43704c3075afbaffdb215e972ad13f9d6381895c72af65d",
     "completed": 0
   }
 ]
