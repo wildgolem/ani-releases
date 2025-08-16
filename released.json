@@ -1,12 +1,5 @@
 [
   {
-    "title": "Call of the Night Season 2",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/5c8aa5381fef609361270196b33575d7b87fedd846f5d837836835ea7959f3f8.jpg",
-    "link": "https://animepahe.ru/play/bd82c9e0-73b3-0d9e-8078-a8e01cddaa78/967caebce397692fbe6b2be8d3009a4f3a929616ffcc4017cccaff84d9e77844",
-    "completed": 0
-  },
-  {
     "title": "Watari-kun's ****** Is about to Collapse",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/ce41f9764e5f42245f19e08cab65b5b28d504a8bda9032117eb0b399598687de.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/95c81b649692788d983d9ae1635e0e08f81e8b84c470934c290db7ecc7719a47.jpg",
     "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/86ac8e4269e59325d5faaab8c00c591be3f4eca239fd43fa9b153801127b8e69",
     "completed": 0
+  },
+  {
+    "title": "Magic Candies",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b814c17aecaccaefae21a3cd1889e7dabfdeea0bac2f3648c8e9fe15f6a67743.jpg",
+    "link": "https://animepahe.ru/play/1aed7df2-8b3e-d273-9116-12e8ac3f7d55/ed578f25a2eb3557f91a92366ffbb4da84bebc46036555d017eb6467eeec955e",
+    "completed": 1
   }
 ]
