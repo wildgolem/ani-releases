@@ -1,12 +1,5 @@
 [
   {
-    "title": "Private Tutor to the Duke's Daughter",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d94acec0241e8f7562ca9e34fb0dbf7d8a98c9fc9a4c49b14bb92fb733d78048.jpg",
-    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/727c90d051da62cfcc5983a87418e5affa6c482b8e83f210b4881a036a510a93",
-    "completed": 0
-  },
-  {
     "title": "The Summer Hikaru Died",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/77f15297f42e0a3f4e4e5e52c6ec971d1495b97fba2c9dbe1fcb85219c69f6dd.jpg",
@@ -67,6 +60,13 @@
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/9478505d78aa5d74384643afab8e222c2db56a1452b48cec0a8386bc722ee9c2.jpg",
     "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/b532b0aefce4438333c0b961dcd3208c33e7fbcedccc31bc853c749b9295cdeb",
+    "completed": 0
+  },
+  {
+    "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
+    "episode": 19,
+    "image": "https://i.animepahe.ru/uploads/snapshots/05a2102fde24c9d19a6f088d25aaf24585864cec984db6205dfe3aa2325766c2.jpg",
+    "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/a89bdd415e38cf2e477e054ef6e5f2315256066992e7abea9cde69c5d37bb1d4",
     "completed": 0
   }
 ]
