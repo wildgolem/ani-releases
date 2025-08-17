@@ -1,12 +1,5 @@
 [
   {
-    "title": "Dekin no Mogura: The Earthbound Mole",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/16b26457891de1f5f43593c30d5ca62fa12c04594cc999a79b2eb8732623c7ab.jpg",
-    "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/c32b50a655dc60f2875cdcbd0cfd06f0d0b8159640ab360dd19bef27c0918a69",
-    "completed": 0
-  },
-  {
     "title": "Ruri Rocks",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/dd45df3a4c19e65446f4522b272ca0cd42a161b8ec62ced4b46d653fac4ec672.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/4ae58fe9e610bb133dd86783322d8e4732b0be1b7f9cde4c96cfc1ac1d3ee692.jpg",
     "link": "https://animepahe.ru/play/6fd6c8a4-470a-57cb-9bac-5acc159bbdb9/e9601f826b0acb4f95fbd48f7cf39bee27f18f4b27810271b1f0c7a7d8183534",
+    "completed": 0
+  },
+  {
+    "title": "Scooped Up by an S-Ranked Adventurer",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d4f021b978fb9be2f41cef174ff9c19cdc0d74b0558998b62531719c93ebd952.jpg",
+    "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/a731db568eba64d0aeda3f902afb1a8ca5b455447ecc7dc7b08a0111fd5023e8",
     "completed": 0
   }
 ]
