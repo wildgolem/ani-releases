@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Fragrant Flower Blooms with Dignity",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b2db2f09ece1588f7ada28e6b28d0c07b875d706bc054032598e8a9ea0ec786d.jpg",
-    "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/5fbeee070c00cec87c25513df71fc533993994669f319caadbca2b9a7b762c32",
-    "completed": 0
-  },
-  {
     "title": "Puniru is a Kawaii Slime Season 2",
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/aaf8d45cd0ba73b05f45b3d3717dd913bd3a39ca67258e1160487263b636186e.jpg",
@@ -67,6 +60,13 @@
     "episode": 1140,
     "image": "https://i.animepahe.ru/uploads/snapshots/8a7b47d165cde712e264af091ce2557b7844f38fcb88135cb5fb3f8aa7fbd1c7.jpg",
     "link": "https://animepahe.ru/play/d58fc9f8-582e-fdf0-3618-112cd54ed5ab/575979b89594ab14c83f3ce9b74ce5963efbe13702d08e077e543dc6dd3392d7",
+    "completed": 0
+  },
+  {
+    "title": "Hotel Inhumans",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b9d613780f0ed7fd4a16b91a4bac1fa5229220a38109fb0ca2060fb098ab2796.jpg",
+    "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/c33146f18615388be44b21e6b571eaa037257bcbf182353e2910ed5e311892db",
     "completed": 0
   }
 ]
