@@ -1,19 +1,5 @@
 [
   {
-    "title": "The Shy Hero and the Assassin Princesses",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c25a9b9eb86426cff5674e24ccc290b5dd4789a5676ed0b13ba2ee5baa975ca2.jpg",
-    "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/521fc0e852a37513aeda58cbac35751300a36e6819d618a756495a02a2326a6c",
-    "completed": 0
-  },
-  {
-    "title": "Bad Girl",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e0d8b33e7ceca362b835f1269bc1a5388da12e71d9fa774fabce70011cfb4b6f.jpg",
-    "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/85ecf83b4df3f55edb0dc187b5ddf3fe129cb71265eeddb13f10cedbb45b012d",
-    "completed": 0
-  },
-  {
     "title": "My Dress-Up Darling Season 2",
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/dfb67971d8111ed7b2120d301799b22f92ba5d551f205cb0c59ced8af117ff4d.jpg",
@@ -67,6 +53,20 @@
     "episode": 1171,
     "image": "https://i.animepahe.ru/uploads/snapshots/ed62c7b4cf767d504cbaa556eea05851d610fa68535b490ddf3e633b342274a4.jpg",
     "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/d97f64d275b4fa481a1e347b03a8f6f134bbfe4c22e4ee0ae73e254c4593643c",
+    "completed": 0
+  },
+  {
+    "title": "To Be Hero X",
+    "episode": 20,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0978eb4485c1e4e2f9809c17a4053523027a99dfdb83595356e1efcb8ccbc9f4.jpg",
+    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/18d0a63c059b7189e94feea3530246199718538e7a53a4cd76551e1ca4bb4392",
+    "completed": 0
+  },
+  {
+    "title": "You and Idol Precure♪",
+    "episode": 28,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c9e57e2fd0185e08c905bb51c9075236c193240d67a4e3d53703f546bc123a6b.jpg",
+    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/c6796fc0366305daaa6b312615a3079cf35a25e34d2d6e1e85a08e092669122b",
     "completed": 0
   }
 ]
