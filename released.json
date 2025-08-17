@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Summer Hikaru Died",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/77f15297f42e0a3f4e4e5e52c6ec971d1495b97fba2c9dbe1fcb85219c69f6dd.jpg",
-    "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/73f5e678dd261e8a3d388c49e0bf7672c2d23360803d8fbaeb8c226a0501c617",
-    "completed": 0
-  },
-  {
     "title": "9: Ruler's Crown",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/d03524e001b44629c91080794f15ef712bda03ba5d2c0b057aae42c54c89504d.jpg",
@@ -67,6 +60,13 @@
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/05a2102fde24c9d19a6f088d25aaf24585864cec984db6205dfe3aa2325766c2.jpg",
     "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/a89bdd415e38cf2e477e054ef6e5f2315256066992e7abea9cde69c5d37bb1d4",
+    "completed": 0
+  },
+  {
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b2db2f09ece1588f7ada28e6b28d0c07b875d706bc054032598e8a9ea0ec786d.jpg",
+    "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/5fbeee070c00cec87c25513df71fc533993994669f319caadbca2b9a7b762c32",
     "completed": 0
   }
 ]
