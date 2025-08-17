@@ -1,12 +1,5 @@
 [
   {
-    "title": "My Dress-Up Darling Season 2",
-    "episode": 19,
-    "image": "https://i.animepahe.ru/uploads/snapshots/dfb67971d8111ed7b2120d301799b22f92ba5d551f205cb0c59ced8af117ff4d.jpg",
-    "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/0cc01c12eb638ff8b47ee8a1a1eb83ad216b4a0af011efadfb889b59dc6c350b",
-    "completed": 0
-  },
-  {
     "title": "Private Tutor to the Duke's Daughter",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/d94acec0241e8f7562ca9e34fb0dbf7d8a98c9fc9a4c49b14bb92fb733d78048.jpg",
@@ -67,6 +60,13 @@
     "episode": 28,
     "image": "https://i.animepahe.ru/uploads/snapshots/c9e57e2fd0185e08c905bb51c9075236c193240d67a4e3d53703f546bc123a6b.jpg",
     "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/c6796fc0366305daaa6b312615a3079cf35a25e34d2d6e1e85a08e092669122b",
+    "completed": 0
+  },
+  {
+    "title": "Witch Watch",
+    "episode": 20,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9478505d78aa5d74384643afab8e222c2db56a1452b48cec0a8386bc722ee9c2.jpg",
+    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/b532b0aefce4438333c0b961dcd3208c33e7fbcedccc31bc853c749b9295cdeb",
     "completed": 0
   }
 ]
