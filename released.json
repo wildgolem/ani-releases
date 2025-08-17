@@ -1,12 +1,5 @@
 [
   {
-    "title": "To Be Hero X",
-    "episode": 20,
-    "image": "https://i.animepahe.ru/uploads/snapshots/0978eb4485c1e4e2f9809c17a4053523027a99dfdb83595356e1efcb8ccbc9f4.jpg",
-    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/18d0a63c059b7189e94feea3530246199718538e7a53a4cd76551e1ca4bb4392",
-    "completed": 0
-  },
-  {
     "title": "You and Idol Precure♪",
     "episode": 28,
     "image": "https://i.animepahe.ru/uploads/snapshots/c9e57e2fd0185e08c905bb51c9075236c193240d67a4e3d53703f546bc123a6b.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/90c42adc65bda76a8504e57a50e600f93a0fce60bfff5aecba72fb2e771649bd.jpg",
     "link": "https://animepahe.ru/play/6e43baaf-9b64-9ef9-bad2-bfcc3be87071/ec615e9de52dd925b4d587939e01ab70950f4bd6c6b143353123a989ef5d3a5a",
+    "completed": 0
+  },
+  {
+    "title": "Gachiakuta",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f8e50b4c30780f1c5e804299c9c6b63d36a300ab64244ab4d20623b10c9a938b.jpg",
+    "link": "https://animepahe.ru/play/42dd67ed-699c-d2d4-194a-3f2365652272/78127d3407ec8db52ee06df61959f58d6bb144eca2ce9b70161426ed83c10b2d",
     "completed": 0
   }
 ]
