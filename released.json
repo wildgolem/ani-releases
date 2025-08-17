@@ -1,12 +1,5 @@
 [
   {
-    "title": "Puniru is a Kawaii Slime Season 2",
-    "episode": 19,
-    "image": "https://i.animepahe.ru/uploads/snapshots/aaf8d45cd0ba73b05f45b3d3717dd913bd3a39ca67258e1160487263b636186e.jpg",
-    "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/e075f391d26c553b2be180fc6728f8c5eb218dd56d5b2088fb0ddcbc8912b8a7",
-    "completed": 0
-  },
-  {
     "title": "Dekin no Mogura: The Earthbound Mole",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/16b26457891de1f5f43593c30d5ca62fa12c04594cc999a79b2eb8732623c7ab.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/b9d613780f0ed7fd4a16b91a4bac1fa5229220a38109fb0ca2060fb098ab2796.jpg",
     "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/c33146f18615388be44b21e6b571eaa037257bcbf182353e2910ed5e311892db",
+    "completed": 0
+  },
+  {
+    "title": "Theatre of Darkness: Yamishibai 15",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4ae58fe9e610bb133dd86783322d8e4732b0be1b7f9cde4c96cfc1ac1d3ee692.jpg",
+    "link": "https://animepahe.ru/play/6fd6c8a4-470a-57cb-9bac-5acc159bbdb9/e9601f826b0acb4f95fbd48f7cf39bee27f18f4b27810271b1f0c7a7d8183534",
     "completed": 0
   }
 ]
