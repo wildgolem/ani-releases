@@ -1,12 +1,5 @@
 [
   {
-    "title": "Ruri Rocks",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/dd45df3a4c19e65446f4522b272ca0cd42a161b8ec62ced4b46d653fac4ec672.jpg",
-    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/7033d0c0176292993303cd16f198f363c8c26e13812315711e22fe37c4dd7d7f",
-    "completed": 0
-  },
-  {
     "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/30eda2245ec57472a54d0c64f2792f4a3f29f8b9cd5193a39b955ce9a4eb88eb.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/d4f021b978fb9be2f41cef174ff9c19cdc0d74b0558998b62531719c93ebd952.jpg",
     "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/a731db568eba64d0aeda3f902afb1a8ca5b455447ecc7dc7b08a0111fd5023e8",
+    "completed": 0
+  },
+  {
+    "title": "Rascal Does Not Dream of Santa Claus",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c6e09f6248dac36cf0e4f744c49af3ad7d9498b5f8c4947ad8a2690753006d54.jpg",
+    "link": "https://animepahe.ru/play/025b8411-f3ff-809b-4bf9-751552950caa/2b7d9a83589086cbff63a171093a7f2313438c523cfad8dec5c5ee8c942c07f4",
     "completed": 0
   }
 ]
