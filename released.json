@@ -1,19 +1,5 @@
 [
   {
-    "title": "With You and the Rain",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/45d523616b3d078d1ce0925a7ac36d6e527010f4e9de515569de5734e726f0a2.jpg",
-    "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/970d9ad1018ef1cc0021b3607a2e8ae971d7fa7f811c56c219b5a5c52fa66a6a",
-    "completed": 0
-  },
-  {
-    "title": "Nukitashi the Animation",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/04bddb03765297b3d328d1c1fa30e0a59740ce6fa73137a580e9e66084e48517.jpg",
-    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/722de8d02621bb905d1baf7b066bdc5a7cd7c02a90bc60ea2cee1c3a0101436e",
-    "completed": 0
-  },
-  {
     "title": "Meitantei Conan",
     "episode": 1171,
     "image": "https://i.animepahe.ru/uploads/snapshots/ed62c7b4cf767d504cbaa556eea05851d610fa68535b490ddf3e633b342274a4.jpg",
@@ -67,6 +53,20 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/16b26457891de1f5f43593c30d5ca62fa12c04594cc999a79b2eb8732623c7ab.jpg",
     "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/c32b50a655dc60f2875cdcbd0cfd06f0d0b8159640ab360dd19bef27c0918a69",
+    "completed": 0
+  },
+  {
+    "title": "Ruri Rocks",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/dd45df3a4c19e65446f4522b272ca0cd42a161b8ec62ced4b46d653fac4ec672.jpg",
+    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/7033d0c0176292993303cd16f198f363c8c26e13812315711e22fe37c4dd7d7f",
+    "completed": 0
+  },
+  {
+    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/30eda2245ec57472a54d0c64f2792f4a3f29f8b9cd5193a39b955ce9a4eb88eb.jpg",
+    "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/95af6d5b2fc514397e4ab7ea9b72312f1580c9cced3b8c188572d743f9868728",
     "completed": 0
   }
 ]
