@@ -1,12 +1,5 @@
 [
   {
-    "title": "Uglymug, Epicfighter",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/6886c64550bf2b7fae996ad9bab27ab8722c43d42c935566f8181cf0aa0ce7cf.jpg",
-    "link": "https://animepahe.ru/play/e41f275d-54ee-a56d-9f5f-7b34bd31edfb/9d823455fc9e75736befcac03defe8918ef0f595bb63bfe99c3171d295c5874f",
-    "completed": 0
-  },
-  {
     "title": "City The Animation",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/39d42108012235a5f8e87a1c1c1b217376fd67f506067537c1deb7492d4db34e.jpg",
@@ -67,6 +60,13 @@
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/04bddb03765297b3d328d1c1fa30e0a59740ce6fa73137a580e9e66084e48517.jpg",
     "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/722de8d02621bb905d1baf7b066bdc5a7cd7c02a90bc60ea2cee1c3a0101436e",
+    "completed": 0
+  },
+  {
+    "title": "Sakamoto Days Part 2",
+    "episode": 18,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4c92fe280c2f5376c360b2ea825ad0276ac25688b490044ac0facb6749f851d2.jpg",
+    "link": "https://animepahe.ru/play/a86c0265-d763-fdb8-ccc6-b5555b241cd6/ecb98298201813b03f4fbc154736a032c517f967f774acdbde6a44d23659d4bc",
     "completed": 0
   }
 ]
