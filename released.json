@@ -1,12 +1,5 @@
 [
   {
-    "title": "Theatre of Darkness: Yamishibai 15",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4ae58fe9e610bb133dd86783322d8e4732b0be1b7f9cde4c96cfc1ac1d3ee692.jpg",
-    "link": "https://animepahe.ru/play/6fd6c8a4-470a-57cb-9bac-5acc159bbdb9/e9601f826b0acb4f95fbd48f7cf39bee27f18f4b27810271b1f0c7a7d8183534",
-    "completed": 0
-  },
-  {
     "title": "Scooped Up by an S-Ranked Adventurer",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/d4f021b978fb9be2f41cef174ff9c19cdc0d74b0558998b62531719c93ebd952.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/837a12297679085dc80aa9b4fcb31d3d31fbaf04678d289a4128eb357f73cf23.jpg",
     "link": "https://animepahe.ru/play/40b8e827-748b-b262-94b2-b72ad4bde65a/d65f2baf303bc4c1afde6601932217f77d8492159e507c12d872788646bea200",
     "completed": 0
+  },
+  {
+    "title": "Chuhai Lips",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f17c48f5831b51fbf06ef4e341841f1ef32595f2927e47c2b7570e036d7dc649.jpg",
+    "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/f01cb0161953a7b3f7ceeabcd4825a98871b23862153243e797f3dc38eca7c46",
+    "completed": 1
   }
 ]
