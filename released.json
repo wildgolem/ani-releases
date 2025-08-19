@@ -1,19 +1,5 @@
 [
   {
-    "title": "Summer Pockets",
-    "episode": 20,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4e1bbe0f4ebcabe32313e8c7667c821e1c6a6d6160867536c26b782022da99a4.jpg",
-    "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/c86871a36c123bf0c2b40f2be0ed512dc09245e818d6934aa08743d845ecd6df",
-    "completed": 0
-  },
-  {
-    "title": "Sword of the Demon Hunter: Kijin Gentosho",
-    "episode": 19,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d45a054cb6118e6ce0e9afcdabbace44966bfadd4767422a886b5feacc66f190.jpg",
-    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/eca0850a25fbbbd95ef2ded74e0fcabd38012ea302cec212ef2dfa8301dbb938",
-    "completed": 0
-  },
-  {
     "title": "Nukitashi the Animation",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/04bddb03765297b3d328d1c1fa30e0a59740ce6fa73137a580e9e66084e48517.jpg",
@@ -67,6 +53,20 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/3b865a32d905287c5cca89a239b64e2f3ac741fa667708f2ef0203934b32bdc6.jpg",
     "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/933dc5b2557cfa0399a4e51a7d138b2a3d8b98adb5129ef65b3ee91e0d64e5d8",
+    "completed": 0
+  },
+  {
+    "title": "Detectives These Days Are Crazy!",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/53009b592ee18851285320cb581d59ec2629279b275a112971575694e892c494.jpg",
+    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/59ad407cd63d959b8c2ef2dde63a08fb04e17e16db3adb8c2ae19182a5f5ffc2",
+    "completed": 0
+  },
+  {
+    "title": "Necronomico and the Cosmic Horror Show",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8645bc80d697f9e8945fd62e6db51d8f8cac8441f0c212c78c3338ecf07edfab.jpg",
+    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/7beea5f0f7765d411ccadde37b7bdc8394d192713d7137d64ff14652a7570ce6",
     "completed": 0
   }
 ]
