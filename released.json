@@ -1,12 +1,5 @@
 [
   {
-    "title": "Scooped Up by an S-Ranked Adventurer",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d4f021b978fb9be2f41cef174ff9c19cdc0d74b0558998b62531719c93ebd952.jpg",
-    "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/a731db568eba64d0aeda3f902afb1a8ca5b455447ecc7dc7b08a0111fd5023e8",
-    "completed": 0
-  },
-  {
     "title": "Rascal Does Not Dream of Santa Claus",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/c6e09f6248dac36cf0e4f744c49af3ad7d9498b5f8c4947ad8a2690753006d54.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/f17c48f5831b51fbf06ef4e341841f1ef32595f2927e47c2b7570e036d7dc649.jpg",
     "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/f01cb0161953a7b3f7ceeabcd4825a98871b23862153243e797f3dc38eca7c46",
     "completed": 1
+  },
+  {
+    "title": "Rent-a-Girlfriend Season 4",
+    "episode": 44,
+    "image": "https://i.animepahe.ru/uploads/snapshots/89c9a6ccdb81c6dd20e250a44d2a29a84d04a9738a12585e040ffb469981a5e1.jpg",
+    "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/ce8e020ae5c1a0c58983e9f395adac77ff526b422266555ba480aae1042fff57",
+    "completed": 0
   }
 ]
