@@ -1,19 +1,5 @@
 [
   {
-    "title": "Nukitashi the Animation",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/04bddb03765297b3d328d1c1fa30e0a59740ce6fa73137a580e9e66084e48517.jpg",
-    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/722de8d02621bb905d1baf7b066bdc5a7cd7c02a90bc60ea2cee1c3a0101436e",
-    "completed": 0
-  },
-  {
-    "title": "Sakamoto Days Part 2",
-    "episode": 18,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4c92fe280c2f5376c360b2ea825ad0276ac25688b490044ac0facb6749f851d2.jpg",
-    "link": "https://animepahe.ru/play/a86c0265-d763-fdb8-ccc6-b5555b241cd6/ecb98298201813b03f4fbc154736a032c517f967f774acdbde6a44d23659d4bc",
-    "completed": 0
-  },
-  {
     "title": "Grand Blue Dreaming Season 2",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/3f62dc29dcd959d31712714d7446702208c51d0821f071d2a21d7e37c788c635.jpg",
@@ -67,6 +53,20 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/8645bc80d697f9e8945fd62e6db51d8f8cac8441f0c212c78c3338ecf07edfab.jpg",
     "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/7beea5f0f7765d411ccadde37b7bdc8394d192713d7137d64ff14652a7570ce6",
+    "completed": 0
+  },
+  {
+    "title": "Turkey! Time to Strike",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/47496497ad502cce1956046a3ede45497852b581212008b9b93451d233c0561f.jpg",
+    "link": "https://animepahe.ru/play/25d65413-3d15-a068-14bf-de80387ff396/5c5b335483318379e870fd44af10962d20014393f75bcf4ec96284b3f3f6156d",
+    "completed": 0
+  },
+  {
+    "title": "Mr. Osomatsu 4th Season",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f0043b6ce923559995fdba7bef6a15449d26db6100258b295fb55615f2c9712a.jpg",
+    "link": "https://animepahe.ru/play/ad12e261-8b36-80af-842a-28d955a8dba1/a01a970f4e8cca1affa754027a662eec1a52f63dbbf41d40a0bb02f00782ae19",
     "completed": 0
   }
 ]
