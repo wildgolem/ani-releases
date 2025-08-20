@@ -1,12 +1,5 @@
 [
   {
-    "title": "Chuhai Lips",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f17c48f5831b51fbf06ef4e341841f1ef32595f2927e47c2b7570e036d7dc649.jpg",
-    "link": "https://animepahe.ru/play/e6c3033a-53e5-3bab-157a-14bd156cccda/f01cb0161953a7b3f7ceeabcd4825a98871b23862153243e797f3dc38eca7c46",
-    "completed": 1
-  },
-  {
     "title": "Rent-a-Girlfriend Season 4",
     "episode": 44,
     "image": "https://i.animepahe.ru/uploads/snapshots/89c9a6ccdb81c6dd20e250a44d2a29a84d04a9738a12585e040ffb469981a5e1.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/603043d59d97e15ce2015d96ff0061f28b1f60a6caf6b72391c77c922baaf997.jpg",
     "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/a2ee3c1b5b217958c2d79967d75507d2d91d43af02934eaa26a276b48f466124",
+    "completed": 0
+  },
+  {
+    "title": "New Panty & Stocking with Garterbelt",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f6895330d0d7f3c5bf799903e92f6d993a221c39106b66c779a62e43e2e52309.jpg",
+    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/4f00b2ccb994ff4ba862455324f0e234cb9ce2ec4f317d24611946c4763159cc",
     "completed": 0
   }
 ]
