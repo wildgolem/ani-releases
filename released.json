@@ -1,12 +1,5 @@
 [
   {
-    "title": "Harmony of Mille-Feuille",
-    "episode": 5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/837a12297679085dc80aa9b4fcb31d3d31fbaf04678d289a4128eb357f73cf23.jpg",
-    "link": "https://animepahe.ru/play/40b8e827-748b-b262-94b2-b72ad4bde65a/d65f2baf303bc4c1afde6601932217f77d8492159e507c12d872788646bea200",
-    "completed": 0
-  },
-  {
     "title": "Chuhai Lips",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/f17c48f5831b51fbf06ef4e341841f1ef32595f2927e47c2b7570e036d7dc649.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/3d195a62072d6ac580242cb260a314a06f4f8a78c678d0c4e2a45a6c6588c3fe.jpg",
     "link": "https://animepahe.ru/play/75361ccc-cacc-d7c2-8fe0-2f0af0f565ae/74bd04ae5fdd4a198e2ae2856e0907376fce26bb347f86b04b2d2782f2abb866",
+    "completed": 0
+  },
+  {
+    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/603043d59d97e15ce2015d96ff0061f28b1f60a6caf6b72391c77c922baaf997.jpg",
+    "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/a2ee3c1b5b217958c2d79967d75507d2d91d43af02934eaa26a276b48f466124",
     "completed": 0
   }
 ]
