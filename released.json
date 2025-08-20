@@ -1,19 +1,5 @@
 [
   {
-    "title": "Grand Blue Dreaming Season 2",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3f62dc29dcd959d31712714d7446702208c51d0821f071d2a21d7e37c788c635.jpg",
-    "link": "https://animepahe.ru/play/785d08ac-4a7a-6c64-ae6d-f2bce029d355/b228fac1885e264fa5784070cd8b8b89a0cc70d08e13a01d3cb0aee580acf111",
-    "completed": 0
-  },
-  {
-    "title": "There's No Freaking Way I'll be Your Lover! Unless...",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7ece7952af23b7ffdc35bdcb4b001d5ebbd614712d3a5df9d6e831321329139c.jpg",
-    "link": "https://animepahe.ru/play/1abdeb23-fe28-dc61-7169-e3d5946718b0/731e6cc996f44a5367a024cff9766dd3d51a25d8b89f3fe1bf761a294d7c48fa",
-    "completed": 0
-  },
-  {
     "title": "Harmony of Mille-Feuille",
     "episode": 5,
     "image": "https://i.animepahe.ru/uploads/snapshots/837a12297679085dc80aa9b4fcb31d3d31fbaf04678d289a4128eb357f73cf23.jpg",
@@ -67,6 +53,20 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/f0043b6ce923559995fdba7bef6a15449d26db6100258b295fb55615f2c9712a.jpg",
     "link": "https://animepahe.ru/play/ad12e261-8b36-80af-842a-28d955a8dba1/a01a970f4e8cca1affa754027a662eec1a52f63dbbf41d40a0bb02f00782ae19",
+    "completed": 0
+  },
+  {
+    "title": "Clevatess",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a01764d12346ab6f14105e54a571ba3cb8749e76e2ef91b93ac5f20a8ede8783.jpg",
+    "link": "https://animepahe.ru/play/79fe94dc-8a14-630c-2760-13ed564ef809/f29f92e13588f64ac73b75b66bb61e8871a70cfb6b20a1129d3db1e9e4ecf765",
+    "completed": 0
+  },
+  {
+    "title": "The Rising of the Shield Hero Season 4",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3d195a62072d6ac580242cb260a314a06f4f8a78c678d0c4e2a45a6c6588c3fe.jpg",
+    "link": "https://animepahe.ru/play/75361ccc-cacc-d7c2-8fe0-2f0af0f565ae/74bd04ae5fdd4a198e2ae2856e0907376fce26bb347f86b04b2d2782f2abb866",
     "completed": 0
   }
 ]
