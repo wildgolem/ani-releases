@@ -1,12 +1,5 @@
 [
   {
-    "title": "Turkey! Time to Strike",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/47496497ad502cce1956046a3ede45497852b581212008b9b93451d233c0561f.jpg",
-    "link": "https://animepahe.ru/play/25d65413-3d15-a068-14bf-de80387ff396/5c5b335483318379e870fd44af10962d20014393f75bcf4ec96284b3f3f6156d",
-    "completed": 0
-  },
-  {
     "title": "Mr. Osomatsu 4th Season",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/f0043b6ce923559995fdba7bef6a15449d26db6100258b295fb55615f2c9712a.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/d2aa95f9cbf4085cae08f4a4b3e5d01de9fb8ddd90e17f59f2a795a66605fdaa.jpg",
     "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/1237a8ab494720823ae842427843dbdb59c114793fdbf670547a25aef3fc13cc",
+    "completed": 0
+  },
+  {
+    "title": "New Saga",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/84cf091ecfe1b4e483c64134669acfb6caeebf7eb421774b63f4537762db34a6.jpg",
+    "link": "https://animepahe.ru/play/f5135165-7630-6498-ccd8-93954cfef653/525fff9878339db065683d091dca2df77de8eedc73099b836ff5318ebad74731",
     "completed": 0
   }
 ]
