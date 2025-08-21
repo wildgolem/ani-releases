@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Rising of the Shield Hero Season 4",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3d195a62072d6ac580242cb260a314a06f4f8a78c678d0c4e2a45a6c6588c3fe.jpg",
-    "link": "https://animepahe.ru/play/75361ccc-cacc-d7c2-8fe0-2f0af0f565ae/74bd04ae5fdd4a198e2ae2856e0907376fce26bb347f86b04b2d2782f2abb866",
-    "completed": 0
-  },
-  {
     "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/603043d59d97e15ce2015d96ff0061f28b1f60a6caf6b72391c77c922baaf997.jpg",
@@ -67,6 +60,13 @@
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/e3b193e1cdb7b545597c50843cdbdac1b949e67c5006743f2137f062f8bf1415.jpg",
     "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/420f8a3516196bd7da67ed119a9f033d21d328c0d0b20c7ac56add2350e16acd",
+    "completed": 0
+  },
+  {
+    "title": "Captivated, By You",
+    "episode": 1,
+    "image": "https://i.animepahe.ru/uploads/snapshots/77998b6066d031571b5861ea734bd928d1eda81d082973ea2beb565d2be0d93c.jpg",
+    "link": "https://animepahe.ru/play/a6ca7763-a61d-d51c-4ab7-bfc499759fb8/9cc12a72c07b6f09b8ad42a6a0b5c0273c4fb7ff85308e2b41bb1f341fff3198",
     "completed": 0
   }
 ]
