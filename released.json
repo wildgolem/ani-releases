@@ -1,19 +1,5 @@
 [
   {
-    "title": "Hell Teacher: Jigoku Sensei Nube",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/87d59d0bf78b3cd2dadccff53e2de4adba045c3e60d96642683ddb919cfcfe4b.jpg",
-    "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/498403edc1112a97ff89edbc002fc3dc9174cfcf388c72a382f6a78c5cf561bc",
-    "completed": 0
-  },
-  {
-    "title": "Onmyo Kaiten Re:Birth Verse",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d2aa95f9cbf4085cae08f4a4b3e5d01de9fb8ddd90e17f59f2a795a66605fdaa.jpg",
-    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/1237a8ab494720823ae842427843dbdb59c114793fdbf670547a25aef3fc13cc",
-    "completed": 0
-  },
-  {
     "title": "New Saga",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/84cf091ecfe1b4e483c64134669acfb6caeebf7eb421774b63f4537762db34a6.jpg",
@@ -67,6 +53,20 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/5cfc9380634124a8a79c25925f5bb7c376afba4e7759750c75803d308b7ef225.jpg",
     "link": "https://animepahe.ru/play/121849f4-890d-db95-3a0b-34e0e9a9360b/ff822365a1539380c77ba0bfbe33e02e80718cf5441bcc1d3ad7a49c6d73c1d2",
+    "completed": 0
+  },
+  {
+    "title": "Kamitsubaki City Under Construction",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3eb54b2fcd015f1e36410251a4610941aa39b0282123963f761468ab2e0e8939.jpg",
+    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/dd77866022201b2229ae0fe63dc6a1709a4d6bbd83c69e6635f0524b13d03b79",
+    "completed": 0
+  },
+  {
+    "title": "Harmony of Mille-Feuille",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/67b7a9fbbd69242517c11ee6413e724089fed11f7343b2f1e548b81a357723cb.jpg",
+    "link": "https://animepahe.ru/play/40b8e827-748b-b262-94b2-b72ad4bde65a/842d6f0a9d821cdf612f0a25b3c852b3daefe908bb6b8218f4341b724e5e7ff0",
     "completed": 0
   }
 ]
