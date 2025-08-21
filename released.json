@@ -1,12 +1,5 @@
 [
   {
-    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/603043d59d97e15ce2015d96ff0061f28b1f60a6caf6b72391c77c922baaf997.jpg",
-    "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/a2ee3c1b5b217958c2d79967d75507d2d91d43af02934eaa26a276b48f466124",
-    "completed": 0
-  },
-  {
     "title": "New Panty & Stocking with Garterbelt",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/f6895330d0d7f3c5bf799903e92f6d993a221c39106b66c779a62e43e2e52309.jpg",
@@ -67,6 +60,13 @@
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/77998b6066d031571b5861ea734bd928d1eda81d082973ea2beb565d2be0d93c.jpg",
     "link": "https://animepahe.ru/play/a6ca7763-a61d-d51c-4ab7-bfc499759fb8/9cc12a72c07b6f09b8ad42a6a0b5c0273c4fb7ff85308e2b41bb1f341fff3198",
+    "completed": 0
+  },
+  {
+    "title": "Dr. Stone: Science Future Part 2",
+    "episode": 19,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3cc718b0a5dc7564342c7ec5f2338ec550419049883dce3eba0f1ae4d81396c7.jpg",
+    "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/38b1840950830e10f148ab0cbefbde9edf2d59bd6d286081388a5178e48a1cbd",
     "completed": 0
   }
 ]
