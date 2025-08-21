@@ -1,12 +1,5 @@
 [
   {
-    "title": "Mr. Osomatsu 4th Season",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f0043b6ce923559995fdba7bef6a15449d26db6100258b295fb55615f2c9712a.jpg",
-    "link": "https://animepahe.ru/play/ad12e261-8b36-80af-842a-28d955a8dba1/a01a970f4e8cca1affa754027a662eec1a52f63dbbf41d40a0bb02f00782ae19",
-    "completed": 0
-  },
-  {
     "title": "Clevatess",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/a01764d12346ab6f14105e54a571ba3cb8749e76e2ef91b93ac5f20a8ede8783.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/84cf091ecfe1b4e483c64134669acfb6caeebf7eb421774b63f4537762db34a6.jpg",
     "link": "https://animepahe.ru/play/f5135165-7630-6498-ccd8-93954cfef653/525fff9878339db065683d091dca2df77de8eedc73099b836ff5318ebad74731",
+    "completed": 0
+  },
+  {
+    "title": "Beyblade X",
+    "episode": 93,
+    "image": "https://i.animepahe.ru/uploads/snapshots/39fee1a0e489dd8b78a4218bd9068bd8d4744169c28c1d455d4a2ab83aebd868.jpg",
+    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/f8ac5ff1418bead3c27f1e97491cbe011f0732a0b06dd3d35321a8ab6a9927d0",
     "completed": 0
   }
 ]
