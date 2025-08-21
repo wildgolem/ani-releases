@@ -1,12 +1,5 @@
 [
   {
-    "title": "New Panty & Stocking with Garterbelt",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f6895330d0d7f3c5bf799903e92f6d993a221c39106b66c779a62e43e2e52309.jpg",
-    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/4f00b2ccb994ff4ba862455324f0e234cb9ce2ec4f317d24611946c4763159cc",
-    "completed": 0
-  },
-  {
     "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/58291368d4e752f8e1069ae7bfed3c2b37e72cf7aa303627bda5a0b548346755.jpg",
@@ -67,6 +60,13 @@
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/3cc718b0a5dc7564342c7ec5f2338ec550419049883dce3eba0f1ae4d81396c7.jpg",
     "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/38b1840950830e10f148ab0cbefbde9edf2d59bd6d286081388a5178e48a1cbd",
+    "completed": 0
+  },
+  {
+    "title": "Welcome to the Outcast's Restaurant!",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/1001ad9e78f637801bf499683fac144f0f52090dc6d4b66f0eb687f4d6043c3e.jpg",
+    "link": "https://animepahe.ru/play/7a909eb7-14eb-9822-6bfe-ab9f1d9ab597/b3a5136aa23f667c41727ed83c94c76158df76c652105a8248e811dc732be72d",
     "completed": 0
   }
 ]
