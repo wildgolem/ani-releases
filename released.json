@@ -1,12 +1,5 @@
 [
   {
-    "title": "Solo Camping for Two",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/5cfc9380634124a8a79c25925f5bb7c376afba4e7759750c75803d308b7ef225.jpg",
-    "link": "https://animepahe.ru/play/121849f4-890d-db95-3a0b-34e0e9a9360b/ff822365a1539380c77ba0bfbe33e02e80718cf5441bcc1d3ad7a49c6d73c1d2",
-    "completed": 0
-  },
-  {
     "title": "Kamitsubaki City Under Construction",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/3eb54b2fcd015f1e36410251a4610941aa39b0282123963f761468ab2e0e8939.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/e1e5b7c1bec7ad3f69272282d863d46c2718516c6b777d695c9688020cfe8c67.jpg",
     "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/ed198efb16d09867ab58cabcf46fd79dd9c50fa07921c63aad3d3d65cb77831d",
+    "completed": 0
+  },
+  {
+    "title": "Betrothed to My Sister's Ex",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d64a0398cbb2ce92cf57a6fcbe40ac5a9e33dadd17c6e935689f24473fa5ed28.jpg",
+    "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/9e5ec4ac26cbb902abce650d246459108c5e989c9ef677bf0999aa887a34c099",
     "completed": 0
   }
 ]
