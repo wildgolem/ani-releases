@@ -1,12 +1,5 @@
 [
   {
-    "title": "Captivated, By You",
-    "episode": 1,
-    "image": "https://i.animepahe.ru/uploads/snapshots/77998b6066d031571b5861ea734bd928d1eda81d082973ea2beb565d2be0d93c.jpg",
-    "link": "https://animepahe.ru/play/a6ca7763-a61d-d51c-4ab7-bfc499759fb8/9cc12a72c07b6f09b8ad42a6a0b5c0273c4fb7ff85308e2b41bb1f341fff3198",
-    "completed": 0
-  },
-  {
     "title": "Dr. Stone: Science Future Part 2",
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/3cc718b0a5dc7564342c7ec5f2338ec550419049883dce3eba0f1ae4d81396c7.jpg",
@@ -67,6 +60,13 @@
     "episode": 24,
     "image": "https://i.animepahe.ru/uploads/snapshots/b46893e834f025a291a5c1a4b360e17c6990f05dd6f40a8c36a610fcb81543c4.jpg",
     "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/9d12a2eb6cc8980ab01cbcef1f913772bfe3f16d83c222acedde0c526361f6bc",
+    "completed": 0
+  },
+  {
+    "title": "Tougen Anki",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/52c6b9231076eea78db60bef3b3bd8c7274ce102059826377b3d865a2883d7a0.jpg",
+    "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/11ab74ea00761d2329f76192750cc221dbddfc8e302e7c1665b8286361610163",
     "completed": 0
   }
 ]
