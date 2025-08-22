@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kamitsubaki City Under Construction",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3eb54b2fcd015f1e36410251a4610941aa39b0282123963f761468ab2e0e8939.jpg",
-    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/dd77866022201b2229ae0fe63dc6a1709a4d6bbd83c69e6635f0524b13d03b79",
-    "completed": 0
-  },
-  {
     "title": "Harmony of Mille-Feuille",
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/67b7a9fbbd69242517c11ee6413e724089fed11f7343b2f1e548b81a357723cb.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/d64a0398cbb2ce92cf57a6fcbe40ac5a9e33dadd17c6e935689f24473fa5ed28.jpg",
     "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/9e5ec4ac26cbb902abce650d246459108c5e989c9ef677bf0999aa887a34c099",
+    "completed": 0
+  },
+  {
+    "title": "Nukitashi the Animation",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/eeb271b19a93ce28f6242762c8a35a33b63cd5c1212469a2968087e86265c677.jpg",
+    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/f244e09ef1c7e177e4f4bda386610506858684410854dd815fff47741a6f8d87",
     "completed": 0
   }
 ]
