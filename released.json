@@ -1,12 +1,5 @@
 [
   {
-    "title": "Me and the Alien MuMu",
-    "episode": 20,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e3b193e1cdb7b545597c50843cdbdac1b949e67c5006743f2137f062f8bf1415.jpg",
-    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/420f8a3516196bd7da67ed119a9f033d21d328c0d0b20c7ac56add2350e16acd",
-    "completed": 0
-  },
-  {
     "title": "Captivated, By You",
     "episode": 1,
     "image": "https://i.animepahe.ru/uploads/snapshots/77998b6066d031571b5861ea734bd928d1eda81d082973ea2beb565d2be0d93c.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/d760d12c9c9e61009d2c8255d7159493f171bc495fa5a8b4afd92b6f29f3db34.jpg",
     "link": "https://animepahe.ru/play/fca3ff7b-02dd-b984-baa3-c4021c7f6629/838511772a28b48d58bab5d9ac0c23710a61c02db72d0fa283b5752968518d09",
+    "completed": 0
+  },
+  {
+    "title": "Arknights: Rise from Ember",
+    "episode": 24,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b46893e834f025a291a5c1a4b360e17c6990f05dd6f40a8c36a610fcb81543c4.jpg",
+    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/9d12a2eb6cc8980ab01cbcef1f913772bfe3f16d83c222acedde0c526361f6bc",
     "completed": 0
   }
 ]
