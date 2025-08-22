@@ -1,12 +1,5 @@
 [
   {
-    "title": "Dan Da Dan Season 2",
-    "episode": 20,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b68243c56386e5420b2ce38f1d6babc195e561170b8c6d4bf0e19c0ae727d19b.jpg",
-    "link": "https://animepahe.ru/play/eb60c032-081f-2049-f869-babd395f242e/7b27785a2920c861ca9dac3a33b7fa67e5c3378ee354031a15daf353e09562c0",
-    "completed": 0
-  },
-  {
     "title": "Solo Camping for Two",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/5cfc9380634124a8a79c25925f5bb7c376afba4e7759750c75803d308b7ef225.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/002b73a87db12a8d7cc0b03e8bf4717f9aecaa1e6683555ec4c430e1c64fa030.jpg",
     "link": "https://animepahe.ru/play/3d39e1b4-3351-c2c3-1c50-8308b0f96a5e/30f67418f5688535ac4746ccf70987eab31346fd1ee193b3196322b78cc505b7",
+    "completed": 0
+  },
+  {
+    "title": "Secrets of the Silent Witch",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e1e5b7c1bec7ad3f69272282d863d46c2718516c6b777d695c9688020cfe8c67.jpg",
+    "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/ed198efb16d09867ab58cabcf46fd79dd9c50fa07921c63aad3d3d65cb77831d",
     "completed": 0
   }
 ]
