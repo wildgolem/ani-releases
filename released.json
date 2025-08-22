@@ -1,12 +1,5 @@
 [
   {
-    "title": "Harmony of Mille-Feuille",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/67b7a9fbbd69242517c11ee6413e724089fed11f7343b2f1e548b81a357723cb.jpg",
-    "link": "https://animepahe.ru/play/40b8e827-748b-b262-94b2-b72ad4bde65a/842d6f0a9d821cdf612f0a25b3c852b3daefe908bb6b8218f4341b724e5e7ff0",
-    "completed": 0
-  },
-  {
     "title": "The Water Magician",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/7399a0f1a18ebbcd35be26bb5a57c420daace1fca3ab419483c821321994bd31.jpg",
@@ -67,6 +60,13 @@
     "episode": 6,
     "image": "https://i.animepahe.ru/uploads/snapshots/eeb271b19a93ce28f6242762c8a35a33b63cd5c1212469a2968087e86265c677.jpg",
     "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/f244e09ef1c7e177e4f4bda386610506858684410854dd815fff47741a6f8d87",
+    "completed": 0
+  },
+  {
+    "title": "Himitsu no AiPri: Ring-hen",
+    "episode": 20,
+    "image": "https://i.animepahe.ru/uploads/snapshots/90bcbedf61d8855991046a0f89c4ad7ae251ad2f3b6b2aff7a139506e144ba40.jpg",
+    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/0d80a482e0984dca5ef23f012a5f240f352b37e623e68780bd12353fa364cc8a",
     "completed": 0
   }
 ]
