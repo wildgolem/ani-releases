@@ -1,26 +1,5 @@
 [
   {
-    "title": "Nukitashi the Animation",
-    "episode": 6,
-    "image": "https://i.animepahe.ru/uploads/snapshots/eeb271b19a93ce28f6242762c8a35a33b63cd5c1212469a2968087e86265c677.jpg",
-    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/f244e09ef1c7e177e4f4bda386610506858684410854dd815fff47741a6f8d87",
-    "completed": 0
-  },
-  {
-    "title": "Himitsu no AiPri: Ring-hen",
-    "episode": 20,
-    "image": "https://i.animepahe.ru/uploads/snapshots/90bcbedf61d8855991046a0f89c4ad7ae251ad2f3b6b2aff7a139506e144ba40.jpg",
-    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/0d80a482e0984dca5ef23f012a5f240f352b37e623e68780bd12353fa364cc8a",
-    "completed": 0
-  },
-  {
-    "title": "Lord of Mysteries",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/9f34b864ec7e1aeb930e556190ab183b8687ffa87f6e43b03af34d621514f954.jpg",
-    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/f1d9ef3855b00d9151e01b58fa693b17adb7725fc1a6898ca9387ab5545b1e1a",
-    "completed": 0
-  },
-  {
     "title": "Pokémon Horizons: The Series",
     "episode": 107,
     "image": "https://i.animepahe.ru/uploads/snapshots/e3e86c48a7a4a6cdb0a303da5704d359d5cc5c5bd18e691aaa5895b4129bc250.jpg",
@@ -67,6 +46,27 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/8de8644ff443313a129ace979cdee557f5812980b37931076fc9319db3c12f12.jpg",
     "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/7ee84ba25c25ed50a2968ae2467bf98c514a3eddaefd0a00bdffffbb3e937974",
+    "completed": 0
+  },
+  {
+    "title": "Bad Girl",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3502397f7eaa6364505568daffd74770e6c190de9fa856acac36770d6baf0779.jpg",
+    "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/5279c286c2dae750f0fb797a98f852a4e4311b4bc721c8ffa6c02644fe183767",
+    "completed": 0
+  },
+  {
+    "title": "Rascal Does Not Dream of Santa Claus",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/21bf92c110b5127d1e2afd7ebddef5a80d184f0ce76effd525fd40c98ef54174.jpg",
+    "link": "https://animepahe.ru/play/025b8411-f3ff-809b-4bf9-751552950caa/76bb9fb272ab6c4060012a3ba9c18264347a97d8acb12020b71b1be8cca60649",
+    "completed": 0
+  },
+  {
+    "title": "Fermat Kitchen",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b56e7a222fdac1c9966b68f0c836a323a1f0d0ca64212b3cd1657cf5812235a9.jpg",
+    "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/bdf690be3f1b3d431e3301df5e949135c9c3a4b3b4ac85066c0bf478e19c0e77",
     "completed": 0
   }
 ]
