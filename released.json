@@ -1,12 +1,5 @@
 [
   {
-    "title": "Secrets of the Silent Witch",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e1e5b7c1bec7ad3f69272282d863d46c2718516c6b777d695c9688020cfe8c67.jpg",
-    "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/ed198efb16d09867ab58cabcf46fd79dd9c50fa07921c63aad3d3d65cb77831d",
-    "completed": 0
-  },
-  {
     "title": "Betrothed to My Sister's Ex",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/d64a0398cbb2ce92cf57a6fcbe40ac5a9e33dadd17c6e935689f24473fa5ed28.jpg",
@@ -67,6 +60,13 @@
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/4b467d54ab025a4c58617aa9c1301fb2efa8e7c1d7a6d67f7d7a54d27f72e4a3.jpg",
     "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/99f865d50746b564bce0277002dcfd119cff7fbe793e62a97596d7964f4f1f86",
+    "completed": 0
+  },
+  {
+    "title": "The Shy Hero and the Assassin Princesses",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ea5b4f18fa8a726704c7dfa57d31a91fd33ce4c99be6c1444b5dce18fcbce536.jpg",
+    "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/ca2b4afb71dba8b1d8e5976fb36e11e1634b9252a79cacfb76a061fc948d74d4",
     "completed": 0
   }
 ]
