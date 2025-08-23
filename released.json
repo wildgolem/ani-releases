@@ -1,12 +1,5 @@
 [
   {
-    "title": "Tougen Anki",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/52c6b9231076eea78db60bef3b3bd8c7274ce102059826377b3d865a2883d7a0.jpg",
-    "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/11ab74ea00761d2329f76192750cc221dbddfc8e302e7c1665b8286361610163",
-    "completed": 0
-  },
-  {
     "title": "Call of the Night Season 2",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/6458f62af6d47f240969495938806abd5980f7588fa933b3ee421a746fa89afc.jpg",
@@ -67,6 +60,13 @@
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/c057fb5c6b32225ae40875a49d2d935e4cd0eeb7e4bf6fbca9c2cd6a96455956.jpg",
     "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/20845474b6d3f828b82aba5cd89951d897d1ae71190b6c41d2e9065005ffe745",
+    "completed": 0
+  },
+  {
+    "title": "Meitantei Conan",
+    "episode": 1172,
+    "image": "https://i.animepahe.ru/uploads/snapshots/dd1096947f57f590842bde88069fc98c73d8721a60ac01f388de5f3f21aa2a07.jpg",
+    "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/fbd086d2e6ffe36c9013d41b7a395725fee3caecbc1865199ad5ed6c9e6b6975",
     "completed": 0
   }
 ]
