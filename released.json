@@ -1,12 +1,5 @@
 [
   {
-    "title": "Watari-kun's ****** Is about to Collapse",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/002b73a87db12a8d7cc0b03e8bf4717f9aecaa1e6683555ec4c430e1c64fa030.jpg",
-    "link": "https://animepahe.ru/play/3d39e1b4-3351-c2c3-1c50-8308b0f96a5e/30f67418f5688535ac4746ccf70987eab31346fd1ee193b3196322b78cc505b7",
-    "completed": 0
-  },
-  {
     "title": "Secrets of the Silent Witch",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/e1e5b7c1bec7ad3f69272282d863d46c2718516c6b777d695c9688020cfe8c67.jpg",
@@ -67,6 +60,13 @@
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/c3d9920147e69d2314c5a0ccd86b1fc61c16c8536f492fdc989586d1570bf2ae.jpg",
     "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/d85795364254c6cbcc1547da7f48a5a34a2115a1b2ec314a624e328b6bd2fb5d",
+    "completed": 0
+  },
+  {
+    "title": "Kaiju No. 8 Season 2",
+    "episode": 18,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4b467d54ab025a4c58617aa9c1301fb2efa8e7c1d7a6d67f7d7a54d27f72e4a3.jpg",
+    "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/99f865d50746b564bce0277002dcfd119cff7fbe793e62a97596d7964f4f1f86",
     "completed": 0
   }
 ]
