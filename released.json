@@ -1,12 +1,5 @@
 [
   {
-    "title": "Pokémon Horizons: The Series",
-    "episode": 107,
-    "image": "https://i.animepahe.ru/uploads/snapshots/e3e86c48a7a4a6cdb0a303da5704d359d5cc5c5bd18e691aaa5895b4129bc250.jpg",
-    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/b00022b69a3330a8a45a5493dbbac285ca42064e01c36e02144edfdfd73c9e67",
-    "completed": 0
-  },
-  {
     "title": "Yaiba: Samurai Legend",
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/c057fb5c6b32225ae40875a49d2d935e4cd0eeb7e4bf6fbca9c2cd6a96455956.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/b56e7a222fdac1c9966b68f0c836a323a1f0d0ca64212b3cd1657cf5812235a9.jpg",
     "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/bdf690be3f1b3d431e3301df5e949135c9c3a4b3b4ac85066c0bf478e19c0e77",
+    "completed": 0
+  },
+  {
+    "title": "My Dress-Up Darling Season 2",
+    "episode": 20,
+    "image": "https://i.animepahe.ru/uploads/snapshots/96f6892a502b2b9c0aa5519d3c1066a34e8e9fbd5eb1d9f96a28771d37dc1212.jpg",
+    "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/9ed69ccd799858d3475145a61708c3fbb7b65ffd2d9fb72fff86a52551ddbc83",
     "completed": 0
   }
 ]
