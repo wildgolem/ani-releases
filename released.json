@@ -1,19 +1,5 @@
 [
   {
-    "title": "Yaiba: Samurai Legend",
-    "episode": 20,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c057fb5c6b32225ae40875a49d2d935e4cd0eeb7e4bf6fbca9c2cd6a96455956.jpg",
-    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/20845474b6d3f828b82aba5cd89951d897d1ae71190b6c41d2e9065005ffe745",
-    "completed": 0
-  },
-  {
-    "title": "Meitantei Conan",
-    "episode": 1172,
-    "image": "https://i.animepahe.ru/uploads/snapshots/dd1096947f57f590842bde88069fc98c73d8721a60ac01f388de5f3f21aa2a07.jpg",
-    "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/fbd086d2e6ffe36c9013d41b7a395725fee3caecbc1865199ad5ed6c9e6b6975",
-    "completed": 0
-  },
-  {
     "title": "Anne Shirley",
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/c3d9920147e69d2314c5a0ccd86b1fc61c16c8536f492fdc989586d1570bf2ae.jpg",
@@ -67,6 +53,20 @@
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/96f6892a502b2b9c0aa5519d3c1066a34e8e9fbd5eb1d9f96a28771d37dc1212.jpg",
     "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/9ed69ccd799858d3475145a61708c3fbb7b65ffd2d9fb72fff86a52551ddbc83",
+    "completed": 0
+  },
+  {
+    "title": "Private Tutor to the Duke's Daughter",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/af6ee88b6621adc4ac29a95aec803dfafe9ca6f5ee7ee36af3c90f513ba485e6.jpg",
+    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/fa4f95627e4e9d29c73f33fe9e895bd6d3886ee4fe5095b382d1fe63d580aded",
+    "completed": 0
+  },
+  {
+    "title": "The Summer Hikaru Died",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4dceb4604c1223faaefee918ea04566c46395c9b1cefe8369446fcd678760849.jpg",
+    "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/2ac0b960fec3b581f9a9306f4a217a5cb8b3796046551ffd3eb0e22202613e0b",
     "completed": 0
   }
 ]
