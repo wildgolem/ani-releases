@@ -1,12 +1,5 @@
 [
   {
-    "title": "Anne Shirley",
-    "episode": 19,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c3d9920147e69d2314c5a0ccd86b1fc61c16c8536f492fdc989586d1570bf2ae.jpg",
-    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/d85795364254c6cbcc1547da7f48a5a34a2115a1b2ec314a624e328b6bd2fb5d",
-    "completed": 0
-  },
-  {
     "title": "Kaiju No. 8 Season 2",
     "episode": 18,
     "image": "https://i.animepahe.ru/uploads/snapshots/4b467d54ab025a4c58617aa9c1301fb2efa8e7c1d7a6d67f7d7a54d27f72e4a3.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/4dceb4604c1223faaefee918ea04566c46395c9b1cefe8369446fcd678760849.jpg",
     "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/2ac0b960fec3b581f9a9306f4a217a5cb8b3796046551ffd3eb0e22202613e0b",
+    "completed": 0
+  },
+  {
+    "title": "With You and the Rain",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/44398e73440e8497b9dcad261ad543eca1f0e18713ae1ca639bc710b682a61eb.jpg",
+    "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/b8858b8b6852b239b7e02186880d78ef6c1fa603e4c2df36b1ae4b2de7f00052",
     "completed": 0
   }
 ]
