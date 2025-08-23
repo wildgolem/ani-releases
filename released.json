@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kaiju No. 8 Season 2",
-    "episode": 18,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4b467d54ab025a4c58617aa9c1301fb2efa8e7c1d7a6d67f7d7a54d27f72e4a3.jpg",
-    "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/99f865d50746b564bce0277002dcfd119cff7fbe793e62a97596d7964f4f1f86",
-    "completed": 0
-  },
-  {
     "title": "The Shy Hero and the Assassin Princesses",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/ea5b4f18fa8a726704c7dfa57d31a91fd33ce4c99be6c1444b5dce18fcbce536.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/44398e73440e8497b9dcad261ad543eca1f0e18713ae1ca639bc710b682a61eb.jpg",
     "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/b8858b8b6852b239b7e02186880d78ef6c1fa603e4c2df36b1ae4b2de7f00052",
+    "completed": 0
+  },
+  {
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5d7c356083d024047e0dc9b9b0f3c84bc137e14e0310e9f44e2c316d17f48c07.jpg",
+    "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/338287c948fa2581ede541f6501bb7c3e59efd00330fb552c936b65483aa533c",
     "completed": 0
   }
 ]
