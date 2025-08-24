@@ -1,12 +1,5 @@
 [
   {
-    "title": "Dekin no Mogura: The Earthbound Mole",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/54dde3b03b3d81a62a295b605ca92e45058739e9e004a8082a11eae9fbfb5eca.jpg",
-    "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/dde5865ff235981f819fa0f3724b20904d4e3d78ce263a29be74e61998e6e515",
-    "completed": 0
-  },
-  {
     "title": "April Showers Bring May Flowers",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/6a53925003efca3b97c230adc1fa045daae33150256805e87d332928ebabb977.jpg",
@@ -67,6 +60,13 @@
     "episode": 1141,
     "image": "https://i.animepahe.ru/uploads/snapshots/7cb3fef35161d7ce63d9f144d1a80906bfadbc6206d89ebd82655eb009faf816.jpg",
     "link": "https://animepahe.ru/play/d58fc9f8-582e-fdf0-3618-112cd54ed5ab/485150e651e07b6566051291a1e893caa99bb672593d10071bf6fd70140b48d2",
+    "completed": 0
+  },
+  {
+    "title": "Hotel Inhumans",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4fe52f17eb6b2787c9df8d824f298559b34939d2d046013a5567419d30e907ee.jpg",
+    "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/233311446c549beb885cbdeda0cefe4707cc4b4070f6cc8a8ab843f93066019f",
     "completed": 0
   }
 ]
