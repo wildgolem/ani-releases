@@ -1,19 +1,5 @@
 [
   {
-    "title": "Witch Watch",
-    "episode": 21,
-    "image": "https://i.animepahe.ru/uploads/snapshots/8366ea60b7db53503191117e3f2c247dfd944b4f7b967797502f48a25ee6fb0a.jpg",
-    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/d769bdc730121459e0cb9a8868a7e43ba0e22a8cf6487fdb97c9e14ffc9a45d8",
-    "completed": 0
-  },
-  {
-    "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
-    "episode": 20,
-    "image": "https://i.animepahe.ru/uploads/snapshots/18b0c4e0344d8a591e6d9090817b0cfbe47b1453703d9cdddb58a78c7e002026.jpg",
-    "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/c33ca1ff98d10418b9b1ded6d7858e257bd2d407f2a64ab66b9f23ee81c90f51",
-    "completed": 0
-  },
-  {
     "title": "Puniru is a Kawaii Slime Season 2",
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/726b6e343e7a97bf430346e06fee67bf53fd5fb37205a5f61864cba3d0cd1878.jpg",
@@ -67,6 +53,20 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/5a4222197c4d5510e3cde1cb64b862b4801758d0c55839b875e025add233838e.jpg",
     "link": "https://animepahe.ru/play/42dd67ed-699c-d2d4-194a-3f2365652272/99ac9dcf7dc5e560ac78007643597268dc2414b401150d2c4462f6b91b48e920",
+    "completed": 0
+  },
+  {
+    "title": "Uglymug, Epicfighter",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f1be6a33a1c3b7aa129d9a6d345d91742d7131ff0c7fc8c0c349d0872efcd24d.jpg",
+    "link": "https://animepahe.ru/play/e41f275d-54ee-a56d-9f5f-7b34bd31edfb/1e2b38196db48d707bca20c1666c8bf4e2cface000259c1ad5cd25f631ae524d",
+    "completed": 0
+  },
+  {
+    "title": "City The Animation",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4ff40c96d0a46eb56f8dcb43a134a797e6ac3fef9d891fe9cf030f351509a236.jpg",
+    "link": "https://animepahe.ru/play/d957867d-d470-7ce7-72fc-4c23095fafc1/f31503223bdcb6337b39b66bd0f5ff17dd70d5032c8ae1b8241ac25d62df3124",
     "completed": 0
   }
 ]
