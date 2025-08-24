@@ -1,12 +1,5 @@
 [
   {
-    "title": "Fermat Kitchen",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b56e7a222fdac1c9966b68f0c836a323a1f0d0ca64212b3cd1657cf5812235a9.jpg",
-    "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/bdf690be3f1b3d431e3301df5e949135c9c3a4b3b4ac85066c0bf478e19c0e77",
-    "completed": 0
-  },
-  {
     "title": "My Dress-Up Darling Season 2",
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/96f6892a502b2b9c0aa5519d3c1066a34e8e9fbd5eb1d9f96a28771d37dc1212.jpg",
@@ -67,6 +60,13 @@
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/18b0c4e0344d8a591e6d9090817b0cfbe47b1453703d9cdddb58a78c7e002026.jpg",
     "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/c33ca1ff98d10418b9b1ded6d7858e257bd2d407f2a64ab66b9f23ee81c90f51",
+    "completed": 0
+  },
+  {
+    "title": "Puniru is a Kawaii Slime Season 2",
+    "episode": 20,
+    "image": "https://i.animepahe.ru/uploads/snapshots/726b6e343e7a97bf430346e06fee67bf53fd5fb37205a5f61864cba3d0cd1878.jpg",
+    "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/b575431bb30a5345863bdd68bf7ec8732ab55912f5436496202b021f6f0bb34c",
     "completed": 0
   }
 ]
