@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Summer Hikaru Died",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4dceb4604c1223faaefee918ea04566c46395c9b1cefe8369446fcd678760849.jpg",
-    "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/2ac0b960fec3b581f9a9306f4a217a5cb8b3796046551ffd3eb0e22202613e0b",
-    "completed": 0
-  },
-  {
     "title": "With You and the Rain",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/44398e73440e8497b9dcad261ad543eca1f0e18713ae1ca639bc710b682a61eb.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/6a53925003efca3b97c230adc1fa045daae33150256805e87d332928ebabb977.jpg",
     "link": "https://animepahe.ru/play/6e9c69a4-6719-22ec-78f8-7e9604e91b7a/c735ce7bc640aa38cc59330a7fb09d13446541fe78e38f85649530a635828175",
+    "completed": 0
+  },
+  {
+    "title": "Ruri Rocks",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/742d7ff651654e0edc33766799bf9ee12cc0cbff3b4c9db20accc96cb9ace1ec.jpg",
+    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/bd8a71703335b4e37573ecfc0f69d32facabb041ca49f62431df631fbcb5042d",
     "completed": 0
   }
 ]
