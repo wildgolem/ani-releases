@@ -1,12 +1,5 @@
 [
   {
-    "title": "With You and the Rain",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/44398e73440e8497b9dcad261ad543eca1f0e18713ae1ca639bc710b682a61eb.jpg",
-    "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/b8858b8b6852b239b7e02186880d78ef6c1fa603e4c2df36b1ae4b2de7f00052",
-    "completed": 0
-  },
-  {
     "title": "The Fragrant Flower Blooms with Dignity",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/5d7c356083d024047e0dc9b9b0f3c84bc137e14e0310e9f44e2c316d17f48c07.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/742d7ff651654e0edc33766799bf9ee12cc0cbff3b4c9db20accc96cb9ace1ec.jpg",
     "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/bd8a71703335b4e37573ecfc0f69d32facabb041ca49f62431df631fbcb5042d",
+    "completed": 0
+  },
+  {
+    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/eb45412dedd82e331fb649dcbdb93f945d8d8f406adfad32b76ea21a7c476e18.jpg",
+    "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/6c7a87ceacaec1f1105d8425527ad0c053a91069d89a96f49b11e3c77b2fe287",
     "completed": 0
   }
 ]
