@@ -1,12 +1,5 @@
 [
   {
-    "title": "Bad Girl",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3502397f7eaa6364505568daffd74770e6c190de9fa856acac36770d6baf0779.jpg",
-    "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/5279c286c2dae750f0fb797a98f852a4e4311b4bc721c8ffa6c02644fe183767",
-    "completed": 0
-  },
-  {
     "title": "Rascal Does Not Dream of Santa Claus",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/21bf92c110b5127d1e2afd7ebddef5a80d184f0ce76effd525fd40c98ef54174.jpg",
@@ -67,6 +60,13 @@
     "episode": 29,
     "image": "https://i.animepahe.ru/uploads/snapshots/b561e3e7db0fa12bfbce6e2560a4c730382bcdfe58a207fe7c422775e460793a.jpg",
     "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/0fa2548d66d38ddbd4f02ba4e2f72e68dda7ae91ccf40c0d0067d9d158cb0609",
+    "completed": 0
+  },
+  {
+    "title": "Witch Watch",
+    "episode": 21,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8366ea60b7db53503191117e3f2c247dfd944b4f7b967797502f48a25ee6fb0a.jpg",
+    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/d769bdc730121459e0cb9a8868a7e43ba0e22a8cf6487fdb97c9e14ffc9a45d8",
     "completed": 0
   }
 ]
