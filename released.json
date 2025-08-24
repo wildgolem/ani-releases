@@ -1,12 +1,5 @@
 [
   {
-    "title": "Puniru is a Kawaii Slime Season 2",
-    "episode": 20,
-    "image": "https://i.animepahe.ru/uploads/snapshots/726b6e343e7a97bf430346e06fee67bf53fd5fb37205a5f61864cba3d0cd1878.jpg",
-    "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/b575431bb30a5345863bdd68bf7ec8732ab55912f5436496202b021f6f0bb34c",
-    "completed": 0
-  },
-  {
     "title": "Dekin no Mogura: The Earthbound Mole",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/54dde3b03b3d81a62a295b605ca92e45058739e9e004a8082a11eae9fbfb5eca.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/4ff40c96d0a46eb56f8dcb43a134a797e6ac3fef9d891fe9cf030f351509a236.jpg",
     "link": "https://animepahe.ru/play/d957867d-d470-7ce7-72fc-4c23095fafc1/f31503223bdcb6337b39b66bd0f5ff17dd70d5032c8ae1b8241ac25d62df3124",
+    "completed": 0
+  },
+  {
+    "title": "One Piece",
+    "episode": 1141,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7cb3fef35161d7ce63d9f144d1a80906bfadbc6206d89ebd82655eb009faf816.jpg",
+    "link": "https://animepahe.ru/play/d58fc9f8-582e-fdf0-3618-112cd54ed5ab/485150e651e07b6566051291a1e893caa99bb672593d10071bf6fd70140b48d2",
     "completed": 0
   }
 ]
