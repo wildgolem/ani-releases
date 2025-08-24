@@ -1,12 +1,5 @@
 [
   {
-    "title": "You and Idol Precure♪",
-    "episode": 29,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b561e3e7db0fa12bfbce6e2560a4c730382bcdfe58a207fe7c422775e460793a.jpg",
-    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/0fa2548d66d38ddbd4f02ba4e2f72e68dda7ae91ccf40c0d0067d9d158cb0609",
-    "completed": 0
-  },
-  {
     "title": "Witch Watch",
     "episode": 21,
     "image": "https://i.animepahe.ru/uploads/snapshots/8366ea60b7db53503191117e3f2c247dfd944b4f7b967797502f48a25ee6fb0a.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/00fe635f9375a8568a75f9ec7326a2a3be3286c2b0e54e3c08e742de490cf994.jpg",
     "link": "https://animepahe.ru/play/bccca268-6edd-0369-ae31-cd145e76238d/a0d0dba6bce92fbf4cb6c805c77443026b2dae492d79bd6f2b7b75d4efec8735",
+    "completed": 0
+  },
+  {
+    "title": "Gachiakuta",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5a4222197c4d5510e3cde1cb64b862b4801758d0c55839b875e025add233838e.jpg",
+    "link": "https://animepahe.ru/play/42dd67ed-699c-d2d4-194a-3f2365652272/99ac9dcf7dc5e560ac78007643597268dc2414b401150d2c4462f6b91b48e920",
     "completed": 0
   }
 ]
