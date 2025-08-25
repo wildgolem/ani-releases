@@ -1,12 +1,5 @@
 [
   {
-    "title": "Gachiakuta",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/5a4222197c4d5510e3cde1cb64b862b4801758d0c55839b875e025add233838e.jpg",
-    "link": "https://animepahe.ru/play/42dd67ed-699c-d2d4-194a-3f2365652272/99ac9dcf7dc5e560ac78007643597268dc2414b401150d2c4462f6b91b48e920",
-    "completed": 0
-  },
-  {
     "title": "Uglymug, Epicfighter",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/f1be6a33a1c3b7aa129d9a6d345d91742d7131ff0c7fc8c0c349d0872efcd24d.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/ebced49d6bfaa2ab091a6bb6753fd2db62de49d9875a8314cf05c38fd0f4f1f8.jpg",
     "link": "https://animepahe.ru/play/785d08ac-4a7a-6c64-ae6d-f2bce029d355/1fbb037eba1df912324c17b6cae63e209282ec55f4947577468a1386fbe4f031",
+    "completed": 0
+  },
+  {
+    "title": "There's No Freaking Way I'll be Your Lover! Unless...",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/6d26ee9fd6b371a1836587f70f04547c8ccd34369ab547fcd8b4b946b3c06c9a.jpg",
+    "link": "https://animepahe.ru/play/1abdeb23-fe28-dc61-7169-e3d5946718b0/08c15373504eda5ed6838155c0a62898f6069555509fa5b521fb45f841b26d61",
     "completed": 0
   }
 ]
