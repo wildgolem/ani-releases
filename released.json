@@ -1,19 +1,5 @@
 [
   {
-    "title": "Ruri Rocks",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/742d7ff651654e0edc33766799bf9ee12cc0cbff3b4c9db20accc96cb9ace1ec.jpg",
-    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/bd8a71703335b4e37573ecfc0f69d32facabb041ca49f62431df631fbcb5042d",
-    "completed": 0
-  },
-  {
-    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/eb45412dedd82e331fb649dcbdb93f945d8d8f406adfad32b76ea21a7c476e18.jpg",
-    "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/6c7a87ceacaec1f1105d8425527ad0c053a91069d89a96f49b11e3c77b2fe287",
-    "completed": 0
-  },
-  {
     "title": "Nyaight of the Living Cat",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/138079486e51b07735890bab021a19a7f1a3407db721398b67bf79d49d2f909b.jpg",
@@ -67,6 +53,20 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/ec289d25127fbeba1a62f78ea51be693770fe6b3ab989726fd4e1f0ebd8bb011.jpg",
     "link": "https://animepahe.ru/play/6fd6c8a4-470a-57cb-9bac-5acc159bbdb9/cebb956f5809347726e317a319f8e7f8c51fd8dca12706f0fb67baef9fc50048",
+    "completed": 0
+  },
+  {
+    "title": "Summer Pockets",
+    "episode": 21,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4d0927252d0e583b61599a6b2a6b8207fcdd7ec6eee4990ad9784bb73344c123.jpg",
+    "link": "https://animepahe.ru/play/cd429dce-defb-b3d2-99a8-8fc7bacf1160/d91c788ea632190bc4eded901ec62eb85ec0d5dc369895384de2fd3b36b062a4",
+    "completed": 0
+  },
+  {
+    "title": "Sword of the Demon Hunter: Kijin Gentosho",
+    "episode": 20,
+    "image": "https://i.animepahe.ru/uploads/snapshots/98857d50cd68a1177d78cd5268ae24a5d516cd33eb1edea5aaee4f2296560763.jpg",
+    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/0e6f0fd18c7f77a8176df2b3db3af5e30cea4ffd0cb2c3fe87b3360895e82c95",
     "completed": 0
   }
 ]
