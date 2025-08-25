@@ -1,12 +1,5 @@
 [
   {
-    "title": "Uglymug, Epicfighter",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f1be6a33a1c3b7aa129d9a6d345d91742d7131ff0c7fc8c0c349d0872efcd24d.jpg",
-    "link": "https://animepahe.ru/play/e41f275d-54ee-a56d-9f5f-7b34bd31edfb/1e2b38196db48d707bca20c1666c8bf4e2cface000259c1ad5cd25f631ae524d",
-    "completed": 0
-  },
-  {
     "title": "City The Animation",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/4ff40c96d0a46eb56f8dcb43a134a797e6ac3fef9d891fe9cf030f351509a236.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/6d26ee9fd6b371a1836587f70f04547c8ccd34369ab547fcd8b4b946b3c06c9a.jpg",
     "link": "https://animepahe.ru/play/1abdeb23-fe28-dc61-7169-e3d5946718b0/08c15373504eda5ed6838155c0a62898f6069555509fa5b521fb45f841b26d61",
+    "completed": 0
+  },
+  {
+    "title": "Nukitashi the Animation",
+    "episode": 6,
+    "image": "https://i.animepahe.ru/uploads/snapshots/eeb271b19a93ce28f6242762c8a35a33b63cd5c1212469a2968087e86265c677.jpg",
+    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/f244e09ef1c7e177e4f4bda386610506858684410854dd815fff47741a6f8d87",
     "completed": 0
   }
 ]
