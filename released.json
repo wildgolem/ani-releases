@@ -1,12 +1,5 @@
 [
   {
-    "title": "Mr. Osomatsu 4th Season",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/dcf1186feeb3a50dfd4d96931fdb0650bcc567f21ce26c798a644432a5ca7008.jpg",
-    "link": "https://animepahe.ru/play/ad12e261-8b36-80af-842a-28d955a8dba1/1171cdb781d3c6586aada6911a04a2453f4daefd8d868d45a8cd81e1d1575a10",
-    "completed": 0
-  },
-  {
     "title": "Turkey! Time to Strike",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/da4f6fb9468ab052ec92947f2267daedac5229ffe110e8e2788c2d7cc9d136a8.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/a344686fd67c90f62ea23efece8133b9f366c5727e31951f1255c52f8ca4654e.jpg",
     "link": "https://animepahe.ru/play/f5135165-7630-6498-ccd8-93954cfef653/f279847419ee84f17b91a5e8ea833e3678a49e1b8b2e35bdccc5520aa683149f",
+    "completed": 0
+  },
+  {
+    "title": "Hell Teacher: Jigoku Sensei Nube",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/51e0371197892f699775a0ca3745b19178c16410ebd72d12975d53e9ff6abccb.jpg",
+    "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/da84eae4633057b5fab69f2335ee6eeb1469e71898e341776773cec91d16443a",
     "completed": 0
   }
 ]
