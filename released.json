@@ -1,12 +1,5 @@
 [
   {
-    "title": "A Couple of Cuckoos Season 2",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c88a94514f2235351edf09937c3e0c4a97d5c1d5811282bfa4ff1dd265553899.jpg",
-    "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/bf845f33a011852e3daeb76dedcba7cba49b7c97f6ca6c8c6bd9dd71bd15bc48",
-    "completed": 0
-  },
-  {
     "title": "Detectives These Days Are Crazy!",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/53d31ce71cec682f4161010480e24812e940084040e17b81f0fb78574c6ae38e.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/6fe57f1ed0501407be32dcf8ebf31d9b6a01e090fbc8f1e00a72e93794ab4ed4.jpg",
     "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/af38dde0f1f5245c3d2cf2919e521bbda110119b07b0b217b0c32c15c2dd04fa",
+    "completed": 0
+  },
+  {
+    "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+    "episode": 20,
+    "image": "https://i.animepahe.ru/uploads/snapshots/68fcb4a138ade1de90a66b19cc305f5cdfa81ca377f019625dc8ea2dc1903228.jpg",
+    "link": "https://animepahe.ru/play/39f74d0c-55ad-4c14-5af2-2821f91f6eb5/4e6018eb651247b38eea81ff5d9e6becdf45884a0700a9ed2d33ddeda6b8b659",
     "completed": 0
   }
 ]
