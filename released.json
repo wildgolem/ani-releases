@@ -1,12 +1,5 @@
 [
   {
-    "title": "Rent-a-Girlfriend Season 4",
-    "episode": 45,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d93d3f124815c77935d1e0fdf97e4fb45be5139f85dda4b348f6b74ddd409946.jpg",
-    "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/18454ba84f2b75e4f49f50d09f19f79756d1134fb23eacf148c6198b420b18aa",
-    "completed": 0
-  },
-  {
     "title": "A Couple of Cuckoos Season 2",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/c88a94514f2235351edf09937c3e0c4a97d5c1d5811282bfa4ff1dd265553899.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/2a5781a2aae801223ca437ca1b8f0aa6312b9950fd03138c4531a3efd5ef0f63.jpg",
     "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/15e5799419f0fcfd74e68184129775f68f4fb463be19d7f8667d6d7bc8d5fc72",
+    "completed": 0
+  },
+  {
+    "title": "New Panty & Stocking with Garterbelt",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/6fe57f1ed0501407be32dcf8ebf31d9b6a01e090fbc8f1e00a72e93794ab4ed4.jpg",
+    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/af38dde0f1f5245c3d2cf2919e521bbda110119b07b0b217b0c32c15c2dd04fa",
     "completed": 0
   }
 ]
