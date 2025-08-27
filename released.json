@@ -1,12 +1,5 @@
 [
   {
-    "title": "Detectives These Days Are Crazy!",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/53d31ce71cec682f4161010480e24812e940084040e17b81f0fb78574c6ae38e.jpg",
-    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/2fe6e8442172edf0a87813f7613e860962d394812007cddfdcffe68ac94063d6",
-    "completed": 0
-  },
-  {
     "title": "Necronomico and the Cosmic Horror Show",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/812e49604387e744a66043237daa50702da13a6b656441c42f06362b7a09ba85.jpg",
@@ -67,6 +60,13 @@
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/68fcb4a138ade1de90a66b19cc305f5cdfa81ca377f019625dc8ea2dc1903228.jpg",
     "link": "https://animepahe.ru/play/39f74d0c-55ad-4c14-5af2-2821f91f6eb5/4e6018eb651247b38eea81ff5d9e6becdf45884a0700a9ed2d33ddeda6b8b659",
+    "completed": 0
+  },
+  {
+    "title": "Dealing with Mikadono Sisters Is a Breeze",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7024f90e85abfa593aff817875c413a9f7fdca7a9925af5ddb0f117f9887b4b1.jpg",
+    "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/e4578e4f92df947fc021604eeceb438f6529bf15571ff9867bb00b249885fd84",
     "completed": 0
   }
 ]
