@@ -1,12 +1,5 @@
 [
   {
-    "title": "Necronomico and the Cosmic Horror Show",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/812e49604387e744a66043237daa50702da13a6b656441c42f06362b7a09ba85.jpg",
-    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/178c89183885f550d24d4aa36f75e1f5a713c5cff37bc4ced6d6c3a94eb3440e",
-    "completed": 0
-  },
-  {
     "title": "Chuhai Lips",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/987a85f4d0a4e8bf1b7cdfda040d94cbe883be7bc6f77bd58909190e2e158157.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/7024f90e85abfa593aff817875c413a9f7fdca7a9925af5ddb0f117f9887b4b1.jpg",
     "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/e4578e4f92df947fc021604eeceb438f6529bf15571ff9867bb00b249885fd84",
+    "completed": 0
+  },
+  {
+    "title": "Onmyo Kaiten Re:Birth Verse",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/bfc6df952768d52a547775e82a672b998f6d2639992a8f541d4f91b00bcb7f62.jpg",
+    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/30ad3ac6a18862d3884a2db177749fa2b07dbef73846da1a5f3528ad24f241e8",
     "completed": 0
   }
 ]
