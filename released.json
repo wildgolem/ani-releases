@@ -1,12 +1,5 @@
 [
   {
-    "title": "Onmyo Kaiten Re:Birth Verse",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/bfc6df952768d52a547775e82a672b998f6d2639992a8f541d4f91b00bcb7f62.jpg",
-    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/30ad3ac6a18862d3884a2db177749fa2b07dbef73846da1a5f3528ad24f241e8",
-    "completed": 0
-  },
-  {
     "title": "New Saga",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/a344686fd67c90f62ea23efece8133b9f366c5727e31951f1255c52f8ca4654e.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/167ab180d982000e2aa484836201a3841f58e3259ee97f14c622f72f9335f55d.jpg",
     "link": "https://animepahe.ru/play/121849f4-890d-db95-3a0b-34e0e9a9360b/28b7aeebd2200514dc8b0e62c506e4eb38c9e29dc1b414e85026459d7c4a85ae",
+    "completed": 0
+  },
+  {
+    "title": "Kamitsubaki City Under Construction",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0d08858c278fb13d8a8096668ba577fdf93d59c97a2f6c08cb29112e1880a239.jpg",
+    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/55a5f36ab9959e7add86a390e826bb76b162a81463c89827871cacfbc206d3ae",
     "completed": 0
   }
 ]
