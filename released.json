@@ -1,12 +1,5 @@
 [
   {
-    "title": "Welcome to the Outcast's Restaurant!",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ccef345744bdc36282143f6d63033856d7ad0735a823bda68cdcbb65e917c08b.jpg",
-    "link": "https://animepahe.ru/play/7a909eb7-14eb-9822-6bfe-ab9f1d9ab597/adf5f17fa7a724e5710ddddd83607fbeb4caae0c9c7261775cd08048d7a41b46",
-    "completed": 0
-  },
-  {
     "title": "Dan Da Dan Season 2",
     "episode": 21,
     "image": "https://i.animepahe.ru/uploads/snapshots/94403bc5b9d3ab291db100681a1302df506e9d7558280e618bc1f4c1769637bc.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/4feffc34de211ed2b35fd9ea256cd6bdb5f404fb27517b3cfe85a1e671f31205.jpg",
     "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/993ab6f80f77ee693816f0cfbbe81ddffccccb908c015706a793cc2f927f7d4d",
+    "completed": 0
+  },
+  {
+    "title": "Watari-kun's ****** Is about to Collapse",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3beb16aeb68f5c7f855a6ac9d1d0c4ec2801d55fd90fec1720f28fe5c5e47b48.jpg",
+    "link": "https://animepahe.ru/play/3d39e1b4-3351-c2c3-1c50-8308b0f96a5e/8c18d0f529d77399fba3d4d7ff4bcc6a7c39785814229594867f02b666231ef9",
     "completed": 0
   }
 ]
