@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kamitsubaki City Under Construction",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/0d08858c278fb13d8a8096668ba577fdf93d59c97a2f6c08cb29112e1880a239.jpg",
-    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/55a5f36ab9959e7add86a390e826bb76b162a81463c89827871cacfbc206d3ae",
-    "completed": 0
-  },
-  {
     "title": "The Water Magician",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/d595e081cae5e8c2bfec745a30aede7b99fb176abf8a188b000c7c608ffe22cf.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/30717aef9f08ff6295b4d03015aa02b95f725dbdda1774001b5c284cc9191db6.jpg",
     "link": "https://animepahe.ru/play/55e39916-d7f0-d70d-6964-dd149dfbb620/c2fb57e2ace405e39a45b92781a1c1e1933ea21f231766026d59d17a352f246f",
+    "completed": 0
+  },
+  {
+    "title": "Call of the Night Season 2",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4b4cd3c3e83e9be3b436605f0a45daf4cd1054e3f6187e87a9c118a53bda2971.jpg",
+    "link": "https://animepahe.ru/play/bd82c9e0-73b3-0d9e-8078-a8e01cddaa78/4f4ef432de725a0b02cd3d22167b56074acaa0eca4760587a7268f672c58b17a",
     "completed": 0
   }
 ]
