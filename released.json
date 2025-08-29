@@ -1,12 +1,5 @@
 [
   {
-    "title": "Uma Musume: Pretty Derby - BNW no Chikai",
-    "episode": 3,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d15286ad5dd3f5ea0d3b472e9e093abeaf220019c8e6564c0f390c30faf019ee.jpg",
-    "link": "https://animepahe.ru/play/07c2f979-ba27-f781-0211-43665dd3c8d2/ead22d6cc234063bf72975d4d175708ebed91cb61fec9ec42cf51af55af8c85f",
-    "completed": 1
-  },
-  {
     "title": "Captivated, By You",
     "episode": 2,
     "image": "https://i.animepahe.ru/uploads/snapshots/b98528069fd40b40f80d147f4843adb848bf2dc35162023460ce43a146478be8.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/d199925ece5730bf40cfc2eb2cd39ba604976f7693eba0fe919587beb0a7f48c.jpg",
     "link": "https://animepahe.ru/play/40b8e827-748b-b262-94b2-b72ad4bde65a/12a371c0177cf85cdbb4008878cbd05897d887ec7c4f37ad8000a20a5f2e0f5c",
+    "completed": 0
+  },
+  {
+    "title": "Me and the Alien MuMu",
+    "episode": 21,
+    "image": "https://i.animepahe.ru/uploads/snapshots/692f7cb2b3a6fab17d78c031797dcd0ab24084073c38bccab5cac7ebe7be4694.jpg",
+    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/c51e6c531fc523e421ad3e5c70152557d5d9189059ec257be611b1e126bbdb32",
     "completed": 0
   }
 ]
