@@ -1,12 +1,5 @@
 [
   {
-    "title": "Me and the Alien MuMu",
-    "episode": 21,
-    "image": "https://i.animepahe.ru/uploads/snapshots/692f7cb2b3a6fab17d78c031797dcd0ab24084073c38bccab5cac7ebe7be4694.jpg",
-    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/c51e6c531fc523e421ad3e5c70152557d5d9189059ec257be611b1e126bbdb32",
-    "completed": 0
-  },
-  {
     "title": "Arknights: Rise from Ember",
     "episode": 25,
     "image": "https://i.animepahe.ru/uploads/snapshots/f84070f1a6314ed058c594ba298465965b2eff495f55770dab3817d86864c345.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/599ff4c073656d21363ef8a37a486374083055fb42609ead958879ea6fbc5682.jpg",
     "link": "https://animepahe.ru/play/6e9c69a4-6719-22ec-78f8-7e9604e91b7a/6bf1a4925016920545c442651ad6d8eb97854321d8a79a10ce364724febad30e",
+    "completed": 0
+  },
+  {
+    "title": "Himitsu no AiPri: Ring-hen",
+    "episode": 21,
+    "image": "https://i.animepahe.ru/uploads/snapshots/c68d19f9b92de00c89059e93114c4b394a53577b09363403085e0a94dcc303ff.jpg",
+    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/1f2bdcb6c1b1d4124cdc4cafc8c0241eaafb0f89f5694126cccd7c11bf4feaeb",
     "completed": 0
   }
 ]
