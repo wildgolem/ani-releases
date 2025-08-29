@@ -1,12 +1,5 @@
 [
   {
-    "title": "Dragon Raja II -The Mourner's Eyes-",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2998aac4673f290895e28ce4df49ba4b4f1462855a553b1cf4641549347217ba.jpg",
-    "link": "https://animepahe.ru/play/fca3ff7b-02dd-b984-baa3-c4021c7f6629/0bf4147e10a57e3dcf9cd18e22777e913981095678e0069ebd89097e6f70d6c4",
-    "completed": 0
-  },
-  {
     "title": "Harmony of Mille-Feuille",
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/d199925ece5730bf40cfc2eb2cd39ba604976f7693eba0fe919587beb0a7f48c.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/fdc1a07e919318c5ef2d90b7a1e361c833828141085fb56ded123efd84d492a3.jpg",
     "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/d44ba4b46d857ae179f452dc12ec259d64d30dcb0e011fe0ba7f058789ac6047",
+    "completed": 0
+  },
+  {
+    "title": "Nukitashi the Animation",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/56d56a7de128fa35975eb9ebdc0ec7eded20eb4d9b3965be00f46f3f1633184b.jpg",
+    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/5743f6911d6b4b1bbb327e67fce44f702b1067ea1eb46cbc934a7ae36b79db71",
     "completed": 0
   }
 ]
