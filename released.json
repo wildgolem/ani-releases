@@ -1,12 +1,5 @@
 [
   {
-    "title": "Captivated, By You",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b98528069fd40b40f80d147f4843adb848bf2dc35162023460ce43a146478be8.jpg",
-    "link": "https://animepahe.ru/play/a6ca7763-a61d-d51c-4ab7-bfc499759fb8/c8316ae392717855999ea3f5590b1679261039bf6dcf0930e25e46a37ffde786",
-    "completed": 0
-  },
-  {
     "title": "Dr. Stone: Science Future Part 2",
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/1c03d0baf68d79f6efb4b2c36304560fe829087d1480084a1f43d5eb7c124420.jpg",
@@ -67,6 +60,13 @@
     "episode": 21,
     "image": "https://i.animepahe.ru/uploads/snapshots/692f7cb2b3a6fab17d78c031797dcd0ab24084073c38bccab5cac7ebe7be4694.jpg",
     "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/c51e6c531fc523e421ad3e5c70152557d5d9189059ec257be611b1e126bbdb32",
+    "completed": 0
+  },
+  {
+    "title": "Arknights: Rise from Ember",
+    "episode": 25,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f84070f1a6314ed058c594ba298465965b2eff495f55770dab3817d86864c345.jpg",
+    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/a154792d47da5a08c800a812d8701b1944fd64f0f627a2d4d817b5f547e54522",
     "completed": 0
   }
 ]
