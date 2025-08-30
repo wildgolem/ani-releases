@@ -1,12 +1,5 @@
 [
   {
-    "title": "Secrets of the Silent Witch",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/867a97cde7beae031d6e8a3d4e728e41e2bb6cb9f306db0e4eca7cb33c5b5f17.jpg",
-    "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/304c304c7ac9eb8520f5b881f32a2ae6e10af0883ce0946a308d0bec0385cfbc",
-    "completed": 0
-  },
-  {
     "title": "Haigakura",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/30717aef9f08ff6295b4d03015aa02b95f725dbdda1774001b5c284cc9191db6.jpg",
@@ -67,6 +60,13 @@
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/a2f1d7f4ec1ff4fa1b7d1a9b460aaec46a563d9c7151d3c57b0c4051bee66059.jpg",
     "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/23787aba4ad7bb1915e95f92a6cf7d391034ecb9871bda6377b5371c49aed33d",
+    "completed": 0
+  },
+  {
+    "title": "Meitantei Conan",
+    "episode": 1173,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3930d20155a625bd6893d3a0defdcdd3ee39490998eb17a718a47aa97bcecdf4.jpg",
+    "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/1fd86fced1117945e00afe4aafcebb61825b047185b81db3ed13469063a64f5b",
     "completed": 0
   }
 ]
