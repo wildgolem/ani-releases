@@ -1,12 +1,5 @@
 [
   {
-    "title": "Watari-kun's ****** Is about to Collapse",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3beb16aeb68f5c7f855a6ac9d1d0c4ec2801d55fd90fec1720f28fe5c5e47b48.jpg",
-    "link": "https://animepahe.ru/play/3d39e1b4-3351-c2c3-1c50-8308b0f96a5e/8c18d0f529d77399fba3d4d7ff4bcc6a7c39785814229594867f02b666231ef9",
-    "completed": 0
-  },
-  {
     "title": "Secrets of the Silent Witch",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/867a97cde7beae031d6e8a3d4e728e41e2bb6cb9f306db0e4eca7cb33c5b5f17.jpg",
@@ -67,6 +60,13 @@
     "episode": 108,
     "image": "https://i.animepahe.ru/uploads/snapshots/3fe6771ccb08d2bbb8a358bf09050f67ca258df80953aa5af3e57dede2daa3ed.jpg",
     "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/6ff0f4c502d7cafa50cdb647f5ad1e8f6353b067b1c9cbe614f13c6c1241ccb4",
+    "completed": 0
+  },
+  {
+    "title": "Celestial Bonds",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/df0b65254efe47072dc99050f4f58f1df01ecbc111f5b728bd0237c701b73e05.jpg",
+    "link": "https://animepahe.ru/play/db90fbd4-9419-5635-e57f-c0f0cd3f72d5/bb4334c5ce56b8d35a2756ab8092306d079ed99692932095f8817b22d46b411b",
     "completed": 0
   }
 ]
