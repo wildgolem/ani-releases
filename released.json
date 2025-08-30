@@ -1,19 +1,5 @@
 [
   {
-    "title": "Nukitashi the Animation",
-    "episode": 7,
-    "image": "https://i.animepahe.ru/uploads/snapshots/56d56a7de128fa35975eb9ebdc0ec7eded20eb4d9b3965be00f46f3f1633184b.jpg",
-    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/5743f6911d6b4b1bbb327e67fce44f702b1067ea1eb46cbc934a7ae36b79db71",
-    "completed": 0
-  },
-  {
-    "title": "April Showers Bring May Flowers",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/599ff4c073656d21363ef8a37a486374083055fb42609ead958879ea6fbc5682.jpg",
-    "link": "https://animepahe.ru/play/6e9c69a4-6719-22ec-78f8-7e9604e91b7a/6bf1a4925016920545c442651ad6d8eb97854321d8a79a10ce364724febad30e",
-    "completed": 0
-  },
-  {
     "title": "Himitsu no AiPri: Ring-hen",
     "episode": 21,
     "image": "https://i.animepahe.ru/uploads/snapshots/c68d19f9b92de00c89059e93114c4b394a53577b09363403085e0a94dcc303ff.jpg",
@@ -67,6 +53,20 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/e059f7fec17a452cc02b9227261a4f5613ad06b5f84f2c0bbf826ff382b10ecf.jpg",
     "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/c84ed0ca6fee7d0e6df3632c5594fb3b48301651b45b4cd6dd23b1daa4814337",
+    "completed": 0
+  },
+  {
+    "title": "Scooped Up by an S-Ranked Adventurer",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b7e82123ec2a61c3c424872142537d2f8704dc66fb8786add653c3abc8c91955.jpg",
+    "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/3221fe2a855f4ef0c134c708aeaeb9127f73a61f08eae17e957f5522f3a11c14",
+    "completed": 0
+  },
+  {
+    "title": "Bad Girl",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/9b9c083574b6e11d88ca8346f1a2aa93a7c67f6ba597273a84df2b2079eb22d3.jpg",
+    "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/dd2116d9396022aab326865307eace40fb9d3449c86efa7a6b6c18643061c611",
     "completed": 0
   }
 ]
