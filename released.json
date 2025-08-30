@@ -1,12 +1,5 @@
 [
   {
-    "title": "Haigakura",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/30717aef9f08ff6295b4d03015aa02b95f725dbdda1774001b5c284cc9191db6.jpg",
-    "link": "https://animepahe.ru/play/55e39916-d7f0-d70d-6964-dd149dfbb620/c2fb57e2ace405e39a45b92781a1c1e1933ea21f231766026d59d17a352f246f",
-    "completed": 0
-  },
-  {
     "title": "Call of the Night Season 2",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/4b4cd3c3e83e9be3b436605f0a45daf4cd1054e3f6187e87a9c118a53bda2971.jpg",
@@ -67,6 +60,13 @@
     "episode": 1173,
     "image": "https://i.animepahe.ru/uploads/snapshots/3930d20155a625bd6893d3a0defdcdd3ee39490998eb17a718a47aa97bcecdf4.jpg",
     "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/1fd86fced1117945e00afe4aafcebb61825b047185b81db3ed13469063a64f5b",
+    "completed": 0
+  },
+  {
+    "title": "Anne Shirley",
+    "episode": 20,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4adc438565557aa9ad434769c23db1b4acef5c0185139f9e648c404ba775fb04.jpg",
+    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/e49c446b5bb2258d4c1d4e190d06b5749ad6743510af903f030b906d411b828e",
     "completed": 0
   }
 ]
