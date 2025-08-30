@@ -1,12 +1,5 @@
 [
   {
-    "title": "Call of the Night Season 2",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4b4cd3c3e83e9be3b436605f0a45daf4cd1054e3f6187e87a9c118a53bda2971.jpg",
-    "link": "https://animepahe.ru/play/bd82c9e0-73b3-0d9e-8078-a8e01cddaa78/4f4ef432de725a0b02cd3d22167b56074acaa0eca4760587a7268f672c58b17a",
-    "completed": 0
-  },
-  {
     "title": "Betrothed to My Sister's Ex",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/fdc1a07e919318c5ef2d90b7a1e361c833828141085fb56ded123efd84d492a3.jpg",
@@ -67,6 +60,13 @@
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/4adc438565557aa9ad434769c23db1b4acef5c0185139f9e648c404ba775fb04.jpg",
     "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/e49c446b5bb2258d4c1d4e190d06b5749ad6743510af903f030b906d411b828e",
+    "completed": 0
+  },
+  {
+    "title": "Kaiju No. 8 Season 2",
+    "episode": 19,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fb6e644f3a1b481bc875145129bdaa6a83e114b703bb9e435b1ae07831a9956a.jpg",
+    "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/3212755a054bd3bfb1ccc915dd1f27f705e899688d3aafdfafef2053a2e53286",
     "completed": 0
   }
 ]
