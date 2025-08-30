@@ -1,12 +1,5 @@
 [
   {
-    "title": "Meitantei Conan",
-    "episode": 1173,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3930d20155a625bd6893d3a0defdcdd3ee39490998eb17a718a47aa97bcecdf4.jpg",
-    "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/1fd86fced1117945e00afe4aafcebb61825b047185b81db3ed13469063a64f5b",
-    "completed": 0
-  },
-  {
     "title": "Anne Shirley",
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/4adc438565557aa9ad434769c23db1b4acef5c0185139f9e648c404ba775fb04.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/35a2a03a90e7dd69d84ac79abf07edd1591b4cde7959d730ddd367f234629363.jpg",
     "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/215c65702b0fae798ebc48efec06ea89ea4aba1281ef17c6cfd9aa75c421c93d",
+    "completed": 0
+  },
+  {
+    "title": "9: Ruler's Crown",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/0dd23b5e92495956fd77ae99ea9bac4384a2c4f402ad8d93e3ffadbe5047a23d.jpg",
+    "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/f9116f9e46adeeed1dc379fe019f745cd4f0fe643f9bf4d7b21fd4e5d420e2bf",
     "completed": 0
   }
 ]
