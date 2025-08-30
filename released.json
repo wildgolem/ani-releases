@@ -1,12 +1,5 @@
 [
   {
-    "title": "Himitsu no AiPri: Ring-hen",
-    "episode": 21,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c68d19f9b92de00c89059e93114c4b394a53577b09363403085e0a94dcc303ff.jpg",
-    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/1f2bdcb6c1b1d4124cdc4cafc8c0241eaafb0f89f5694126cccd7c11bf4feaeb",
-    "completed": 0
-  },
-  {
     "title": "Lord of Mysteries",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/28b2a391bee3821eac2122ccbe365d64d3435239e951be92a94f20db31493c11.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/9b9c083574b6e11d88ca8346f1a2aa93a7c67f6ba597273a84df2b2079eb22d3.jpg",
     "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/dd2116d9396022aab326865307eace40fb9d3449c86efa7a6b6c18643061c611",
+    "completed": 0
+  },
+  {
+    "title": "Rascal Does Not Dream of Santa Claus",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/6a3419d193ff663ef51ae78b6715e8311d0068755de5b7654ed9ff911e00dd74.jpg",
+    "link": "https://animepahe.ru/play/025b8411-f3ff-809b-4bf9-751552950caa/64625bf779c9fbc56206771dd3b871410688072d82965bf510475a751ff04f70",
     "completed": 0
   }
 ]
