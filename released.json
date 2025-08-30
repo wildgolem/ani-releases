@@ -1,12 +1,5 @@
 [
   {
-    "title": "Pokémon Horizons: The Series",
-    "episode": 108,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3fe6771ccb08d2bbb8a358bf09050f67ca258df80953aa5af3e57dede2daa3ed.jpg",
-    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/6ff0f4c502d7cafa50cdb647f5ad1e8f6353b067b1c9cbe614f13c6c1241ccb4",
-    "completed": 0
-  },
-  {
     "title": "Celestial Bonds",
     "episode": 14,
     "image": "https://i.animepahe.ru/uploads/snapshots/a2f1d7f4ec1ff4fa1b7d1a9b460aaec46a563d9c7151d3c57b0c4051bee66059.jpg",
@@ -67,6 +60,13 @@
     "episode": 21,
     "image": "https://i.animepahe.ru/uploads/snapshots/904becb32948b83b1dc0ca6792017575b0d02e544114cf5a10650dff87023ca8.jpg",
     "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/bb54742864027ca30d85d76ac3395f987fea40961f892f4ed57459c0f28ee56e",
+    "completed": 0
+  },
+  {
+    "title": "Private Tutor to the Duke's Daughter",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7f1cbd9c8b3d199944ec4063eed346cdef7ee4f8a9735cbdb07ae57370b173de.jpg",
+    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/3931b7d30ebf82fc0e3c49c1a0f0321d8f119ac63b0617778bd49e3ea339a0ab",
     "completed": 0
   }
 ]
