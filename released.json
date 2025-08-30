@@ -1,12 +1,5 @@
 [
   {
-    "title": "Lord of Mysteries",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/28b2a391bee3821eac2122ccbe365d64d3435239e951be92a94f20db31493c11.jpg",
-    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/ae0dac76306e14ccee8c8ea2466d6d99aab55284413f2678fbbe1714f02b8931",
-    "completed": 0
-  },
-  {
     "title": "Pokémon Horizons: The Series",
     "episode": 108,
     "image": "https://i.animepahe.ru/uploads/snapshots/3fe6771ccb08d2bbb8a358bf09050f67ca258df80953aa5af3e57dede2daa3ed.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/6a3419d193ff663ef51ae78b6715e8311d0068755de5b7654ed9ff911e00dd74.jpg",
     "link": "https://animepahe.ru/play/025b8411-f3ff-809b-4bf9-751552950caa/64625bf779c9fbc56206771dd3b871410688072d82965bf510475a751ff04f70",
+    "completed": 0
+  },
+  {
+    "title": "My Dress-Up Darling Season 2",
+    "episode": 21,
+    "image": "https://i.animepahe.ru/uploads/snapshots/904becb32948b83b1dc0ca6792017575b0d02e544114cf5a10650dff87023ca8.jpg",
+    "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/bb54742864027ca30d85d76ac3395f987fea40961f892f4ed57459c0f28ee56e",
     "completed": 0
   }
 ]
