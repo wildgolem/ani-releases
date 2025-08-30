@@ -1,12 +1,5 @@
 [
   {
-    "title": "Anne Shirley",
-    "episode": 20,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4adc438565557aa9ad434769c23db1b4acef5c0185139f9e648c404ba775fb04.jpg",
-    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/e49c446b5bb2258d4c1d4e190d06b5749ad6743510af903f030b906d411b828e",
-    "completed": 0
-  },
-  {
     "title": "Kaiju No. 8 Season 2",
     "episode": 19,
     "image": "https://i.animepahe.ru/uploads/snapshots/fb6e644f3a1b481bc875145129bdaa6a83e114b703bb9e435b1ae07831a9956a.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/0dd23b5e92495956fd77ae99ea9bac4384a2c4f402ad8d93e3ffadbe5047a23d.jpg",
     "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/f9116f9e46adeeed1dc379fe019f745cd4f0fe643f9bf4d7b21fd4e5d420e2bf",
+    "completed": 0
+  },
+  {
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7869f28bde60d1584519aecf94b1001308a7a389b5e7247827ae0b88382b34e3.jpg",
+    "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/743d1ee5864164e99c23fe66dc4a43cf0525084b4d5876e05bdc1a3e0e19c4dd",
     "completed": 0
   }
 ]
