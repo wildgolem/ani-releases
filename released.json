@@ -1,12 +1,5 @@
 [
   {
-    "title": "With You and the Rain",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/35a2a03a90e7dd69d84ac79abf07edd1591b4cde7959d730ddd367f234629363.jpg",
-    "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/215c65702b0fae798ebc48efec06ea89ea4aba1281ef17c6cfd9aa75c421c93d",
-    "completed": 0
-  },
-  {
     "title": "9: Ruler's Crown",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/0dd23b5e92495956fd77ae99ea9bac4384a2c4f402ad8d93e3ffadbe5047a23d.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/ca90745a0646e0b9322166723776dff83a9df682a65195a15c3cf4ea7ac2b16a.jpg",
     "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/d7296c126ba1798b4d17b887d9723359e5d1d558ebe3111f7f57a3b5558c3a6c",
+    "completed": 0
+  },
+  {
+    "title": "Witch Watch",
+    "episode": 22,
+    "image": "https://i.animepahe.ru/uploads/snapshots/cbba99bd8c289d6157c5f0247384cd85277ed72035ff12cc300286081fb3fac1.jpg",
+    "link": "https://animepahe.ru/play/55c1ad8c-4032-44b2-54ca-7fe1365595ae/812d2fa7f1581daab9557ec9959ce183d1c3b7bb80a5246db131d681fc80d0a8",
     "completed": 0
   }
 ]
