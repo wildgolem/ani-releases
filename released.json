@@ -1,12 +1,5 @@
 [
   {
-    "title": "Scooped Up by an S-Ranked Adventurer",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b7e82123ec2a61c3c424872142537d2f8704dc66fb8786add653c3abc8c91955.jpg",
-    "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/3221fe2a855f4ef0c134c708aeaeb9127f73a61f08eae17e957f5522f3a11c14",
-    "completed": 0
-  },
-  {
     "title": "Bad Girl",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/9b9c083574b6e11d88ca8346f1a2aa93a7c67f6ba597273a84df2b2079eb22d3.jpg",
@@ -67,6 +60,13 @@
     "episode": 30,
     "image": "https://i.animepahe.ru/uploads/snapshots/2e6375d8e1313579b1b738c09d15b03b6b418942fcdf44c39921be57450485cf.jpg",
     "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/6d7e26272ac4ed610c4cfc8740dca1409b8fca84143b9dbc3ca8cac1356d7004",
+    "completed": 0
+  },
+  {
+    "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
+    "episode": 21,
+    "image": "https://i.animepahe.ru/uploads/snapshots/217801e323e776717b1216310811d4023327fb916de003f731a6ac8f12a04cba.jpg",
+    "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/675aca968d9a9cc8a217c4a1ff4326f091384f1d021072a504a9faaedf3c4ee5",
     "completed": 0
   }
 ]
