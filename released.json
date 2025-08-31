@@ -1,12 +1,5 @@
 [
   {
-    "title": "Ruri Rocks",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/f28fa8c46feae3b358c5dc439eda14c54f568ebb325942e409fa017fcb3492c8.jpg",
-    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/0816489aeda536259acc49eff6d9d026a7170ac1224a735965b8ae180a5213a2",
-    "completed": 0
-  },
-  {
     "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/ca90745a0646e0b9322166723776dff83a9df682a65195a15c3cf4ea7ac2b16a.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/cb495e7c1a416b982995e2c22f67c92293241df6a8b7ae7dac50a66e08aae81a.jpg",
     "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/5bb0f96713ee12f935e294ff5aee98b99836c31b5052735216d3b1613288a991",
+    "completed": 0
+  },
+  {
+    "title": "Theatre of Darkness: Yamishibai 15",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/8b2f040e509040a606196ac30f275c125954656ada5d42d5492d5afe41c23792.jpg",
+    "link": "https://animepahe.ru/play/6fd6c8a4-470a-57cb-9bac-5acc159bbdb9/562b662c0f2c30597650f6bea05cc6648fd946fc3fb04554a98647d0a0d7bde8",
     "completed": 0
   }
 ]
