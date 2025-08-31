@@ -1,12 +1,5 @@
 [
   {
-    "title": "Bad Girl",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/9b9c083574b6e11d88ca8346f1a2aa93a7c67f6ba597273a84df2b2079eb22d3.jpg",
-    "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/dd2116d9396022aab326865307eace40fb9d3449c86efa7a6b6c18643061c611",
-    "completed": 0
-  },
-  {
     "title": "Rascal Does Not Dream of Santa Claus",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/6a3419d193ff663ef51ae78b6715e8311d0068755de5b7654ed9ff911e00dd74.jpg",
@@ -67,6 +60,13 @@
     "episode": 21,
     "image": "https://i.animepahe.ru/uploads/snapshots/217801e323e776717b1216310811d4023327fb916de003f731a6ac8f12a04cba.jpg",
     "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/675aca968d9a9cc8a217c4a1ff4326f091384f1d021072a504a9faaedf3c4ee5",
+    "completed": 0
+  },
+  {
+    "title": "Puniru is a Kawaii Slime Season 2",
+    "episode": 21,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e4cac09ea87ad9d214bb63a6ad9efe66754e7698ade3a71d839e2814099cde5c.jpg",
+    "link": "https://animepahe.ru/play/3f0ef44b-d6e8-d8c9-9cdb-40829a9be655/88bdb779fa84487439c38b2f98d41c21164df9a5ab7002607ddb938557716c79",
     "completed": 0
   }
 ]
