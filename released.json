@@ -1,12 +1,5 @@
 [
   {
-    "title": "Private Tutor to the Duke's Daughter",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7f1cbd9c8b3d199944ec4063eed346cdef7ee4f8a9735cbdb07ae57370b173de.jpg",
-    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/3931b7d30ebf82fc0e3c49c1a0f0321d8f119ac63b0617778bd49e3ea339a0ab",
-    "completed": 0
-  },
-  {
     "title": "With You and the Rain",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/35a2a03a90e7dd69d84ac79abf07edd1591b4cde7959d730ddd367f234629363.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/f28fa8c46feae3b358c5dc439eda14c54f568ebb325942e409fa017fcb3492c8.jpg",
     "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/0816489aeda536259acc49eff6d9d026a7170ac1224a735965b8ae180a5213a2",
+    "completed": 0
+  },
+  {
+    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ca90745a0646e0b9322166723776dff83a9df682a65195a15c3cf4ea7ac2b16a.jpg",
+    "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/d7296c126ba1798b4d17b887d9723359e5d1d558ebe3111f7f57a3b5558c3a6c",
     "completed": 0
   }
 ]
