@@ -1,12 +1,5 @@
 [
   {
-    "title": "Dekin no Mogura: The Earthbound Mole",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/419db127188a31c25dae7f60cc4b51669bfaf60a4cddbd761cf65146399a31c8.jpg",
-    "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/0854509ceec1207516585d9e73fbaa41b97178c6ae7d8a3ed41b6a4800e5bdac",
-    "completed": 0
-  },
-  {
     "title": "Ruri Rocks",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/f28fa8c46feae3b358c5dc439eda14c54f568ebb325942e409fa017fcb3492c8.jpg",
@@ -67,6 +60,13 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/4f399a90ce3385ea4a61ede893c37ad4d07c1cac9b487e1b9341a4b17d1c5591.jpg",
     "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/e59384b6ec1f897b0b0eb5a818fe19598f18ae121ab18f724ef88c8471af2715",
+    "completed": 0
+  },
+  {
+    "title": "Hotel Inhumans",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/cb495e7c1a416b982995e2c22f67c92293241df6a8b7ae7dac50a66e08aae81a.jpg",
+    "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/5bb0f96713ee12f935e294ff5aee98b99836c31b5052735216d3b1613288a991",
     "completed": 0
   }
 ]
