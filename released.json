@@ -1,12 +1,5 @@
 [
   {
-    "title": "Gachiakuta",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7d1a61026d2bc85109043a7bd40aea4b62fc7608dfd27fca0d015d7bb3ff4a42.jpg",
-    "link": "https://animepahe.ru/play/42dd67ed-699c-d2d4-194a-3f2365652272/4785a2c4fdbea70d45ed149ca43b7e4fe87488e44ad572173bfe084c4faeea5d",
-    "completed": 0
-  },
-  {
     "title": "Uglymug, Epicfighter",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/52c23e273bc10e182f97d19f95a3e100bd8714f9ffc9ec0a9b5b088394a80a12.jpg",
@@ -67,6 +60,13 @@
     "episode": 7,
     "image": "https://i.animepahe.ru/uploads/snapshots/56d56a7de128fa35975eb9ebdc0ec7eded20eb4d9b3965be00f46f3f1633184b.jpg",
     "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/5743f6911d6b4b1bbb327e67fce44f702b1067ea1eb46cbc934a7ae36b79db71",
+    "completed": 0
+  },
+  {
+    "title": "Grand Blue Dreaming Season 2",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/aec833de9ac40f15e972083fa91058d6b59023ef13af45bcfddb394cf25ec349.jpg",
+    "link": "https://animepahe.ru/play/785d08ac-4a7a-6c64-ae6d-f2bce029d355/553eebf8d1c9c00d44028a612f415fc970cec33923d22b2b0b789a0ab1a8162c",
     "completed": 0
   }
 ]
