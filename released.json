@@ -1,12 +1,5 @@
 [
   {
-    "title": "Cultural Exchange With a Game Centre Girl",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c86457cf5ef3c08912301eb947af19cf48c514d683a1a16aaa31747641ff24b6.jpg",
-    "link": "https://animepahe.ru/play/bccca268-6edd-0369-ae31-cd145e76238d/bcb3feaf9638971aa4c7a6e1c8e12eea6e7880a463b59a06a81a0ef885e954bd",
-    "completed": 0
-  },
-  {
     "title": "Gachiakuta",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/7d1a61026d2bc85109043a7bd40aea4b62fc7608dfd27fca0d015d7bb3ff4a42.jpg",
@@ -67,6 +60,13 @@
     "episode": 20,
     "image": "https://i.animepahe.ru/uploads/snapshots/57a5cc7c384c7a93f1921d41a6dacd7651b405ed40bd420f41f26aaf032ae05f.jpg",
     "link": "https://animepahe.ru/play/a86c0265-d763-fdb8-ccc6-b5555b241cd6/7917eeccf212d3dfa1c0d0063ca82f9582896299e6d664c0626add5abe076748",
+    "completed": 0
+  },
+  {
+    "title": "Nukitashi the Animation",
+    "episode": 7,
+    "image": "https://i.animepahe.ru/uploads/snapshots/56d56a7de128fa35975eb9ebdc0ec7eded20eb4d9b3965be00f46f3f1633184b.jpg",
+    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/5743f6911d6b4b1bbb327e67fce44f702b1067ea1eb46cbc934a7ae36b79db71",
     "completed": 0
   }
 ]
