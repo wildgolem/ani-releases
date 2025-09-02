@@ -1,19 +1,5 @@
 [
   {
-    "title": "Hotel Inhumans",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/cb495e7c1a416b982995e2c22f67c92293241df6a8b7ae7dac50a66e08aae81a.jpg",
-    "link": "https://animepahe.ru/play/9e89d347-ec48-8741-40ef-100b7a40858e/5bb0f96713ee12f935e294ff5aee98b99836c31b5052735216d3b1613288a991",
-    "completed": 0
-  },
-  {
-    "title": "Theatre of Darkness: Yamishibai 15",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/8b2f040e509040a606196ac30f275c125954656ada5d42d5492d5afe41c23792.jpg",
-    "link": "https://animepahe.ru/play/6fd6c8a4-470a-57cb-9bac-5acc159bbdb9/562b662c0f2c30597650f6bea05cc6648fd946fc3fb04554a98647d0a0d7bde8",
-    "completed": 0
-  },
-  {
     "title": "Summer Pockets",
     "episode": 22,
     "image": "https://i.animepahe.ru/uploads/snapshots/54cc310fab047524519f8a0ce6d92080708157aecd90d9d5870d13f700a0c9c6.jpg",
@@ -67,6 +53,20 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/d4d1123f83bb0b08088646f61080b9bc0c764b0c7ff24f8b9abbc0b29899eeaf.jpg",
     "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/1a9c5eed333f0f54eec99659f379d3390e1254efe99d9e1d7efc42b51ee6e259",
+    "completed": 0
+  },
+  {
+    "title": "Detectives These Days Are Crazy!",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a4eba8dc8bed0b79aaebe7792697c1ea15b6ab17b08ceadd43051536e13c2588.jpg",
+    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/b19f91bfce87e0f37135e1c90b499ec7a544b30b3bf8ae3852af3967512030e4",
+    "completed": 0
+  },
+  {
+    "title": "Necronomico and the Cosmic Horror Show",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d2ba63dcff69adaf27090930034641d4d8a7781f7d323f2a761a34f1328342e3.jpg",
+    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/4e8b953229040a609885371696a3e1b7f91cad17d7529bd798a433c3f187f6c3",
     "completed": 0
   }
 ]
