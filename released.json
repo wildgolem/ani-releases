@@ -1,12 +1,5 @@
 [
   {
-    "title": "Fermat Kitchen",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4f399a90ce3385ea4a61ede893c37ad4d07c1cac9b487e1b9341a4b17d1c5591.jpg",
-    "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/e59384b6ec1f897b0b0eb5a818fe19598f18ae121ab18f724ef88c8471af2715",
-    "completed": 0
-  },
-  {
     "title": "Hotel Inhumans",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/cb495e7c1a416b982995e2c22f67c92293241df6a8b7ae7dac50a66e08aae81a.jpg",
@@ -67,6 +60,13 @@
     "episode": 46,
     "image": "https://i.animepahe.ru/uploads/snapshots/c73ec9b13fff799943b5ed19e050887ba3b962952c3f685322fe54ac8ff63785.jpg",
     "link": "https://animepahe.ru/play/4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91/17a2e6a3a8c1a3413cd121410757b55d2bf44e0f3679eb75b0104e3cceed6257",
+    "completed": 0
+  },
+  {
+    "title": "A Couple of Cuckoos Season 2",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d4d1123f83bb0b08088646f61080b9bc0c764b0c7ff24f8b9abbc0b29899eeaf.jpg",
+    "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/1a9c5eed333f0f54eec99659f379d3390e1254efe99d9e1d7efc42b51ee6e259",
     "completed": 0
   }
 ]
