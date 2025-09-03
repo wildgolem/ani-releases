@@ -1,12 +1,5 @@
 [
   {
-    "title": "A Couple of Cuckoos Season 2",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d4d1123f83bb0b08088646f61080b9bc0c764b0c7ff24f8b9abbc0b29899eeaf.jpg",
-    "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/1a9c5eed333f0f54eec99659f379d3390e1254efe99d9e1d7efc42b51ee6e259",
-    "completed": 0
-  },
-  {
     "title": "Detectives These Days Are Crazy!",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/a4eba8dc8bed0b79aaebe7792697c1ea15b6ab17b08ceadd43051536e13c2588.jpg",
@@ -67,6 +60,13 @@
     "episode": 21,
     "image": "https://i.animepahe.ru/uploads/snapshots/94690716e705b6c5be6dfa3ff3ae6f9b8ae5aa14a3cd2e1a33169dc5c366fee7.jpg",
     "link": "https://animepahe.ru/play/39f74d0c-55ad-4c14-5af2-2821f91f6eb5/ba9a410b8ea983a22fae6dde13919e96d8ad6e42fd62d4299d769d9acb214076",
+    "completed": 0
+  },
+  {
+    "title": "Dealing with Mikadono Sisters Is a Breeze",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ff6e8495616da1c2100eb310a85f375d51d9806052518d7c4dae7e3a63497ec1.jpg",
+    "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/39ffeac103905a1457115e6e30bbfad76a893f04035944d5c978888209c9acd3",
     "completed": 0
   }
 ]
