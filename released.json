@@ -1,19 +1,5 @@
 [
   {
-    "title": "Detectives These Days Are Crazy!",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a4eba8dc8bed0b79aaebe7792697c1ea15b6ab17b08ceadd43051536e13c2588.jpg",
-    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/b19f91bfce87e0f37135e1c90b499ec7a544b30b3bf8ae3852af3967512030e4",
-    "completed": 0
-  },
-  {
-    "title": "Necronomico and the Cosmic Horror Show",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d2ba63dcff69adaf27090930034641d4d8a7781f7d323f2a761a34f1328342e3.jpg",
-    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/4e8b953229040a609885371696a3e1b7f91cad17d7529bd798a433c3f187f6c3",
-    "completed": 0
-  },
-  {
     "title": "Mr. Osomatsu 4th Season",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/5ff2a5f452aa5e67b3638f2a6a69452a846e499483e2cf922fec387de13dccaf.jpg",
@@ -67,6 +53,20 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/ff6e8495616da1c2100eb310a85f375d51d9806052518d7c4dae7e3a63497ec1.jpg",
     "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/39ffeac103905a1457115e6e30bbfad76a893f04035944d5c978888209c9acd3",
+    "completed": 0
+  },
+  {
+    "title": "Onmyo Kaiten Re:Birth Verse",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/72f5b6b2bd27b72f2c70068f076b689f305c62312d632b03ec7ae4e3e0768297.jpg",
+    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/bb2ef35e026bb77422046d3d13b644a33a7a91322024351c33bfd5dc2e136fa4",
+    "completed": 0
+  },
+  {
+    "title": "Hell Teacher: Jigoku Sensei Nube",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/850ed1c99f12b5035f88cae524e7632a612a9c7bc742b270ae895c97bb06ff59.jpg",
+    "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/4d957f3e761f2678ef1d4b6dbb585de008266d1622ada4b80e1578c6b6d67355",
     "completed": 0
   }
 ]
