@@ -1,12 +1,5 @@
 [
   {
-    "title": "Grand Blue Dreaming Season 2",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/aec833de9ac40f15e972083fa91058d6b59023ef13af45bcfddb394cf25ec349.jpg",
-    "link": "https://animepahe.ru/play/785d08ac-4a7a-6c64-ae6d-f2bce029d355/553eebf8d1c9c00d44028a612f415fc970cec33923d22b2b0b789a0ab1a8162c",
-    "completed": 0
-  },
-  {
     "title": "There's No Freaking Way I'll be Your Lover! Unless...",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/ff23ce34bfcf730d68f891f4f60066e7fa79f936602b989280bff3eb24636968.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/e91972f7298e2ee8040aab5aa189c4a6517b19fd5e8029c94968d82041afab53.jpg",
     "link": "https://animepahe.ru/play/75361ccc-cacc-d7c2-8fe0-2f0af0f565ae/96875ceca67125fa388a3fe1a6d2d2c5d03c441e10b686cb3a039b98da7738d3",
+    "completed": 0
+  },
+  {
+    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/16d44cbf65798b9f237be3d9cb09adb8e7d84b98236bc0a367270c4331e70eb3.jpg",
+    "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/0c33191a77b87088b93b027ec6fc9b867ddc26af5fd6b310ad41daca34784139",
     "completed": 0
   }
 ]
