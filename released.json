@@ -1,19 +1,5 @@
 [
   {
-    "title": "Dealing with Mikadono Sisters Is a Breeze",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ff6e8495616da1c2100eb310a85f375d51d9806052518d7c4dae7e3a63497ec1.jpg",
-    "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/39ffeac103905a1457115e6e30bbfad76a893f04035944d5c978888209c9acd3",
-    "completed": 0
-  },
-  {
-    "title": "Onmyo Kaiten Re:Birth Verse",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/72f5b6b2bd27b72f2c70068f076b689f305c62312d632b03ec7ae4e3e0768297.jpg",
-    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/bb2ef35e026bb77422046d3d13b644a33a7a91322024351c33bfd5dc2e136fa4",
-    "completed": 0
-  },
-  {
     "title": "Hell Teacher: Jigoku Sensei Nube",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/850ed1c99f12b5035f88cae524e7632a612a9c7bc742b270ae895c97bb06ff59.jpg",
@@ -67,6 +53,20 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/9a0ca4a36b069747e874222e92865b8e81c3c143848f879c708f9d2063292859.jpg",
     "link": "https://animepahe.ru/play/121849f4-890d-db95-3a0b-34e0e9a9360b/0a7d1735b0cc79c9d3ab9affdbd8aa59e2545a615413b08d58079e6f4eba4aca",
+    "completed": 0
+  },
+  {
+    "title": "Beyblade X",
+    "episode": 95,
+    "image": "https://i.animepahe.ru/uploads/snapshots/52cec7d1b2dc8407e6b080074d9b01ae08928fb7ff457adf5a9885f6bce4db78.jpg",
+    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/3265093be779431cd8bdb4acc957905762f807eabd399adacb1e3c1fac809fd8",
+    "completed": 0
+  },
+  {
+    "title": "Kamitsubaki City Under Construction",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/502b3ebda3e165a841b8e04d3452d73d8e697f02cb49dd8c7f6af9a729d2a30a.jpg",
+    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/f2a43c5f5f8206e8a405c27303eef77b61b8daaafc73e2ab980c6aa51b44c515",
     "completed": 0
   }
 ]
