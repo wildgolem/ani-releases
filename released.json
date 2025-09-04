@@ -1,19 +1,5 @@
 [
   {
-    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/16d44cbf65798b9f237be3d9cb09adb8e7d84b98236bc0a367270c4331e70eb3.jpg",
-    "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/0c33191a77b87088b93b027ec6fc9b867ddc26af5fd6b310ad41daca34784139",
-    "completed": 0
-  },
-  {
-    "title": "New Panty & Stocking with Garterbelt",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/8ca54eb87c5fdb808c3a63cec409bc5edd363ad431fb9a267bf0ac0b44ea40c3.jpg",
-    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/13a5f919e61512d8e1b04dd5132e753ba766e9e784edf7dfb3d57a8e88567f63",
-    "completed": 0
-  },
-  {
     "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
     "episode": 21,
     "image": "https://i.animepahe.ru/uploads/snapshots/94690716e705b6c5be6dfa3ff3ae6f9b8ae5aa14a3cd2e1a33169dc5c366fee7.jpg",
@@ -67,6 +53,20 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/88109c04fad1fbb3c8872fb6900cdd707c2850b0f5ada38e9bebfcfcdd4b2d18.jpg",
     "link": "https://animepahe.ru/play/7a909eb7-14eb-9822-6bfe-ab9f1d9ab597/58cd4876b3bfae5dbaeaa7cd131819c77c132f54b13ec4a7b7dc45e8decab55c",
+    "completed": 0
+  },
+  {
+    "title": "Me and the Alien MuMu",
+    "episode": 22,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e58997d10b03b1444c530c0df73f503b8093e0164e3bf67746e17a699385bb97.jpg",
+    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/8911e98fb268d7e60618c340877639700a505a7a2f8f668ab8cf9cdad1aa64bc",
+    "completed": 0
+  },
+  {
+    "title": "Dan Da Dan Season 2",
+    "episode": 22,
+    "image": "https://i.animepahe.ru/uploads/snapshots/1e109808468e7d7f893748eb02a641a656838414019b5f6d87f2edd1bfc36c11.jpg",
+    "link": "https://animepahe.ru/play/eb60c032-081f-2049-f869-babd395f242e/fe175f2427fd539489f82e33f0edf77b8e087d59776fca504b68a09db949f65f",
     "completed": 0
   }
 ]
