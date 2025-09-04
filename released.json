@@ -1,12 +1,5 @@
 [
   {
-    "title": "Hell Teacher: Jigoku Sensei Nube",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/850ed1c99f12b5035f88cae524e7632a612a9c7bc742b270ae895c97bb06ff59.jpg",
-    "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/4d957f3e761f2678ef1d4b6dbb585de008266d1622ada4b80e1578c6b6d67355",
-    "completed": 0
-  },
-  {
     "title": "New Saga",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/7e68b088e581a1796e9cb6448fadf05e83995665862ca251899cbf8354d69b15.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/502b3ebda3e165a841b8e04d3452d73d8e697f02cb49dd8c7f6af9a729d2a30a.jpg",
     "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/f2a43c5f5f8206e8a405c27303eef77b61b8daaafc73e2ab980c6aa51b44c515",
+    "completed": 0
+  },
+  {
+    "title": "The Water Magician",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b1deaa8272362a44fc146b6c1862fe64642ea1e2512d89345b66ae046b480f91.jpg",
+    "link": "https://animepahe.ru/play/ab79ccc4-e32b-a265-2f43-3ed58bc67206/4bc8293a0b368b844d9584d8d69152d13e0a572eefa8493f2ceedba6d36ecd23",
     "completed": 0
   }
 ]
