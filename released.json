@@ -1,19 +1,5 @@
 [
   {
-    "title": "Dr. Stone: Science Future Part 2",
-    "episode": 21,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c632a101306ede6a3e0786ed635e60c26548eb79223e1b8c5b8ee7d47e7b1636.jpg",
-    "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/64942c4b043fa920e4420bff0a4b9bab05239daa9ff545a40d042ff67bab469e",
-    "completed": 0
-  },
-  {
-    "title": "Welcome to the Outcast's Restaurant!",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/88109c04fad1fbb3c8872fb6900cdd707c2850b0f5ada38e9bebfcfcdd4b2d18.jpg",
-    "link": "https://animepahe.ru/play/7a909eb7-14eb-9822-6bfe-ab9f1d9ab597/58cd4876b3bfae5dbaeaa7cd131819c77c132f54b13ec4a7b7dc45e8decab55c",
-    "completed": 0
-  },
-  {
     "title": "Me and the Alien MuMu",
     "episode": 22,
     "image": "https://i.animepahe.ru/uploads/snapshots/e58997d10b03b1444c530c0df73f503b8093e0164e3bf67746e17a699385bb97.jpg",
@@ -67,6 +53,20 @@
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/7eea24d764ee14839dc149e998a67b1c08accecb9a378ba956375ff53d0e2599.jpg",
     "link": "https://animepahe.ru/play/40b8e827-748b-b262-94b2-b72ad4bde65a/45f53c9f4ef4385b3558040e1cad66f08ca7d0824fd0b1ea712ea39bfe42d2b9",
+    "completed": 0
+  },
+  {
+    "title": "Arknights: Rise from Ember",
+    "episode": 26,
+    "image": "https://i.animepahe.ru/uploads/snapshots/3faa797dfc7ddda83169cca8d17143150fbaf053694c8b782a732935388dd4d3.jpg",
+    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/dfb915f677b86ec4cf9cbb2621a47a88cf7a47c689530a1c6f2286f40d1ff44e",
+    "completed": 1
+  },
+  {
+    "title": "April Showers Bring May Flowers",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/5f238d305ea35c5bc2e209457dc8e149f6366f23e84fbbb31d0500c86a174033.jpg",
+    "link": "https://animepahe.ru/play/6e9c69a4-6719-22ec-78f8-7e9604e91b7a/4e90e84778332da2fa2f0724d737217300739e5b4230c0917561289f21810f58",
     "completed": 0
   }
 ]
