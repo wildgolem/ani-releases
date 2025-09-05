@@ -1,12 +1,5 @@
 [
   {
-    "title": "Beyblade X",
-    "episode": 95,
-    "image": "https://i.animepahe.ru/uploads/snapshots/52cec7d1b2dc8407e6b080074d9b01ae08928fb7ff457adf5a9885f6bce4db78.jpg",
-    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/3265093be779431cd8bdb4acc957905762f807eabd399adacb1e3c1fac809fd8",
-    "completed": 0
-  },
-  {
     "title": "Kamitsubaki City Under Construction",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/502b3ebda3e165a841b8e04d3452d73d8e697f02cb49dd8c7f6af9a729d2a30a.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/716e946928a7eb7d94fc1fe9f895d6bb359aa444c374a66285791dc13f537631.jpg",
     "link": "https://animepahe.ru/play/3d39e1b4-3351-c2c3-1c50-8308b0f96a5e/a2b2c3d28974cc82f09099ee59e4e49728c9626934be80fdeb5d10d474d5ab57",
+    "completed": 0
+  },
+  {
+    "title": "Betrothed to My Sister's Ex",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fbc510598ebc415909f00987eee2572ee5e01525e44df3ef2485a9f12de784b6.jpg",
+    "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/937100b9680705967e2ba800fa7b218e7a1a772bb2507a10bc831236317b1c2c",
     "completed": 0
   }
 ]
