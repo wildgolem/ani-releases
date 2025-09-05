@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kamitsubaki City Under Construction",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/502b3ebda3e165a841b8e04d3452d73d8e697f02cb49dd8c7f6af9a729d2a30a.jpg",
-    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/f2a43c5f5f8206e8a405c27303eef77b61b8daaafc73e2ab980c6aa51b44c515",
-    "completed": 0
-  },
-  {
     "title": "The Water Magician",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/b1deaa8272362a44fc146b6c1862fe64642ea1e2512d89345b66ae046b480f91.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/fbc510598ebc415909f00987eee2572ee5e01525e44df3ef2485a9f12de784b6.jpg",
     "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/937100b9680705967e2ba800fa7b218e7a1a772bb2507a10bc831236317b1c2c",
+    "completed": 0
+  },
+  {
+    "title": "Nukitashi the Animation",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2b5e7bc682e25ff68ac6fd546d9de927efbf7178fb61c635214db7fa3e87986e.jpg",
+    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/7043b19399d4da831e37b180dc3a7302147f14d70161c7b2bacb144cd1e1c2b9",
     "completed": 0
   }
 ]
