@@ -1,19 +1,5 @@
 [
   {
-    "title": "Dan Da Dan Season 2",
-    "episode": 22,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1e109808468e7d7f893748eb02a641a656838414019b5f6d87f2edd1bfc36c11.jpg",
-    "link": "https://animepahe.ru/play/eb60c032-081f-2049-f869-babd395f242e/fe175f2427fd539489f82e33f0edf77b8e087d59776fca504b68a09db949f65f",
-    "completed": 0
-  },
-  {
-    "title": "Solo Camping for Two",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/9a0ca4a36b069747e874222e92865b8e81c3c143848f879c708f9d2063292859.jpg",
-    "link": "https://animepahe.ru/play/121849f4-890d-db95-3a0b-34e0e9a9360b/0a7d1735b0cc79c9d3ab9affdbd8aa59e2545a615413b08d58079e6f4eba4aca",
-    "completed": 0
-  },
-  {
     "title": "Beyblade X",
     "episode": 95,
     "image": "https://i.animepahe.ru/uploads/snapshots/52cec7d1b2dc8407e6b080074d9b01ae08928fb7ff457adf5a9885f6bce4db78.jpg",
@@ -67,6 +53,20 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/3b6864687e8093669c0e8211c42951ab2320379fd5f817c07ccd6b89a1866834.jpg",
     "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/df610c1eb98a23a55158feeeddba037f66e437e7c99a4b003827d002faabdff7",
+    "completed": 0
+  },
+  {
+    "title": "Call of the Night Season 2",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/1d3b27d512bf75ce1ca27f486792648ffa74fe5cb45cc00252e0f792c7d1d06e.jpg",
+    "link": "https://animepahe.ru/play/bd82c9e0-73b3-0d9e-8078-a8e01cddaa78/a01a62a07f52e1fb47a507a5c815969ad6d95a2ca34611d093d2a66f07357592",
+    "completed": 0
+  },
+  {
+    "title": "Watari-kun's ****** Is about to Collapse",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/716e946928a7eb7d94fc1fe9f895d6bb359aa444c374a66285791dc13f537631.jpg",
+    "link": "https://animepahe.ru/play/3d39e1b4-3351-c2c3-1c50-8308b0f96a5e/a2b2c3d28974cc82f09099ee59e4e49728c9626934be80fdeb5d10d474d5ab57",
     "completed": 0
   }
 ]
