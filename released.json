@@ -1,12 +1,5 @@
 [
   {
-    "title": "Dragon Raja II: The Mourner's Eyes",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/b1f5ad25785004b765866e0d7923d8899a277ba7583a8fc400c5fe9dc4441b4a.jpg",
-    "link": "https://animepahe.ru/play/fca3ff7b-02dd-b984-baa3-c4021c7f6629/d8ad2e7f0b8b508b07a26fbbf8d4dd10ac2c096f1fa8e5f91a6e857260a860ff",
-    "completed": 0
-  },
-  {
     "title": "Harmony of Mille-Feuille",
     "episode": 8,
     "image": "https://i.animepahe.ru/uploads/snapshots/7eea24d764ee14839dc149e998a67b1c08accecb9a378ba956375ff53d0e2599.jpg",
@@ -67,6 +60,13 @@
     "episode": 9.5,
     "image": "https://i.animepahe.ru/uploads/snapshots/1e332c68236ebab789d13805050526778323f5dabd7756e0de23e9c157ef1b34.jpg",
     "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/e9c3dacef5e6ae985c91f6312b84f419f2a286428c2f2a7909a62e298c92e125",
+    "completed": 0
+  },
+  {
+    "title": "Himitsu no AiPri: Ring-hen",
+    "episode": 22,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d9bba0310848f6b75de8bce06dbe2eab1e597407cee1cd8f672d6e4a2113311a.jpg",
+    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/4478df59daad75e5daf74602d540ece9bb12fb9244b5e2cdd02438f2ece4ed91",
     "completed": 0
   }
 ]
