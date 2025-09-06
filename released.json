@@ -1,12 +1,5 @@
 [
   {
-    "title": "Lord of Mysteries",
-    "episode": 12,
-    "image": "https://i.animepahe.ru/uploads/snapshots/32939a3fbfc5178f87d4aefe2f0ed53e09c81e873337ce5709d8b18639ff0926.jpg",
-    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/dff8298aad44820bc8ecc5c627abeec4d44c21a486aa758e69a483632f39315d",
-    "completed": 0
-  },
-  {
     "title": "Yaiba: Samurai Legend",
     "episode": 21,
     "image": "https://i.animepahe.ru/uploads/snapshots/6763cb99f499a9492e266eb696e706cca046acce227fbcd3c4429adfae26e427.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/76ba0aa2d2dd0ca1814617448661addb40e6066ef1c1c009a3db6ddf3eba2dcd.jpg",
     "link": "https://animepahe.ru/play/025b8411-f3ff-809b-4bf9-751552950caa/e192dd2029b31992da4a2f2e4297ccef9f9d06ffe3b1a9f28e2cf3bb55092ea0",
+    "completed": 0
+  },
+  {
+    "title": "My Dress-Up Darling Season 2",
+    "episode": 22,
+    "image": "https://i.animepahe.ru/uploads/snapshots/f4386d9c74c3548b2f130a406383f005aa0edeff69939039e72bb167a1c3a192.jpg",
+    "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/d996681344df605ddb3f1e235f85878bd36d831b813d331e50466175d44b6636",
     "completed": 0
   }
 ]
