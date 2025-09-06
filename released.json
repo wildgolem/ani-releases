@@ -1,12 +1,5 @@
 [
   {
-    "title": "Arknights: Rise from Ember",
-    "episode": 26,
-    "image": "https://i.animepahe.ru/uploads/snapshots/3faa797dfc7ddda83169cca8d17143150fbaf053694c8b782a732935388dd4d3.jpg",
-    "link": "https://animepahe.ru/play/0151d702-ff81-a3d6-00b8-89e63ebc6ca6/dfb915f677b86ec4cf9cbb2621a47a88cf7a47c689530a1c6f2286f40d1ff44e",
-    "completed": 1
-  },
-  {
     "title": "April Showers Bring May Flowers",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/5f238d305ea35c5bc2e209457dc8e149f6366f23e84fbbb31d0500c86a174033.jpg",
@@ -67,6 +60,13 @@
     "episode": 109,
     "image": "https://i.animepahe.ru/uploads/snapshots/208caafd58569433afcd117a091673d6d39f43ae84ed42fde396766be6023001.jpg",
     "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/084e29d54a63440a5abb4e816f7d51770a8d44236e50acaaef4e87460596830a",
+    "completed": 0
+  },
+  {
+    "title": "Lord of Mysteries",
+    "episode": 12,
+    "image": "https://i.animepahe.ru/uploads/snapshots/32939a3fbfc5178f87d4aefe2f0ed53e09c81e873337ce5709d8b18639ff0926.jpg",
+    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/dff8298aad44820bc8ecc5c627abeec4d44c21a486aa758e69a483632f39315d",
     "completed": 0
   }
 ]
