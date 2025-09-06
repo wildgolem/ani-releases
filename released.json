@@ -1,12 +1,5 @@
 [
   {
-    "title": "Harmony of Mille-Feuille",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7eea24d764ee14839dc149e998a67b1c08accecb9a378ba956375ff53d0e2599.jpg",
-    "link": "https://animepahe.ru/play/40b8e827-748b-b262-94b2-b72ad4bde65a/45f53c9f4ef4385b3558040e1cad66f08ca7d0824fd0b1ea712ea39bfe42d2b9",
-    "completed": 0
-  },
-  {
     "title": "Arknights: Rise from Ember",
     "episode": 26,
     "image": "https://i.animepahe.ru/uploads/snapshots/3faa797dfc7ddda83169cca8d17143150fbaf053694c8b782a732935388dd4d3.jpg",
@@ -67,6 +60,13 @@
     "episode": 22,
     "image": "https://i.animepahe.ru/uploads/snapshots/d9bba0310848f6b75de8bce06dbe2eab1e597407cee1cd8f672d6e4a2113311a.jpg",
     "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/4478df59daad75e5daf74602d540ece9bb12fb9244b5e2cdd02438f2ece4ed91",
+    "completed": 0
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "episode": 109,
+    "image": "https://i.animepahe.ru/uploads/snapshots/208caafd58569433afcd117a091673d6d39f43ae84ed42fde396766be6023001.jpg",
+    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/084e29d54a63440a5abb4e816f7d51770a8d44236e50acaaef4e87460596830a",
     "completed": 0
   }
 ]
