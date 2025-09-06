@@ -1,12 +1,5 @@
 [
   {
-    "title": "Nukitashi the Animation",
-    "episode": 8,
-    "image": "https://i.animepahe.ru/uploads/snapshots/2b5e7bc682e25ff68ac6fd546d9de927efbf7178fb61c635214db7fa3e87986e.jpg",
-    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/7043b19399d4da831e37b180dc3a7302147f14d70161c7b2bacb144cd1e1c2b9",
-    "completed": 0
-  },
-  {
     "title": "Secrets of the Silent Witch",
     "episode": 9.5,
     "image": "https://i.animepahe.ru/uploads/snapshots/1e332c68236ebab789d13805050526778323f5dabd7756e0de23e9c157ef1b34.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/988abe11833010a9da68875f8818261cd48558c014ec3f48f2938fdcd073d540.jpg",
     "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/b99dd57ed034753ef397fed92041f83501e261a57192fb1785b5301646e1382c",
+    "completed": 0
+  },
+  {
+    "title": "Scooped Up by an S-Rank Adventurer!",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7ecffc03f7cc2a2930247352caf82cd008ce176344e1952b27aef27702ebb418.jpg",
+    "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/fabbb15f545c8e4d61224660f9423719f988b92a57f3ed98e7fbc1c7ca7cbc5f",
     "completed": 0
   }
 ]
