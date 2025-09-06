@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kaiju No. 8 Season 2",
-    "episode": 20,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ca18184addcb1ba14c5bd280a04d9526d8d5e4907bad1f10615fad187e4fbeda.jpg",
-    "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/ef8e5cfd015fe83a6c9634939e7bd90162ec90f5973172748e177c898694e06a",
-    "completed": 0
-  },
-  {
     "title": "The Shy Hero and the Assassin Princesses",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/988abe11833010a9da68875f8818261cd48558c014ec3f48f2938fdcd073d540.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/fa954575ee5122d8196be95a27c433f2f58f603b18820244ae62ccba79026fe2.jpg",
     "link": "https://animepahe.ru/play/827f74f3-6e3f-b46c-7c73-ef473238477d/d68c45b012d5527256d5d1f5fa82f4430afa8e1f52e0f6d6722d0cece465e24a",
     "completed": 0
+  },
+  {
+    "title": "Chainsaw Man: The Compilation",
+    "episode": 2,
+    "image": "https://i.animepahe.ru/uploads/snapshots/4cf4b4bf1e6e096da9fe8c87c7f09d3858f806c0c52b973510271c026113e29f.jpg",
+    "link": "https://animepahe.ru/play/9f2f15aa-6c53-1bc6-d71f-89c1d91a396b/93dd7ad2be8577ffce46d6daed4e750de9a1f51bb96872274a1276d72210ca87",
+    "completed": 1
   }
 ]
