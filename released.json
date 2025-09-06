@@ -1,19 +1,5 @@
 [
   {
-    "title": "Secrets of the Silent Witch",
-    "episode": 9.5,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1e332c68236ebab789d13805050526778323f5dabd7756e0de23e9c157ef1b34.jpg",
-    "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/e9c3dacef5e6ae985c91f6312b84f419f2a286428c2f2a7909a62e298c92e125",
-    "completed": 0
-  },
-  {
-    "title": "Himitsu no AiPri: Ring-hen",
-    "episode": 22,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d9bba0310848f6b75de8bce06dbe2eab1e597407cee1cd8f672d6e4a2113311a.jpg",
-    "link": "https://animepahe.ru/play/972f4fa2-4598-a6ec-0f7f-4c3e680661b9/4478df59daad75e5daf74602d540ece9bb12fb9244b5e2cdd02438f2ece4ed91",
-    "completed": 0
-  },
-  {
     "title": "Pokémon Horizons: The Series",
     "episode": 109,
     "image": "https://i.animepahe.ru/uploads/snapshots/208caafd58569433afcd117a091673d6d39f43ae84ed42fde396766be6023001.jpg",
@@ -67,6 +53,20 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/7ecffc03f7cc2a2930247352caf82cd008ce176344e1952b27aef27702ebb418.jpg",
     "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/fabbb15f545c8e4d61224660f9423719f988b92a57f3ed98e7fbc1c7ca7cbc5f",
+    "completed": 0
+  },
+  {
+    "title": "Bad Girl",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ca80f96a1e60f21c28c5feefe29c36078b20fb3e5e19300140642bd4dbeef29c.jpg",
+    "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/1d142db16134f871e0b7ce12fb2349d7b1b5aba0c9a2a8eee807461bd7cfc59f",
+    "completed": 0
+  },
+  {
+    "title": "Haigakura",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/ce69f238d7fdf644eb7aa79577f6075a1cd5f98ccc84e85796744fee24de4516.jpg",
+    "link": "https://animepahe.ru/play/55e39916-d7f0-d70d-6964-dd149dfbb620/9723c231fa37df5b4eb6848acaac46f609a7d76bcee76177ef5cef6b278ed432",
     "completed": 0
   }
 ]
