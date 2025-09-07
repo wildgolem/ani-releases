@@ -1,19 +1,5 @@
 [
   {
-    "title": "Private Tutor to the Duke's Daughter",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d8a749f1957ee58ea0588730b2546cd51abe770dd43a8d278569063b9ac88388.jpg",
-    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/9711f8158808b72d8c7be506d3cff28bb52033f9bbb2ed9da5491b364fdf7655",
-    "completed": 0
-  },
-  {
-    "title": "The Summer Hikaru Died",
-    "episode": 9,
-    "image": "https://i.animepahe.ru/uploads/snapshots/d5e02008d70e7aa2e8f3fff1e8214f3749181cda96faf625397b8c6547ed67b2.jpg",
-    "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/722a86b1574b249cf71dae752c2fc9447dff59c2ae7e07f9c5bbb42d193f65f0",
-    "completed": 0
-  },
-  {
     "title": "With You and the Rain",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/fa954575ee5122d8196be95a27c433f2f58f603b18820244ae62ccba79026fe2.jpg",
@@ -67,6 +53,20 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/ff6eb11b7d8ba8198345f98a07427ba7f8e87009b8e1c08eb88bc8304d4bbe83.jpg",
     "link": "https://animepahe.ru/play/2e5c8142-7d3c-f529-6305-cad5af2b0e63/96ad3cad16bfa041414e2c5f97546075f5471f9dd895eb8c267c2283ee19355e",
+    "completed": 0
+  },
+  {
+    "title": "Ruri Rocks",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/03a2d8521ea5009168b747251ac9272d362f0d43d8e9d7a04d642081bbe548c0.jpg",
+    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/a78c1bc52642e02afd6ed0fd05b4993ffd6df28078cb76df9cb915b31bef77eb",
+    "completed": 0
+  },
+  {
+    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/a2cd5e380574216931a399a8a0f832aa1cfe0d3461c1a6bb2cbdd48c88a8618a.jpg",
+    "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/a278e100e60dc8adc48c5c7b5849c425f69f2b741ca6d49e74481531dfae17a4",
     "completed": 0
   }
 ]
