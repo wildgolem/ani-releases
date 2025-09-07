@@ -1,12 +1,5 @@
 [
   {
-    "title": "To Be Hero X",
-    "episode": 23,
-    "image": "https://i.animepahe.ru/uploads/snapshots/fd93f834d795b639234ce27f828bcf498d74cca16a8038d22ad7473c0a079751.jpg",
-    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/e9db90ab6b6d846896b48826c0eacc2dee06071d2b8d1d0723a0312cdd4ab4c1",
-    "completed": 0
-  },
-  {
     "title": "The Fragrant Flower Blooms with Dignity",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/e14acb4bc4bb620f33798d936590e44439beeea3d37cdf4e846db55fa3f65a67.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/bab1733ffec04fa762ed069dacff9e1825281a6154513071ad2aafd81cc34d18.jpg",
     "link": "https://animepahe.ru/play/bccca268-6edd-0369-ae31-cd145e76238d/0627d139965c9b7f31f3752c2e3dd9e46df212079b3adcba6f34a54406950c39",
+    "completed": 0
+  },
+  {
+    "title": "Gachiakuta",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/083c77074798758b09c0d56e91c7e35847ae8117a2be0120cfa66cda61bf4f0f.jpg",
+    "link": "https://animepahe.ru/play/42dd67ed-699c-d2d4-194a-3f2365652272/b30be8dac32994e18c8ea05b18125e4b845d185f23c268e1cff2c2f56f29a935",
     "completed": 0
   }
 ]
