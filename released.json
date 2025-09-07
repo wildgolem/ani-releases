@@ -1,12 +1,5 @@
 [
   {
-    "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
-    "episode": 22,
-    "image": "https://i.animepahe.ru/uploads/snapshots/c68748bb068b08d054f29a9b66725f6d4e1a2e0e91e09bc2aa5bfa5c4f5ccc33.jpg",
-    "link": "https://animepahe.ru/play/9be2c61b-755e-f83b-2161-9fb083330396/cd698a787942e55f9073728cb62479b6d4cf4c94dca15e3f637b0b16f1d6b8c8",
-    "completed": 0
-  },
-  {
     "title": "Puniru is a Kawaii Slime Season 2",
     "episode": 22,
     "image": "https://i.animepahe.ru/uploads/snapshots/25c37ccb4d4f28a2e98300bd8b73f98b40b77131d0c2b2784e337fd756b73828.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/40d644b54b24dd93d763bd14e394820890afd4ed0b4f8aa99eff453b182f545a.jpg",
     "link": "https://animepahe.ru/play/d957867d-d470-7ce7-72fc-4c23095fafc1/9adb88508b5071fc6844c2aa928232fcdef2a3567546c1f47910cd2bfe665ab9",
+    "completed": 0
+  },
+  {
+    "title": "One Piece",
+    "episode": 1142,
+    "image": "https://i.animepahe.ru/uploads/snapshots/12fd932f20845c8597b31b97d072ad476a1391b840849b51c30c84b92081ad82.jpg",
+    "link": "https://animepahe.ru/play/d58fc9f8-582e-fdf0-3618-112cd54ed5ab/66abd26468338a22274a8dfe4e0ead854c203719695b1afcd45db3bcb64b9af7",
     "completed": 0
   }
 ]
