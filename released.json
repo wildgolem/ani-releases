@@ -1,19 +1,5 @@
 [
   {
-    "title": "Ruri Rocks",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/03a2d8521ea5009168b747251ac9272d362f0d43d8e9d7a04d642081bbe548c0.jpg",
-    "link": "https://animepahe.ru/play/0b10585b-1cde-b888-ecda-5e12c5392a34/a78c1bc52642e02afd6ed0fd05b4993ffd6df28078cb76df9cb915b31bef77eb",
-    "completed": 0
-  },
-  {
-    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/a2cd5e380574216931a399a8a0f832aa1cfe0d3461c1a6bb2cbdd48c88a8618a.jpg",
-    "link": "https://animepahe.ru/play/dd98195a-7e30-0146-f0db-b040aeedb461/a278e100e60dc8adc48c5c7b5849c425f69f2b741ca6d49e74481531dfae17a4",
-    "completed": 0
-  },
-  {
     "title": "Nyaight of the Living Cat",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/4eec8c4d18f47f15a5e43703f400aa906888f2b2055870b7b2323faee0be634a.jpg",
@@ -67,6 +53,20 @@
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/1b99f50faba59d06d69fbba5d57f7f3be5e20bcd7666ffaabdc232061702719e.jpg",
     "link": "https://animepahe.ru/play/6fd6c8a4-470a-57cb-9bac-5acc159bbdb9/0e59ff2d61cda90fb48ef0e4b131af17c3e9aeb3d9973cbcddfcb1d4da43ea71",
+    "completed": 0
+  },
+  {
+    "title": "Fermat Kitchen",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/b90bb31509e718b53959efbd27b9f658565acb46b8859c86c999b244deb8a79d.jpg",
+    "link": "https://animepahe.ru/play/9125c841-85da-511a-3fca-8f52a3e8ecac/0caffea9ad1cd117fe39aef9bdf395a04534bacb2454bda08c38c57af59765fb",
+    "completed": 0
+  },
+  {
+    "title": "9: Ruler's Crown",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/414bc23a5c909af86a80c7e05260b67f9d8e8ac58185ee15df70a6bd7de6bb34.jpg",
+    "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/55385641cccd6748824b0752c9e3fd2030f0f254f1442ba91c08a7072d0d3a03",
     "completed": 0
   }
 ]
