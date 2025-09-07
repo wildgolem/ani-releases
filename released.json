@@ -1,12 +1,5 @@
 [
   {
-    "title": "Chainsaw Man: The Compilation",
-    "episode": 2,
-    "image": "https://i.animepahe.ru/uploads/snapshots/4cf4b4bf1e6e096da9fe8c87c7f09d3858f806c0c52b973510271c026113e29f.jpg",
-    "link": "https://animepahe.ru/play/9f2f15aa-6c53-1bc6-d71f-89c1d91a396b/93dd7ad2be8577ffce46d6daed4e750de9a1f51bb96872274a1276d72210ca87",
-    "completed": 1
-  },
-  {
     "title": "To Be Hero X",
     "episode": 23,
     "image": "https://i.animepahe.ru/uploads/snapshots/fd93f834d795b639234ce27f828bcf498d74cca16a8038d22ad7473c0a079751.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/4eec8c4d18f47f15a5e43703f400aa906888f2b2055870b7b2323faee0be634a.jpg",
     "link": "https://animepahe.ru/play/6e43baaf-9b64-9ef9-bad2-bfcc3be87071/965478aead862c60d8281ba0b19eb8a3979317b7d4290520d544d4c51d8e7ad8",
+    "completed": 0
+  },
+  {
+    "title": "Cultural Exchange With a Game Centre Girl",
+    "episode": 9,
+    "image": "https://i.animepahe.ru/uploads/snapshots/bab1733ffec04fa762ed069dacff9e1825281a6154513071ad2aafd81cc34d18.jpg",
+    "link": "https://animepahe.ru/play/bccca268-6edd-0369-ae31-cd145e76238d/0627d139965c9b7f31f3752c2e3dd9e46df212079b3adcba6f34a54406950c39",
     "completed": 0
   }
 ]
