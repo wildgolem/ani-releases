@@ -1,26 +1,5 @@
 [
   {
-    "title": "The Shy Hero and the Assassin Princesses",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/988abe11833010a9da68875f8818261cd48558c014ec3f48f2938fdcd073d540.jpg",
-    "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/b99dd57ed034753ef397fed92041f83501e261a57192fb1785b5301646e1382c",
-    "completed": 0
-  },
-  {
-    "title": "Scooped Up by an S-Rank Adventurer!",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7ecffc03f7cc2a2930247352caf82cd008ce176344e1952b27aef27702ebb418.jpg",
-    "link": "https://animepahe.ru/play/f56b1608-fea7-6769-3f81-5c6a8ccf4104/fabbb15f545c8e4d61224660f9423719f988b92a57f3ed98e7fbc1c7ca7cbc5f",
-    "completed": 0
-  },
-  {
-    "title": "Bad Girl",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ca80f96a1e60f21c28c5feefe29c36078b20fb3e5e19300140642bd4dbeef29c.jpg",
-    "link": "https://animepahe.ru/play/7b74a873-69b8-5edf-a26b-03de279b8c33/1d142db16134f871e0b7ce12fb2349d7b1b5aba0c9a2a8eee807461bd7cfc59f",
-    "completed": 0
-  },
-  {
     "title": "Haigakura",
     "episode": 9,
     "image": "https://i.animepahe.ru/uploads/snapshots/ce69f238d7fdf644eb7aa79577f6075a1cd5f98ccc84e85796744fee24de4516.jpg",
@@ -68,5 +47,26 @@
     "image": "https://i.animepahe.ru/uploads/snapshots/4cf4b4bf1e6e096da9fe8c87c7f09d3858f806c0c52b973510271c026113e29f.jpg",
     "link": "https://animepahe.ru/play/9f2f15aa-6c53-1bc6-d71f-89c1d91a396b/93dd7ad2be8577ffce46d6daed4e750de9a1f51bb96872274a1276d72210ca87",
     "completed": 1
+  },
+  {
+    "title": "To Be Hero X",
+    "episode": 23,
+    "image": "https://i.animepahe.ru/uploads/snapshots/fd93f834d795b639234ce27f828bcf498d74cca16a8038d22ad7473c0a079751.jpg",
+    "link": "https://animepahe.ru/play/1d6b96ff-45c4-c842-1a91-45af89eb8474/e9db90ab6b6d846896b48826c0eacc2dee06071d2b8d1d0723a0312cdd4ab4c1",
+    "completed": 0
+  },
+  {
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/e14acb4bc4bb620f33798d936590e44439beeea3d37cdf4e846db55fa3f65a67.jpg",
+    "link": "https://animepahe.ru/play/27a95751-0311-47ed-dbce-7f0680d5074a/121829fa4ecf9795d382895e7ef74bcad4aeb6bb9627604b00e4401ebc2483ec",
+    "completed": 0
+  },
+  {
+    "title": "You and Idol Precure♪",
+    "episode": 31,
+    "image": "https://i.animepahe.ru/uploads/snapshots/d04d3fa8ef082fd2426fc5e8e95efb7a0db03daa105caaba95860ffd59d2a3df.jpg",
+    "link": "https://animepahe.ru/play/56a7bc00-e3af-df58-d755-8cb081686539/5f8455eadf28ee94bbdcd32c9a493596b697f644ff6187aa868e77199665c8d3",
+    "completed": 0
   }
 ]
