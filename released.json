@@ -1,12 +1,5 @@
 [
   {
-    "title": "City The Animation",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/40d644b54b24dd93d763bd14e394820890afd4ed0b4f8aa99eff453b182f545a.jpg",
-    "link": "https://animepahe.ru/play/d957867d-d470-7ce7-72fc-4c23095fafc1/9adb88508b5071fc6844c2aa928232fcdef2a3567546c1f47910cd2bfe665ab9",
-    "completed": 0
-  },
-  {
     "title": "One Piece",
     "episode": 1142,
     "image": "https://i.animepahe.ru/uploads/snapshots/12fd932f20845c8597b31b97d072ad476a1391b840849b51c30c84b92081ad82.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/ea2527f4f2cd1b302e69396559e5ae1ceba8c001faae16b7b7ab9159f7cfef1f.jpg",
     "link": "https://animepahe.ru/play/1abdeb23-fe28-dc61-7169-e3d5946718b0/6a663342207e581c11acb75316bcf1a9de87d35dad25bdc2ec34ab13ae0649b9",
+    "completed": 0
+  },
+  {
+    "title": "Sword of the Demon Hunter: Kijin Gentosho",
+    "episode": 22,
+    "image": "https://i.animepahe.ru/uploads/snapshots/cde0a350d40e19e04a44dae8d1bab9bafb3f4a9c53b7eeafa168b238f7658624.jpg",
+    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/9b97d050b074eacaa29998df6a71a42f69ec9dc4cd2df4dee0418026749c2726",
     "completed": 0
   }
 ]
