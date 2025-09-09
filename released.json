@@ -1,12 +1,5 @@
 [
   {
-    "title": "9: Ruler's Crown",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/414bc23a5c909af86a80c7e05260b67f9d8e8ac58185ee15df70a6bd7de6bb34.jpg",
-    "link": "https://animepahe.ru/play/4a95f659-6686-f4df-ebd7-8ba4a672d9bb/55385641cccd6748824b0752c9e3fd2030f0f254f1442ba91c08a7072d0d3a03",
-    "completed": 0
-  },
-  {
     "title": "Summer Pockets",
     "episode": 23,
     "image": "https://i.animepahe.ru/uploads/snapshots/5728bf24d4ad5a2afd1b3be3540143771502500338d88391ebcd44f460fc45fd.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/18d3e08db91c476093a8625971e7f647181218890c43121f2f02bbe9c0514d2e.jpg",
     "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/c7c9999edd444093f56ade311f0fed8d5445b7019c9de34fe8b77d8b3eeb5758",
+    "completed": 0
+  },
+  {
+    "title": "Mr. Osomatsu 4th Season",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/61da7273377909ad5efc080f13e7ba2b041fa1b9f95d6d6bb8429ed1dbe2128d.jpg",
+    "link": "https://animepahe.ru/play/ad12e261-8b36-80af-842a-28d955a8dba1/9991f47a3fa834a84e667b8e1aa9749c59f4c4509c84b161b195145b71c1cdfa",
     "completed": 0
   }
 ]
