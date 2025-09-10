@@ -1,19 +1,5 @@
 [
   {
-    "title": "Grand Blue Dreaming Season 2",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/96badd89715887632a4d17b19bec3fb42ef53488a195296c56a2396c1ec2fc5b.jpg",
-    "link": "https://animepahe.ru/play/785d08ac-4a7a-6c64-ae6d-f2bce029d355/e98131169b5b11695f0c3cdf1ca8dffdf83dd0753c1b021b9144fbaafab4f2eb",
-    "completed": 0
-  },
-  {
-    "title": "There's No Freaking Way I'll be Your Lover! Unless...",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/ea2527f4f2cd1b302e69396559e5ae1ceba8c001faae16b7b7ab9159f7cfef1f.jpg",
-    "link": "https://animepahe.ru/play/1abdeb23-fe28-dc61-7169-e3d5946718b0/6a663342207e581c11acb75316bcf1a9de87d35dad25bdc2ec34ab13ae0649b9",
-    "completed": 0
-  },
-  {
     "title": "Sword of the Demon Hunter: Kijin Gentosho",
     "episode": 22,
     "image": "https://i.animepahe.ru/uploads/snapshots/cde0a350d40e19e04a44dae8d1bab9bafb3f4a9c53b7eeafa168b238f7658624.jpg",
@@ -67,6 +53,20 @@
     "episode": 96,
     "image": "https://i.animepahe.ru/uploads/snapshots/1d8032fb46f316350ed9aecaf034b9e42bab66816eee0c470377c4b0cc1b0f4f.jpg",
     "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/4bfd9d8662ad4bd27b3a985db0e3d29b54ccbcd792e5dc6f6a53053de0bcbe8c",
+    "completed": 0
+  },
+  {
+    "title": "Clevatess",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7e41ad12feb7fad50543c9bd32b06f1b47d9d6e94e12ee7efd32465aad6959d1.jpg",
+    "link": "https://animepahe.ru/play/79fe94dc-8a14-630c-2760-13ed564ef809/5a467ddbe76944f3c2495d0423cdc6025994b171ca4624b6e89d8053daed0b6f",
+    "completed": 0
+  },
+  {
+    "title": "The Rising of the Shield Hero Season 4",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/62aeb0b8f3318b522b174757c8586a670adfae9fff6a4be705e7442449d38ad2.jpg",
+    "link": "https://animepahe.ru/play/75361ccc-cacc-d7c2-8fe0-2f0af0f565ae/f14f74c09a4cbc528935df64932a2bb8cefdecb87dd48765ccfc1f4a085d6ce6",
     "completed": 0
   }
 ]
