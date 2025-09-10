@@ -1,12 +1,5 @@
 [
   {
-    "title": "Detectives These Days Are Crazy!",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/61f78b0d21a5703933bb29fdb2b336e55938c699f67ac2cc395f64089cf2abcd.jpg",
-    "link": "https://animepahe.ru/play/74e200d2-0ec0-1644-9c89-2ca35345a06d/c66cf476da12cea13a624200c48fa99114f41309f5c44bea371ca4c0b98e551c",
-    "completed": 0
-  },
-  {
     "title": "Rent-a-Girlfriend Season 4",
     "episode": 47,
     "image": "https://i.animepahe.ru/uploads/snapshots/959d1637be47c7ae2d85654e062aa7828b40d1adcd3f154c34e90efa1ace545f.jpg",
@@ -49,13 +42,6 @@
     "completed": 0
   },
   {
-    "title": "Clevatess",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/7e41ad12feb7fad50543c9bd32b06f1b47d9d6e94e12ee7efd32465aad6959d1.jpg",
-    "link": "https://animepahe.ru/play/79fe94dc-8a14-630c-2760-13ed564ef809/5a467ddbe76944f3c2495d0423cdc6025994b171ca4624b6e89d8053daed0b6f",
-    "completed": 0
-  },
-  {
     "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/12e8463f093d810b11f9bcadaa6b005a6885018593aa788c0f38bf38dbc91f55.jpg",
@@ -67,6 +53,20 @@
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/74fe266f041372e768c00c1b462e7a1d2c17cfa5a51746084e046f385252e609.jpg",
     "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/98a5daa7fb93ec4453fe6241cf103055aeb5dee21f426e9818563bf397b5a689",
+    "completed": 0
+  },
+  {
+    "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+    "episode": 22,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7bbf3967c0f866dde76fccc5ffae2e1ff9de5b248236f4400980f201f8e701e6.jpg",
+    "link": "https://animepahe.ru/play/39f74d0c-55ad-4c14-5af2-2821f91f6eb5/14a9ef1fb1cdf3c3b490ae39245caecaf310bda1ba6d7d1790ce977754f184d8",
+    "completed": 0
+  },
+  {
+    "title": "Clevatess",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/7e41ad12feb7fad50543c9bd32b06f1b47d9d6e94e12ee7efd32465aad6959d1.jpg",
+    "link": "https://animepahe.ru/play/79fe94dc-8a14-630c-2760-13ed564ef809/5a467ddbe76944f3c2495d0423cdc6025994b171ca4624b6e89d8053daed0b6f",
     "completed": 0
   }
 ]
