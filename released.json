@@ -1,12 +1,5 @@
 [
   {
-    "title": "Turkey! Time to Strike",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/dff3f73d447a408daab10ac00082e850f2f9f8f85d9b3fd7ea291ded381438b7.jpg",
-    "link": "https://animepahe.ru/play/25d65413-3d15-a068-14bf-de80387ff396/9e709e070b6aae03f9c1f1ff8ad60601f9ce607674ac73eadda945130b9df063",
-    "completed": 0
-  },
-  {
     "title": "Beyblade X",
     "episode": 96,
     "image": "https://i.animepahe.ru/uploads/snapshots/1d8032fb46f316350ed9aecaf034b9e42bab66816eee0c470377c4b0cc1b0f4f.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.si/uploads/snapshots/03dfb63d409c8862d3f1e01105e3d3126a355f705d71698e23d735f7fa2d8d03.jpg",
     "link": "https://animepahe.ru/play/f5135165-7630-6498-ccd8-93954cfef653/c6b10ac01d3435f0b116dd98278a52c5e86af83aa896544b1da1a49f7635bac9",
+    "completed": 0
+  },
+  {
+    "title": "Hell Teacher: Jigoku Sensei Nube",
+    "episode": 11,
+    "image": "https://i.animepahe.si/uploads/snapshots/73f2a9e4e04cd735f0d5b86cd079f1a78f4514429e2efd7881e115a96852c4e2.jpg",
+    "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/b2c4e55bc2fe79c0c39f28c067fd6e014a05d702dbbabe6565b15ed6663c1e95",
     "completed": 0
   }
 ]
