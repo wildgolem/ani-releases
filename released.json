@@ -1,12 +1,5 @@
 [
   {
-    "title": "A Couple of Cuckoos Season 2",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/17020ef020ae5893c8d37a4952cb9b1feacfa2dad72f92c32e12e9f2e3bdad5e.jpg",
-    "link": "https://animepahe.ru/play/7feed0ac-e2c9-3a66-9c20-920f4f84d521/22ee5ad1de18c805db2bf7a478363b1cc2f64abb515882b199ed470651470099",
-    "completed": 0
-  },
-  {
     "title": "Detectives These Days Are Crazy!",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/61f78b0d21a5703933bb29fdb2b336e55938c699f67ac2cc395f64089cf2abcd.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/12e8463f093d810b11f9bcadaa6b005a6885018593aa788c0f38bf38dbc91f55.jpg",
     "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/3669386190f9e3df33c768b914978177eb4cc6cdd5fbab0ad7b143d573047eff",
+    "completed": 0
+  },
+  {
+    "title": "New Panty & Stocking with Garterbelt",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/74fe266f041372e768c00c1b462e7a1d2c17cfa5a51746084e046f385252e609.jpg",
+    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/98a5daa7fb93ec4453fe6241cf103055aeb5dee21f426e9818563bf397b5a689",
     "completed": 0
   }
 ]
