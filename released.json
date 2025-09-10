@@ -1,12 +1,5 @@
 [
   {
-    "title": "Sword of the Demon Hunter: Kijin Gentosho",
-    "episode": 22,
-    "image": "https://i.animepahe.ru/uploads/snapshots/cde0a350d40e19e04a44dae8d1bab9bafb3f4a9c53b7eeafa168b238f7658624.jpg",
-    "link": "https://animepahe.ru/play/3c773501-146d-d187-4ffb-60f5e04ec477/9b97d050b074eacaa29998df6a71a42f69ec9dc4cd2df4dee0418026749c2726",
-    "completed": 0
-  },
-  {
     "title": "A Couple of Cuckoos Season 2",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/17020ef020ae5893c8d37a4952cb9b1feacfa2dad72f92c32e12e9f2e3bdad5e.jpg",
@@ -56,6 +49,13 @@
     "completed": 0
   },
   {
+    "title": "The Rising of the Shield Hero Season 4",
+    "episode": 10,
+    "image": "https://i.animepahe.ru/uploads/snapshots/62aeb0b8f3318b522b174757c8586a670adfae9fff6a4be705e7442449d38ad2.jpg",
+    "link": "https://animepahe.ru/play/75361ccc-cacc-d7c2-8fe0-2f0af0f565ae/f14f74c09a4cbc528935df64932a2bb8cefdecb87dd48765ccfc1f4a085d6ce6",
+    "completed": 0
+  },
+  {
     "title": "Clevatess",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/7e41ad12feb7fad50543c9bd32b06f1b47d9d6e94e12ee7efd32465aad6959d1.jpg",
@@ -63,10 +63,10 @@
     "completed": 0
   },
   {
-    "title": "The Rising of the Shield Hero Season 4",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/62aeb0b8f3318b522b174757c8586a670adfae9fff6a4be705e7442449d38ad2.jpg",
-    "link": "https://animepahe.ru/play/75361ccc-cacc-d7c2-8fe0-2f0af0f565ae/f14f74c09a4cbc528935df64932a2bb8cefdecb87dd48765ccfc1f4a085d6ce6",
+    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
+    "episode": 11,
+    "image": "https://i.animepahe.ru/uploads/snapshots/12e8463f093d810b11f9bcadaa6b005a6885018593aa788c0f38bf38dbc91f55.jpg",
+    "link": "https://animepahe.ru/play/750c8203-507c-092c-6060-aab1a1f0638f/3669386190f9e3df33c768b914978177eb4cc6cdd5fbab0ad7b143d573047eff",
     "completed": 0
   }
 ]
