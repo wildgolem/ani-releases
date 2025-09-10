@@ -1,12 +1,5 @@
 [
   {
-    "title": "Necronomico and the Cosmic Horror Show",
-    "episode": 11,
-    "image": "https://i.animepahe.ru/uploads/snapshots/18d3e08db91c476093a8625971e7f647181218890c43121f2f02bbe9c0514d2e.jpg",
-    "link": "https://animepahe.ru/play/815a5ea2-c426-04dd-9af4-e1bf23c8c2ed/c7c9999edd444093f56ade311f0fed8d5445b7019c9de34fe8b77d8b3eeb5758",
-    "completed": 0
-  },
-  {
     "title": "Mr. Osomatsu 4th Season",
     "episode": 10,
     "image": "https://i.animepahe.ru/uploads/snapshots/61da7273377909ad5efc080f13e7ba2b041fa1b9f95d6d6bb8429ed1dbe2128d.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.si/uploads/snapshots/c5bdb5518ec66ca38f5a8b43d1d7ecae30ae7cd97874dd3f7fcde2bacd86e648.jpg",
     "link": "https://animepahe.ru/play/37f2f2a8-d2c2-a821-6de0-0d479c4aca20/5dcaeb70c0f39c89c09ce5f32a734328ec63da201f6f4fbbb218c84b6582c60b",
+    "completed": 0
+  },
+  {
+    "title": "Onmyo Kaiten Re:Birth Verse",
+    "episode": 11,
+    "image": "https://i.animepahe.si/uploads/snapshots/5e6b55a91772d0469b51b2957fe18876afe25447dda36f5812cbf9bd3547ca0d.jpg",
+    "link": "https://animepahe.ru/play/1f775d3b-9f1b-4335-ead1-6d57163c3c7a/eab962bd5fb36f0ac5fa04b54cd05d1e3752cd380514a78507aff1517c0542a1",
     "completed": 0
   }
 ]
