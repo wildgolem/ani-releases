@@ -1,12 +1,5 @@
 [
   {
-    "title": "New Panty & Stocking with Garterbelt",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/74fe266f041372e768c00c1b462e7a1d2c17cfa5a51746084e046f385252e609.jpg",
-    "link": "https://animepahe.ru/play/72b5b3de-335b-95f9-4733-c2b4a917eb17/98a5daa7fb93ec4453fe6241cf103055aeb5dee21f426e9818563bf397b5a689",
-    "completed": 0
-  },
-  {
     "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
     "episode": 22,
     "image": "https://i.animepahe.ru/uploads/snapshots/7bbf3967c0f866dde76fccc5ffae2e1ff9de5b248236f4400980f201f8e701e6.jpg",
@@ -67,6 +60,13 @@
     "episode": 4,
     "image": "https://i.animepahe.si/uploads/snapshots/dffe91731e71f601009befae2638ebce4d7e5b3ca6e86dfc8adfda9f374fc9e8.jpg",
     "link": "https://animepahe.ru/play/a6ca7763-a61d-d51c-4ab7-bfc499759fb8/91c5f56c645ab614d5589dc20e69d4ecb17fd285507815008a1ac1c82f8dba0d",
+    "completed": 0
+  },
+  {
+    "title": "Dr. Stone: Science Future Part 2",
+    "episode": 22,
+    "image": "https://i.animepahe.si/uploads/snapshots/a71d8445ffe1a7578b81ef4d55a0ae2240de6726f913b25277d10cd501fc083a.jpg",
+    "link": "https://animepahe.ru/play/af297b6f-ee2b-abd2-16ca-18e7b32f5406/4678b5263009ae3a10c49fc32617cb91af86bbea388e228be6523073858b21b0",
     "completed": 0
   }
 ]
