@@ -1,19 +1,5 @@
 [
   {
-    "title": "Beyblade X",
-    "episode": 96,
-    "image": "https://i.animepahe.ru/uploads/snapshots/1d8032fb46f316350ed9aecaf034b9e42bab66816eee0c470377c4b0cc1b0f4f.jpg",
-    "link": "https://animepahe.ru/play/c93b6729-b316-7952-1b90-a0278174aec9/4bfd9d8662ad4bd27b3a985db0e3d29b54ccbcd792e5dc6f6a53053de0bcbe8c",
-    "completed": 0
-  },
-  {
-    "title": "The Rising of the Shield Hero Season 4",
-    "episode": 10,
-    "image": "https://i.animepahe.ru/uploads/snapshots/62aeb0b8f3318b522b174757c8586a670adfae9fff6a4be705e7442449d38ad2.jpg",
-    "link": "https://animepahe.ru/play/75361ccc-cacc-d7c2-8fe0-2f0af0f565ae/f14f74c09a4cbc528935df64932a2bb8cefdecb87dd48765ccfc1f4a085d6ce6",
-    "completed": 0
-  },
-  {
     "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
     "episode": 11,
     "image": "https://i.animepahe.ru/uploads/snapshots/12e8463f093d810b11f9bcadaa6b005a6885018593aa788c0f38bf38dbc91f55.jpg",
@@ -67,6 +53,20 @@
     "episode": 11,
     "image": "https://i.animepahe.si/uploads/snapshots/73f2a9e4e04cd735f0d5b86cd079f1a78f4514429e2efd7881e115a96852c4e2.jpg",
     "link": "https://animepahe.ru/play/ca9690f3-0207-084b-676e-d686f8dcb40e/b2c4e55bc2fe79c0c39f28c067fd6e014a05d702dbbabe6565b15ed6663c1e95",
+    "completed": 0
+  },
+  {
+    "title": "Nukitashi the Animation",
+    "episode": 8,
+    "image": "https://i.animepahe.ru/uploads/snapshots/2b5e7bc682e25ff68ac6fd546d9de927efbf7178fb61c635214db7fa3e87986e.jpg",
+    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/7043b19399d4da831e37b180dc3a7302147f14d70161c7b2bacb144cd1e1c2b9",
+    "completed": 0
+  },
+  {
+    "title": "Me and the Alien MuMu",
+    "episode": 23,
+    "image": "https://i.animepahe.si/uploads/snapshots/301ebe4f455c6838eabd1020d64c5bff32061919d7f62f35f2499e6fa4763504.jpg",
+    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/baf3199ec6b6937d14209379c554cdfdf5689bc6a18c6316f1c51cc769928959",
     "completed": 0
   }
 ]
