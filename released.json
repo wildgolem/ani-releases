@@ -1,12 +1,5 @@
 [
   {
-    "title": "Me and the Alien MuMu",
-    "episode": 23,
-    "image": "https://i.animepahe.si/uploads/snapshots/301ebe4f455c6838eabd1020d64c5bff32061919d7f62f35f2499e6fa4763504.jpg",
-    "link": "https://animepahe.ru/play/f9307dde-9fbb-66ee-4b19-a4f6364cbc6b/baf3199ec6b6937d14209379c554cdfdf5689bc6a18c6316f1c51cc769928959",
-    "completed": 0
-  },
-  {
     "title": "Captivated, By You",
     "episode": 4,
     "image": "https://i.animepahe.si/uploads/snapshots/dffe91731e71f601009befae2638ebce4d7e5b3ca6e86dfc8adfda9f374fc9e8.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.si/uploads/snapshots/43e6c52756283a488efca9e016606d458c93aead83e87472b427bfae3c7ccf01.jpg",
     "link": "https://animepahe.ru/play/40b8e827-748b-b262-94b2-b72ad4bde65a/e512123281ca36efba30401002bffafccd5aabdfa3230637d981352648129277",
+    "completed": 0
+  },
+  {
+    "title": "Tougen Anki",
+    "episode": 10,
+    "image": "https://i.animepahe.si/uploads/snapshots/d0671c69c6cb7a8fe5f8d141c7a05eb5b18d69b015b7274fe24791dab3614ebe.jpg",
+    "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/61f028547c52002631fbfc853e1147b8b6101b3f2ccbe10ff107b1f49a987b2b",
     "completed": 0
   }
 ]
