@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kamitsubaki City Under Construction",
-    "episode": 10,
-    "image": "https://i.animepahe.si/uploads/snapshots/5e68ee45633e63dc2e67ba990fe26231bf6de79877c1dd03a4e1534acc797742.jpg",
-    "link": "https://animepahe.ru/play/c470361a-1214-a7de-beab-aed10f219b61/581787c8a9c363f0cb2c0c859d9b94fcd8dfef56c30519c7b000fe580ff1b23f",
-    "completed": 0
-  },
-  {
     "title": "Dragon Raja II: The Mourner's Eyes",
     "episode": 11,
     "image": "https://i.animepahe.si/uploads/snapshots/c8f391295739b085b49abe58e9798717d5790dfb28fb53af3ccbd88a4e6b5619.jpg",
@@ -67,6 +60,13 @@
     "episode": 11,
     "image": "https://i.animepahe.si/uploads/snapshots/04ec3e32d00d9d8f50c3ccd9870a253854ea76c4934105fd917d81960853249f.jpg",
     "link": "https://animepahe.ru/play/a8fe4db8-5ae6-c9cc-8f32-8764ed520e81/dc1951cafe0741369f44e1f7b4f465096be065e1cf53b784b6c53d688dda26b9",
+    "completed": 0
+  },
+  {
+    "title": "Nukitashi the Animation",
+    "episode": 9,
+    "image": "https://i.animepahe.si/uploads/snapshots/22ccf5e295ddedfc0ae399bcf6bc3bf01295d37c72ffe8d9dd631678e2b04e6f.jpg",
+    "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/f4698c76acb6c7403cd9c98a7e5c21c4b96b2ab5308876e564773336d41e705a",
     "completed": 0
   }
 ]
