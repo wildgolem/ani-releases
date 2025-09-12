@@ -1,12 +1,5 @@
 [
   {
-    "title": "Solo Camping for Two",
-    "episode": 10,
-    "image": "https://i.animepahe.si/uploads/snapshots/941df50d8de55e074e0b84b275246979baa6d02f2d42ed6364a23aaf4bb69fda.jpg",
-    "link": "https://animepahe.ru/play/121849f4-890d-db95-3a0b-34e0e9a9360b/9de3c89754b89274e6ae961a0d829c1f055f63680f466e8ce5efa487dcef7c1c",
-    "completed": 0
-  },
-  {
     "title": "The Water Magician",
     "episode": 10,
     "image": "https://i.animepahe.si/uploads/snapshots/2b24c4a47d04f7ca4017c894d7fcb6000c6db68ea16b67110ec40b827116bfc3.jpg",
@@ -67,6 +60,13 @@
     "episode": 10,
     "image": "https://i.animepahe.si/uploads/snapshots/86ab7c3f9ebfef0d99297abab72553e53c46803a6f86c6a562f31709abdd31fe.jpg",
     "link": "https://animepahe.ru/play/55e39916-d7f0-d70d-6964-dd149dfbb620/85b6a2062aea1f94a47577ab8cdc72da1382d1aca46b3711252dbd45454a0ff5",
+    "completed": 0
+  },
+  {
+    "title": "Secrets of the Silent Witch",
+    "episode": 10,
+    "image": "https://i.animepahe.si/uploads/snapshots/a7c02915bafba3522e68f997b709acc0ed614b4f9bf499c0161cf8caa900fee8.jpg",
+    "link": "https://animepahe.ru/play/58ddb495-f827-3dcf-955b-f4fc4a73607c/ebe09ddf88b93023dd8f02ef11984ce12afd3824b7bfcce1c282121fbc82ee9a",
     "completed": 0
   }
 ]
