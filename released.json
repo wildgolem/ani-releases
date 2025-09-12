@@ -1,12 +1,5 @@
 [
   {
-    "title": "Captivated, By You",
-    "episode": 4,
-    "image": "https://i.animepahe.si/uploads/snapshots/dffe91731e71f601009befae2638ebce4d7e5b3ca6e86dfc8adfda9f374fc9e8.jpg",
-    "link": "https://animepahe.ru/play/a6ca7763-a61d-d51c-4ab7-bfc499759fb8/91c5f56c645ab614d5589dc20e69d4ecb17fd285507815008a1ac1c82f8dba0d",
-    "completed": 0
-  },
-  {
     "title": "Dr. Stone: Science Future Part 2",
     "episode": 22,
     "image": "https://i.animepahe.si/uploads/snapshots/a71d8445ffe1a7578b81ef4d55a0ae2240de6726f913b25277d10cd501fc083a.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.si/uploads/snapshots/d0671c69c6cb7a8fe5f8d141c7a05eb5b18d69b015b7274fe24791dab3614ebe.jpg",
     "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/61f028547c52002631fbfc853e1147b8b6101b3f2ccbe10ff107b1f49a987b2b",
     "completed": 0
+  },
+  {
+    "title": "Ghost Cat Anzu",
+    "episode": 1,
+    "image": "https://i.animepahe.si/uploads/snapshots/3e3f8fffa6c6d3494d3ea4a819802ee6bc5480aed819b580dc31352bbb55387f.jpg",
+    "link": "https://animepahe.ru/play/5cfe3532-2447-c050-ae35-9aa061386f82/3ed5cf218f8906dfde2e31e7a3ef95eae1ef94173ab7e733843c4ca3532056b6",
+    "completed": 1
   }
 ]
