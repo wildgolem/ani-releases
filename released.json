@@ -1,12 +1,5 @@
 [
   {
-    "title": "Call of the Night Season 2",
-    "episode": 11,
-    "image": "https://i.animepahe.si/uploads/snapshots/783a35eadb504f90a92614d89f00ef52f407ed1cbd4166225d5f0e6db8c82726.jpg",
-    "link": "https://animepahe.ru/play/bd82c9e0-73b3-0d9e-8078-a8e01cddaa78/e2045e6cdcde2c8132d62df9bf659f865f39613f3c720756f1c40de2cb9be3e0",
-    "completed": 0
-  },
-  {
     "title": "Watari-kun's ****** Is about to Collapse",
     "episode": 11,
     "image": "https://i.animepahe.si/uploads/snapshots/e48b2e21a2fc3d382834135e7bf8607277ddde47e25b0087baeae181864c98d8.jpg",
@@ -67,6 +60,13 @@
     "episode": 1175,
     "image": "https://i.animepahe.si/uploads/snapshots/7111749238b99c92618400734f4fe45841aad19cedae191ac4777ff35f39ff3f.jpg",
     "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/b3ccae6d8598a1acc8bf61f27062603a91e8c526de09eacc5967e39a34b58ae0",
+    "completed": 0
+  },
+  {
+    "title": "Anne Shirley",
+    "episode": 22,
+    "image": "https://i.animepahe.si/uploads/snapshots/1f5e7027cc9238473987ead5217de8b4e020cbd40cd7e9fdd918200b9b04eb95.jpg",
+    "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/e283e0a237583e01ff1d70580e5d4ceb57e316630bcaf49b13b084737432aad5",
     "completed": 0
   }
 ]
