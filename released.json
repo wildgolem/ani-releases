@@ -1,12 +1,5 @@
 [
   {
-    "title": "Watari-kun's ****** Is about to Collapse",
-    "episode": 11,
-    "image": "https://i.animepahe.si/uploads/snapshots/e48b2e21a2fc3d382834135e7bf8607277ddde47e25b0087baeae181864c98d8.jpg",
-    "link": "https://animepahe.ru/play/3d39e1b4-3351-c2c3-1c50-8308b0f96a5e/76d96537517e39e7138437cea38d6bc2965db0731df729ea31cd5404ff3d5a11",
-    "completed": 0
-  },
-  {
     "title": "Haigakura",
     "episode": 10,
     "image": "https://i.animepahe.si/uploads/snapshots/86ab7c3f9ebfef0d99297abab72553e53c46803a6f86c6a562f31709abdd31fe.jpg",
@@ -67,6 +60,13 @@
     "episode": 22,
     "image": "https://i.animepahe.si/uploads/snapshots/1f5e7027cc9238473987ead5217de8b4e020cbd40cd7e9fdd918200b9b04eb95.jpg",
     "link": "https://animepahe.ru/play/6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3/e283e0a237583e01ff1d70580e5d4ceb57e316630bcaf49b13b084737432aad5",
+    "completed": 0
+  },
+  {
+    "title": "Kaiju No. 8 Season 2",
+    "episode": 21,
+    "image": "https://i.animepahe.si/uploads/snapshots/3adcc4bba01aaab44e1a7b4f65e9e83c5bb2a0c94c31e010ec95739dfa995bb4.jpg",
+    "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/ceb4c6f733aacf88f0695e83846d14264de401b9f5b306c18a1f7c64b5f229f5",
     "completed": 0
   }
 ]
