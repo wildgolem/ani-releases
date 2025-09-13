@@ -1,12 +1,5 @@
 [
   {
-    "title": "Ghost Cat Anzu",
-    "episode": 1,
-    "image": "https://i.animepahe.si/uploads/snapshots/3e3f8fffa6c6d3494d3ea4a819802ee6bc5480aed819b580dc31352bbb55387f.jpg",
-    "link": "https://animepahe.ru/play/5cfe3532-2447-c050-ae35-9aa061386f82/3ed5cf218f8906dfde2e31e7a3ef95eae1ef94173ab7e733843c4ca3532056b6",
-    "completed": 1
-  },
-  {
     "title": "Call of the Night Season 2",
     "episode": 11,
     "image": "https://i.animepahe.si/uploads/snapshots/783a35eadb504f90a92614d89f00ef52f407ed1cbd4166225d5f0e6db8c82726.jpg",
@@ -67,6 +60,13 @@
     "episode": 22,
     "image": "https://i.animepahe.si/uploads/snapshots/86af7944ef5b3cacf917f1fbc2a7dd1f29047e64f2af8b2251067a07db125659.jpg",
     "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/03343dce7b49ec84b510aab02432e84292ed44621cd27bf7de66957ef9d00513",
+    "completed": 0
+  },
+  {
+    "title": "Meitantei Conan",
+    "episode": 1175,
+    "image": "https://i.animepahe.si/uploads/snapshots/7111749238b99c92618400734f4fe45841aad19cedae191ac4777ff35f39ff3f.jpg",
+    "link": "https://animepahe.ru/play/f4fd317a-6233-a018-8b6e-e632bf750bdb/b3ccae6d8598a1acc8bf61f27062603a91e8c526de09eacc5967e39a34b58ae0",
     "completed": 0
   }
 ]
