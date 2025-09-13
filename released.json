@@ -1,12 +1,5 @@
 [
   {
-    "title": "Harmony of Mille-Feuille",
-    "episode": 9,
-    "image": "https://i.animepahe.si/uploads/snapshots/43e6c52756283a488efca9e016606d458c93aead83e87472b427bfae3c7ccf01.jpg",
-    "link": "https://animepahe.ru/play/40b8e827-748b-b262-94b2-b72ad4bde65a/e512123281ca36efba30401002bffafccd5aabdfa3230637d981352648129277",
-    "completed": 0
-  },
-  {
     "title": "Tougen Anki",
     "episode": 10,
     "image": "https://i.animepahe.si/uploads/snapshots/d0671c69c6cb7a8fe5f8d141c7a05eb5b18d69b015b7274fe24791dab3614ebe.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.si/uploads/snapshots/a2ce4bb010611160ec9ad92d92bdbf066e216bb76b2263edef86b4557f04fb2c.jpg",
     "link": "https://animepahe.ru/play/cb2b99bf-894f-1bc8-d0f8-d1fdc4e9db13/2e32c847c14d6ee442e647039659a32bffb1fa86c7f803cb5099692ee949d6c2",
     "completed": 0
+  },
+  {
+    "title": "Lord of Mysteries",
+    "episode": 13,
+    "image": "https://i.animepahe.si/uploads/snapshots/898d53054770ff37cc6299523fad7310e783854fdce3ef24a217114d9a55a57f.jpg",
+    "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/a5ad181adf53575817a420e14181159d5f11a51ca0dcac6a665d1bd858e601e5",
+    "completed": 1
   }
 ]
