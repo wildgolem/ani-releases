@@ -1,12 +1,5 @@
 [
   {
-    "title": "Haigakura",
-    "episode": 10,
-    "image": "https://i.animepahe.si/uploads/snapshots/86ab7c3f9ebfef0d99297abab72553e53c46803a6f86c6a562f31709abdd31fe.jpg",
-    "link": "https://animepahe.ru/play/55e39916-d7f0-d70d-6964-dd149dfbb620/85b6a2062aea1f94a47577ab8cdc72da1382d1aca46b3711252dbd45454a0ff5",
-    "completed": 0
-  },
-  {
     "title": "Secrets of the Silent Witch",
     "episode": 10,
     "image": "https://i.animepahe.si/uploads/snapshots/a7c02915bafba3522e68f997b709acc0ed614b4f9bf499c0161cf8caa900fee8.jpg",
@@ -67,6 +60,13 @@
     "episode": 21,
     "image": "https://i.animepahe.si/uploads/snapshots/3adcc4bba01aaab44e1a7b4f65e9e83c5bb2a0c94c31e010ec95739dfa995bb4.jpg",
     "link": "https://animepahe.ru/play/e7f9b554-0f0d-3dbd-e8b1-ae226206aa67/ceb4c6f733aacf88f0695e83846d14264de401b9f5b306c18a1f7c64b5f229f5",
+    "completed": 0
+  },
+  {
+    "title": "The Shy Hero and the Assassin Princesses",
+    "episode": 11,
+    "image": "https://i.animepahe.si/uploads/snapshots/29f088ad4cbc7327f567908da86c4b0751ab7f8bd1f5ad48905667f809023b3c.jpg",
+    "link": "https://animepahe.ru/play/09b53582-63e5-3203-39c3-31a8ff3c185e/fc27b02e73c1b7df300834f55f68ef5e5c6ce8b9d2ee880c63578b838e290cbb",
     "completed": 0
   }
 ]
