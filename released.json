@@ -1,12 +1,5 @@
 [
   {
-    "title": "Dragon Raja II: The Mourner's Eyes",
-    "episode": 11,
-    "image": "https://i.animepahe.si/uploads/snapshots/c8f391295739b085b49abe58e9798717d5790dfb28fb53af3ccbd88a4e6b5619.jpg",
-    "link": "https://animepahe.ru/play/fca3ff7b-02dd-b984-baa3-c4021c7f6629/486ce3d0658fa7635c5e58507174124e0c7c78b380b28d847c90aa678830011d",
-    "completed": 0
-  },
-  {
     "title": "Harmony of Mille-Feuille",
     "episode": 9,
     "image": "https://i.animepahe.si/uploads/snapshots/43e6c52756283a488efca9e016606d458c93aead83e87472b427bfae3c7ccf01.jpg",
@@ -67,6 +60,13 @@
     "episode": 9,
     "image": "https://i.animepahe.si/uploads/snapshots/22ccf5e295ddedfc0ae399bcf6bc3bf01295d37c72ffe8d9dd631678e2b04e6f.jpg",
     "link": "https://animepahe.ru/play/b8ba421a-aff5-b103-fb10-03a9dc876fb8/f4698c76acb6c7403cd9c98a7e5c21c4b96b2ab5308876e564773336d41e705a",
+    "completed": 0
+  },
+  {
+    "title": "Kakuriyo: Bed and Breakfast for Spirits 2",
+    "episode": 26,
+    "image": "https://i.animepahe.si/uploads/snapshots/a2ce4bb010611160ec9ad92d92bdbf066e216bb76b2263edef86b4557f04fb2c.jpg",
+    "link": "https://animepahe.ru/play/cb2b99bf-894f-1bc8-d0f8-d1fdc4e9db13/2e32c847c14d6ee442e647039659a32bffb1fa86c7f803cb5099692ee949d6c2",
     "completed": 0
   }
 ]
