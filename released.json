@@ -1,12 +1,5 @@
 [
   {
-    "title": "Tougen Anki",
-    "episode": 10,
-    "image": "https://i.animepahe.si/uploads/snapshots/d0671c69c6cb7a8fe5f8d141c7a05eb5b18d69b015b7274fe24791dab3614ebe.jpg",
-    "link": "https://animepahe.ru/play/3a949d66-f993-e47d-e101-f53cb73cb941/61f028547c52002631fbfc853e1147b8b6101b3f2ccbe10ff107b1f49a987b2b",
-    "completed": 0
-  },
-  {
     "title": "Ghost Cat Anzu",
     "episode": 1,
     "image": "https://i.animepahe.si/uploads/snapshots/3e3f8fffa6c6d3494d3ea4a819802ee6bc5480aed819b580dc31352bbb55387f.jpg",
@@ -68,5 +61,12 @@
     "image": "https://i.animepahe.si/uploads/snapshots/898d53054770ff37cc6299523fad7310e783854fdce3ef24a217114d9a55a57f.jpg",
     "link": "https://animepahe.ru/play/c0a1ce88-ca91-0355-b433-bb31814b0b02/a5ad181adf53575817a420e14181159d5f11a51ca0dcac6a665d1bd858e601e5",
     "completed": 1
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "episode": 110,
+    "image": "https://i.animepahe.si/uploads/snapshots/4851326ce283ad2d57b19a98f5e8954d1900292045099572a0560a16e9bd7f61.jpg",
+    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/cf23ae720243f062931b5043c2080369a7058c92d8fe6ba0472b333ac20c2e2a",
+    "completed": 0
   }
 ]
