@@ -1,19 +1,5 @@
 [
   {
-    "title": "Pokémon Horizons: The Series",
-    "episode": 110,
-    "image": "https://i.animepahe.si/uploads/snapshots/4851326ce283ad2d57b19a98f5e8954d1900292045099572a0560a16e9bd7f61.jpg",
-    "link": "https://animepahe.ru/play/328a4eb2-f6b9-435e-8253-8070f89c9ec6/cf23ae720243f062931b5043c2080369a7058c92d8fe6ba0472b333ac20c2e2a",
-    "completed": 0
-  },
-  {
-    "title": "Yaiba: Samurai Legend",
-    "episode": 22,
-    "image": "https://i.animepahe.si/uploads/snapshots/86af7944ef5b3cacf917f1fbc2a7dd1f29047e64f2af8b2251067a07db125659.jpg",
-    "link": "https://animepahe.ru/play/4127c8a7-223a-ca85-2f3e-b96a3c2d84fe/03343dce7b49ec84b510aab02432e84292ed44621cd27bf7de66957ef9d00513",
-    "completed": 0
-  },
-  {
     "title": "Meitantei Conan",
     "episode": 1175,
     "image": "https://i.animepahe.si/uploads/snapshots/7111749238b99c92618400734f4fe45841aad19cedae191ac4777ff35f39ff3f.jpg",
@@ -67,6 +53,20 @@
     "episode": 23,
     "image": "https://i.animepahe.si/uploads/snapshots/88e0bdc95ea4943fe6f6153d6e5475509b388fec9193c6f9bd1b50fc8907ec2f.jpg",
     "link": "https://animepahe.ru/play/809db533-7820-44f9-f859-a195f7cc462e/38fec5719f5e9d714e6d6d0854ac0fb90cb287b536aed2828db9a7d48b0ea72e",
+    "completed": 0
+  },
+  {
+    "title": "Private Tutor to the Duke's Daughter",
+    "episode": 11,
+    "image": "https://i.animepahe.si/uploads/snapshots/a15ca0cdd1ff6104fd9852e0aa99186c0d884208cd5f820037724fd61227ed9f.jpg",
+    "link": "https://animepahe.ru/play/5c7be1ea-e7c0-8eef-f333-ed885e30475d/9fcabc47336a570afc19719f541197f70f015bb3573a578813c7ba74dc2a5788",
+    "completed": 0
+  },
+  {
+    "title": "The Summer Hikaru Died",
+    "episode": 10,
+    "image": "https://i.animepahe.si/uploads/snapshots/88f63c5c1953d8095e1ea8eaf93596e63500e0d4e84121d206459918e32390b1.jpg",
+    "link": "https://animepahe.ru/play/05da70df-dd24-0a25-0115-e8448a85abfe/bffd470ec4755d57ee686c67bcc2b4ea35ad9e8e04296636d182883e177c489c",
     "completed": 0
   }
 ]
